@@ -1,0 +1,997 @@
+# Review pack: milhamot-hashem perek-3-02 (Milchamot ha-Shem 3:3–3:4)
+
+Brief: `briefs/review.md`. Write: `works/milhamot-hashem/stage/review/perek-3-02.json`. Check: `go run ./cmd/tr check milhamot-hashem perek-3-02`.
+
+## Rulings for this unit
+
+Extracted from `works/milhamot-hashem/decisions.md` for the words of this unit; the rulings below are the whole of what you need. Read the full file only if a question is not answered here.
+
+# Milchamot ha-Shem: decisions for every unit
+
+> Owner answered Q4 and Q7 on 2026-11-10; Q1-3, Q5-6 stand at the defaults (see "Owner's answers and defaults" at the end).
+
+Editorial decisions set before translation. A reviewer may question one in a
+`question` patch; the project owner decides. Where a ruling was amended, only
+the final rule is given. "(note)" means a token `note`; "first in a unit"
+means at the first occurrence in the unit.
+
+General rule for technical terms: the English names the thing the words name
+and goes no further. Kabbalistic technical names are transliterated, because
+every English equivalent takes a side: the Kabbalists' defence
+("configuration", "the Infinite", "Divine Presence") or Kafich's charge
+("god", "idol"). He makes his charge in his own words ("אליל", "אלוהות", "אל
+זר"), and the English translates those where he uses them.
+
+Transliteration: the project's plain scheme, as in Avot and Genesis (Shetach,
+Chayei Sarah, Lekh Lekha): no diacritics; ח = ch, כ = kh, צ = tz, ק = k
+("Machzor Vitry"). The author: Yichya Kafich (owner, 2026-11-10; "Yihya
+Kafich" is named once in the front matter). Book titles with a conventional
+English spelling keep it (Kisse Eliyahu, Sefer ha-Kavanot, Machberet
+ha-Kodesh); the scheme applies where the project has no fixed form.
+
+## Output format for this work (prose)
+
+Read this whole file before translating. A segment is a paragraph of prose.
+The pack has no morphemes, lemmas, lexicon or commentary, so:
+
+- `tokens`: one entry per word: `id`, `gloss`, and a `note` where a learner
+  needs one. No `sense`, no `lex`.
+- `commentary`: `[]`. `context`: only for a realia a reader needs (a Yemenite
+  custom, a book, a person); say what is established; cite no modern work.
+  It may carry a short note on a story the author cites (the Pardes story),
+  without a reference unless the author gives one.
+- `grammar`: 2 to 6 notes per paragraph (in a long one, on the hardest
+  sentences). `literal`: word for word; on a long paragraph the glosses in
+  Hebrew order, hyphens joining the parts of one word; no reasoning (that goes
+  in `note`).
+- `phrases` divide every token of the paragraph, in order; in a long
+  paragraph a phrase is a clause, not a word; each phrase's `english` must
+  occur in the paragraph's `english`.
+- Quotations follow the Quotations section; a Bible verse is translated from
+  the Hebrew as the author quotes it, the reference in `apparatus`.
+- Every Hebrew abbreviation is expanded in `gloss` (the reading line carries
+  the full word).
+
+## Names and titles
+
+- **Authorities**: acronyms and book-names used as names stay, transliterated;
+  first in a unit a note gives the expansion where certain (else says so) and
+  who is meant; identify no one further. ר' + name → "Rabbi". An initial a
+  surname fixes is expanded, else kept (a lone כ' → "K."), noted. Surnames as
+  printed, one spelling across the work.
+- **Honorifics**: translate every one, opponents' included; add none.
+- **Book titles**: transliterated, the meaning in a note first in a unit;
+  abbreviations written out; every word kept. Bible books in English;
+  tractates transliterated. A misspelt title as printed, the likelier in the
+  note and `apparatus`.
+- ה׳: the Tetragrammaton → "the LORD"; cited as a name ("זעיר אנפין דאיקרי
+  ה'") → "who is called 'the LORD'"; before a personal name → "Mr." ("מאת ה'
+  אליעזר בן יהודה" → "from Mr. Eliezer Ben-Yehuda"); a numeral or page letter
+  → the number. The pack splits it into ה plus ': read it in context.
+- **השי"ת** → "the Name, may He be blessed" (Q3).
+- **ית׳ / ית' / יתברך** → "may He be blessed", where the Hebrew places it.
+- **אלהים / אלהי / אלוה / קבלו באלוה**: no editorialising by case. "God" for the
+  God of Israel, also in the Kabbalists' quoted words and for a plural אלהים
+  with a singular verb; singular אלוה → "God" (Job, Deut 32:15), not "the
+  first God". "god(s)" only where the Hebrew marks foreignness or plurality
+  (אלהים אחרים, אל זר, אלילים), where the author in his own voice calls the
+  Kabbalists' object of worship a god, and for אלוה as what a human being
+  worships or makes himself (קבלו באלוה; Haman) → "a god". In doubt: "God",
+  the alternative in a note.
+- **ז"ל** → "of blessed memory" (honorific).
+- **יר"ה** (the Imam) → "may his majesty be exalted".
+- **הרמב"ם / רמב"ם** → "the Rambam" (authority, transliterated; note first in
+  a unit).
+- **בחיי** alone → "Bachya"; רבינו בחיי → "Rabbeinu Bachya"; בר' בחיי → "Rabbi
+  Bachya".
+- **רש"י** → "Rashi" (authority, transliterated; note).
+- **הרא"ש** → "Rosh" (authority, transliterated; note).
+- **רוקח** → "Roke'ach" (authority, transliterated; note).
+- בית **יוסף** → "Beit Yosef" (authority, transliterated; note).
+- **הרח"ו / רח"ו** → "Rabbi Chayyim Vital", written out.
+- **רבי'** before the lawgiver's name → "Moses our teacher".
+- בעל **חובת הלבבות** → "the author of Chovot ha-Levavot".
+- בעל **העיקרים** → "the author of the Ikkarim".
+- **ר"י** חיים → "Rabbi Y. Chayyim" (initial kept, with a note).
+- **אמונות והדעות / אמונות ודעות** → *Emunot ve-De'ot* (book title; meaning in
+  a note).
+- **מורה נבוכים / המורה** → *Moreh Nevukhim*, also for "Guide for the
+  Perplexed" (book title; meaning in a note first in a unit).
+- **הכוזרי / כוזרי** → "the Kuzari" (book title; meaning in a note).
+- **זהר חדש** → *Zohar Chadash* (book title; meaning in a note).
+- **אלצלאם**: ונור אלצלאם (a misspelt title) as printed ("Nur al-Tzalam"), the
+  likelier (Nur al-Zulam, Me'or ha-Afelah) in the note and `apparatus`.
+- **בעל / מחבר / היכל** + book title → "the author of [title]" (only for בעל /
+  מחבר; "המקובל בעל היכל הברכה" → "the Kabbalist, the author of Heikhal
+  ha-Berakhah", title translated in a note); name no author the text does not
+  name.
+- **תימן** → "Yemen".
+- **בא"י** → "in the Land of Israel".
+
+## Terms
+
+- **אצילות / באצילות / האצילות / המאציל**: fixed, translated, the verbs
+  linked: "emanation"; באצילות → "in Emanation"; עולם האצילות → "the World of
+  Emanation"; המאציל → "the Emanator".
+- **פרצוף / פרצופים**: the Kabbalistic entities → "partzuf / partzufim";
+  generic, with צורה or תמונה → "face"; a play on both, a note. Never "configuration" or
+  "countenance-structure". The names of the partzufim: transliterated, the
+  literal sense in a note first in a unit; an argument from a name's meaning
+  goes in the note; the name stays.
+- **זעיר אנפין / ז"א / זעיר** → "Ze'ir Anpin" (partzuf; note first in a unit:
+  "Small Face"); ז"א → "Ze'ir Anpin"; זעיר alone → "Ze'ir". An argument from
+  the name's meaning goes in the note; the name stays.
+- קצר **אפים** (his calque of זעיר אנפין) → "quick to anger", and ארך אפים →
+  "slow to anger" everywhere, so the pair shows; a note each time (Aramaic
+  "small face"; Prov 14:17). "קצא אפים" as קצר, the spelling in `apparatus`.
+- **יחוד / ייחוד / ייחדו / אחדות**: the doctrine → "unity", fixed, not
+  "monotheism" or "oneness" (אחדות → "oneness"). The Kabbalistic act →
+  "unification" (יחודים → "unifications"). The verb, God as object → "to
+  declare one" ("ליחדו" → "to declare Him one"); Kabbalistic entities as
+  object → "to unify"; of dedicating a thing to one → "dedicate ... solely to"
+  (note: "unify"). Where he plays on the senses: "unity" for the noun, "unify"
+  for the verb, the play in a note.
+- **עבודה זרה / ע"ז**: עבודה זרה → "idolatry" (note once: "strange worship");
+  the tractate "Avodah Zarah"; עובדי ע"ז → "worshippers of idols".
+- אל **אחר** → "another god".
+- **אלהות / אלוהות**: "divinity"; counted or plural → "divinities". Never
+  "gods".
+- **קבלה / הקבלה / המקובלים**: the lore → "Kabbalah"; הקבלה החדשה → "the new
+  Kabbalah" (never "later" or "Lurianic"). המקובלים → "the Kabbalists"; חכמי
+  הקבלה → "sages of Kabbalah"; "רבותינו בעלי הקבלה החדשה" → "our rabbis, the
+  masters of the new Kabbalah" (courtesy kept).
+- **עלה / עלול** → "cause / effect".
+- תורה **שבעל** פה → "the Oral Torah".
+- **Abbreviations**: ambiguous: by context, the expansion in the note.
+  Unruled (ורבי'): by his usage, noted; of two expansions the shorter, the
+  other in `apparatus`. Unclear (לי"ח): the conjecture in a note, the letters
+  in `apparatus`, in the English only if the sole sense that fits.
+- **וכו' / וכ'** → "etc." (always kept; וכ' closing a quotation is וכו').
+- **תוה"ק** → "the holy Torah".
+- **ב"ד** → "court" (ב"ד הגדול → "the Great Court"); "Beit Din" only as a
+  title he gives in transliteration.
+- **מורא** → "fear".
+- **והוא שלא** → "provided that".
+- **דרך ארץ** → "worldly occupation".
+- קורא **נעים / נעלם** → "pleasant reader".
+## Quotations
+
+- **Scope.** All quoted text (Zohar, Bavli, Yerushalmi, Targum, Biblical
+  Aramaic, Midrash, medieval, Judeo-Arabic) from the author's words; no Hebrew,
+  Aramaic or Arabic in `english`.
+- **Marking.** A source's words introduced by a formula (וז"ל, כתב, אמרו,
+  גרסינן, שנאמר, כדכתיב, שנינו, הכי קאמר, אמר ר' X) or closed by עכ"ל / ע"כ:
+  double quotation marks; a paraphrase or report ("כתב ש…"): none; no
+  formula: marks if the source is certain, else none and a note. Nesting:
+  double, single, double. A reply by ויאמר inside a quotation: double marks;
+  his report of a sage's question: unmarked. Over several paragraphs
+  (2:18-2:25): each opens with a mark, only the last closes. Plain text (no
+  italics, no labels); the language in `grammar` ("Zohar Aramaic",
+  "Judeo-Arabic"). Formulas are translated, outside the marks; glosses inside
+  a quotation stay in parentheses where they stand, translated.
+- **Exegesis on a Hebrew word** (את; אם אין → "Ayin"): the word stays
+  transliterated ("not 'to the LORD your God' but 'et the LORD your God'"),
+  explained in `grammar`.
+- **Cut or changed quotation.** Only what is on the page: supply nothing וכו'
+  omits, complete no verse (no "before Me"), restore no source; a verse's
+  fixed wording covers only the words quoted. His comma joining two verses
+  stays; an ellipsis only where he marks one (וכו', וגו'). His wording against
+  the source: follow him, the source in `apparatus`.
+- **Bible verses**, quoted or alluded to (*melitzah*, unmarked): from the
+  Hebrew as it stands, plain modern English, not King James; each in
+  `apparatus`. An echoed verse (אל דבר ה', בטרם תחיל) governs the sense of its
+  words; a poetic phrase
+  translated, a note naming the referent; a plural stays plural, no subject
+  added; ketiv translated, the qere noted.
+- **Idioms**: by sense, the literal in `literal`; a saying he glosses
+  himself: both translated, unmerged.
+- **References** as he gives them, English form, Arabic numerals; add,
+  complete, convert or correct nothing; never the 2015 PDF's; none for
+  unreferenced Zohar, Mishnah or Talmud, even in `apparatus` (Bible verses
+  only). פ' + numeral → "chapter" for a book without parashot or a numeral
+  beyond them, else "parashah" (noted). ד' + number after a book: the
+  numerals ("4, 12"), noted when he writes דף nearby.
+- **Section numbers.** His sections (ב) at 3:1 to קמד) at 10:6): the label →
+  "§2."; irregular ones as written ("קיה)" → "§115", letters noted; the gap
+  קכט)–קלא) noted, not repaired). List markers (א), ב)) → "1)", "2)" (note).
+- **פי'** inside a quotation: "(פי' …)" → "(explanation: …)".
+- **בחבלי** השוא … כעבות העגלה → "with cords of falsehood … as with
+  cart-ropes".
+- **שמע** ישראל (Deut 6:4) → "Hear, O Israel: the LORD our God, the LORD is
+  one." (Four units in order, which the Zohar reading in 6:1 needs.)
+- **מבלעדי / אחרון** (Isa 44:6) → "I am the first and I am the last, and
+  besides Me there is no God."
+- **רמב"ם / רס"ג / הכוזרי / הלוי / בחיי / סמ"ג / אלבו / העיקרים / רוקח / שבילי**
+  (medieval authors quoted): from the Hebrew he quotes, not the originals,
+  standard editions or published translations; a certain difference may be
+  noted in `apparatus`.
+- **שער / ענף / מאמר** → "Gate / Branch / Treatise".
+## Style
+
+- Plain, exact, modern English, the words at their own strength (אליל
+  "idol"). No sarcasm of your own: no scare quotes, "so-called", "sic", or
+  added "!". Keep his every "!", rhetorical question and disclaimer, and the
+  second person.
+- Long periods may be divided: no clause dropped, no connective that changes
+  the logic, the order kept. Hebrew full stops: שכל / שהוא opening a sentence:
+  the stop kept, a main clause by his syntax (note on the ש); a fragment
+  (ושהם, והפטרה, ולדעת, ורבינו): a main clause when it continues the verb
+  before, a comma when it continues a list (note); a main clause after a stop
+  (ואם ראיתי. הם מגלים): joined with a comma (note); אם ... או after a stop:
+  as punctuated if the English has a main clause, else a colon to the
+  sentence before or a direct alternative question; a period completed in the
+  next segment: the stops kept, the continuation in the segment `note`,
+  semicolons only where unreadable.
+- ל before a person's name is possessive (לרשב"י → "Rabbi Shimon's"), never
+  the subject.
+- Numbers: letter numerals → Arabic, as written whatever the tradition counts
+  (the usual count in a note). A year without thousands → full ("תר"ע" →
+  "5670"); the civil year in `apparatus`. Where gematria is the point, the
+  number in English, the letters in a note.
+- Witnesses: square brackets ("[מתחלת באלוהיות]") are the transcriber's
+  corrections: translate the corrected reading, record both. A word that does
+  not fit but is close to a likelier one (יכינו for יבינו): by the context; a
+  printed word echoing a verse's likelier word (נבוש for נמוש): the printed
+  word; both words in a note and `apparatus`. Rule 3 covers every
+  Wikisource/PDF difference that bears on the English.
+
+## Translator's checklist (the pilot reviews found these faults most often)
+
+Before running the check, read your English once against the Hebrew:
+1. Every Hebrew word has its English; none is added (no "who received it", no
+   parenthetical explanation). A Hebrew full stop is an English full stop, and
+   every sentence has a main clause.
+2. Recognise Bible verses, even in pieces (Isa 62:6, Job 37:18, Gen 43:14,
+   Lev 26:44); translate from the Hebrew, check each verb's form, list the
+   verse in `apparatus`.
+3. Use the fixed renderings of this file for every term, name and abbreviation.
+4. A passive participle is passive; a participle is not a perfect.
+5. Capitalise only what the file capitalises. Begin each sentence with a
+   capital.
+
+## Owner's answers and defaults
+
+Answered by the owner (2026-11-10):
+
+- Q4: Judeo-Arabic and Aramaic are Sonnet's, not Haiku's: `models.json` lists
+  the four Judeo-Arabic units (5:3, 7:24, 9:10, 2:13) and the 15 units with at
+  least six Aramaic marker words (a heuristic; the Sonnet review covers every
+  unit). The `lang` tags stay "heb".
+- Q7: the project's transliteration scheme (above).
+
+Not yet answered; the default stands and can be changed before the review
+stage (a change to 1, 3 or 5 is a find-and-patch):
+
+- Q1 title: "The Wars of the LORD" (Num 21:14).
+- Q2 Wikisource additions: translated as base text, unmarked per word; one
+  general line in `apparatus` on the unit's first segment until the 1931 scan
+  is collated.
+- Q3 השי"ת: "the Name, may He be blessed".
+- Q5 קבלה האמתית: "the true tradition", with a note.
+- Q6 author's name: patronymic kept as written, "Sali'".
+
+
+## Milchamot ha-Shem 3:3
+
+Hebrew (Wikisource): ד) ולא יהא כח רבותינו בעלי הקבלה החדשה גדול מכח ב"ד הגדול היושבים בלשכת הגזית ולא השגתם יתירה מהשגת סנהדרי גדולה! ועם כל זה אמרה תורה שאם טעו והורו להתיר את האסור, או שגגו בע"ז וכו'. למדנו מן התורה ומרבותינו במסכת הוריות, שאפשר לב"ד הגדול לטעות ולהורות התר באיזה פרט בע"ז. כי האדם קורץ מחומר בין גדול בין קטן, ועלול הוא לטעות, ולכן צותה תורה כי יפלא ממך דבר למשפט וכו' וקמת ועלית אל המקום אשר יבחר ה' אלהיך כדי למעט הטעות. איך אינו נמנע שלא יטעו אפי' ב"ד הגדול. שהרי נאמר בתורה ונעלם דבר מעיני הקהל. והיה אם מעיני העדה נעשתה לשגגה. ולפי קוצר דעתינו בראותינו ההפרש הגדול שיש בין רבותינו הראשונים ואיך היתה אמונתם בענין האלוהות ויחוד השי"ת על פי תוה"ק כמבואר בר' בחיי בעל חובת הלבבות ור' יהודה הלוי בספר הכוזרי ובתפלותיו ור' סעדיה גאון בס' האמונות והדעות והרמב"ם בחיבורו ובפי' המשנה ובס' מורה הנבוכים. והרוקח בשער הייחוד, וס' מצות הגדול ורבי יוסף אלבו בספר העיקרים, ור' מאיר אלדבי בספר שבילי אמונה. וזולתם רבים וכן שלימים. ואיך הוא עתה בספרי רבותינו האחרונים ע"פ הקבלה החדשה הנמשכת מתחלת אלף השישי בחבלי השוא עד שנעשית בזמנינו כעבות העגלה והאמינו באלהים רבים. ושהעיקר בהם אשר אליו כל עבודתינו וברכותינו הוא הפרצוף האחרון שבאצילות הנקרא (קצר אפים) זעיר אנפין.
+
+| id | word | punctuation after |
+|---|---|---|
+| 3:3.1 | ד | ) |
+| 3:3.2 | ולא |  |
+| 3:3.3 | יהא |  |
+| 3:3.4 | כח |  |
+| 3:3.5 | רבותינו |  |
+| 3:3.6 | בעלי |  |
+| 3:3.7 | הקבלה |  |
+| 3:3.8 | החדשה |  |
+| 3:3.9 | גדול |  |
+| 3:3.10 | מכח |  |
+| 3:3.11 | ב"ד |  |
+| 3:3.12 | הגדול |  |
+| 3:3.13 | היושבים |  |
+| 3:3.14 | בלשכת |  |
+| 3:3.15 | הגזית |  |
+| 3:3.16 | ולא |  |
+| 3:3.17 | השגתם |  |
+| 3:3.18 | יתירה |  |
+| 3:3.19 | מהשגת |  |
+| 3:3.20 | סנהדרי |  |
+| 3:3.21 | גדולה | ! |
+| 3:3.22 | ועם |  |
+| 3:3.23 | כל |  |
+| 3:3.24 | זה |  |
+| 3:3.25 | אמרה |  |
+| 3:3.26 | תורה |  |
+| 3:3.27 | שאם |  |
+| 3:3.28 | טעו |  |
+| 3:3.29 | והורו |  |
+| 3:3.30 | להתיר |  |
+| 3:3.31 | את |  |
+| 3:3.32 | האסור | , |
+| 3:3.33 | או |  |
+| 3:3.34 | שגגו |  |
+| 3:3.35 | בע"ז |  |
+| 3:3.36 | וכו | '. |
+| 3:3.37 | למדנו |  |
+| 3:3.38 | מן |  |
+| 3:3.39 | התורה |  |
+| 3:3.40 | ומרבותינו |  |
+| 3:3.41 | במסכת |  |
+| 3:3.42 | הוריות | , |
+| 3:3.43 | שאפשר |  |
+| 3:3.44 | לב"ד |  |
+| 3:3.45 | הגדול |  |
+| 3:3.46 | לטעות |  |
+| 3:3.47 | ולהורות |  |
+| 3:3.48 | התר |  |
+| 3:3.49 | באיזה |  |
+| 3:3.50 | פרט |  |
+| 3:3.51 | בע"ז | . |
+| 3:3.52 | כי |  |
+| 3:3.53 | האדם |  |
+| 3:3.54 | קורץ |  |
+| 3:3.55 | מחומר |  |
+| 3:3.56 | בין |  |
+| 3:3.57 | גדול |  |
+| 3:3.58 | בין |  |
+| 3:3.59 | קטן | , |
+| 3:3.60 | ועלול |  |
+| 3:3.61 | הוא |  |
+| 3:3.62 | לטעות | , |
+| 3:3.63 | ולכן |  |
+| 3:3.64 | צותה |  |
+| 3:3.65 | תורה |  |
+| 3:3.66 | כי |  |
+| 3:3.67 | יפלא |  |
+| 3:3.68 | ממך |  |
+| 3:3.69 | דבר |  |
+| 3:3.70 | למשפט |  |
+| 3:3.71 | וכו | ' |
+| 3:3.72 | וקמת |  |
+| 3:3.73 | ועלית |  |
+| 3:3.74 | אל |  |
+| 3:3.75 | המקום |  |
+| 3:3.76 | אשר |  |
+| 3:3.77 | יבחר |  |
+| 3:3.78 | ה | ' |
+| 3:3.79 | אלהיך |  |
+| 3:3.80 | כדי |  |
+| 3:3.81 | למעט |  |
+| 3:3.82 | הטעות | . |
+| 3:3.83 | איך |  |
+| 3:3.84 | אינו |  |
+| 3:3.85 | נמנע |  |
+| 3:3.86 | שלא |  |
+| 3:3.87 | יטעו |  |
+| 3:3.88 | אפי | ' |
+| 3:3.89 | ב"ד |  |
+| 3:3.90 | הגדול | . |
+| 3:3.91 | שהרי |  |
+| 3:3.92 | נאמר |  |
+| 3:3.93 | בתורה |  |
+| 3:3.94 | ונעלם |  |
+| 3:3.95 | דבר |  |
+| 3:3.96 | מעיני |  |
+| 3:3.97 | הקהל | . |
+| 3:3.98 | והיה |  |
+| 3:3.99 | אם |  |
+| 3:3.100 | מעיני |  |
+| 3:3.101 | העדה |  |
+| 3:3.102 | נעשתה |  |
+| 3:3.103 | לשגגה | . |
+| 3:3.104 | ולפי |  |
+| 3:3.105 | קוצר |  |
+| 3:3.106 | דעתינו |  |
+| 3:3.107 | בראותינו |  |
+| 3:3.108 | ההפרש |  |
+| 3:3.109 | הגדול |  |
+| 3:3.110 | שיש |  |
+| 3:3.111 | בין |  |
+| 3:3.112 | רבותינו |  |
+| 3:3.113 | הראשונים |  |
+| 3:3.114 | ואיך |  |
+| 3:3.115 | היתה |  |
+| 3:3.116 | אמונתם |  |
+| 3:3.117 | בענין |  |
+| 3:3.118 | האלוהות |  |
+| 3:3.119 | ויחוד |  |
+| 3:3.120 | השי"ת |  |
+| 3:3.121 | על |  |
+| 3:3.122 | פי |  |
+| 3:3.123 | תוה"ק |  |
+| 3:3.124 | כמבואר |  |
+| 3:3.125 | בר | ' |
+| 3:3.126 | בחיי |  |
+| 3:3.127 | בעל |  |
+| 3:3.128 | חובת |  |
+| 3:3.129 | הלבבות |  |
+| 3:3.130 | ור | ' |
+| 3:3.131 | יהודה |  |
+| 3:3.132 | הלוי |  |
+| 3:3.133 | בספר |  |
+| 3:3.134 | הכוזרי |  |
+| 3:3.135 | ובתפלותיו |  |
+| 3:3.136 | ור | ' |
+| 3:3.137 | סעדיה |  |
+| 3:3.138 | גאון |  |
+| 3:3.139 | בס | ' |
+| 3:3.140 | האמונות |  |
+| 3:3.141 | והדעות |  |
+| 3:3.142 | והרמב"ם |  |
+| 3:3.143 | בחיבורו |  |
+| 3:3.144 | ובפי | ' |
+| 3:3.145 | המשנה |  |
+| 3:3.146 | ובס | ' |
+| 3:3.147 | מורה |  |
+| 3:3.148 | הנבוכים | . |
+| 3:3.149 | והרוקח |  |
+| 3:3.150 | בשער |  |
+| 3:3.151 | הייחוד | , |
+| 3:3.152 | וס | ' |
+| 3:3.153 | מצות |  |
+| 3:3.154 | הגדול |  |
+| 3:3.155 | ורבי |  |
+| 3:3.156 | יוסף |  |
+| 3:3.157 | אלבו |  |
+| 3:3.158 | בספר |  |
+| 3:3.159 | העיקרים | , |
+| 3:3.160 | ור | ' |
+| 3:3.161 | מאיר |  |
+| 3:3.162 | אלדבי |  |
+| 3:3.163 | בספר |  |
+| 3:3.164 | שבילי |  |
+| 3:3.165 | אמונה | . |
+| 3:3.166 | וזולתם |  |
+| 3:3.167 | רבים |  |
+| 3:3.168 | וכן |  |
+| 3:3.169 | שלימים | . |
+| 3:3.170 | ואיך |  |
+| 3:3.171 | הוא |  |
+| 3:3.172 | עתה |  |
+| 3:3.173 | בספרי |  |
+| 3:3.174 | רבותינו |  |
+| 3:3.175 | האחרונים |  |
+| 3:3.176 | ע"פ |  |
+| 3:3.177 | הקבלה |  |
+| 3:3.178 | החדשה |  |
+| 3:3.179 | הנמשכת |  |
+| 3:3.180 | מתחלת |  |
+| 3:3.181 | אלף |  |
+| 3:3.182 | השישי |  |
+| 3:3.183 | בחבלי |  |
+| 3:3.184 | השוא |  |
+| 3:3.185 | עד |  |
+| 3:3.186 | שנעשית |  |
+| 3:3.187 | בזמנינו |  |
+| 3:3.188 | כעבות |  |
+| 3:3.189 | העגלה |  |
+| 3:3.190 | והאמינו |  |
+| 3:3.191 | באלהים |  |
+| 3:3.192 | רבים | . |
+| 3:3.193 | ושהעיקר |  |
+| 3:3.194 | בהם |  |
+| 3:3.195 | אשר |  |
+| 3:3.196 | אליו |  |
+| 3:3.197 | כל |  |
+| 3:3.198 | עבודתינו |  |
+| 3:3.199 | וברכותינו |  |
+| 3:3.200 | הוא |  |
+| 3:3.201 | הפרצוף |  |
+| 3:3.202 | האחרון |  |
+| 3:3.203 | שבאצילות |  |
+| 3:3.204 | הנקרא |  |
+| 3:3.205 | קצר |  |
+| 3:3.206 | אפים | ) |
+| 3:3.207 | זעיר |  |
+| 3:3.208 | אנפין | . |
+
+
+### Translation under review (3:3)
+
+English: 4) The authority of our rabbis, the masters of the new Kabbalah, shall not be greater than the authority of the Great Beit Din who sat in the Chamber of Hewn Stone, and their grasp is no greater than the grasp of the Great Sanhedrin! And yet the Torah said that if they erred and ruled to permit the forbidden, or sinned inadvertently in idolatry, etc. We have learned from the Torah and from our rabbis, in the tractate Horayot, that the Great Beit Din can err and rule a permission in some particular case of idolatry. For man is formed of clay, whether great or small, and is prone to err; therefore the Torah commanded: "If a matter is too hard for you in judgment, etc. Then arise and go up to the place that the LORD your God will choose," in order to lessen the error. How is it not unavoidable that even the Great Beit Din should err. For it is said in the Torah, "and the matter was hidden from the eyes of the assembly. And it shall be, if from the eyes of the congregation it was done in error." And according to the shortness of our understanding, when we see the great difference between our early rabbis, and how was their faith in the matter of divinity and the unity of the Name, may He be blessed, according to the holy Torah, as explained by Rabbeinu Bachya, the author of Chovot ha-Levavot, and Rabbi Yehuda Halevi in the Kuzari and in his prayers, and Rabbi Saadia Gaon in the Emunot ve-De'ot, and the Rambam in his work, and in his commentary on the Mishnah, and in the Moreh Nevukhim. And the Roke'ach in the Gate of Unity, and the Sefer Mitzvot Gadol, and Rabbi Yosef Albo in the Sefer ha-Ikkarim, and Rabbi Meir Aldabi in the Shvilei Emunah. And many others, and likewise the complete ones. And how is it now in the books of our later rabbis, according to the new Kabbalah, which runs from the start of the sixth millennium with cords of falsehood until it became in our time as with cart-ropes, and they believed in many gods. And that the principal point in them, to which all our worship and blessings are directed, is the last partzuf in Emanation, called (quick to anger) Ze'ir Anpin.
+
+Literal: 4) and-not will-be authority of-our-rabbis masters-of the-Kabbalah the-new greater than-the-authority-of Beit-Din the-great who-sit in-the-chamber-of the-hewn-stone and-not their-grasp greater than-the-grasp-of Sanhedrin the-great! and-yet all this said the-Torah that-if erred and-ruled to-permit the forbidden or sinned-inadvertently in-idolatry etc. we-learned from the-Torah and-from our-rabbis in the-tractate Horayot that-possible for-the-Beit-Din the-great to-err and-to-rule permission in-which particular-case in-idolatry. for man is-formed of-clay whether great or small and-prone he to-err therefore commanded the-Torah that is-too-hard for-you a-matter for-judgment etc. and-arise and-go-up to the-place which will-choose the-LORD your-God in-order to-lessen the-error how is-it-not avoidable that-not they-would-err even Beit-Din the-great for-behold it-is-said in-the-Torah and-was-hidden a-matter from-the-eyes-of the-assembly and-it-shall-be if from-the-eyes-of the-congregation was-done in-error and-according-to the-shortness-of our-understanding when-we-see the-difference the-great that-there-is between our-rabbis the-early and-how was their-faith in-the-matter-of the-divinity and-the-unity the-Name-may-He-be-blessed according-to the-mouth-of the-holy-Torah as-explained by-Rabbeinu Bachya the-author-of Chovot ha-Levavot and-Rabbi Yehuda Halevi in-the-book the-Kuzari and-in-his-prayers and-Rabbi Saadia Gaon in-the-book the-Emunot and-the-De'ot and-the-Rambam in-his-work and-in-the-commentary of-the-Mishnah and-in-the-book Moreh Nevukhim and-the-Roke'ach in-the-gate of-unity and-the-book-of Mitzvot the-great and-Rabbi Yosef Albo in-the-book the-Ikkarim and-Rabbi Meir Aldabi in-the-book Shvilei Emunah and-others many and-so-too the-complete-ones and-how it now in-the-books-of our-rabbis the-later according-to the-Kabbalah the-new drawn-out from-the-start-of the-thousand the-sixth with-cords-of falsehood until it-became in-our-time as-with cart-ropes and-they-believed in-gods many and-that the-principal in-them to-which all our-worship and-our-blessings is the-partzuf the-last in-Emanation called quick to-anger Ze'ir Anpin
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 3:3.1 | 4) |  |  | printed list marker ד) (the fourth item); kept as 4) |
+| 3:3.2 | and not |  |  |  |
+| 3:3.3 | will be |  |  |  |
+| 3:3.4 | authority |  |  |  |
+| 3:3.5 | our rabbis |  |  |  |
+| 3:3.6 | masters of |  |  |  |
+| 3:3.7 | the Kabbalah |  |  |  |
+| 3:3.8 | the new |  |  |  |
+| 3:3.9 | greater |  |  |  |
+| 3:3.10 | than the authority of |  |  |  |
+| 3:3.11 | Beit Din (court) |  |  | Beit Din, the court of law (ב"ד) |
+| 3:3.12 | the great |  |  |  |
+| 3:3.13 | who sit |  |  |  |
+| 3:3.14 | in the chamber of |  |  |  |
+| 3:3.15 | the hewn stone |  |  | lishkat ha-gazit: the Chamber of Hewn Stone; see context |
+| 3:3.16 | and not |  |  |  |
+| 3:3.17 | their grasp |  |  |  |
+| 3:3.18 | greater |  |  |  |
+| 3:3.19 | than the grasp of |  |  |  |
+| 3:3.20 | Sanhedrin |  |  | Sanhedrin Gedolah: the Great Sanhedrin |
+| 3:3.21 | the Great (gedolah) |  |  |  |
+| 3:3.22 | and yet |  |  |  |
+| 3:3.23 | all |  |  |  |
+| 3:3.24 | this |  |  |  |
+| 3:3.25 | said |  |  |  |
+| 3:3.26 | the Torah |  |  |  |
+| 3:3.27 | that if |  |  |  |
+| 3:3.28 | they erred |  |  |  |
+| 3:3.29 | and ruled |  |  |  |
+| 3:3.30 | to permit |  |  |  |
+| 3:3.31 | the |  |  |  |
+| 3:3.32 | forbidden |  |  |  |
+| 3:3.33 | or |  |  |  |
+| 3:3.34 | sinned inadvertently |  |  |  |
+| 3:3.35 | in idolatry (avodah zarah) |  |  | avodah zarah, literally 'strange worship'; rendered idolatry |
+| 3:3.36 | etc. |  |  | וכו' marks a truncated quotation; 'etc.' is kept |
+| 3:3.37 | we learned |  |  |  |
+| 3:3.38 | from |  |  |  |
+| 3:3.39 | the Torah |  |  |  |
+| 3:3.40 | and from our rabbis |  |  |  |
+| 3:3.41 | in the tractate |  |  |  |
+| 3:3.42 | Horayot |  |  | Mishnah tractate Horayot, on erroneous rulings of a court |
+| 3:3.43 | that it is possible |  |  |  |
+| 3:3.44 | for the Beit Din |  |  |  |
+| 3:3.45 | the great |  |  |  |
+| 3:3.46 | to err |  |  |  |
+| 3:3.47 | and to rule |  |  |  |
+| 3:3.48 | permission |  |  |  |
+| 3:3.49 | in which |  |  |  |
+| 3:3.50 | particular case |  |  |  |
+| 3:3.51 | in idolatry |  |  |  |
+| 3:3.52 | for |  |  |  |
+| 3:3.53 | man |  |  |  |
+| 3:3.54 | is formed |  |  |  |
+| 3:3.55 | of clay |  |  |  |
+| 3:3.56 | whether |  |  |  |
+| 3:3.57 | great |  |  |  |
+| 3:3.58 | or |  |  |  |
+| 3:3.59 | small |  |  |  |
+| 3:3.60 | and prone |  |  |  |
+| 3:3.61 | he |  |  |  |
+| 3:3.62 | to err |  |  |  |
+| 3:3.63 | therefore |  |  |  |
+| 3:3.64 | commanded |  |  |  |
+| 3:3.65 | the Torah |  |  |  |
+| 3:3.66 | that |  |  |  |
+| 3:3.67 | is too hard |  |  |  |
+| 3:3.68 | for you |  |  |  |
+| 3:3.69 | a matter |  |  |  |
+| 3:3.70 | for judgment |  |  |  |
+| 3:3.71 | etc. |  |  | וכו' truncates the verse; only the words on the page are given |
+| 3:3.72 | and you shall arise |  |  |  |
+| 3:3.73 | and go up |  |  |  |
+| 3:3.74 | to |  |  |  |
+| 3:3.75 | the place |  |  |  |
+| 3:3.76 | which |  |  |  |
+| 3:3.77 | will choose |  |  |  |
+| 3:3.78 | the LORD |  |  | ה׳, the Tetragrammaton as written (the ' is punctuation) |
+| 3:3.79 | your God |  |  |  |
+| 3:3.80 | in order |  |  |  |
+| 3:3.81 | to lessen |  |  |  |
+| 3:3.82 | the error |  |  |  |
+| 3:3.83 | how |  |  |  |
+| 3:3.84 | is it not |  |  |  |
+| 3:3.85 | avoidable |  |  |  |
+| 3:3.86 | that not |  |  |  |
+| 3:3.87 | they would err |  |  |  |
+| 3:3.88 | even |  |  | אפי' = אפילו |
+| 3:3.89 | Beit Din |  |  |  |
+| 3:3.90 | the great |  |  |  |
+| 3:3.91 | for behold |  |  |  |
+| 3:3.92 | it is said |  |  |  |
+| 3:3.93 | in the Torah |  |  |  |
+| 3:3.94 | and was hidden |  |  |  |
+| 3:3.95 | a matter |  |  |  |
+| 3:3.96 | from the eyes of |  |  |  |
+| 3:3.97 | the assembly |  |  |  |
+| 3:3.98 | and it shall be |  |  |  |
+| 3:3.99 | if |  |  |  |
+| 3:3.100 | from the eyes of |  |  |  |
+| 3:3.101 | the congregation |  |  |  |
+| 3:3.102 | was done |  |  |  |
+| 3:3.103 | in error |  |  |  |
+| 3:3.104 | and according to |  |  |  |
+| 3:3.105 | the shortness |  |  |  |
+| 3:3.106 | of our understanding |  |  |  |
+| 3:3.107 | when we see |  |  |  |
+| 3:3.108 | the difference |  |  |  |
+| 3:3.109 | great |  |  |  |
+| 3:3.110 | that there is |  |  |  |
+| 3:3.111 | between |  |  |  |
+| 3:3.112 | our rabbis |  |  |  |
+| 3:3.113 | the early ones |  |  |  |
+| 3:3.114 | and how |  |  |  |
+| 3:3.115 | was |  |  |  |
+| 3:3.116 | their faith |  |  |  |
+| 3:3.117 | in the matter of |  |  |  |
+| 3:3.118 | the divinity |  |  |  |
+| 3:3.119 | and the unity |  |  |  |
+| 3:3.120 | the Name, may He be blessed |  |  | השי"ת: the Name, may He be blessed (fixed form) |
+| 3:3.121 | according to |  |  |  |
+| 3:3.122 | the mouth of |  |  |  |
+| 3:3.123 | the holy Torah |  |  | תוה"ק: our holy Torah |
+| 3:3.124 | as explained |  |  |  |
+| 3:3.125 | Rabbeinu (our rabbi) |  |  | ב'ר = Rabbeinu, fixed form 'Rabbeinu Bachya' |
+| 3:3.126 | Bachya |  |  |  |
+| 3:3.127 | the author of |  |  |  |
+| 3:3.128 | Chovot |  |  |  |
+| 3:3.129 | ha-Levavot |  |  | Chovot ha-Levavot, 'Duties of the Heart', the book of Rabbeinu Bachya |
+| 3:3.130 | and Rabbi |  |  |  |
+| 3:3.131 | Yehuda |  |  |  |
+| 3:3.132 | Halevi |  |  |  |
+| 3:3.133 | in the book |  |  |  |
+| 3:3.134 | the Kuzari |  |  | Sefer ha-Kuzari, Halevi's book, 'The Kuzari' |
+| 3:3.135 | and in his prayers |  |  |  |
+| 3:3.136 | and Rabbi |  |  |  |
+| 3:3.137 | Saadia |  |  |  |
+| 3:3.138 | Gaon |  |  |  |
+| 3:3.139 | in the book |  |  |  |
+| 3:3.140 | the Emunot |  |  | Emunot ve-De'ot, 'Beliefs and Opinions', Saadia Gaon's book |
+| 3:3.141 | and the De'ot |  |  |  |
+| 3:3.142 | and the Rambam |  |  | the Rambam (Maimonides); the work is not named at this point |
+| 3:3.143 | in his work |  |  |  |
+| 3:3.144 | and in the commentary |  |  |  |
+| 3:3.145 | of the Mishnah |  |  | the Rambam's commentary on the Mishnah |
+| 3:3.146 | and in the book |  |  |  |
+| 3:3.147 | Moreh |  |  |  |
+| 3:3.148 | Nevukhim |  |  | Moreh Nevukhim, the Guide for the Perplexed |
+| 3:3.149 | and the Roke'ach |  |  | Roke'ach: fixed form |
+| 3:3.150 | in the gate |  |  |  |
+| 3:3.151 | of unity |  |  | Shaar ha-Yichud, 'Gate of Unity', a part of his book |
+| 3:3.152 | and the book of |  |  |  |
+| 3:3.153 | Mitzvot |  |  |  |
+| 3:3.154 | the great |  |  | Sefer Mitzvot Gadol, the Semag |
+| 3:3.155 | and Rabbi |  |  |  |
+| 3:3.156 | Yosef |  |  |  |
+| 3:3.157 | Albo |  |  |  |
+| 3:3.158 | in the book |  |  |  |
+| 3:3.159 | the Ikkarim |  |  | Sefer ha-Ikkarim, 'Principles', Albo's book |
+| 3:3.160 | and Rabbi |  |  |  |
+| 3:3.161 | Meir |  |  |  |
+| 3:3.162 | Aldabi |  |  |  |
+| 3:3.163 | in the book |  |  |  |
+| 3:3.164 | Shvilei |  |  | Shvilei Emunah, 'Paths of Faith', the book of Meir Aldabi |
+| 3:3.165 | Emunah |  |  |  |
+| 3:3.166 | and others |  |  |  |
+| 3:3.167 | many |  |  |  |
+| 3:3.168 | and so too |  |  |  |
+| 3:3.169 | the complete ones |  |  | שלימים, 'the complete ones'; the author does not name them |
+| 3:3.170 | and how |  |  |  |
+| 3:3.171 | it |  |  |  |
+| 3:3.172 | now |  |  |  |
+| 3:3.173 | in the books of |  |  |  |
+| 3:3.174 | our rabbis |  |  |  |
+| 3:3.175 | the later ones |  |  |  |
+| 3:3.176 | according to |  |  | ע"פ = על פי, 'according to' |
+| 3:3.177 | the Kabbalah |  |  |  |
+| 3:3.178 | the new |  |  |  |
+| 3:3.179 | drawn out |  |  |  |
+| 3:3.180 | from the start of |  |  |  |
+| 3:3.181 | the thousand |  |  |  |
+| 3:3.182 | sixth |  |  | the sixth thousand (sixth millennium) |
+| 3:3.183 | with cords of |  |  |  |
+| 3:3.184 | falsehood |  |  | Isa 5:18, embedded allusion (no quotation marks) |
+| 3:3.185 | until |  |  |  |
+| 3:3.186 | it became |  |  |  |
+| 3:3.187 | in our time |  |  |  |
+| 3:3.188 | as with |  |  |  |
+| 3:3.189 | cart-ropes |  |  | Isa 5:18, embedded allusion (no quotation marks) |
+| 3:3.190 | and they believed |  |  |  |
+| 3:3.191 | in gods |  |  | אלהים רבים: 'gods' in the author's own charge |
+| 3:3.192 | many |  |  |  |
+| 3:3.193 | and that the principal |  |  |  |
+| 3:3.194 | in them |  |  |  |
+| 3:3.195 | which |  |  |  |
+| 3:3.196 | to it |  |  |  |
+| 3:3.197 | all |  |  |  |
+| 3:3.198 | our worship |  |  |  |
+| 3:3.199 | and our blessings |  |  |  |
+| 3:3.200 | is |  |  |  |
+| 3:3.201 | the partzuf |  |  |  |
+| 3:3.202 | the last |  |  |  |
+| 3:3.203 | in Emanation |  |  | באצילות: 'in Emanation', without 'World of' |
+| 3:3.204 | called |  |  |  |
+| 3:3.205 | quick (to anger) |  |  | קצר אפים: the author's calque of Ze'ir Anpin, set against 'slow to anger' (ארך אפים) in Exod 34:6; cf. Prov 14:17 |
+| 3:3.206 | to anger |  |  |  |
+| 3:3.207 | Ze'ir |  |  | Aramaic 'small' (ze'ir) |
+| 3:3.208 | Anpin |  |  | Aramaic 'face' (anpin) |
+
+Phrases:
+- 3:3.1 | 4) | 4)
+- 3:3.2 3:3.3 3:3.4 3:3.5 3:3.6 3:3.7 3:3.8 3:3.9 3:3.10 | The authority of our rabbis, the masters of the new Kabbalah, shall not be greater than the authority of | and-not will-be authority of-our-rabbis masters-of the-Kabbalah the-new greater than-the-authority-of
+- 3:3.11 3:3.12 3:3.13 3:3.14 3:3.15 | the Great Beit Din who sat in the Chamber of Hewn Stone, | Beit-Din the-great who-sit in-the-chamber-of the-hewn-stone
+- 3:3.16 3:3.17 3:3.18 3:3.19 3:3.20 3:3.21 | and their grasp is no greater than the grasp of the Great Sanhedrin! | and-not their-grasp greater than-the-grasp-of Sanhedrin the-great!
+- 3:3.22 3:3.23 3:3.24 3:3.25 3:3.26 3:3.27 3:3.28 3:3.29 3:3.30 3:3.31 3:3.32 3:3.33 3:3.34 3:3.35 3:3.36 | And yet the Torah said that if they erred and ruled to permit the forbidden, or sinned inadvertently in idolatry, etc. | and-yet all this said the-Torah that-if erred and-ruled to-permit the forbidden or sinned-inadvertently in-idolatry etc.
+- 3:3.37 3:3.38 3:3.39 3:3.40 3:3.41 3:3.42 3:3.43 3:3.44 3:3.45 3:3.46 3:3.47 3:3.48 3:3.49 3:3.50 3:3.51 | We have learned from the Torah and from our rabbis, in the tractate Horayot, that the Great Beit Din can err and rule a permission in some particular case of idolatry. | we-learned from the-Torah and-from our-rabbis in the-tractate Horayot that-possible for-the-Beit-Din the-great to-err and-to-rule permission in-which particular-case in-idolatry.
+- 3:3.52 3:3.53 3:3.54 3:3.55 3:3.56 3:3.57 3:3.58 3:3.59 3:3.60 3:3.61 3:3.62 3:3.63 3:3.64 3:3.65 | For man is formed of clay, whether great or small, and is prone to err; therefore the Torah commanded: | for man is-formed of-clay whether great or small and-prone he to-err therefore commanded the-Torah
+- 3:3.66 3:3.67 3:3.68 3:3.69 3:3.70 3:3.71 | "If a matter is too hard for you in judgment, etc. | that is-too-hard for-you a-matter for-judgment etc.
+- 3:3.72 3:3.73 3:3.74 3:3.75 3:3.76 3:3.77 3:3.78 3:3.79 | Then arise and go up to the place that the LORD your God will choose," | and-arise and-go-up to the-place which will-choose the-LORD your-God
+- 3:3.80 3:3.81 3:3.82 | in order to lessen the error. | in-order to-lessen the-error
+- 3:3.83 3:3.84 3:3.85 3:3.86 3:3.87 3:3.88 3:3.89 3:3.90 | How is it not unavoidable that even the Great Beit Din should err. | how is-it-not avoidable that-not they-would-err even Beit-Din the-great
+- 3:3.91 3:3.92 3:3.93 3:3.94 3:3.95 3:3.96 3:3.97 | For it is said in the Torah, "and the matter was hidden from the eyes of the assembly. | for-behold it-is-said in-the-Torah and-was-hidden a-matter from-the-eyes-of the-assembly
+- 3:3.98 3:3.99 3:3.100 3:3.101 3:3.102 3:3.103 | And it shall be, if from the eyes of the congregation it was done in error." | and-it-shall-be if from-the-eyes-of the-congregation was-done in-error
+- 3:3.104 3:3.105 3:3.106 3:3.107 3:3.108 3:3.109 3:3.110 3:3.111 3:3.112 3:3.113 | And according to the shortness of our understanding, when we see the great difference between our early rabbis, | and-according-to the-shortness-of our-understanding when-we-see the-difference the-great that-there-is between our-rabbis the-early
+- 3:3.114 3:3.115 3:3.116 3:3.117 3:3.118 3:3.119 3:3.120 | and how was their faith in the matter of divinity and the unity of the Name, may He be blessed, | and-how was their-faith in-the-matter-of the-divinity and-the-unity the-Name-may-He-be-blessed
+- 3:3.121 3:3.122 3:3.123 3:3.124 3:3.125 3:3.126 3:3.127 3:3.128 3:3.129 | according to the holy Torah, as explained by Rabbeinu Bachya, the author of Chovot ha-Levavot, | according-to the-mouth-of the-holy-Torah as-explained by-Rabbeinu Bachya the-author-of Chovot ha-Levavot
+- 3:3.130 3:3.131 3:3.132 3:3.133 3:3.134 3:3.135 | and Rabbi Yehuda Halevi in the Kuzari and in his prayers, | and-Rabbi Yehuda Halevi in-the-book the-Kuzari and-in-his-prayers
+- 3:3.136 3:3.137 3:3.138 3:3.139 3:3.140 3:3.141 | and Rabbi Saadia Gaon in the Emunot ve-De'ot, | and-Rabbi Saadia Gaon in-the-book the-Emunot and-the-De'ot
+- 3:3.142 3:3.143 3:3.144 3:3.145 | and the Rambam in his work, and in his commentary on the Mishnah, | and-the-Rambam in-his-work and-in-the-commentary of-the-Mishnah
+- 3:3.146 3:3.147 3:3.148 | and in the Moreh Nevukhim. | and-in-the-book Moreh Nevukhim
+- 3:3.149 3:3.150 3:3.151 | And the Roke'ach in the Gate of Unity, | and-the-Roke'ach in-the-gate of-unity
+- 3:3.152 3:3.153 3:3.154 | and the Sefer Mitzvot Gadol, | and-the-book-of Mitzvot the-great
+- 3:3.155 3:3.156 3:3.157 3:3.158 3:3.159 | and Rabbi Yosef Albo in the Sefer ha-Ikkarim, | and-Rabbi Yosef Albo in-the-book the-Ikkarim
+- 3:3.160 3:3.161 3:3.162 3:3.163 3:3.164 3:3.165 | and Rabbi Meir Aldabi in the Shvilei Emunah. | and-Rabbi Meir Aldabi in-the-book Shvilei Emunah
+- 3:3.166 3:3.167 3:3.168 3:3.169 | And many others, and likewise the complete ones. | and-others many and-so-too the-complete-ones
+- 3:3.170 3:3.171 3:3.172 3:3.173 3:3.174 3:3.175 3:3.176 3:3.177 3:3.178 | And how is it now in the books of our later rabbis, according to the new Kabbalah, | and-how it now in-the-books-of our-rabbis the-later according-to the-Kabbalah the-new
+- 3:3.179 3:3.180 3:3.181 3:3.182 3:3.183 3:3.184 | which runs from the start of the sixth millennium with cords of falsehood | drawn-out from-the-start-of the-thousand the-sixth with-cords-of falsehood
+- 3:3.185 3:3.186 3:3.187 3:3.188 3:3.189 3:3.190 3:3.191 3:3.192 | until it became in our time as with cart-ropes, and they believed in many gods. | until it-became in-our-time as-with cart-ropes and-they-believed in-gods many
+- 3:3.193 3:3.194 3:3.195 3:3.196 3:3.197 3:3.198 3:3.199 3:3.200 3:3.201 3:3.202 3:3.203 3:3.204 3:3.205 3:3.206 3:3.207 3:3.208 | And that the principal point in them, to which all our worship and blessings are directed, is the last partzuf in Emanation, called (quick to anger) Ze'ir Anpin. | and-that the-principal in-them to-which all our-worship and-our-blessings is the-partzuf the-last in-Emanation called quick to-anger Ze'ir Anpin
+
+Grammar notes:
+- ולא יהא כח ... גדול מכח: a negated future (יהא) with a comparison; the English keeps the repeated 'the authority of' so that the comparison is plain.
+- איך אינו נמנע שלא יטעו: a rhetorical question in form with a full stop in the Hebrew; the English keeps it as a question of argument ('How is it not unavoidable...').
+- Three Torah passages are cited: Deut 17:8 (quoted, with וכו' as the author's truncation sign), Lev 4:13 and Num 15:24 (introduced by שהרי נאמר בתורה and continued by והיה).
+- The long period ולפי קוצר דעתינו ... is divided at 'when we see' and 'how was their faith'; no clause is dropped and the order of the list of authors is kept.
+
+Translator's note: Plain sentences follow the Hebrew full stops. The Torah quotations take double quotation marks; the author's וכו' is kept as 'etc.'. The list of authors is elliptical in the Hebrew after the full stop at הנבוכים, and the English keeps that ellipsis.
+
+Commentary rulings:
+- apparatus: Base text: Wikisource; not yet collated with the 1931 scan (open question 2), so the English is the base text as it stands.
+- apparatus: Printed list marker ד) (the fourth item) opens the paragraph; the next paragraph opens ה) (the fifth item).
+- apparatus: Deut 17:8, quoted with 'etc.' marking the author's omission (וכו').
+- apparatus: Lev 4:13, quoted: ונעלם דבר מעיני הקהל.
+- apparatus: Num 15:24, quoted: והיה אם מעיני העדה נעשתה לשגגה.
+- apparatus: Isa 5:18, embedded allusion (no quotation marks): בחבלי השוא and כעבות העגלה.
+- apparatus: Prov 14:17, for the author's קצר אפים, set against ארך אפים in Exod 34:6.
+
+## Milchamot ha-Shem 3:4
+
+Hebrew (Wikisource): ה) ואמונה זו החדשה רחוקה מאד מדרך תורתינו הק' שבכתב ושבעל פה. ולכן פירשנו עצמינו ממנה ודבקנו בדברי רבותינו ז"ל בעלי המשנה והתלמוד בבלי וירושלמי והפוסקים ומדרשי רבותינו המפורסמים, מדרש רבה ותנחומא וילקוט שמעוני ומדרש הגדול המצוי בתימן בכת"י, ונור אלצלאם וכיוצא בהם. גם שארית חבורי קדמונינו חכמי תימן מצינו וראינו שהם אדוקים בדברי הגדולים הנזכרים לעיל ובדעותיהם. וכראותכם שפירשנו מן הקבלה החדשה חרה אפכם בנו, וברמות רוחא טפלתם עלינו שקר זדים. ושאלנו אתכם להורותינו הדרך איך יסכימו דברי רבותינו המקובלים החדשים עם דברי רבותינו הראשונים הנזכרים לעיל, ועם דברי התנאים והאמוראים. והיתה תשובתכם אלינו בדרך הטעאה וקינטורים.
+
+| id | word | punctuation after |
+|---|---|---|
+| 3:4.1 | ה | ) |
+| 3:4.2 | ואמונה |  |
+| 3:4.3 | זו |  |
+| 3:4.4 | החדשה |  |
+| 3:4.5 | רחוקה |  |
+| 3:4.6 | מאד |  |
+| 3:4.7 | מדרך |  |
+| 3:4.8 | תורתינו |  |
+| 3:4.9 | הק | ' |
+| 3:4.10 | שבכתב |  |
+| 3:4.11 | ושבעל |  |
+| 3:4.12 | פה | . |
+| 3:4.13 | ולכן |  |
+| 3:4.14 | פירשנו |  |
+| 3:4.15 | עצמינו |  |
+| 3:4.16 | ממנה |  |
+| 3:4.17 | ודבקנו |  |
+| 3:4.18 | בדברי |  |
+| 3:4.19 | רבותינו |  |
+| 3:4.20 | ז"ל |  |
+| 3:4.21 | בעלי |  |
+| 3:4.22 | המשנה |  |
+| 3:4.23 | והתלמוד |  |
+| 3:4.24 | בבלי |  |
+| 3:4.25 | וירושלמי |  |
+| 3:4.26 | והפוסקים |  |
+| 3:4.27 | ומדרשי |  |
+| 3:4.28 | רבותינו |  |
+| 3:4.29 | המפורסמים | , |
+| 3:4.30 | מדרש |  |
+| 3:4.31 | רבה |  |
+| 3:4.32 | ותנחומא |  |
+| 3:4.33 | וילקוט |  |
+| 3:4.34 | שמעוני |  |
+| 3:4.35 | ומדרש |  |
+| 3:4.36 | הגדול |  |
+| 3:4.37 | המצוי |  |
+| 3:4.38 | בתימן |  |
+| 3:4.39 | בכת"י | , |
+| 3:4.40 | ונור |  |
+| 3:4.41 | אלצלאם |  |
+| 3:4.42 | וכיוצא |  |
+| 3:4.43 | בהם | . |
+| 3:4.44 | גם |  |
+| 3:4.45 | שארית |  |
+| 3:4.46 | חבורי |  |
+| 3:4.47 | קדמונינו |  |
+| 3:4.48 | חכמי |  |
+| 3:4.49 | תימן |  |
+| 3:4.50 | מצינו |  |
+| 3:4.51 | וראינו |  |
+| 3:4.52 | שהם |  |
+| 3:4.53 | אדוקים |  |
+| 3:4.54 | בדברי |  |
+| 3:4.55 | הגדולים |  |
+| 3:4.56 | הנזכרים |  |
+| 3:4.57 | לעיל |  |
+| 3:4.58 | ובדעותיהם | . |
+| 3:4.59 | וכראותכם |  |
+| 3:4.60 | שפירשנו |  |
+| 3:4.61 | מן |  |
+| 3:4.62 | הקבלה |  |
+| 3:4.63 | החדשה |  |
+| 3:4.64 | חרה |  |
+| 3:4.65 | אפכם |  |
+| 3:4.66 | בנו | , |
+| 3:4.67 | וברמות |  |
+| 3:4.68 | רוחא |  |
+| 3:4.69 | טפלתם |  |
+| 3:4.70 | עלינו |  |
+| 3:4.71 | שקר |  |
+| 3:4.72 | זדים | . |
+| 3:4.73 | ושאלנו |  |
+| 3:4.74 | אתכם |  |
+| 3:4.75 | להורותינו |  |
+| 3:4.76 | הדרך |  |
+| 3:4.77 | איך |  |
+| 3:4.78 | יסכימו |  |
+| 3:4.79 | דברי |  |
+| 3:4.80 | רבותינו |  |
+| 3:4.81 | המקובלים |  |
+| 3:4.82 | החדשים |  |
+| 3:4.83 | עם |  |
+| 3:4.84 | דברי |  |
+| 3:4.85 | רבותינו |  |
+| 3:4.86 | הראשונים |  |
+| 3:4.87 | הנזכרים |  |
+| 3:4.88 | לעיל | , |
+| 3:4.89 | ועם |  |
+| 3:4.90 | דברי |  |
+| 3:4.91 | התנאים |  |
+| 3:4.92 | והאמוראים | . |
+| 3:4.93 | והיתה |  |
+| 3:4.94 | תשובתכם |  |
+| 3:4.95 | אלינו |  |
+| 3:4.96 | בדרך |  |
+| 3:4.97 | הטעאה |  |
+| 3:4.98 | וקינטורים | . |
+
+
+### Translation under review (3:4)
+
+English: 5) And this new faith is very far from the way of our holy Torah, written and oral. Therefore we separated ourselves from it, and we clung to the words of our rabbis of blessed memory, the masters of the Mishnah and the Talmud, Bavli and Yerushalmi, and the decisors, and the midrashim of our famous rabbis, Midrash Rabbah and Tanchuma and Yalkut Shimoni, and the great Midrash found in Yemen in manuscript, and Nur al-Salam, and the like. Also, the remnant of the books of our forebears, the sages of Yemen, we find and see that they adhere to the words of the great ones mentioned above and to their opinions. And as you see that we separated from the new Kabbalah, your anger burned against us, and in haughtiness of spirit you ascribed to us arrogant falsehood. And we asked you to teach us the way: how would the words of our rabbis, the new Kabbalists, agree with the words of our early rabbis mentioned above, and with the words of the Tannaim and the Amoraim. And your answer to us was in the manner of deception and quarrels.
+
+Literal: 5) and-the-faith this the-new far very from-the-way-of our-Torah the-holy that-written and-that-oral therefore we-separated ourselves from-it and-we-clung to-the-words-of our-rabbis of-blessed-memory the-masters-of the-Mishnah and-the-Talmud Bavli and-Yerushalmi and-the-decisors and-the-midrashim-of our-rabbis the-famous Midrash Rabbah and-Tanchuma and-Yalkut Shimoni and-Midrash the-great found in-Yemen in-manuscript and-Nur al-Salam and-the-like of-them also the-remnant-of the-books-of our-forebears the-sages-of Yemen we-find and-we-see that-they adhere to-the-words-of the-great-ones mentioned above and-to-their-opinions and-as-you-see that-we-separated from the-Kabbalah the-new burned your-anger against-us and-in haughtiness-of spirit you-ascribed to-us falsehood arrogant and-we-asked of-you to-teach-us the-way how would-agree the-words-of our-rabbis the-Kabbalists the-new with the-words-of our-rabbis the-early mentioned above and-with the-words-of the-Tannaim and-the-Amoraim and-was your-answer to-us in-the-manner-of deception and-quarrels
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 3:4.1 | 5) |  |  | printed list marker ה) (the fifth item); kept as 5) |
+| 3:4.2 | and the faith |  |  |  |
+| 3:4.3 | this |  |  |  |
+| 3:4.4 | new |  |  |  |
+| 3:4.5 | far |  |  |  |
+| 3:4.6 | very |  |  |  |
+| 3:4.7 | from the way of |  |  |  |
+| 3:4.8 | our Torah |  |  |  |
+| 3:4.9 | the holy |  |  | הק' = הקדושה, 'holy' |
+| 3:4.10 | that is written |  |  |  |
+| 3:4.11 | and that is oral |  |  |  |
+| 3:4.12 | oral (Torah) |  |  |  |
+| 3:4.13 | therefore |  |  |  |
+| 3:4.14 | we separated |  |  |  |
+| 3:4.15 | ourselves |  |  |  |
+| 3:4.16 | from it |  |  |  |
+| 3:4.17 | and we clung |  |  |  |
+| 3:4.18 | to the words of |  |  |  |
+| 3:4.19 | our rabbis |  |  |  |
+| 3:4.20 | of blessed memory |  |  | ז"ל: 'of blessed memory' |
+| 3:4.21 | the masters of |  |  |  |
+| 3:4.22 | the Mishnah |  |  |  |
+| 3:4.23 | and the Talmud |  |  |  |
+| 3:4.24 | Bavli |  |  | the Babylonian Talmud |
+| 3:4.25 | and Yerushalmi |  |  | the Jerusalem Talmud |
+| 3:4.26 | and the decisors |  |  | הפוסקים: the halakhic decisors |
+| 3:4.27 | and the midrashim of |  |  |  |
+| 3:4.28 | our rabbis |  |  |  |
+| 3:4.29 | the famous |  |  |  |
+| 3:4.30 | Midrash |  |  |  |
+| 3:4.31 | Rabbah |  |  |  |
+| 3:4.32 | and Tanchuma |  |  |  |
+| 3:4.33 | and Yalkut |  |  |  |
+| 3:4.34 | Shimoni |  |  |  |
+| 3:4.35 | and the Midrash |  |  |  |
+| 3:4.36 | the great |  |  | Midrash ha-Gadol |
+| 3:4.37 | found |  |  |  |
+| 3:4.38 | in Yemen |  |  |  |
+| 3:4.39 | in manuscript |  |  | בכת"י = ketav yad, manuscript |
+| 3:4.40 | and Nur |  |  | Nur al-Salam: the title as the author gives it (Arabic, 'light of peace') |
+| 3:4.41 | al-Salam |  |  |  |
+| 3:4.42 | and the like |  |  |  |
+| 3:4.43 | of them |  |  |  |
+| 3:4.44 | also |  |  |  |
+| 3:4.45 | the remnant of |  |  |  |
+| 3:4.46 | the books of |  |  |  |
+| 3:4.47 | our forebears |  |  |  |
+| 3:4.48 | the sages of |  |  |  |
+| 3:4.49 | Yemen |  |  |  |
+| 3:4.50 | we find |  |  |  |
+| 3:4.51 | and we see |  |  |  |
+| 3:4.52 | that they |  |  |  |
+| 3:4.53 | adhere |  |  |  |
+| 3:4.54 | to the words of |  |  |  |
+| 3:4.55 | the great ones |  |  |  |
+| 3:4.56 | mentioned |  |  |  |
+| 3:4.57 | above |  |  |  |
+| 3:4.58 | and to their opinions |  |  |  |
+| 3:4.59 | and as you see |  |  |  |
+| 3:4.60 | that we separated |  |  |  |
+| 3:4.61 | from |  |  |  |
+| 3:4.62 | the Kabbalah |  |  |  |
+| 3:4.63 | the new |  |  |  |
+| 3:4.64 | burned |  |  |  |
+| 3:4.65 | your anger |  |  |  |
+| 3:4.66 | against us |  |  |  |
+| 3:4.67 | and in |  |  |  |
+| 3:4.68 | haughtiness of spirit |  |  | Aramaic idiom ברמות רוחא, 'in haughtiness of spirit' |
+| 3:4.69 | you ascribed |  |  |  |
+| 3:4.70 | to us |  |  |  |
+| 3:4.71 | falsehood |  |  |  |
+| 3:4.72 | arrogant |  |  | זדים: 'arrogant' |
+| 3:4.73 | and we asked |  |  |  |
+| 3:4.74 | of you |  |  |  |
+| 3:4.75 | to teach us |  |  |  |
+| 3:4.76 | the way |  |  |  |
+| 3:4.77 | how |  |  |  |
+| 3:4.78 | would agree |  |  |  |
+| 3:4.79 | the words of |  |  |  |
+| 3:4.80 | our rabbis |  |  |  |
+| 3:4.81 | the Kabbalists |  |  |  |
+| 3:4.82 | the new |  |  |  |
+| 3:4.83 | with |  |  |  |
+| 3:4.84 | the words of |  |  |  |
+| 3:4.85 | our rabbis |  |  |  |
+| 3:4.86 | the early ones |  |  |  |
+| 3:4.87 | mentioned |  |  |  |
+| 3:4.88 | above |  |  |  |
+| 3:4.89 | and with |  |  |  |
+| 3:4.90 | the words of |  |  |  |
+| 3:4.91 | the Tannaim |  |  |  |
+| 3:4.92 | and the Amoraim |  |  |  |
+| 3:4.93 | and was |  |  |  |
+| 3:4.94 | your answer |  |  |  |
+| 3:4.95 | to us |  |  |  |
+| 3:4.96 | in the manner of |  |  |  |
+| 3:4.97 | deception |  |  | הטעאה: 'deception' |
+| 3:4.98 | and quarrels |  |  |  |
+
+Phrases:
+- 3:4.1 | 5) | 5)
+- 3:4.2 3:4.3 3:4.4 3:4.5 3:4.6 3:4.7 3:4.8 3:4.9 3:4.10 3:4.11 3:4.12 | And this new faith is very far from the way of our holy Torah, written and oral. | and-the-faith this the-new far very from-the-way-of our-Torah the-holy that-written and-that-oral
+- 3:4.13 3:4.14 3:4.15 3:4.16 | Therefore we separated ourselves from it, | therefore we-separated ourselves from-it
+- 3:4.17 3:4.18 3:4.19 3:4.20 3:4.21 | and we clung to the words of our rabbis of blessed memory, the masters of | and-we-clung to-the-words-of our-rabbis of-blessed-memory the-masters-of
+- 3:4.22 3:4.23 3:4.24 3:4.25 3:4.26 | the Mishnah and the Talmud, Bavli and Yerushalmi, and the decisors, | the-Mishnah and-the-Talmud Bavli and-Yerushalmi and-the-decisors
+- 3:4.27 3:4.28 3:4.29 3:4.30 3:4.31 3:4.32 3:4.33 3:4.34 | and the midrashim of our famous rabbis, Midrash Rabbah and Tanchuma and Yalkut Shimoni, | and-the-midrashim-of our-rabbis the-famous Midrash Rabbah and-Tanchuma and-Yalkut Shimoni
+- 3:4.35 3:4.36 3:4.37 3:4.38 3:4.39 3:4.40 3:4.41 3:4.42 3:4.43 | and the great Midrash found in Yemen in manuscript, and Nur al-Salam, and the like. | and-Midrash the-great found in-Yemen in-manuscript and-Nur al-Salam and-the-like of-them
+- 3:4.44 3:4.45 3:4.46 3:4.47 3:4.48 3:4.49 3:4.50 3:4.51 3:4.52 3:4.53 | Also, the remnant of the books of our forebears, the sages of Yemen, we find and see that they adhere | also the-remnant-of the-books-of our-forebears the-sages-of Yemen we-find and-we-see that-they adhere
+- 3:4.54 3:4.55 3:4.56 3:4.57 3:4.58 | to the words of the great ones mentioned above and to their opinions. | to-the-words-of the-great-ones mentioned above and-to-their-opinions
+- 3:4.59 3:4.60 3:4.61 3:4.62 3:4.63 3:4.64 3:4.65 3:4.66 | And as you see that we separated from the new Kabbalah, your anger burned against us, | and-as-you-see that-we-separated from the-Kabbalah the-new burned your-anger against-us
+- 3:4.67 3:4.68 3:4.69 3:4.70 3:4.71 3:4.72 | and in haughtiness of spirit you ascribed to us arrogant falsehood. | and-in haughtiness-of spirit you-ascribed to-us falsehood arrogant
+- 3:4.73 3:4.74 3:4.75 3:4.76 3:4.77 | And we asked you to teach us the way: how | and-we-asked of-you to-teach-us the-way how
+- 3:4.78 3:4.79 3:4.80 3:4.81 3:4.82 3:4.83 3:4.84 3:4.85 3:4.86 3:4.87 3:4.88 | would the words of our rabbis, the new Kabbalists, agree with the words of our early rabbis mentioned above, | would-agree the-words-of our-rabbis the-Kabbalists the-new with the-words-of our-rabbis the-early mentioned above
+- 3:4.89 3:4.90 3:4.91 3:4.92 | and with the words of the Tannaim and the Amoraim. | and-with the-words-of the-Tannaim and-the-Amoraim
+- 3:4.93 3:4.94 3:4.95 3:4.96 3:4.97 3:4.98 | And your answer to us was in the manner of deception and quarrels. | and-was your-answer to-us in-the-manner-of deception and-quarrels
+
+Grammar notes:
+- The paragraph is a chain of first-person plural past acts (פירשנו, ודבקנו, שאלנו); the reply of the other side is in the perfect (והיתה) and is given as a report.
+- ושאלנו אתכם ... איך יסכימו: the question is indirect (איך with the imperfect) and carries a full stop; the English keeps it as a report, 'how would ... agree'.
+- ברמות רוחא is an Aramaic idiom for arrogance and is translated by its sense; the literal is in the phrase literal.
+
+Translator's note: The list of sources is kept in the order the author gives it. The Midrash ha-Gadol and Nur al-Salam are named only by their description and title in the Hebrew.
+
+Commentary rulings:
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+

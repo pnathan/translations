@@ -203,12 +203,20 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 	}
 	os.MkdirAll(filepath.Dir(llm.ReviewPackPath(cfg, "x")), 0o755)
 	counts := map[string]int{}
+	var decisions string
+	if cfg.Kind == work.Prose {
+		if b, err := os.ReadFile(cfg.Path("decisions.md")); err == nil {
+			decisions = string(b)
+		}
+	}
 	for _, u := range c.Units {
-		hasMorph := true
-		for _, r := range u.Refs {
-			for _, t := range c.Segment(r).Tokens {
-				if len(t.Morphemes) == 0 {
-					hasMorph = false
+		hasMorph := true // a prose work has no morphology stage
+		if cfg.Kind != work.Prose {
+			for _, r := range u.Refs {
+				for _, t := range c.Segment(r).Tokens {
+					if len(t.Morphemes) == 0 {
+						hasMorph = false
+					}
 				}
 			}
 		}
@@ -231,8 +239,9 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 		llm.Variant = ""
 		header(&b, cfg, u, "Translation", "briefs/translate.md", rel(llm.TranslationPath(cfg, u.ID)))
 		llm.Variant = v
+		writeRules(&b, cfg, c, u, decisions)
 		for _, r := range u.Refs {
-			writeSegment(&b, cfg, c, c.Segment(r), anchors, secondaryLimit, true)
+			writeSegment(&b, cfg, c, c.Segment(r), anchors, secondaryLimit, cfg.Kind != work.Prose)
 		}
 		writeLexicon(&b, c, u.Refs, lexicon)
 		if err := writeAtomic(cfg.Path("stage", "packs", "translate", u.ID+".md"), b.String()); err != nil {
@@ -245,8 +254,9 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 		}
 		var r strings.Builder
 		header(&r, cfg, u, "Review", "briefs/review.md", rel(llm.ReviewPath(cfg, u.ID)))
+		writeRules(&r, cfg, c, u, decisions)
 		for i, ref := range u.Refs {
-			writeSegment(&r, cfg, c, c.Segment(ref), anchors, 0, true)
+			writeSegment(&r, cfg, c, c.Segment(ref), anchors, 0, cfg.Kind != work.Prose)
 			if i < len(tu.Segments) {
 				writeTranslation(&r, &tu.Segments[i])
 			}
@@ -299,4 +309,20 @@ func writeAtomic(path, content string) error {
 		return err
 	}
 	return os.Rename(tmp, path)
+}
+
+// writeRules adds, for a prose work, the rulings of decisions.md that this
+// unit needs (see Rules). Other kinds read the whole file.
+func writeRules(b *strings.Builder, cfg *work.Config, c *corpus.Corpus, u corpus.Unit, decisions string) {
+	if cfg.Kind != work.Prose || decisions == "" {
+		return
+	}
+	var text strings.Builder
+	for _, r := range u.Refs {
+		text.WriteString(c.Segment(r).Text + " ")
+	}
+	b.WriteString("## Rulings for this unit\n\n")
+	b.WriteString("Extracted from `works/" + cfg.Slug + "/decisions.md` for the words of this unit; the rulings below are the whole of what you need. Read the full file only if a question is not answered here.\n\n")
+	b.WriteString(Rules(decisions, text.String()))
+	b.WriteString("\n")
 }

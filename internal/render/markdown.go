@@ -132,7 +132,7 @@ func (e *Edition) Markdown(path string) error {
 			if f := e.Final[s.Ref]; f != nil {
 				para = append(para, fmt.Sprintf("<sup>%s</sup> %s", s.Ref, f.English))
 			}
-			if s.Para != "" || cfg.Kind == work.Mishnah {
+			if s.Para != "" || cfg.Kind == work.Mishnah || cfg.Kind == work.Prose {
 				if len(para) > 0 {
 					b.WriteString(strings.Join(para, " ") + "\n\n")
 				}
@@ -234,6 +234,8 @@ func (e *Edition) provenance() string {
 	if cfg.Kind == work.Tanakh {
 		b.WriteString("- Morphology and lemmas: Open Scriptures Hebrew Bible (WLC 4.x with OSHB morphology, CC BY 4.0); the WLC is collated against the base text.\n")
 		b.WriteString("- Lexicon: Brown–Driver–Briggs via the OpenScriptures Hebrew Lexicon.\n")
+	} else if cfg.Kind == work.Prose {
+		b.WriteString("- Morphology and lexicon: none; each word is glossed in context by the translation stage and checked by the review.\n")
 	} else {
 		b.WriteString("- Morphology: a model analysis, reviewed (see each unit's provenance); lexicon entries from Jastrow and BDB (Sefaria).\n")
 	}

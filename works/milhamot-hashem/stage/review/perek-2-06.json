@@ -1,0 +1,932 @@
+{
+  "unit": "perek-2-06",
+  "model": "sonnet",
+  "summary": "The translation is complete and mostly faithful, with the fixed terms, the Bible quotations (Deut 33:14, Gen 1, Ps 104:4, Exod 20, Isa 42:8) and the author's disclaimers kept. The main faults are בנו rendered 'in him' and פועלם rendered 'their action' (twice), an added full stop that turns the content of 'my words' into a separate question, כלול translated as an active verb, the singular נופח read as 'we', and 'the chosen standing' for במעמד הנבחר. Two allusions (Isa 54:16, Joel 2:11) were not recorded. 'Analogy' for דמיון stands; 'words of astonishment' is replaced by 'astonishing words'. Abbreviations are expanded in the glosses (ע\"י 'through', ית' 'may He be blessed').",
+  "patches": [
+    {
+      "ref": "2:12",
+      "path": "english",
+      "value": "And this I have seen in your reply. And I will tell these words that split roofs, since you replied to my words that I said to you: how shall we set aside Ein Sof and the rest of the partzufim close to Ein Sof and worship Ze'ir Anpin? And your reply was, because the other attributes are some judgment and some mercy, and this one is composed of them all. And for this reason the Emanator wished to perform His actions through this vessel, etc. And you brought me an analogy from the bodily hand, which does all the tasks, while the head, which is above, does nothing. Also the power of speech, which is splendor, etc.; all these words of yours are nothing but astonishing words! I asked you about their saying that Ze'ir Anpin is our God, and we worship him, and you answer me from those who act upon us by the will of their Maker. Do we then worship all those who act upon us by the will of their Maker? And shall we say that they are our God? Surely the sun acts for us in many good actions: to shine for us, to warm the air and the earth, to make grass sprout, and to ripen the fruit. Shall we worship her? The moon and the stars too act upon the lower beings by the will of the Creator, may He be blessed, as it is said: \"and from the precious things of the yield of the sun, and from the precious things of the growth of the moons.\" Shall we worship them? The earth, the water and the fire also act to sprout grass and trees and to raise them. And with fire we do all that we want: to bake and to cook all our food. And in most crafts one blows on a charcoal fire and brings out a tool for its work. Shall we worship one of them? And His will, may He be blessed, to perform His actions through intermediary agents is plain and clear in the verses. \"Let the waters swarm, let the earth bring forth a living creature, let the earth sprout grass,\" and it is said: \"He makes His messengers winds, His ministers a blazing fire,\" and more and more, in every case of one doing its errand. And yet, despite all this, the Name, may He be blessed, commanded us to worship Him alone, and warned us not to worship any one besides Him. And at the chosen assembly, when He revealed Himself on Mount Sinai, He gave His voice before His host: \"I am the LORD your God … You shall have no other gods before Me.\" And it is said: \"I am the LORD, that is My name; and My glory I will not give to another!\" You and I stood before a craftsman who made us, and He did not wish us to worship another god, quick to anger (Ze'ir Anpin), apart from Him, although he is His agent to perform some action. And why do we not heed His voice to worship Him, and go and worship Ze'ir Anpin, which He did not command us?",
+      "severity": "error",
+      "reason": "Fixes: (1) בנו is 'in/upon us', not 'in him', and פועלם is 'their Maker', not 'their action' (cf. 'ברצון הבורא' below); (2) a full stop was added after 'to you', where the Hebrew has none: 'איך נניח ... לז״א?' is the content of 'my words'; (3) כלול מכולם is passive, 'is composed of them all' (checklist 4); (4) נופח and ומוציא are singular, 'one blows ... brings out' (an echo of Isa 54:16), not 'we'; כלי here is a craftsman's tool, not the Kabbalistic vessel; (5) במעמד הנבחר: 'the chosen standing' is not English for the occasion (cf. מעמד הר סיני), 'assembly'; (6) ורצונו ... פשוט ומבואר: the will itself is plain and clear, there is no 'as'; בכתובים is 'in the verses' (decisions); (7) ששלוחו הוא: 'he is His agent'; אומן is indefinite, 'a craftsman'; (8) style: פאר 'splendor' (כבוד is 'glory' in Isa 42:8 in the same paragraph), דברי תימה 'astonishing words' (not words that express astonishment), חפצינו 'all that we want', המלאכות 'tasks'."
+    },
+    {
+      "ref": "2:12",
+      "path": "literal",
+      "value": "and-(object-marker) this I-have-seen in-your-reply and-I-will-tell these words that-split roofs since you-replied to my-words that-I-said to-you how shall-we-set-aside Ein-Sof and-the-rest-of the-partzufim close to Ein-Sof and-worship to-Ze'ir-Anpin and-was your-reply because the-rest-of the-attributes of-them judgment and-some-of-them mercy and-this composed-of all-of-them and-for wished the-Emanator to-perform His-actions through vessel this etc. and-you-brought to-me analogy from the-hand bodily which does all the-tasks and-the-head which above does-not does anything also the-power of-speech which splendor etc. all your-words these are-not but words astonishment I asked-you about their-saying that-Ze'ir-Anpin is our-God and-him we-worship and-you answer-me from those-who-act upon-us by-the-will of-their-Maker and-is-it-that all those-who-act upon-us by-the-will of-their-Maker them shall-we-worship and-shall-we-say that-they our-God surely the-sun acts for-us many actions good to-shine for-us to-warm the-air and-the-earth and-to-make-sprout grass and-to-ripen the-fruit whether her we-worship the-moon and-the-stars also they act below by-the-will the-Creator may-He-be-blessed as-it-is-said and-from-the-precious-things-of the-yield of-the-sun and-from-the-precious-things-of the-growth of-the-moons shall-we-worship them the-earth and-the-water and-the-fire also they act to-sprout grass and-trees and-to-raise-them and-with-fire we do all that-we-want to-bake and-to-cook all our-food and-in-most the-crafts one-blows on-the-fire of-charcoal and-brings-out a-tool for-its-work shall-we-worship (object-marker) one of-them and-His-will may-He-be-blessed to-perform His-actions through by-means-of agents intermediary is-plain and-clear in-the-verses let-swarm the-waters let-bring-forth the-earth living creature let-sprout the-earth grass and-it-is-said making His-messengers winds His-ministers fire blazing and-more and-more in-every one-doing its-errand and-yet all this commanded-us the-Name,-may-He-be-blessed to-worship alone and-warned us not we-worship any-one besides-Him and-at-the-standing the-chosen in-His-revealing on the-mountain Sinai He-gave His-voice before His-host I-am the-LORD your-God no shall-be to-you gods other before Me and-it-is-said I the-LORD that-is My-name and-My-glory to-another not I-will-give and-I and-you stood before a-craftsman who-made-us and-not wished He that-we-worship god another quick to-anger Ze'ir-Anpin apart-from-Him although that His-agent he-is to-perform some action and-why not we-heed His-voice to-worship-Him and-go and-worship to-Ze'ir-Anpin which not He-commanded-us",
+      "severity": "error",
+      "reason": "The literal follows the corrected English (upon-us, their-Maker, composed-of, one-blows, a-tool, he-is His-agent)."
+    },
+    {
+      "ref": "2:12",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "2:12.1",
+            "2:12.2",
+            "2:12.3",
+            "2:12.4"
+          ],
+          "english": "And this I have seen in your reply.",
+          "literal": "and-(object-marker) this I-have-seen in-your-reply"
+        },
+        {
+          "tokens": [
+            "2:12.5",
+            "2:12.6",
+            "2:12.7",
+            "2:12.8",
+            "2:12.9"
+          ],
+          "english": "And I will tell these words that split roofs,",
+          "literal": "these-words that-split roofs: an Aramaic idiom for forceful words, translated by its sense"
+        },
+        {
+          "tokens": [
+            "2:12.10",
+            "2:12.11",
+            "2:12.12",
+            "2:12.13",
+            "2:12.14",
+            "2:12.15"
+          ],
+          "english": "since you replied to my words that I said to you:",
+          "literal": "since you-replied to my-words that-I-said to-you"
+        },
+        {
+          "tokens": [
+            "2:12.16",
+            "2:12.17"
+          ],
+          "english": "How shall we set aside",
+          "literal": "how shall-we-set-aside"
+        },
+        {
+          "tokens": [
+            "2:12.18",
+            "2:12.19",
+            "2:12.20",
+            "2:12.21",
+            "2:12.22",
+            "2:12.23"
+          ],
+          "english": "Ein Sof and the rest of the partzufim close to Ein Sof",
+          "literal": "Ein-Sof and-the-rest-of the-partzufim close to Ein-Sof"
+        },
+        {
+          "tokens": [
+            "2:12.24",
+            "2:12.25"
+          ],
+          "english": "and worship Ze'ir Anpin?",
+          "literal": "and-worship to-Ze'ir-Anpin"
+        },
+        {
+          "tokens": [
+            "2:12.26",
+            "2:12.27"
+          ],
+          "english": "And your reply was,",
+          "literal": "and-was your-reply"
+        },
+        {
+          "tokens": [
+            "2:12.28",
+            "2:12.29",
+            "2:12.30",
+            "2:12.31",
+            "2:12.32",
+            "2:12.33",
+            "2:12.34"
+          ],
+          "english": "because the other attributes are some judgment and some mercy,",
+          "literal": "because the-rest-of the-attributes of-them judgment and-some-of-them mercy"
+        },
+        {
+          "tokens": [
+            "2:12.35",
+            "2:12.36",
+            "2:12.37"
+          ],
+          "english": "and this one is composed of them all.",
+          "literal": "and-this composed-of all-of-them"
+        },
+        {
+          "tokens": [
+            "2:12.38",
+            "2:12.39",
+            "2:12.40",
+            "2:12.41",
+            "2:12.42"
+          ],
+          "english": "And for this reason the Emanator wished to perform His actions",
+          "literal": "and-for wished the-Emanator to-perform His-actions"
+        },
+        {
+          "tokens": [
+            "2:12.43",
+            "2:12.44",
+            "2:12.45",
+            "2:12.46"
+          ],
+          "english": "through this vessel, etc.",
+          "literal": "through vessel this etc."
+        },
+        {
+          "tokens": [
+            "2:12.47",
+            "2:12.48",
+            "2:12.49"
+          ],
+          "english": "And you brought me an analogy",
+          "literal": "and-you-brought to-me analogy"
+        },
+        {
+          "tokens": [
+            "2:12.50",
+            "2:12.51",
+            "2:12.52",
+            "2:12.53",
+            "2:12.54",
+            "2:12.55",
+            "2:12.56"
+          ],
+          "english": "from the bodily hand, which does all the tasks,",
+          "literal": "from the-hand bodily which does all the-tasks"
+        },
+        {
+          "tokens": [
+            "2:12.57",
+            "2:12.58",
+            "2:12.59",
+            "2:12.60",
+            "2:12.61",
+            "2:12.62"
+          ],
+          "english": "while the head, which is above, does nothing.",
+          "literal": "and-the-head which above does-not does anything"
+        },
+        {
+          "tokens": [
+            "2:12.63",
+            "2:12.64",
+            "2:12.65",
+            "2:12.66",
+            "2:12.67",
+            "2:12.68"
+          ],
+          "english": "Also the power of speech, which is splendor, etc.;",
+          "literal": "also the-power of-speech which splendor etc."
+        },
+        {
+          "tokens": [
+            "2:12.69",
+            "2:12.70",
+            "2:12.71",
+            "2:12.72",
+            "2:12.73",
+            "2:12.74",
+            "2:12.75"
+          ],
+          "english": "all these words of yours are nothing but astonishing words!",
+          "literal": "all your-words these are-not but words astonishment"
+        },
+        {
+          "tokens": [
+            "2:12.76",
+            "2:12.77",
+            "2:12.78",
+            "2:12.79",
+            "2:12.80"
+          ],
+          "english": "I asked you about their saying that Ze'ir Anpin",
+          "literal": "I asked-you about their-saying that-Ze'ir-Anpin"
+        },
+        {
+          "tokens": [
+            "2:12.81",
+            "2:12.82",
+            "2:12.83",
+            "2:12.84"
+          ],
+          "english": "is our God, and we worship him,",
+          "literal": "is our-God and-him we-worship"
+        },
+        {
+          "tokens": [
+            "2:12.85",
+            "2:12.86",
+            "2:12.87",
+            "2:12.88",
+            "2:12.89",
+            "2:12.90",
+            "2:12.91"
+          ],
+          "english": "and you answer me from those who act upon us by the will of their Maker.",
+          "literal": "and-you answer-me from those-who-act upon-us by-the-will of-their-Maker"
+        },
+        {
+          "tokens": [
+            "2:12.92",
+            "2:12.93",
+            "2:12.94",
+            "2:12.95",
+            "2:12.96",
+            "2:12.97",
+            "2:12.98",
+            "2:12.99"
+          ],
+          "english": "Do we then worship all those who act upon us by the will of their Maker?",
+          "literal": "and-is-it-that all those-who-act upon-us by-the-will of-their-Maker them shall-we-worship"
+        },
+        {
+          "tokens": [
+            "2:12.100",
+            "2:12.101",
+            "2:12.102"
+          ],
+          "english": "And shall we say that they are our God?",
+          "literal": "and-shall-we-say that-they our-God"
+        },
+        {
+          "tokens": [
+            "2:12.103",
+            "2:12.104",
+            "2:12.105",
+            "2:12.106",
+            "2:12.107",
+            "2:12.108",
+            "2:12.109"
+          ],
+          "english": "Surely the sun acts for us in many good actions:",
+          "literal": "surely the-sun acts for-us many actions good"
+        },
+        {
+          "tokens": [
+            "2:12.110",
+            "2:12.111",
+            "2:12.112",
+            "2:12.113",
+            "2:12.114",
+            "2:12.115",
+            "2:12.116",
+            "2:12.117",
+            "2:12.118"
+          ],
+          "english": "to shine for us, to warm the air and the earth, to make grass sprout, and to ripen the fruit.",
+          "literal": "to-shine for-us to-warm the-air and-the-earth and-to-make-sprout grass and-to-ripen the-fruit"
+        },
+        {
+          "tokens": [
+            "2:12.119",
+            "2:12.120",
+            "2:12.121"
+          ],
+          "english": "Shall we worship her?",
+          "literal": "whether her we-worship"
+        },
+        {
+          "tokens": [
+            "2:12.122",
+            "2:12.123",
+            "2:12.124",
+            "2:12.125",
+            "2:12.126",
+            "2:12.127"
+          ],
+          "english": "The moon and the stars too act upon the lower beings",
+          "literal": "the-moon and-the-stars also they act below"
+        },
+        {
+          "tokens": [
+            "2:12.128",
+            "2:12.129",
+            "2:12.130"
+          ],
+          "english": "by the will of the Creator, may He be blessed,",
+          "literal": "by-the-will the-Creator may-He-be-blessed"
+        },
+        {
+          "tokens": [
+            "2:12.131",
+            "2:12.132",
+            "2:12.133",
+            "2:12.134",
+            "2:12.135",
+            "2:12.136",
+            "2:12.137"
+          ],
+          "english": "as it is said: \"and from the precious things of the yield of the sun, and from the precious things of the growth of the moons.\"",
+          "literal": "as-it-is-said: Deut 33:14 as the author quotes it, the two halves in the verse's order"
+        },
+        {
+          "tokens": [
+            "2:12.138",
+            "2:12.139"
+          ],
+          "english": "Shall we worship them?",
+          "literal": "shall-we-worship them"
+        },
+        {
+          "tokens": [
+            "2:12.140",
+            "2:12.141",
+            "2:12.142",
+            "2:12.143",
+            "2:12.144",
+            "2:12.145",
+            "2:12.146",
+            "2:12.147",
+            "2:12.148",
+            "2:12.149"
+          ],
+          "english": "The earth, the water and the fire also act to sprout grass and trees and to raise them.",
+          "literal": "the-earth and-the-water and-the-fire also they act to-sprout grass and-trees and-to-raise-them"
+        },
+        {
+          "tokens": [
+            "2:12.150",
+            "2:12.151",
+            "2:12.152",
+            "2:12.153",
+            "2:12.154",
+            "2:12.155",
+            "2:12.156",
+            "2:12.157",
+            "2:12.158"
+          ],
+          "english": "And with fire we do all that we want: to bake and to cook all our food.",
+          "literal": "and-with-fire we do all that-we-want to-bake and-to-cook all our-food"
+        },
+        {
+          "tokens": [
+            "2:12.159",
+            "2:12.160",
+            "2:12.161",
+            "2:12.162",
+            "2:12.163",
+            "2:12.164",
+            "2:12.165",
+            "2:12.166"
+          ],
+          "english": "And in most crafts one blows on a charcoal fire and brings out a tool for its work.",
+          "literal": "and-in-most the-crafts one-blows on-the-fire of-charcoal and-brings-out a-tool for-its-work"
+        },
+        {
+          "tokens": [
+            "2:12.167"
+          ],
+          "english": "Shall we worship",
+          "literal": "shall-we-worship"
+        },
+        {
+          "tokens": [
+            "2:12.168"
+          ],
+          "english": "-",
+          "literal": "(object marker): no English counterpart"
+        },
+        {
+          "tokens": [
+            "2:12.169",
+            "2:12.170"
+          ],
+          "english": "one of them?",
+          "literal": "one of-them"
+        },
+        {
+          "tokens": [
+            "2:12.171",
+            "2:12.172",
+            "2:12.173",
+            "2:12.174"
+          ],
+          "english": "And His will, may He be blessed, to perform His actions",
+          "literal": "and-His-will may-He-be-blessed is-to-perform His-actions"
+        },
+        {
+          "tokens": [
+            "2:12.175",
+            "2:12.176",
+            "2:12.177",
+            "2:12.178"
+          ],
+          "english": "through intermediary agents,",
+          "literal": "through by-means-of agents intermediary"
+        },
+        {
+          "tokens": [
+            "2:12.179",
+            "2:12.180",
+            "2:12.181"
+          ],
+          "english": "is plain and clear in the verses.",
+          "literal": "is-plain and-clear in-the-verses"
+        },
+        {
+          "tokens": [
+            "2:12.182",
+            "2:12.183",
+            "2:12.184",
+            "2:12.185",
+            "2:12.186",
+            "2:12.187",
+            "2:12.188",
+            "2:12.189",
+            "2:12.190"
+          ],
+          "english": "\"Let the waters swarm, let the earth bring forth a living creature, let the earth sprout grass,\"",
+          "literal": "quoted with no formula: Gen 1:20, Gen 1:24, Gen 1:11 in jussive form"
+        },
+        {
+          "tokens": [
+            "2:12.191",
+            "2:12.192",
+            "2:12.193",
+            "2:12.194",
+            "2:12.195",
+            "2:12.196",
+            "2:12.197"
+          ],
+          "english": "and it is said: \"He makes His messengers winds, His ministers a blazing fire,\"",
+          "literal": "Ps 104:4 as the author quotes it"
+        },
+        {
+          "tokens": [
+            "2:12.198",
+            "2:12.199",
+            "2:12.200",
+            "2:12.201",
+            "2:12.202"
+          ],
+          "english": "and more and more, in every case of one doing its errand.",
+          "literal": "and-more and-more in-every one-doing its-errand"
+        },
+        {
+          "tokens": [
+            "2:12.203",
+            "2:12.204",
+            "2:12.205"
+          ],
+          "english": "And yet, despite all this,",
+          "literal": "and-yet all this"
+        },
+        {
+          "tokens": [
+            "2:12.206",
+            "2:12.207",
+            "2:12.208",
+            "2:12.209"
+          ],
+          "english": "the Name, may He be blessed, commanded us to worship Him alone,",
+          "literal": "commanded-us the-Name,-may-He-be-blessed to-worship alone"
+        },
+        {
+          "tokens": [
+            "2:12.210",
+            "2:12.211",
+            "2:12.212",
+            "2:12.213",
+            "2:12.214",
+            "2:12.215"
+          ],
+          "english": "and warned us not to worship any one besides Him.",
+          "literal": "and-warned us not we-worship any-one besides-Him"
+        },
+        {
+          "tokens": [
+            "2:12.216",
+            "2:12.217",
+            "2:12.218",
+            "2:12.219",
+            "2:12.220",
+            "2:12.221"
+          ],
+          "english": "And at the chosen assembly, when He revealed Himself on Mount Sinai,",
+          "literal": "and-at-the-standing the-chosen in-His-revealing on the-mountain Sinai"
+        },
+        {
+          "tokens": [
+            "2:12.222",
+            "2:12.223",
+            "2:12.224",
+            "2:12.225"
+          ],
+          "english": "He gave His voice before His host:",
+          "literal": "He-gave His-voice before His-host"
+        },
+        {
+          "tokens": [
+            "2:12.226",
+            "2:12.227",
+            "2:12.228"
+          ],
+          "english": "\"I am the LORD your God …",
+          "literal": "Exod 20:2 as the author quotes it"
+        },
+        {
+          "tokens": [
+            "2:12.229",
+            "2:12.230",
+            "2:12.231",
+            "2:12.232",
+            "2:12.233",
+            "2:12.234",
+            "2:12.235"
+          ],
+          "english": "You shall have no other gods before Me.\"",
+          "literal": "Exod 20:3 as the author quotes it"
+        },
+        {
+          "tokens": [
+            "2:12.236",
+            "2:12.237",
+            "2:12.238"
+          ],
+          "english": "And it is said: \"I am the LORD,",
+          "literal": "Isa 42:8, introduced by ונאמר"
+        },
+        {
+          "tokens": [
+            "2:12.239",
+            "2:12.240"
+          ],
+          "english": "that is My name;",
+          "literal": "that-is My-name"
+        },
+        {
+          "tokens": [
+            "2:12.241",
+            "2:12.242",
+            "2:12.243",
+            "2:12.244"
+          ],
+          "english": "and My glory I will not give to another!\"",
+          "literal": "and-My-glory to-another not I-will-give"
+        },
+        {
+          "tokens": [
+            "2:12.245",
+            "2:12.246",
+            "2:12.247",
+            "2:12.248"
+          ],
+          "english": "You and I stood before",
+          "literal": "and-I and-you stood before"
+        },
+        {
+          "tokens": [
+            "2:12.249",
+            "2:12.250"
+          ],
+          "english": "a craftsman who made us,",
+          "literal": "a-craftsman who-made-us"
+        },
+        {
+          "tokens": [
+            "2:12.251",
+            "2:12.252",
+            "2:12.253",
+            "2:12.254"
+          ],
+          "english": "and He did not wish us to worship",
+          "literal": "and-not wished He that-we-worship"
+        },
+        {
+          "tokens": [
+            "2:12.255",
+            "2:12.256",
+            "2:12.257",
+            "2:12.258",
+            "2:12.259"
+          ],
+          "english": "another god, quick to anger (Ze'ir Anpin),",
+          "literal": "quick to anger: the author's calque of Ze'ir Anpin, set against 'slow to anger' (Exod 34:6)"
+        },
+        {
+          "tokens": [
+            "2:12.260",
+            "2:12.261",
+            "2:12.262",
+            "2:12.263",
+            "2:12.264",
+            "2:12.265",
+            "2:12.266"
+          ],
+          "english": "apart from Him, although he is His agent to perform some action.",
+          "literal": "apart-from-Him although that His-agent he-is to-perform some action"
+        },
+        {
+          "tokens": [
+            "2:12.267",
+            "2:12.268",
+            "2:12.269",
+            "2:12.270",
+            "2:12.271"
+          ],
+          "english": "And why do we not heed His voice to worship Him,",
+          "literal": "and-why not we-heed His-voice to-worship-Him"
+        },
+        {
+          "tokens": [
+            "2:12.272",
+            "2:12.273",
+            "2:12.274"
+          ],
+          "english": "and go and worship Ze'ir Anpin,",
+          "literal": "and-go and-worship to-Ze'ir-Anpin"
+        },
+        {
+          "tokens": [
+            "2:12.275",
+            "2:12.276",
+            "2:12.277"
+          ],
+          "english": "which He did not command us?",
+          "literal": "which not He-commanded-us"
+        }
+      ],
+      "severity": "error",
+      "reason": "The new English changed the wording of these phrases; each still occurs in the English."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.36.gloss",
+      "value": "is composed",
+      "severity": "error",
+      "reason": "כלול is a passive adjective: 'is composed of'; 'includes' reverses the direction (checklist 4)."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.37.gloss",
+      "value": "of all of them",
+      "severity": "error",
+      "reason": "מכולם: 'of all of them', the מ is part of כלול מ-."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.56.gloss",
+      "value": "the tasks",
+      "severity": "style",
+      "reason": "מלאכות is plural."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.67.gloss",
+      "value": "splendor",
+      "severity": "style",
+      "reason": "פאר is splendor or adornment; 'glory' is כבוד (Isa 42:8 below)."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.75.gloss",
+      "value": "astonishing",
+      "severity": "style",
+      "reason": "דברי תימה: words that cause astonishment, not words that express it."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.87.gloss",
+      "value": "from",
+      "severity": "style",
+      "reason": "מן: the answer is drawn from the agents."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.89.gloss",
+      "value": "upon us",
+      "severity": "error",
+      "reason": "בנו = ב + נו, 'in/upon us', not 'in him'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.91.gloss",
+      "value": "of their Maker",
+      "severity": "error",
+      "reason": "פועלם is the participle with a suffix, 'their Maker', as 'הבורא' at 2:12.129; not 'their action'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.95.gloss",
+      "value": "upon us",
+      "severity": "error",
+      "reason": "בנו = 'upon us'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.97.gloss",
+      "value": "of their Maker",
+      "severity": "error",
+      "reason": "פועלם = 'their Maker'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.154.gloss",
+      "value": "that we want",
+      "severity": "style",
+      "reason": "חפצינו: what we desire."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.161.gloss",
+      "value": "one blows",
+      "severity": "error",
+      "reason": "נופח is a singular participle; the subject is 'one', not 'we'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.162.gloss",
+      "value": "on the fire",
+      "severity": "style",
+      "reason": "נופח באש: blows on the fire (Isa 54:16)."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.164.gloss",
+      "value": "and brings out",
+      "severity": "error",
+      "reason": "ומוציא is singular."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.165.gloss",
+      "value": "a tool",
+      "severity": "style",
+      "reason": "כלי here is the smith's implement (Isa 54:16), not the Kabbalistic 'vessel' used for 2:12.44."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.173.gloss",
+      "value": "to perform",
+      "severity": "error",
+      "reason": "There is no 'is': the infinitive phrase is the subject of 'plain and clear'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.179.gloss",
+      "value": "is plain",
+      "severity": "error",
+      "reason": "פשוט is the predicate."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.181.gloss",
+      "value": "in the verses",
+      "severity": "style",
+      "reason": "בכתובים: decisions, 'the verses'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.216.gloss",
+      "value": "and at the assembly",
+      "severity": "error",
+      "reason": "מעמד: the occasion or assembly (cf. מעמד הר סיני); 'standing' reads as status in English."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.249.gloss",
+      "value": "a craftsman",
+      "severity": "style",
+      "reason": "אומן is indefinite."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.262.gloss",
+      "value": "that His agent",
+      "severity": "style",
+      "reason": "ששלוחו."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.263.gloss",
+      "value": "he is",
+      "severity": "error",
+      "reason": "הוא is the pronoun: 'he is His agent'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.89.note",
+      "value": "בנו = ב + נו, 'in / upon us' (the first person plural suffix), not 'in him'.",
+      "severity": "error",
+      "reason": "A learner would misread בנו as 'in him'."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.91.note",
+      "value": "פועלם: the participle פועל with the suffix ם, 'their Maker' (the one who acts them); compare 'הבורא' at 2:12.129.",
+      "severity": "error",
+      "reason": "Clarifies the corrected gloss."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.161.note",
+      "value": "נופח באש פחם ומוציא כלי למעשהו: Isa 54:16 (the smith). The participles are singular: 'one blows ... and brings out'.",
+      "severity": "style",
+      "reason": "Marks the allusion."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.49.note",
+      "value": "דמיון: 'analogy' (a likeness or comparison used to argue). Proposed ruling: render דמיון 'analogy' in argument, 'likeness' in the sense of resemblance; the note gives the literal 'likeness'.",
+      "severity": "question",
+      "reason": "Decisions are silent on דמיון; the translator's 'analogy' is correct here."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.75.note",
+      "value": "דברי תימה: literally 'words of astonishment'; the sense is 'astonishing words', things that cannot be believed. Proposed ruling: דבר / דברי תימה → 'astonishing' (not 'words of astonishment', which reads as words that express wonder).",
+      "severity": "question",
+      "reason": "Decisions are silent on תימה; the English should not read as the speaker's own astonishment."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.216.note",
+      "value": "מעמד: 'standing', here the occasion or assembly (compare מעמד הר סיני, 'the Standing at Mount Sinai'); הנבחר, 'the chosen'. Proposed ruling: מעמד → 'assembly' or 'occasion' by context, 'standing' only in a note; 'the Standing at Sinai' when the author names the event.",
+      "severity": "question",
+      "reason": "Decisions are silent on מעמד; 'chosen standing' is not English."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.228.note",
+      "value": "The author joins Exod 20:2 and 20:3 with a comma, with no וגו'. The fixed rendering uses '…'. Proposed ruling: where the author writes both verses without a break, join them with a comma ('I am the LORD your God, You shall have no other gods before Me'); use '…' only where he writes וגו' or leaves words out.",
+      "severity": "question",
+      "reason": "The ellipsis in the English suggests an omission the Hebrew does not mark."
+    },
+    {
+      "ref": "2:12",
+      "path": "token:2:12.165.note",
+      "value": "כלי למעשהו (Isa 54:16): the craftsman's tool. Proposed ruling: כלי → 'vessel' only in the Kabbalistic sense (כלים), 'tool' or 'implement' for a craftsman's object.",
+      "severity": "question",
+      "reason": "Decisions fix כלים as 'vessels' for the Kabbalah; the ordinary sense is not covered."
+    },
+    {
+      "ref": "2:12",
+      "path": "grammar",
+      "value": [
+        "ואת זה חזיתי: the object marker את with the conjunction introduces זה, 'this', ahead of the verb; the English brings it to the front.",
+        "הלא, האם, וכי and the questions ending in הנעבוד and נעבוד are rhetorical questions that expect the answer 'no'.",
+        "ונעבוד, נעבוד, נשמע and נלך are first-person plural forms ('we shall worship', 'we shall heed'), read as deliberative in these questions; the English keeps 'we' in each.",
+        "ישרצו, תוצא and תדשא are jussive in form (Gen 1:20, 1:24, 1:11): 'let the waters swarm', 'let the earth bring forth', 'let the earth sprout'.",
+        "והיתה תשובתך, לפי ששאר המידות ...: the writer summarises the respondent's reply in indirect speech, with no quotation and no quotation marks.",
+        "בנו is ב + נו, 'upon us' (not 'in him'); פועלם is 'their Maker' (the participle with a suffix, as הבורא above). In 'וברוב המלאכות נופח ... ומוציא' the participles are singular ('one blows ... brings out'), after Isa 54:16."
+      ],
+      "severity": "error",
+      "reason": "Adds the notes for the corrected forms."
+    },
+    {
+      "ref": "2:12",
+      "path": "apparatus",
+      "value": [
+        "Deut 33:14, quoted after 'as it is said'.",
+        "Gen 1:20, Gen 1:24 and Gen 1:11, quoted with no formula.",
+        "Ps 104:4, introduced by 'and it is said'.",
+        "Exod 20:2-3, quoted with no formula; the ellipsis is the fixed rendering of the two verses.",
+        "Isa 42:8, introduced by 'and it is said'.",
+        "Exod 34:6, the verse that sets 'slow to anger' against 'quick to anger' (see token 2:12.257).",
+        "Isa 54:16: 'נפח באש פחם ומוציא כלי למעשהו', echoed in 'נופח באש פחם ומוציא כלי למעשהו'.",
+        "Joel 2:11: 'ויהוה נתן קולו לפני חילו', echoed in 'נתן קולו לפני חילו'.",
+        "The Hebrew has a comma between Exod 20:2 and 20:3 and no וגו'; the ellipsis in the English is the fixed rendering (see the question on token 2:12.228)."
+      ],
+      "severity": "error",
+      "reason": "Two allusions were not recognised (Isa 54:16, Joel 2:11); the last line records the ellipsis question."
+    },
+    {
+      "ref": "2:12",
+      "path": "readings",
+      "value": [
+        {
+          "tokens": [
+            "2:12.10"
+          ],
+          "english": "that",
+          "source": "plain 'that'",
+          "note": "כי can introduce the content of the reply ('I will tell ... that you replied ...') as well as give a reason."
+        },
+        {
+          "tokens": [
+            "2:12.216",
+            "2:12.217"
+          ],
+          "english": "at the chosen Standing",
+          "source": "literal",
+          "note": "מעמד, 'standing', as in מעמד הר סיני; the English chooses 'assembly'."
+        },
+        {
+          "tokens": [
+            "2:12.274",
+            "2:12.275",
+            "2:12.276",
+            "2:12.277"
+          ],
+          "english": "Ze'ir Anpin, who did not command us",
+          "source": "Ze'ir Anpin as subject",
+          "note": "אשר לא ציוונו has no object; it may be God who did not command us (to worship him) or Ze'ir Anpin who gave us no command."
+        }
+      ],
+      "severity": "style",
+      "reason": "Real alternatives the Hebrew allows."
+    }
+  ],
+  "verdicts": []
+}

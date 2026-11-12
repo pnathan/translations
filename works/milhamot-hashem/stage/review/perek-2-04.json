@@ -1,0 +1,736 @@
+{
+ "unit": "perek-2-04",
+ "model": "sonnet",
+ "summary": "The translation is faithful and complete, with the fixed renderings, honorifics and abbreviations as ruled. The main fault is the lower-case 'god' for אלהיהם, אלהינו and אלהי העליונים, which the case ruling does not allow (patched to 'God', with the token notes and the unit note). Smaller faults: Deut 11:7 'all the great work' (not 'every great deed'), Isa 44:6 'the first ... the last', an unrecognised Dan 4:32 allusion ('stay His hand'), 'World of' added to באצילות, a lower-case sentence start, a dropped ו, an ambiguous 'which is the First Cause', and 'Mnorat' typos. Three open questions are raised (אם ... או fragment, ר\"ל with a named subject, פ').",
+ "patches": [
+  {
+   "ref": "2:9",
+   "path": "english",
+   "value": "Would that, my lord, you would inform me also, who governs all the hidden worlds, of which the Kabbalists did not speak, and who feeds and sustains them. Whether Ze'ir Anpin, this one in Emanation, is the one who feeds and sustains them, and to him they worship and bow down, or Ein Sof is their God, and to Him alone they worship; and we worship Ze'ir Anpin, for he feeds us, and he is our God, as the Kabbalists said. It follows from this that Ein Sof is the God of the upper ones and Ze'ir Anpin the God of the lower ones, and here we have two authorities, God forbid. And explicitly, some of them said: \"all the great work of the LORD,\" by implication there is a small one. And our true Rabbis said, as cited in Menorat ha-Maor, chapter 143, that at the time of the giving of the Torah He tore open for them seven heavens and opened seven lands, and said to them, to Israel: \"Understand the upper ones and understand the lower ones, and know that there is no God besides Me, neither among the upper ones nor among the lower ones: I am the LORD your God.\" And in Midrash Rabbah, Parashat Yitro, they said: \"I am the LORD your God.\" Rabbi Abbahu said: \"A parable of a king of flesh and blood who reigns; he has a father, or a brother, or a son. The Holy One, blessed be He, said: I am not so. I am the first and I am the last, and besides Me there is no God. I am the first, for I have no father. I am the last, for I have no son. And besides Me there is no God, for I have no brother.\" Thus far the wording of the Midrash, etc. The Rabbi Etz Yosef, of blessed memory, that is to say, \"that a king of flesh and blood, his kingship is not complete, because he has a father, whom he must honor, and who shares the kingship with him, or he has a brother who has a share in the honor of kingship, or he has a son who exercises authority with him, and after him is heir to the throne. And the explanation: He has no father, for He is the First Cause. And He has no brother, for He is one, and has no second. And He has no son, in that the effects were not drawn from Him by nature, as a son is drawn from a father, as some thought (this is the view of the Kabbalists, who said that Ze'ir Anpin is a son of Abba and Imma, and he is a father to the effects that follow him, etc., and he has a sister or sisters, his nukvin) for according to that view he has no power to change any of the things, and his kingship is not complete. But the Holy One, blessed be He, said: 'I am the LORD your God,' for this is His power to bring them out of the land of Egypt, since His kingship is complete and there is none who can stay His hand.\" Thus far his words.",
+   "severity": "error",
+   "reason": "Case of 'God': the case ruling gives 'God' for אלהיהם / אלהינו / אלהי העליונים, which name the God of Israel and sit inside the Kabbalists' quoted words; lower-case 'god' editorialises (a doubtful case takes 'God'). Also: 'in the World of Emanation' adds 'World of' to באצילות; 'And explicitly' begins a new sentence after the full stop; Deut 11:7 'את כל מעשה ה' הגדול' is 'all the great work of the LORD' (singular, with the article on which the inference מכלל דאיכא קטן turns), not 'every great deed'; 'And in Midrash Rabbah' drops the ו; Isa 44:6 has the fixed rendering 'the first ... the last'; עכ\"ל המדרש lost 'his words' (ruling: 'Thus far the wording of ...'); 'which is the First Cause' attaches שהוא to 'father', but it gives the reason for God (He has no father because He is the First Cause); God is 'He' throughout the Etz Yosef passage; ולית דימחי בידיה (Dan 4:32) is 'none can stay His hand', not 'thwart'."
+  },
+  {
+   "ref": "2:9",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:9.1",
+      "2:9.2",
+      "2:9.3",
+      "2:9.4"
+     ],
+     "english": "Would that, my lord, you would inform me also,",
+     "literal": "would-that my-lord inform-me also"
+    },
+    {
+     "tokens": [
+      "2:9.5",
+      "2:9.6",
+      "2:9.7",
+      "2:9.8",
+      "2:9.9",
+      "2:9.10",
+      "2:9.11",
+      "2:9.12",
+      "2:9.13",
+      "2:9.14",
+      "2:9.15",
+      "2:9.16",
+      "2:9.17"
+     ],
+     "english": "who governs all the hidden worlds, of which the Kabbalists did not speak, and who feeds and sustains them.",
+     "literal": "who governs all the-worlds the-hidden which did-not speak of-them the-Kabbalists and-who feeds-them and-sustains-them"
+    },
+    {
+     "tokens": [
+      "2:9.18",
+      "2:9.19",
+      "2:9.20",
+      "2:9.21",
+      "2:9.22",
+      "2:9.23",
+      "2:9.24",
+      "2:9.25",
+      "2:9.26",
+      "2:9.27",
+      "2:9.28",
+      "2:9.29"
+     ],
+     "english": "Whether Ze'ir Anpin, this one in Emanation, is the one who feeds and sustains them, and to him they worship and bow down,",
+     "literal": "whether Ze'ir Anpin this in-the-World-of-Emanation is the-one-who-feeds-them and-sustains-them and-to-him they worship and-bow-down"
+    },
+    {
+     "tokens": [
+      "2:9.30",
+      "2:9.31",
+      "2:9.32",
+      "2:9.33",
+      "2:9.34",
+      "2:9.35",
+      "2:9.36",
+      "2:9.37"
+     ],
+     "english": "or Ein Sof is their God, and to Him alone they worship;",
+     "literal": "or Ein Sof is their-god and-to-Him alone they-worship"
+    },
+    {
+     "tokens": [
+      "2:9.38",
+      "2:9.39",
+      "2:9.40",
+      "2:9.41",
+      "2:9.42",
+      "2:9.43",
+      "2:9.44",
+      "2:9.45",
+      "2:9.46",
+      "2:9.47",
+      "2:9.48",
+      "2:9.49"
+     ],
+     "english": "and we worship Ze'ir Anpin, for he feeds us, and he is our God, as the Kabbalists said.",
+     "literal": "and-we to-Ze'ir-Anpin worship for he feeds us and-he is-our-god as they-said the-Kabbalists"
+    },
+    {
+     "tokens": [
+      "2:9.50",
+      "2:9.51",
+      "2:9.52",
+      "2:9.53",
+      "2:9.54",
+      "2:9.55",
+      "2:9.56",
+      "2:9.57",
+      "2:9.58",
+      "2:9.59",
+      "2:9.60",
+      "2:9.61",
+      "2:9.62",
+      "2:9.63",
+      "2:9.64",
+      "2:9.65",
+      "2:9.66"
+     ],
+     "english": "It follows from this that Ein Sof is the God of the upper ones and Ze'ir Anpin the God of the lower ones, and here we have two authorities, God forbid.",
+     "literal": "and-it-follows according-to this that Ein Sof is god-of the-upper-ones and Ze'ir-Anpin god-of the-lower-ones and-here we-have two authorities God-forbid"
+    },
+    {
+     "tokens": [
+      "2:9.67",
+      "2:9.68",
+      "2:9.69"
+     ],
+     "english": "and explicitly, some of them said:",
+     "literal": "and-explicitly said some-of-them"
+    },
+    {
+     "tokens": [
+      "2:9.70"
+     ],
+     "english": "-",
+     "literal": "(object marker)"
+    },
+    {
+     "tokens": [
+      "2:9.71",
+      "2:9.72",
+      "2:9.73",
+      "2:9.74",
+      "2:9.75",
+      "2:9.76",
+      "2:9.77"
+     ],
+     "english": "\"all the great work of the LORD,\" by implication there is a small one.",
+     "literal": "every deed the-great of-the-LORD by-implication there-is a-small-one"
+    },
+    {
+     "tokens": [
+      "2:9.78",
+      "2:9.79",
+      "2:9.80",
+      "2:9.81",
+      "2:9.82",
+      "2:9.83",
+      "2:9.84",
+      "2:9.85",
+      "2:9.86",
+      "2:9.87",
+      "2:9.88"
+     ],
+     "english": "And our true Rabbis said, as cited in Menorat ha-Maor, chapter 143, that at the time of the giving of the Torah",
+     "literal": "and-our-Rabbis true said cited in-Menorat ha-Maor chapter 143 at-the-time-of the-giving-of the-Torah"
+    },
+    {
+     "tokens": [
+      "2:9.89",
+      "2:9.90",
+      "2:9.91",
+      "2:9.92",
+      "2:9.93",
+      "2:9.94",
+      "2:9.95",
+      "2:9.96",
+      "2:9.97",
+      "2:9.98"
+     ],
+     "english": "He tore open for them seven heavens and opened seven lands, and said to them, to Israel:",
+     "literal": "tore-open for-them seven heavens and-opened seven lands and-said to-them to-Israel"
+    },
+    {
+     "tokens": [
+      "2:9.99",
+      "2:9.100",
+      "2:9.101",
+      "2:9.102",
+      "2:9.103",
+      "2:9.104",
+      "2:9.105",
+      "2:9.106",
+      "2:9.107",
+      "2:9.108",
+      "2:9.109",
+      "2:9.110",
+      "2:9.111",
+      "2:9.112",
+      "2:9.113"
+     ],
+     "english": "\"Understand the upper ones and understand the lower ones, and know that there is no God besides Me, neither among the upper ones nor among the lower ones: I am the LORD your God.\"",
+     "literal": "understand the-upper-ones and-understand the-lower-ones and-know that-there-is-no God besides-me neither in-the-upper-ones nor in-the-lower-ones I the-LORD your-God"
+    },
+    {
+     "tokens": [
+      "2:9.114",
+      "2:9.115",
+      "2:9.116",
+      "2:9.117",
+      "2:9.118",
+      "2:9.119",
+      "2:9.120",
+      "2:9.121"
+     ],
+     "english": "And in Midrash Rabbah, Parashat Yitro, they said: \"I am the LORD your God.\"",
+     "literal": "and-in Midrash Rabbah Parashat Yitro said I the-LORD your-God"
+    },
+    {
+     "tokens": [
+      "2:9.122",
+      "2:9.123",
+      "2:9.124"
+     ],
+     "english": "Rabbi Abbahu said:",
+     "literal": "said Rabbi Abbahu"
+    },
+    {
+     "tokens": [
+      "2:9.125",
+      "2:9.126",
+      "2:9.127",
+      "2:9.128",
+      "2:9.129",
+      "2:9.130",
+      "2:9.131",
+      "2:9.132",
+      "2:9.133",
+      "2:9.134",
+      "2:9.135",
+      "2:9.136"
+     ],
+     "english": "\"A parable of a king of flesh and blood who reigns; he has a father, or a brother, or a son.",
+     "literal": "parable of-king of-flesh and-blood who-reigns he-has to-him father or brother or son"
+    },
+    {
+     "tokens": [
+      "2:9.137",
+      "2:9.138",
+      "2:9.139",
+      "2:9.140",
+      "2:9.141",
+      "2:9.142",
+      "2:9.143",
+      "2:9.144",
+      "2:9.145",
+      "2:9.146",
+      "2:9.147"
+     ],
+     "english": "The Holy One, blessed be He, said: I am not so. I am the first and I am the last, and besides Me there is no God.",
+     "literal": "said the-Holy-One-blessed-be-He I am-not so first and-I last and-besides-me there-is-no God"
+    },
+    {
+     "tokens": [
+      "2:9.148",
+      "2:9.149",
+      "2:9.150",
+      "2:9.151",
+      "2:9.152"
+     ],
+     "english": "I am the first, for I have no father.",
+     "literal": "I first that-there-is-no to-me father"
+    },
+    {
+     "tokens": [
+      "2:9.153",
+      "2:9.154",
+      "2:9.155",
+      "2:9.156",
+      "2:9.157"
+     ],
+     "english": "I am the last, for I have no son.",
+     "literal": "and-I last that-there-is-no to-me son"
+    },
+    {
+     "tokens": [
+      "2:9.158",
+      "2:9.159",
+      "2:9.160",
+      "2:9.161",
+      "2:9.162",
+      "2:9.163"
+     ],
+     "english": "And besides Me there is no God, for I have no brother.\"",
+     "literal": "and-besides-me there-is-no God that-there-is-no to-me brother"
+    },
+    {
+     "tokens": [
+      "2:9.164",
+      "2:9.165",
+      "2:9.166"
+     ],
+     "english": "Thus far the wording of the Midrash, etc.",
+     "literal": "thus-far his-words the-Midrash etc."
+    },
+    {
+     "tokens": [
+      "2:9.167",
+      "2:9.168",
+      "2:9.169",
+      "2:9.170"
+     ],
+     "english": "The Rabbi Etz Yosef, of blessed memory,",
+     "literal": "the-Rabbi Etz Yosef of-blessed-memory"
+    },
+    {
+     "tokens": [
+      "2:9.171"
+     ],
+     "english": "that is to say, \"that",
+     "literal": "that-is-to-say"
+    },
+    {
+     "tokens": [
+      "2:9.172",
+      "2:9.173",
+      "2:9.174",
+      "2:9.175",
+      "2:9.176"
+     ],
+     "english": "a king of flesh and blood, his kingship is not complete,",
+     "literal": "that a-king of-flesh-and-blood is-not his-kingship complete"
+    },
+    {
+     "tokens": [
+      "2:9.177",
+      "2:9.178",
+      "2:9.179",
+      "2:9.180",
+      "2:9.181",
+      "2:9.182",
+      "2:9.183",
+      "2:9.184",
+      "2:9.185",
+      "2:9.186",
+      "2:9.187"
+     ],
+     "english": "because he has a father, whom he must honor, and who shares the kingship with him,",
+     "literal": "because he-has to-him a-father and-must show him honor and-shares with-him in-the-kingship"
+    },
+    {
+     "tokens": [
+      "2:9.188",
+      "2:9.189",
+      "2:9.190",
+      "2:9.191",
+      "2:9.192",
+      "2:9.193",
+      "2:9.194",
+      "2:9.195",
+      "2:9.196"
+     ],
+     "english": "or he has a brother who has a share in the honor of kingship,",
+     "literal": "or he-has to-him brother who-has to-him a-share in-the-honor of-kingship"
+    },
+    {
+     "tokens": [
+      "2:9.197",
+      "2:9.198",
+      "2:9.199",
+      "2:9.200",
+      "2:9.201",
+      "2:9.202",
+      "2:9.203",
+      "2:9.204",
+      "2:9.205",
+      "2:9.206"
+     ],
+     "english": "or he has a son who exercises authority with him, and after him is heir to the throne.",
+     "literal": "or he-has to-him son who-exercises authority with-him and-after-him heir to-the-throne"
+    },
+    {
+     "tokens": [
+      "2:9.207",
+      "2:9.208",
+      "2:9.209",
+      "2:9.210",
+      "2:9.211",
+      "2:9.212",
+      "2:9.213"
+     ],
+     "english": "And the explanation: He has no father, for He is the First Cause.",
+     "literal": "and-the-explanation he-has-no to-him father which-is the-cause the-first"
+    },
+    {
+     "tokens": [
+      "2:9.214",
+      "2:9.215",
+      "2:9.216",
+      "2:9.217",
+      "2:9.218",
+      "2:9.219",
+      "2:9.220",
+      "2:9.221",
+      "2:9.222"
+     ],
+     "english": "And He has no brother, for He is one, and has no second.",
+     "literal": "and-no to-him brother for He is-one and-there-is-no second to-him"
+    },
+    {
+     "tokens": [
+      "2:9.223",
+      "2:9.224",
+      "2:9.225",
+      "2:9.226",
+      "2:9.227",
+      "2:9.228",
+      "2:9.229",
+      "2:9.230",
+      "2:9.231",
+      "2:9.232",
+      "2:9.233"
+     ],
+     "english": "And He has no son, in that the effects were not drawn from Him by nature, as a son is drawn from a father,",
+     "literal": "and-he-has-no to-him son in-that not were-drawn the-effects from-Him by-nature as a-son from the-father"
+    },
+    {
+     "tokens": [
+      "2:9.234",
+      "2:9.235",
+      "2:9.236"
+     ],
+     "english": "as some thought",
+     "literal": "as that-they-thought some"
+    },
+    {
+     "tokens": [
+      "2:9.237",
+      "2:9.238",
+      "2:9.239",
+      "2:9.240",
+      "2:9.241",
+      "2:9.242",
+      "2:9.243",
+      "2:9.244",
+      "2:9.245",
+      "2:9.246",
+      "2:9.247",
+      "2:9.248",
+      "2:9.249",
+      "2:9.250",
+      "2:9.251",
+      "2:9.252",
+      "2:9.253",
+      "2:9.254",
+      "2:9.255"
+     ],
+     "english": "(this is the view of the Kabbalists, who said that Ze'ir Anpin is a son of Abba and Imma, and he is a father to the effects that follow him, etc., and he has a sister or sisters, his nukvin)",
+     "literal": "this-is the-view of-the-Kabbalists who-said that Ze'ir-Anpin is-a-son of-Abba-and-Imma and-he is-a-father to-the-effects that-follow-him etc. and-he-has to-him sister or sisters nukvin his"
+    },
+    {
+     "tokens": [
+      "2:9.256",
+      "2:9.257",
+      "2:9.258",
+      "2:9.259",
+      "2:9.260",
+      "2:9.261",
+      "2:9.262",
+      "2:9.263",
+      "2:9.264",
+      "2:9.265",
+      "2:9.266",
+      "2:9.267",
+      "2:9.268",
+      "2:9.269",
+      "2:9.270"
+     ],
+     "english": "for according to that view he has no power to change any of the things, and his kingship is not complete.",
+     "literal": "for according-to that view that there-is-no the-power in-his-hand to-change any thing of the-things and-no his-kingship complete"
+    },
+    {
+     "tokens": [
+      "2:9.271",
+      "2:9.272",
+      "2:9.273"
+     ],
+     "english": "But the Holy One, blessed be He, said:",
+     "literal": "but the-Holy-One-blessed-be-He said"
+    },
+    {
+     "tokens": [
+      "2:9.274",
+      "2:9.275",
+      "2:9.276"
+     ],
+     "english": "'I am the LORD your God,'",
+     "literal": "I the-LORD your-God"
+    },
+    {
+     "tokens": [
+      "2:9.277",
+      "2:9.278",
+      "2:9.279",
+      "2:9.280",
+      "2:9.281",
+      "2:9.282"
+     ],
+     "english": "for this is His power to bring them out of the land of Egypt,",
+     "literal": "for this his-power to-bring-them out-of-the-land-of Egypt"
+    },
+    {
+     "tokens": [
+      "2:9.283",
+      "2:9.284",
+      "2:9.285"
+     ],
+     "english": "since His kingship is complete",
+     "literal": "since his-kingship complete"
+    },
+    {
+     "tokens": [
+      "2:9.286",
+      "2:9.287",
+      "2:9.288"
+     ],
+     "english": "and there is none who can stay His hand.\"",
+     "literal": "and-there-is-none who-can-thwart his-hand"
+    },
+    {
+     "tokens": [
+      "2:9.289"
+     ],
+     "english": "Thus far his words.",
+     "literal": "thus-far his-words"
+    }
+   ],
+   "severity": "error",
+   "reason": "Phrases follow the corrected English."
+  },
+  {
+   "ref": "2:9",
+   "path": "literal",
+   "value": "would-that my-lord inform-me also who governs all the-worlds the-hidden which did-not speak of-them the-Kabbalists and-who feeds-them and-sustains-them whether Ze'ir Anpin this in-the-World-of-Emanation is the-one-who-feeds-them and-sustains-them and-to-him they worship and-bow-down or Ein Sof is their-God and-to-Him alone they-worship and-we to-Ze'ir-Anpin worship for he feeds us and-he is-our-God as they-said the-Kabbalists and-it-follows according-to this that Ein Sof is God-of the-upper-ones and Ze'ir-Anpin God-of the-lower-ones and-here we-have two authorities God-forbid and-explicitly said some-of-them (object marker) all deed-of the-LORD the-great by-implication there-is a-small-one and-our-Rabbis true said cited in-Menorat ha-Maor chapter 143 at-the-time-of the-giving-of the-Torah tore-open for-them seven heavens and-opened seven lands and-said to-them to-Israel understand the-upper-ones and-understand the-lower-ones and-know that-there-is-no God besides-me neither in-the-upper-ones nor in-the-lower-ones I the-LORD your-God and-in Midrash Rabbah Parashat Yitro said I the-LORD your-God said Rabbi Abbahu parable of-king of-flesh and-blood who-reigns he-has to-him father or brother or son said the-Holy-One-blessed-be-He I am-not so first and-I last and-besides-me there-is-no God I first that-there-is-no to-me father and-I last that-there-is-no to-me son and-besides-me there-is-no God that-there-is-no to-me brother thus-far his-words the-Midrash etc. the-Rabbi Etz Yosef of-blessed-memory that-is-to-say that a-king of-flesh-and-blood is-not his-kingship complete because he-has to-him a-father and-must show him honor and-shares with-him in-the-kingship or he-has to-him brother who-has to-him a-share in-the-honor of-kingship or he-has to-him son who-exercises authority with-him and-after-him heir to-the-throne and-the-explanation he-has-no to-him father for-he the-cause the-first and-no to-him brother for He is-one and-there-is-no second to-him and-he-has-no to-him son in-that not were-drawn the-effects from-Him by-nature as a-son from the-father as that-they-thought some this-is the-view of-the-Kabbalists who-said that Ze'ir-Anpin is-a-son of-Abba-and-Imma and-he is-a-father to-the-effects that-follow-him etc. and-he-has to-him sister or sisters nukvin his for according-to that view that there-is-no the-power in-his-hand to-change any thing of the-things and-no his-kingship complete but the-Holy-One-blessed-be-He said I the-LORD your-God for this his-power to-bring-them out-of-the-land-of Egypt since his-kingship complete and-there-is-none who-can-stay his-hand thus-far his-words",
+   "severity": "style",
+   "reason": "Literal follows the corrected English: 'God', Hebrew order in את כל מעשה ה' הגדול, 'stay', 'Menorat'; שהוא rendered as 'for-he'."
+  },
+  {
+   "ref": "2:9",
+   "path": "note",
+   "value": "The questioner's letter in his voice (chapter 2 correspondence). The English keeps each sentence and the quotation boundaries. Names and terms are transliterated per the decisions. 'God' is used throughout for the God of Israel, including where the questioner puts it in the Kabbalists' mouth ('our God', 'the God of the upper ones'), as the case ruling requires; lower-case 'god' is not used, since the Hebrew does not mark foreignness or plurality here.",
+   "severity": "error",
+   "reason": "The note stated the lower-case 'god' choice, which the case ruling does not allow."
+  },
+  {
+   "ref": "2:9",
+   "path": "grammar",
+   "value": [
+    "אחלי (2:9.1) is a wish, 'would that'. The paragraph is the questioner's letter, addressed to 'my lord' (2:9.2), and is kept in his voice.",
+    "The sentence 'אם ... או' (2:9.18, 2:9.30) gives two alternatives, 'whether ... or', in one statement that ends with a period, not a question; each alternative has its own verbs (עובדים, ומשתחוים; לבדו עובדים).",
+    "ונמצא לפי זה (2:9.50-52) is the questioner's conclusion from the two alternatives, and הרי כאן שתי רשויות ח\"ו (2:9.62-66) is his objection to it.",
+    "From ובהדיא אמרו (2:9.67) the paragraph quotes its sources: the Menorat ha-Maor, the Midrash Rabbah with its parable, and the commentary Etz Yosef. Each quotation is in quotation marks; the Etz Yosef passage runs from ר\"ל (2:9.171) to the closing עכ\"ל (2:9.289).",
+    "Aramaic: נוקבין דיליה (2:9.254-255) and ולית דימחי בידיה (2:9.286-288); the English gives the sense of each."
+   ],
+   "severity": "style",
+   "reason": "Typo: 'Mnorat' for 'Menorat'."
+  },
+  {
+   "ref": "2:9",
+   "path": "apparatus",
+   "value": [
+    "Base text: Wikisource, not yet collated against the 1931 scan (Q2).",
+    "Deut 11:7: 'all the great work of the LORD' renders the words the author quotes, את כל מעשה ה' הגדול; the verse continues 'which He did', which the author does not quote. The inference מכלל דאיכא קטן turns on 'the great'.",
+    "Exod 20:2: 'I am the LORD your God' (אנכי ה' אלהיך), quoted in the Menorat ha-Maor passage, the Midrash, and the Etz Yosef passage.",
+    "Isa 44:6: the Midrash's אני ראשון ... ומבלעדי אין אלהים echoes Isa 44:6; the English keeps the author's wording, 'I am first ... and besides Me there is no God'.",
+    "The reference 'פ' קמ\"ג' to Menorat ha-Maor is kept as written and has not been checked.",
+    "Dan 4:32 (Aramaic): ולית דימחי בידיה echoes ולא איתי די ימחא בידה, 'and there is none who can stay His hand'.",
+    "באצילות is 'in Emanation' (the word is אצילות without עולם); the four worlds are Emanation, Creation, Formation, Making."
+   ],
+   "severity": "error",
+   "reason": "Typo 'Mnorat'; Deut 11:7 wording follows the corrected English; Dan 4:32 allusion in ולית דימחי בידיה was unrecognised; the Emanation point."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.34.gloss",
+   "value": "their God",
+   "severity": "error",
+   "reason": "Case ruling: 'God', not 'god'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.34.note",
+   "value": "'God' as the case ruling requires: אלהיהם names the God of Israel; the questioner puts it in the Kabbalists' view, but the Hebrew marks no foreignness. The alternative, lower-case 'god' (the questioner's charge), is not adopted.",
+   "severity": "error",
+   "reason": "Note of the case ruling."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.46.gloss",
+   "value": "is our God",
+   "severity": "error",
+   "reason": "Case ruling: 'God', not 'god'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.46.note",
+   "value": "'Our God' (אלהינו), in the Kabbalists' quoted words 'and he is our God'; case ruling: 'God' inside the Kabbalists' words. Alternative 'god' not adopted.",
+   "severity": "error",
+   "reason": "Note of the case ruling."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.57.gloss",
+   "value": "the God of",
+   "severity": "error",
+   "reason": "Case ruling: 'God', not 'god'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.57.note",
+   "value": "אלהי- with 'the upper ones/the lower ones': 'God of', per the case ruling (a doubtful case takes 'God'); the alternative 'god of' is not adopted.",
+   "severity": "error",
+   "reason": "Note of the case ruling."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.60.gloss",
+   "value": "the God of",
+   "severity": "error",
+   "reason": "Case ruling: 'God', not 'god'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.60.note",
+   "value": "אלהי- with 'the upper ones/the lower ones': 'God of', per the case ruling (a doubtful case takes 'God'); the alternative 'god of' is not adopted.",
+   "severity": "error",
+   "reason": "Note of the case ruling."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.22.gloss",
+   "value": "in Emanation",
+   "severity": "style",
+   "reason": "באצילות has no 'World' (עולם); 'Emanation' alone, as in the list of the four worlds."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.22.note",
+   "value": "באצילות, 'in emanation': the first of the four worlds, Emanation, Creation, Formation, Making. The Hebrew does not say 'world'.",
+   "severity": "style",
+   "reason": "Matches the gloss."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.71.gloss",
+   "value": "all",
+   "severity": "error",
+   "reason": "כל before the singular מעשה: 'all the great work', not 'every'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.72.gloss",
+   "value": "work",
+   "severity": "style",
+   "reason": "מעשה in Deut 11:7: 'work'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.73.gloss",
+   "value": "of the LORD",
+   "severity": "style",
+   "reason": "unchanged sense; keeps Hebrew order with 'great' after."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.74.gloss",
+   "value": "the great",
+   "severity": "error",
+   "reason": "הגדול has the article; the inference 'a small one' turns on it."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.287.gloss",
+   "value": "who can stay",
+   "severity": "error",
+   "reason": "Dan 4:32 ימחא בידה: 'stay (His) hand'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.287.note",
+   "value": "Aramaic dimchi, from מחא 'to strike': 'to strike the hand' is 'to stay, restrain'. The phrase echoes Dan 4:32 (Aramaic).",
+   "severity": "error",
+   "reason": "Dan 4:32 allusion; 'wipe out' is not the sense."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.212.gloss",
+   "value": "for He is the",
+   "severity": "error",
+   "reason": "שהוא before הסבה הראשונה gives the reason for 'no father': for He is the First Cause; 'which is' leaves the antecedent ambiguous (father or He)."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.164.gloss",
+   "value": "thus far the wording of",
+   "severity": "style",
+   "reason": "עכ\"ל המדרש: 'thus far the wording of the Midrash' (ruling for עכ\"ל / לשון)."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.18.note",
+   "value": "אם ... או with a full stop before it: the English 'Whether ... or ...' is a dependent clause with no main clause (checklist 1). Proposed ruling: render אם ... או after an interrogative sentence as a direct alternative question (\"Is it Ze'ir Anpin ... who feeds them ... or is Ein Sof their God ...?\"), or join it to the preceding sentence with a colon, and let the owner choose; the Hebrew has no question mark.",
+   "severity": "question",
+   "reason": "Decisions are silent on אם ... או after a full stop."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.171.note",
+   "value": "ר\"ל = רוצה לומר has the commentator as subject but no other verb: 'The Rabbi Etz Yosef, of blessed memory, that is to say, ...' has no main clause. Proposed ruling: after a named authority, ר\"ל = 'means to say' (\"The Rabbi Etz Yosef, of blessed memory, means to say that ...\"); 'that is to say' stays when there is no named subject.",
+   "severity": "question",
+   "reason": "The ר\"ל ruling does not cover a named subject."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.84.note",
+   "value": "פ' before a number after a book title: the ruling 'פ' / פרשת → the parashah' gives 'parashah'; the unit reads 'chapter' (פרק). Proposed ruling: 'chapter' for פ' + numeral after a book title (a parashah has no number 143), with the note.",
+   "severity": "question",
+   "reason": "Decisions give two possible readings of פ'."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.99.note",
+   "value": "בינו בעליונים: בין + ב, 'consider, look into'; the English 'understand the upper ones' drops the preposition. Plural imperative addressed to Israel.",
+   "severity": "style",
+   "reason": "Fuller note; English stands."
+  }
+ ],
+ "verdicts": []
+}

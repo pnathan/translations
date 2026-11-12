@@ -1,0 +1,1907 @@
+{
+ "unit": "perek-3-02",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "3:3",
+   "english": "4) The authority of our rabbis, the masters of the new Kabbalah, shall not be greater than the authority of the Great Beit Din who sat in the Chamber of Hewn Stone, and their grasp is no greater than the grasp of the Great Sanhedrin! And yet the Torah said that if they erred and ruled to permit the forbidden, or sinned inadvertently in idolatry, etc. We have learned from the Torah and from our rabbis, in the tractate Horayot, that the Great Beit Din can err and rule a permission in some particular case of idolatry. For man is formed of clay, whether great or small, and is prone to err; therefore the Torah commanded: \"If a matter is too hard for you in judgment, etc. and you shall arise and go up to the place that the LORD your God will choose,\" in order to lessen the error. How is it not impossible that even the Great Beit Din should not err. For it is said in the Torah, \"and a matter is hidden from the eyes of the assembly. And it shall be, if from the eyes of the congregation it was done in error.\" And according to the shortness of our understanding, when we see the great difference between our early rabbis, and how was their faith in the matter of divinity and the unity of the Name, may He be blessed, according to the holy Torah, as explained by Rabbi Bachya, the author of Chovot ha-Levavot, and Rabbi Yehuda Halevi in the Kuzari and in his prayers, and Rabbi Saadia Gaon in the Emunot ve-De'ot, and the Rambam in his work, and in his commentary on the Mishnah, and in the Moreh Nevukhim. And the Roke'ach in the Gate of Unity, and the Sefer Mitzvot Gadol, and Rabbi Yosef Albo in the Sefer ha-Ikkarim, and Rabbi Meir Aldabi in the Shevilei Emunah. And many others, and likewise the complete ones. And how is it now in the books of our later rabbis, according to the new Kabbalah, which is drawn on from the start of the sixth millennium with cords of falsehood until it became in our time as with cart-ropes, and they believed in many gods. And that the principal point in them, to which all our worship and blessings are directed, is the last partzuf in Emanation, called (quick to anger) Ze'ir Anpin.",
+   "literal": "4) and-not will-be authority of-our-rabbis masters-of the-Kabbalah the-new greater than-the-authority-of Beit-Din the-great who-sit in-the-chamber-of the-hewn-stone and-not their-grasp greater than-the-grasp-of Sanhedrin the-great! and-yet all this said the-Torah that-if erred and-ruled to-permit the forbidden or sinned-inadvertently in-idolatry etc. we-learned from the-Torah and-from our-rabbis in the-tractate Horayot that-possible for-the-Beit-Din the-great to-err and-to-rule permission in-which particular-case in-idolatry. for man is-formed of-clay whether great or small and-prone he to-err therefore commanded the-Torah that is-too-hard for-you a-matter for-judgment etc. and-you-shall-arise and-go-up to the-place which will-choose the-LORD your-God in-order to-lessen the-error how is-it-not impossible that-not they-would-err even Beit-Din the-great for-behold it-is-said in-the-Torah and-is-hidden a-matter from-the-eyes-of the-assembly and-it-shall-be if from-the-eyes-of the-congregation was-done in-error and-according-to the-shortness-of our-understanding when-we-see the-difference the-great that-there-is between our-rabbis the-early and-how was their-faith in-the-matter-of the-divinity and-the-unity the-Name-may-He-be-blessed according-to the-mouth-of the-holy-Torah as-explained by-Rabbi Bachya the-author-of Chovot ha-Levavot and-Rabbi Yehuda Halevi in-the-book the-Kuzari and-in-his-prayers and-Rabbi Saadia Gaon in-the-book the-Emunot and-the-De'ot and-the-Rambam in-his-work and-in-the-commentary of-the-Mishnah and-in-the-book Moreh Nevukhim and-the-Roke'ach in-the-gate of-unity and-the-book-of Mitzvot the-great and-Rabbi Yosef Albo in-the-book the-Ikkarim and-Rabbi Meir Aldabi in-the-book Shevilei Emunah and-others many and-so-too the-complete-ones and-how it now in-the-books-of our-rabbis the-later according-to the-Kabbalah the-new drawn-out from-the-start-of the-thousand the-sixth with-cords-of falsehood until it-became in-our-time as-with cart-ropes and-they-believed in-gods many and-that the-principal in-them to-which all our-worship and-our-blessings is the-partzuf the-last in-Emanation called quick to-anger Ze'ir Anpin",
+   "tokens": [
+    {
+     "id": "3:3.1",
+     "gloss": "4)",
+     "note": "printed list marker ד) (the fourth item); kept as 4)"
+    },
+    {
+     "id": "3:3.2",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:3.3",
+     "gloss": "will be"
+    },
+    {
+     "id": "3:3.4",
+     "gloss": "authority"
+    },
+    {
+     "id": "3:3.5",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:3.6",
+     "gloss": "masters of"
+    },
+    {
+     "id": "3:3.7",
+     "gloss": "the Kabbalah"
+    },
+    {
+     "id": "3:3.8",
+     "gloss": "the new"
+    },
+    {
+     "id": "3:3.9",
+     "gloss": "greater"
+    },
+    {
+     "id": "3:3.10",
+     "gloss": "than the authority of"
+    },
+    {
+     "id": "3:3.11",
+     "gloss": "Beit Din (court)",
+     "note": "ב\"ד = בית דין, a court of law; kept as 'Beit Din' (see question)"
+    },
+    {
+     "id": "3:3.12",
+     "gloss": "the great"
+    },
+    {
+     "id": "3:3.13",
+     "gloss": "who sit"
+    },
+    {
+     "id": "3:3.14",
+     "gloss": "in the chamber of"
+    },
+    {
+     "id": "3:3.15",
+     "gloss": "the hewn stone",
+     "note": "lishkat ha-gazit: the Chamber of Hewn Stone; see context"
+    },
+    {
+     "id": "3:3.16",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:3.17",
+     "gloss": "their grasp"
+    },
+    {
+     "id": "3:3.18",
+     "gloss": "greater"
+    },
+    {
+     "id": "3:3.19",
+     "gloss": "than the grasp of"
+    },
+    {
+     "id": "3:3.20",
+     "gloss": "Sanhedrin",
+     "note": "Sanhedrin Gedolah: the Great Sanhedrin"
+    },
+    {
+     "id": "3:3.21",
+     "gloss": "the Great (gedolah)"
+    },
+    {
+     "id": "3:3.22",
+     "gloss": "and yet"
+    },
+    {
+     "id": "3:3.23",
+     "gloss": "all"
+    },
+    {
+     "id": "3:3.24",
+     "gloss": "this"
+    },
+    {
+     "id": "3:3.25",
+     "gloss": "said"
+    },
+    {
+     "id": "3:3.26",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "3:3.27",
+     "gloss": "that if"
+    },
+    {
+     "id": "3:3.28",
+     "gloss": "they erred"
+    },
+    {
+     "id": "3:3.29",
+     "gloss": "and ruled"
+    },
+    {
+     "id": "3:3.30",
+     "gloss": "to permit"
+    },
+    {
+     "id": "3:3.31",
+     "gloss": "the"
+    },
+    {
+     "id": "3:3.32",
+     "gloss": "forbidden"
+    },
+    {
+     "id": "3:3.33",
+     "gloss": "or"
+    },
+    {
+     "id": "3:3.34",
+     "gloss": "sinned inadvertently",
+     "note": "שגגו: from שגגה, an inadvertent act (cf. Num 15:24 לשגגה); distinct from טעו, 'erred' in ruling; 'sinned inadvertently' stands"
+    },
+    {
+     "id": "3:3.35",
+     "gloss": "in idolatry (avodah zarah)",
+     "note": "avodah zarah, literally 'strange worship'; rendered idolatry"
+    },
+    {
+     "id": "3:3.36",
+     "gloss": "etc.",
+     "note": "וכו' marks a truncated quotation; 'etc.' is kept"
+    },
+    {
+     "id": "3:3.37",
+     "gloss": "we learned"
+    },
+    {
+     "id": "3:3.38",
+     "gloss": "from"
+    },
+    {
+     "id": "3:3.39",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "3:3.40",
+     "gloss": "and from our rabbis"
+    },
+    {
+     "id": "3:3.41",
+     "gloss": "in the tractate"
+    },
+    {
+     "id": "3:3.42",
+     "gloss": "Horayot",
+     "note": "Mishnah tractate Horayot, on erroneous rulings of a court"
+    },
+    {
+     "id": "3:3.43",
+     "gloss": "that it is possible"
+    },
+    {
+     "id": "3:3.44",
+     "gloss": "for the Beit Din"
+    },
+    {
+     "id": "3:3.45",
+     "gloss": "the great"
+    },
+    {
+     "id": "3:3.46",
+     "gloss": "to err"
+    },
+    {
+     "id": "3:3.47",
+     "gloss": "and to rule"
+    },
+    {
+     "id": "3:3.48",
+     "gloss": "permission"
+    },
+    {
+     "id": "3:3.49",
+     "gloss": "in which"
+    },
+    {
+     "id": "3:3.50",
+     "gloss": "particular case"
+    },
+    {
+     "id": "3:3.51",
+     "gloss": "in idolatry"
+    },
+    {
+     "id": "3:3.52",
+     "gloss": "for"
+    },
+    {
+     "id": "3:3.53",
+     "gloss": "man"
+    },
+    {
+     "id": "3:3.54",
+     "gloss": "is formed",
+     "note": "קורץ מחומר echoes Job 33:6 (מחמר קרצתי), 'formed from clay'"
+    },
+    {
+     "id": "3:3.55",
+     "gloss": "of clay"
+    },
+    {
+     "id": "3:3.56",
+     "gloss": "whether"
+    },
+    {
+     "id": "3:3.57",
+     "gloss": "great"
+    },
+    {
+     "id": "3:3.58",
+     "gloss": "or"
+    },
+    {
+     "id": "3:3.59",
+     "gloss": "small"
+    },
+    {
+     "id": "3:3.60",
+     "gloss": "and prone"
+    },
+    {
+     "id": "3:3.61",
+     "gloss": "he"
+    },
+    {
+     "id": "3:3.62",
+     "gloss": "to err"
+    },
+    {
+     "id": "3:3.63",
+     "gloss": "therefore"
+    },
+    {
+     "id": "3:3.64",
+     "gloss": "commanded"
+    },
+    {
+     "id": "3:3.65",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "3:3.66",
+     "gloss": "that"
+    },
+    {
+     "id": "3:3.67",
+     "gloss": "is too hard"
+    },
+    {
+     "id": "3:3.68",
+     "gloss": "for you"
+    },
+    {
+     "id": "3:3.69",
+     "gloss": "a matter"
+    },
+    {
+     "id": "3:3.70",
+     "gloss": "for judgment"
+    },
+    {
+     "id": "3:3.71",
+     "gloss": "etc.",
+     "note": "וכו' truncates the verse; only the words on the page are given"
+    },
+    {
+     "id": "3:3.72",
+     "gloss": "and you shall arise"
+    },
+    {
+     "id": "3:3.73",
+     "gloss": "and go up"
+    },
+    {
+     "id": "3:3.74",
+     "gloss": "to"
+    },
+    {
+     "id": "3:3.75",
+     "gloss": "the place"
+    },
+    {
+     "id": "3:3.76",
+     "gloss": "which"
+    },
+    {
+     "id": "3:3.77",
+     "gloss": "will choose"
+    },
+    {
+     "id": "3:3.78",
+     "gloss": "the LORD",
+     "note": "ה׳, the Tetragrammaton as written (the ' is punctuation)"
+    },
+    {
+     "id": "3:3.79",
+     "gloss": "your God"
+    },
+    {
+     "id": "3:3.80",
+     "gloss": "in order"
+    },
+    {
+     "id": "3:3.81",
+     "gloss": "to lessen"
+    },
+    {
+     "id": "3:3.82",
+     "gloss": "the error"
+    },
+    {
+     "id": "3:3.83",
+     "gloss": "how"
+    },
+    {
+     "id": "3:3.84",
+     "gloss": "is it not"
+    },
+    {
+     "id": "3:3.85",
+     "gloss": "impossible",
+     "note": "נמנע = impossible; 'impossible that they not err' means that they cannot avoid erring"
+    },
+    {
+     "id": "3:3.86",
+     "gloss": "that not"
+    },
+    {
+     "id": "3:3.87",
+     "gloss": "they would err"
+    },
+    {
+     "id": "3:3.88",
+     "gloss": "even",
+     "note": "אפי' = אפילו"
+    },
+    {
+     "id": "3:3.89",
+     "gloss": "Beit Din"
+    },
+    {
+     "id": "3:3.90",
+     "gloss": "the great"
+    },
+    {
+     "id": "3:3.91",
+     "gloss": "for behold"
+    },
+    {
+     "id": "3:3.92",
+     "gloss": "it is said"
+    },
+    {
+     "id": "3:3.93",
+     "gloss": "in the Torah"
+    },
+    {
+     "id": "3:3.94",
+     "gloss": "and is hidden"
+    },
+    {
+     "id": "3:3.95",
+     "gloss": "a matter"
+    },
+    {
+     "id": "3:3.96",
+     "gloss": "from the eyes of"
+    },
+    {
+     "id": "3:3.97",
+     "gloss": "the assembly"
+    },
+    {
+     "id": "3:3.98",
+     "gloss": "and it shall be"
+    },
+    {
+     "id": "3:3.99",
+     "gloss": "if"
+    },
+    {
+     "id": "3:3.100",
+     "gloss": "from the eyes of"
+    },
+    {
+     "id": "3:3.101",
+     "gloss": "the congregation"
+    },
+    {
+     "id": "3:3.102",
+     "gloss": "was done"
+    },
+    {
+     "id": "3:3.103",
+     "gloss": "in error"
+    },
+    {
+     "id": "3:3.104",
+     "gloss": "and according to"
+    },
+    {
+     "id": "3:3.105",
+     "gloss": "the shortness"
+    },
+    {
+     "id": "3:3.106",
+     "gloss": "of our understanding"
+    },
+    {
+     "id": "3:3.107",
+     "gloss": "when we see"
+    },
+    {
+     "id": "3:3.108",
+     "gloss": "the difference"
+    },
+    {
+     "id": "3:3.109",
+     "gloss": "great"
+    },
+    {
+     "id": "3:3.110",
+     "gloss": "that there is"
+    },
+    {
+     "id": "3:3.111",
+     "gloss": "between"
+    },
+    {
+     "id": "3:3.112",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:3.113",
+     "gloss": "the early ones"
+    },
+    {
+     "id": "3:3.114",
+     "gloss": "and how"
+    },
+    {
+     "id": "3:3.115",
+     "gloss": "was"
+    },
+    {
+     "id": "3:3.116",
+     "gloss": "their faith"
+    },
+    {
+     "id": "3:3.117",
+     "gloss": "in the matter of"
+    },
+    {
+     "id": "3:3.118",
+     "gloss": "the divinity"
+    },
+    {
+     "id": "3:3.119",
+     "gloss": "and the unity"
+    },
+    {
+     "id": "3:3.120",
+     "gloss": "the Name, may He be blessed",
+     "note": "השי\"ת: the Name, may He be blessed (fixed form)"
+    },
+    {
+     "id": "3:3.121",
+     "gloss": "according to"
+    },
+    {
+     "id": "3:3.122",
+     "gloss": "the mouth of"
+    },
+    {
+     "id": "3:3.123",
+     "gloss": "the holy Torah",
+     "note": "תוה\"ק = תורה הקדושה, 'the holy Torah'"
+    },
+    {
+     "id": "3:3.124",
+     "gloss": "as explained"
+    },
+    {
+     "id": "3:3.125",
+     "gloss": "by Rabbi",
+     "note": "בר' = ב ('by') + ר' (Rabbi); the author writes ר', not רבינו, so 'Rabbi Bachya'"
+    },
+    {
+     "id": "3:3.126",
+     "gloss": "Bachya"
+    },
+    {
+     "id": "3:3.127",
+     "gloss": "the author of"
+    },
+    {
+     "id": "3:3.128",
+     "gloss": "Chovot"
+    },
+    {
+     "id": "3:3.129",
+     "gloss": "ha-Levavot",
+     "note": "Chovot ha-Levavot, 'Duties of the Heart', the book of Rabbi Bachya (Bachya ibn Paquda), whom the author names as בעל חובת הלבבות"
+    },
+    {
+     "id": "3:3.130",
+     "gloss": "and Rabbi"
+    },
+    {
+     "id": "3:3.131",
+     "gloss": "Yehuda"
+    },
+    {
+     "id": "3:3.132",
+     "gloss": "Halevi"
+    },
+    {
+     "id": "3:3.133",
+     "gloss": "in the book"
+    },
+    {
+     "id": "3:3.134",
+     "gloss": "the Kuzari",
+     "note": "Sefer ha-Kuzari, Halevi's book, 'The Kuzari'"
+    },
+    {
+     "id": "3:3.135",
+     "gloss": "and in his prayers"
+    },
+    {
+     "id": "3:3.136",
+     "gloss": "and Rabbi"
+    },
+    {
+     "id": "3:3.137",
+     "gloss": "Saadia"
+    },
+    {
+     "id": "3:3.138",
+     "gloss": "Gaon"
+    },
+    {
+     "id": "3:3.139",
+     "gloss": "in the book"
+    },
+    {
+     "id": "3:3.140",
+     "gloss": "the Emunot",
+     "note": "Emunot ve-De'ot, 'Beliefs and Opinions', Saadia Gaon's book"
+    },
+    {
+     "id": "3:3.141",
+     "gloss": "and the De'ot"
+    },
+    {
+     "id": "3:3.142",
+     "gloss": "and the Rambam",
+     "note": "the Rambam (Maimonides); the work is not named at this point"
+    },
+    {
+     "id": "3:3.143",
+     "gloss": "in his work"
+    },
+    {
+     "id": "3:3.144",
+     "gloss": "and in the commentary"
+    },
+    {
+     "id": "3:3.145",
+     "gloss": "of the Mishnah",
+     "note": "the Rambam's commentary on the Mishnah"
+    },
+    {
+     "id": "3:3.146",
+     "gloss": "and in the book"
+    },
+    {
+     "id": "3:3.147",
+     "gloss": "Moreh"
+    },
+    {
+     "id": "3:3.148",
+     "gloss": "Nevukhim",
+     "note": "Moreh Nevukhim, the Guide for the Perplexed"
+    },
+    {
+     "id": "3:3.149",
+     "gloss": "and the Roke'ach",
+     "note": "Roke'ach: fixed form"
+    },
+    {
+     "id": "3:3.150",
+     "gloss": "in the gate"
+    },
+    {
+     "id": "3:3.151",
+     "gloss": "of unity",
+     "note": "Sha'ar ha-Yichud, 'Gate of Unity', as the author names the section"
+    },
+    {
+     "id": "3:3.152",
+     "gloss": "and the book of"
+    },
+    {
+     "id": "3:3.153",
+     "gloss": "Mitzvot"
+    },
+    {
+     "id": "3:3.154",
+     "gloss": "the great",
+     "note": "Sefer Mitzvot Gadol, the Semag"
+    },
+    {
+     "id": "3:3.155",
+     "gloss": "and Rabbi"
+    },
+    {
+     "id": "3:3.156",
+     "gloss": "Yosef"
+    },
+    {
+     "id": "3:3.157",
+     "gloss": "Albo"
+    },
+    {
+     "id": "3:3.158",
+     "gloss": "in the book"
+    },
+    {
+     "id": "3:3.159",
+     "gloss": "the Ikkarim",
+     "note": "Sefer ha-Ikkarim, 'Principles', Albo's book"
+    },
+    {
+     "id": "3:3.160",
+     "gloss": "and Rabbi"
+    },
+    {
+     "id": "3:3.161",
+     "gloss": "Meir"
+    },
+    {
+     "id": "3:3.162",
+     "gloss": "Aldabi"
+    },
+    {
+     "id": "3:3.163",
+     "gloss": "in the book"
+    },
+    {
+     "id": "3:3.164",
+     "gloss": "Shevilei",
+     "note": "Shvilei Emunah, 'Paths of Faith', the book of Meir Aldabi"
+    },
+    {
+     "id": "3:3.165",
+     "gloss": "Emunah"
+    },
+    {
+     "id": "3:3.166",
+     "gloss": "and others"
+    },
+    {
+     "id": "3:3.167",
+     "gloss": "many"
+    },
+    {
+     "id": "3:3.168",
+     "gloss": "and so too"
+    },
+    {
+     "id": "3:3.169",
+     "gloss": "the complete ones",
+     "note": "שלימים, 'the complete ones'; the author does not name them"
+    },
+    {
+     "id": "3:3.170",
+     "gloss": "and how"
+    },
+    {
+     "id": "3:3.171",
+     "gloss": "it"
+    },
+    {
+     "id": "3:3.172",
+     "gloss": "now"
+    },
+    {
+     "id": "3:3.173",
+     "gloss": "in the books of"
+    },
+    {
+     "id": "3:3.174",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:3.175",
+     "gloss": "the later ones"
+    },
+    {
+     "id": "3:3.176",
+     "gloss": "according to",
+     "note": "ע\"פ = על פי, 'according to'"
+    },
+    {
+     "id": "3:3.177",
+     "gloss": "the Kabbalah"
+    },
+    {
+     "id": "3:3.178",
+     "gloss": "the new"
+    },
+    {
+     "id": "3:3.179",
+     "gloss": "drawn on",
+     "note": "הנמשכת: echoes משכי in Isa 5:18 ('those who draw iniquity with cords of falsehood')"
+    },
+    {
+     "id": "3:3.180",
+     "gloss": "from the start of"
+    },
+    {
+     "id": "3:3.181",
+     "gloss": "the thousand"
+    },
+    {
+     "id": "3:3.182",
+     "gloss": "sixth",
+     "note": "the sixth thousand (sixth millennium)"
+    },
+    {
+     "id": "3:3.183",
+     "gloss": "with cords of"
+    },
+    {
+     "id": "3:3.184",
+     "gloss": "falsehood",
+     "note": "Isa 5:18, embedded allusion (no quotation marks)"
+    },
+    {
+     "id": "3:3.185",
+     "gloss": "until"
+    },
+    {
+     "id": "3:3.186",
+     "gloss": "it became"
+    },
+    {
+     "id": "3:3.187",
+     "gloss": "in our time"
+    },
+    {
+     "id": "3:3.188",
+     "gloss": "as with"
+    },
+    {
+     "id": "3:3.189",
+     "gloss": "cart-ropes",
+     "note": "Isa 5:18, embedded allusion (no quotation marks)"
+    },
+    {
+     "id": "3:3.190",
+     "gloss": "and they believed"
+    },
+    {
+     "id": "3:3.191",
+     "gloss": "in gods",
+     "note": "אלהים רבים: 'gods' in the author's own charge"
+    },
+    {
+     "id": "3:3.192",
+     "gloss": "many"
+    },
+    {
+     "id": "3:3.193",
+     "gloss": "and that the principal"
+    },
+    {
+     "id": "3:3.194",
+     "gloss": "in them"
+    },
+    {
+     "id": "3:3.195",
+     "gloss": "which"
+    },
+    {
+     "id": "3:3.196",
+     "gloss": "to it"
+    },
+    {
+     "id": "3:3.197",
+     "gloss": "all"
+    },
+    {
+     "id": "3:3.198",
+     "gloss": "our worship"
+    },
+    {
+     "id": "3:3.199",
+     "gloss": "and our blessings"
+    },
+    {
+     "id": "3:3.200",
+     "gloss": "is"
+    },
+    {
+     "id": "3:3.201",
+     "gloss": "the partzuf"
+    },
+    {
+     "id": "3:3.202",
+     "gloss": "the last"
+    },
+    {
+     "id": "3:3.203",
+     "gloss": "in Emanation",
+     "note": "באצילות: 'in Emanation', without 'World of'"
+    },
+    {
+     "id": "3:3.204",
+     "gloss": "called"
+    },
+    {
+     "id": "3:3.205",
+     "gloss": "quick",
+     "note": "קצר אפים: the author's calque of Ze'ir Anpin, set against 'slow to anger' (ארך אפים) in Exod 34:6; cf. Prov 14:17"
+    },
+    {
+     "id": "3:3.206",
+     "gloss": "to anger"
+    },
+    {
+     "id": "3:3.207",
+     "gloss": "Ze'ir",
+     "note": "Aramaic 'small' (ze'ir)"
+    },
+    {
+     "id": "3:3.208",
+     "gloss": "Anpin",
+     "note": "Aramaic 'face' (anpin)"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:3.1"
+     ],
+     "english": "4)",
+     "literal": "4)"
+    },
+    {
+     "tokens": [
+      "3:3.2",
+      "3:3.3",
+      "3:3.4",
+      "3:3.5",
+      "3:3.6",
+      "3:3.7",
+      "3:3.8",
+      "3:3.9",
+      "3:3.10"
+     ],
+     "english": "The authority of our rabbis, the masters of the new Kabbalah, shall not be greater than the authority of",
+     "literal": "and-not will-be authority of-our-rabbis masters-of the-Kabbalah the-new greater than-the-authority-of"
+    },
+    {
+     "tokens": [
+      "3:3.11",
+      "3:3.12",
+      "3:3.13",
+      "3:3.14",
+      "3:3.15"
+     ],
+     "english": "the Great Beit Din who sat in the Chamber of Hewn Stone,",
+     "literal": "Beit-Din the-great who-sit in-the-chamber-of the-hewn-stone"
+    },
+    {
+     "tokens": [
+      "3:3.16",
+      "3:3.17",
+      "3:3.18",
+      "3:3.19",
+      "3:3.20",
+      "3:3.21"
+     ],
+     "english": "and their grasp is no greater than the grasp of the Great Sanhedrin!",
+     "literal": "and-not their-grasp greater than-the-grasp-of Sanhedrin the-great!"
+    },
+    {
+     "tokens": [
+      "3:3.22",
+      "3:3.23",
+      "3:3.24",
+      "3:3.25",
+      "3:3.26",
+      "3:3.27",
+      "3:3.28",
+      "3:3.29",
+      "3:3.30",
+      "3:3.31",
+      "3:3.32",
+      "3:3.33",
+      "3:3.34",
+      "3:3.35",
+      "3:3.36"
+     ],
+     "english": "And yet the Torah said that if they erred and ruled to permit the forbidden, or sinned inadvertently in idolatry, etc.",
+     "literal": "and-yet all this said the-Torah that-if erred and-ruled to-permit the forbidden or sinned-inadvertently in-idolatry etc."
+    },
+    {
+     "tokens": [
+      "3:3.37",
+      "3:3.38",
+      "3:3.39",
+      "3:3.40",
+      "3:3.41",
+      "3:3.42",
+      "3:3.43",
+      "3:3.44",
+      "3:3.45",
+      "3:3.46",
+      "3:3.47",
+      "3:3.48",
+      "3:3.49",
+      "3:3.50",
+      "3:3.51"
+     ],
+     "english": "We have learned from the Torah and from our rabbis, in the tractate Horayot, that the Great Beit Din can err and rule a permission in some particular case of idolatry.",
+     "literal": "we-learned from the-Torah and-from our-rabbis in the-tractate Horayot that-possible for-the-Beit-Din the-great to-err and-to-rule permission in-which particular-case in-idolatry."
+    },
+    {
+     "tokens": [
+      "3:3.52",
+      "3:3.53",
+      "3:3.54",
+      "3:3.55",
+      "3:3.56",
+      "3:3.57",
+      "3:3.58",
+      "3:3.59",
+      "3:3.60",
+      "3:3.61",
+      "3:3.62",
+      "3:3.63",
+      "3:3.64",
+      "3:3.65"
+     ],
+     "english": "For man is formed of clay, whether great or small, and is prone to err; therefore the Torah commanded:",
+     "literal": "for man is-formed of-clay whether great or small and-prone he to-err therefore commanded the-Torah"
+    },
+    {
+     "tokens": [
+      "3:3.66",
+      "3:3.67",
+      "3:3.68",
+      "3:3.69",
+      "3:3.70",
+      "3:3.71"
+     ],
+     "english": "\"If a matter is too hard for you in judgment, etc.",
+     "literal": "that is-too-hard for-you a-matter for-judgment etc."
+    },
+    {
+     "tokens": [
+      "3:3.72",
+      "3:3.73",
+      "3:3.74",
+      "3:3.75",
+      "3:3.76",
+      "3:3.77",
+      "3:3.78",
+      "3:3.79"
+     ],
+     "english": "and you shall arise and go up to the place that the LORD your God will choose,\"",
+     "literal": "and-you-shall-arise and-go-up to the-place which will-choose the-LORD your-God"
+    },
+    {
+     "tokens": [
+      "3:3.80",
+      "3:3.81",
+      "3:3.82"
+     ],
+     "english": "in order to lessen the error.",
+     "literal": "in-order to-lessen the-error"
+    },
+    {
+     "tokens": [
+      "3:3.83",
+      "3:3.84",
+      "3:3.85",
+      "3:3.86",
+      "3:3.87",
+      "3:3.88",
+      "3:3.89",
+      "3:3.90"
+     ],
+     "english": "How is it not impossible that even the Great Beit Din should not err.",
+     "literal": "how is-it-not impossible that-not they-would-err even Beit-Din the-great"
+    },
+    {
+     "tokens": [
+      "3:3.91",
+      "3:3.92",
+      "3:3.93",
+      "3:3.94",
+      "3:3.95",
+      "3:3.96",
+      "3:3.97"
+     ],
+     "english": "For it is said in the Torah, \"and a matter is hidden from the eyes of the assembly.",
+     "literal": "for-behold it-is-said in-the-Torah and-is-hidden a-matter from-the-eyes-of the-assembly"
+    },
+    {
+     "tokens": [
+      "3:3.98",
+      "3:3.99",
+      "3:3.100",
+      "3:3.101",
+      "3:3.102",
+      "3:3.103"
+     ],
+     "english": "And it shall be, if from the eyes of the congregation it was done in error.\"",
+     "literal": "and-it-shall-be if from-the-eyes-of the-congregation was-done in-error"
+    },
+    {
+     "tokens": [
+      "3:3.104",
+      "3:3.105",
+      "3:3.106",
+      "3:3.107",
+      "3:3.108",
+      "3:3.109",
+      "3:3.110",
+      "3:3.111",
+      "3:3.112",
+      "3:3.113"
+     ],
+     "english": "And according to the shortness of our understanding, when we see the great difference between our early rabbis,",
+     "literal": "and-according-to the-shortness-of our-understanding when-we-see the-difference the-great that-there-is between our-rabbis the-early"
+    },
+    {
+     "tokens": [
+      "3:3.114",
+      "3:3.115",
+      "3:3.116",
+      "3:3.117",
+      "3:3.118",
+      "3:3.119",
+      "3:3.120"
+     ],
+     "english": "and how was their faith in the matter of divinity and the unity of the Name, may He be blessed,",
+     "literal": "and-how was their-faith in-the-matter-of the-divinity and-the-unity the-Name-may-He-be-blessed"
+    },
+    {
+     "tokens": [
+      "3:3.121",
+      "3:3.122",
+      "3:3.123",
+      "3:3.124",
+      "3:3.125",
+      "3:3.126",
+      "3:3.127",
+      "3:3.128",
+      "3:3.129"
+     ],
+     "english": "according to the holy Torah, as explained by Rabbi Bachya, the author of Chovot ha-Levavot,",
+     "literal": "according-to the-mouth-of the-holy-Torah as-explained by-Rabbi Bachya the-author-of Chovot ha-Levavot"
+    },
+    {
+     "tokens": [
+      "3:3.130",
+      "3:3.131",
+      "3:3.132",
+      "3:3.133",
+      "3:3.134",
+      "3:3.135"
+     ],
+     "english": "and Rabbi Yehuda Halevi in the Kuzari and in his prayers,",
+     "literal": "and-Rabbi Yehuda Halevi in-the-book the-Kuzari and-in-his-prayers"
+    },
+    {
+     "tokens": [
+      "3:3.136",
+      "3:3.137",
+      "3:3.138",
+      "3:3.139",
+      "3:3.140",
+      "3:3.141"
+     ],
+     "english": "and Rabbi Saadia Gaon in the Emunot ve-De'ot,",
+     "literal": "and-Rabbi Saadia Gaon in-the-book the-Emunot and-the-De'ot"
+    },
+    {
+     "tokens": [
+      "3:3.142",
+      "3:3.143",
+      "3:3.144",
+      "3:3.145"
+     ],
+     "english": "and the Rambam in his work, and in his commentary on the Mishnah,",
+     "literal": "and-the-Rambam in-his-work and-in-the-commentary of-the-Mishnah"
+    },
+    {
+     "tokens": [
+      "3:3.146",
+      "3:3.147",
+      "3:3.148"
+     ],
+     "english": "and in the Moreh Nevukhim.",
+     "literal": "and-in-the-book Moreh Nevukhim"
+    },
+    {
+     "tokens": [
+      "3:3.149",
+      "3:3.150",
+      "3:3.151"
+     ],
+     "english": "And the Roke'ach in the Gate of Unity,",
+     "literal": "and-the-Roke'ach in-the-gate of-unity"
+    },
+    {
+     "tokens": [
+      "3:3.152",
+      "3:3.153",
+      "3:3.154"
+     ],
+     "english": "and the Sefer Mitzvot Gadol,",
+     "literal": "and-the-book-of Mitzvot the-great"
+    },
+    {
+     "tokens": [
+      "3:3.155",
+      "3:3.156",
+      "3:3.157",
+      "3:3.158",
+      "3:3.159"
+     ],
+     "english": "and Rabbi Yosef Albo in the Sefer ha-Ikkarim,",
+     "literal": "and-Rabbi Yosef Albo in-the-book the-Ikkarim"
+    },
+    {
+     "tokens": [
+      "3:3.160",
+      "3:3.161",
+      "3:3.162",
+      "3:3.163",
+      "3:3.164",
+      "3:3.165"
+     ],
+     "english": "and Rabbi Meir Aldabi in the Shevilei Emunah.",
+     "literal": "and-Rabbi Meir Aldabi in-the-book Shevilei Emunah"
+    },
+    {
+     "tokens": [
+      "3:3.166",
+      "3:3.167",
+      "3:3.168",
+      "3:3.169"
+     ],
+     "english": "And many others, and likewise the complete ones.",
+     "literal": "and-others many and-so-too the-complete-ones"
+    },
+    {
+     "tokens": [
+      "3:3.170",
+      "3:3.171",
+      "3:3.172",
+      "3:3.173",
+      "3:3.174",
+      "3:3.175",
+      "3:3.176",
+      "3:3.177",
+      "3:3.178"
+     ],
+     "english": "And how is it now in the books of our later rabbis, according to the new Kabbalah,",
+     "literal": "and-how it now in-the-books-of our-rabbis the-later according-to the-Kabbalah the-new"
+    },
+    {
+     "tokens": [
+      "3:3.179",
+      "3:3.180",
+      "3:3.181",
+      "3:3.182",
+      "3:3.183",
+      "3:3.184"
+     ],
+     "english": "which is drawn on from the start of the sixth millennium with cords of falsehood",
+     "literal": "drawn-out from-the-start-of the-thousand the-sixth with-cords-of falsehood"
+    },
+    {
+     "tokens": [
+      "3:3.185",
+      "3:3.186",
+      "3:3.187",
+      "3:3.188",
+      "3:3.189",
+      "3:3.190",
+      "3:3.191",
+      "3:3.192"
+     ],
+     "english": "until it became in our time as with cart-ropes, and they believed in many gods.",
+     "literal": "until it-became in-our-time as-with cart-ropes and-they-believed in-gods many"
+    },
+    {
+     "tokens": [
+      "3:3.193",
+      "3:3.194",
+      "3:3.195",
+      "3:3.196",
+      "3:3.197",
+      "3:3.198",
+      "3:3.199",
+      "3:3.200",
+      "3:3.201",
+      "3:3.202",
+      "3:3.203",
+      "3:3.204",
+      "3:3.205",
+      "3:3.206",
+      "3:3.207",
+      "3:3.208"
+     ],
+     "english": "And that the principal point in them, to which all our worship and blessings are directed, is the last partzuf in Emanation, called (quick to anger) Ze'ir Anpin.",
+     "literal": "and-that the-principal in-them to-which all our-worship and-our-blessings is the-partzuf the-last in-Emanation called quick to-anger Ze'ir Anpin"
+    }
+   ],
+   "grammar": [
+    "ולא יהא כח ... גדול מכח: a negated future (יהא) with a comparison; the English keeps the repeated 'the authority of' so that the comparison is plain.",
+    "איך אינו נמנע שלא יטעו: נמנע is 'impossible', so the clause says that it is impossible for even the Great Beit Din not to err, that is, error is unavoidable; the full stop of the Hebrew is kept and the English keeps 'How is it not ...'.",
+    "Three Torah passages are cited: Deut 17:8 (quoted, with וכו' as the author's truncation sign), Lev 4:13 and Num 15:24 (introduced by שהרי נאמר בתורה and continued by והיה).",
+    "The long period ולפי קוצר דעתינו ... is divided at 'when we see' and 'how was their faith'; no clause is dropped and the order of the list of authors is kept. It has no main clause of its own: the main clause is ואמונה זו החדשה רחוקה מאד in 3:4."
+   ],
+   "note": "Plain sentences follow the Hebrew full stops. The Torah quotations take double quotation marks; the author's וכו' is kept as 'etc.'. The list of authors is elliptical in the Hebrew after the full stop at הנבוכים, and the English keeps that ellipsis. The period that begins ולפי קוצר דעתינו has no main clause here; 3:4 supplies it.",
+   "commentary": [],
+   "apparatus": [
+    "Base text: Wikisource; not yet collated with the 1931 scan (open question 2), so the English is the base text as it stands.",
+    "Printed list marker ד) (the fourth item) opens the paragraph; the next paragraph opens ה) (the fifth item).",
+    "Deut 17:8, quoted with 'etc.' marking the author's omission (וכו').",
+    "Lev 4:13, quoted: ונעלם דבר מעיני הקהל.",
+    "Num 15:24, quoted: והיה אם מעיני העדה נעשתה לשגגה.",
+    "Isa 5:18, embedded allusion (no quotation marks): בחבלי השוא and כעבות העגלה; הנמשכת echoes משכי in the same verse.",
+    "Prov 14:17, for the author's קצר אפים, set against ארך אפים in Exod 34:6.",
+    "Job 33:6, embedded allusion (no quotation marks): קורץ מחומר echoes מחמר קרצתי, 'formed from clay'."
+   ],
+   "context": [
+    "The Chamber of Hewn Stone (lishkat ha-gazit): the chamber in the Temple where the Great Court sat, as the author's words place it. The Hebrew gives no further detail."
+   ]
+  },
+  {
+   "ref": "3:4",
+   "english": "5) And this new faith is very far from the way of our holy Torah, written and oral. Therefore we separated ourselves from it, and we clung to the words of our rabbis of blessed memory, the masters of the Mishnah and the Talmud, Bavli and Yerushalmi, and the decisors, and the midrashim of our famous rabbis, Midrash Rabbah and Tanchuma and Yalkut Shimoni, and Midrash ha-Gadol found in Yemen in manuscript, and Nur al-Tzalam, and the like. Also, the remnant of the books of our forebears, the sages of Yemen, we find and see that they adhere to the words of the great ones mentioned above and to their opinions. And when you saw that we separated from the new Kabbalah, your anger burned against us, and in haughtiness of spirit you, the arrogant, smeared falsehood on us. And we asked you to teach us the way: how would the words of our rabbis, the new Kabbalists, agree with the words of our early rabbis mentioned above, and with the words of the Tannaim and the Amoraim. And your answer to us was in the manner of deception and taunts.",
+   "literal": "5) and-the-faith this the-new far very from-the-way-of our-Torah the-holy that-written and-that-oral therefore we-separated ourselves from-it and-we-clung to-the-words-of our-rabbis of-blessed-memory the-masters-of the-Mishnah and-the-Talmud Bavli and-Yerushalmi and-the-decisors and-the-midrashim-of our-rabbis the-famous Midrash Rabbah and-Tanchuma and-Yalkut Shimoni and-Midrash ha-Gadol found in-Yemen in-manuscript and-Nur al-Tzalam and-the-like of-them also the-remnant-of the-books-of our-forebears the-sages-of Yemen we-find and-we-see that-they adhere to-the-words-of the-great-ones mentioned above and-to-their-opinions and-when-you-saw that-we-separated from the-Kabbalah the-new burned your-anger against-us and-in haughtiness-of spirit you-smeared upon-us falsehood arrogant-ones and-we-asked of-you to-teach-us the-way how would-agree the-words-of our-rabbis the-Kabbalists the-new with the-words-of our-rabbis the-early mentioned above and-with the-words-of the-Tannaim and-the-Amoraim and-was your-answer to-us in-the-manner-of deception and-taunts",
+   "tokens": [
+    {
+     "id": "3:4.1",
+     "gloss": "5)",
+     "note": "printed list marker ה) (the fifth item); kept as 5)"
+    },
+    {
+     "id": "3:4.2",
+     "gloss": "and the faith"
+    },
+    {
+     "id": "3:4.3",
+     "gloss": "this"
+    },
+    {
+     "id": "3:4.4",
+     "gloss": "new"
+    },
+    {
+     "id": "3:4.5",
+     "gloss": "far"
+    },
+    {
+     "id": "3:4.6",
+     "gloss": "very"
+    },
+    {
+     "id": "3:4.7",
+     "gloss": "from the way of"
+    },
+    {
+     "id": "3:4.8",
+     "gloss": "our Torah"
+    },
+    {
+     "id": "3:4.9",
+     "gloss": "the holy",
+     "note": "הק' = הקדושה, 'holy'"
+    },
+    {
+     "id": "3:4.10",
+     "gloss": "that is written"
+    },
+    {
+     "id": "3:4.11",
+     "gloss": "and that is by"
+    },
+    {
+     "id": "3:4.12",
+     "gloss": "mouth (orally)"
+    },
+    {
+     "id": "3:4.13",
+     "gloss": "therefore"
+    },
+    {
+     "id": "3:4.14",
+     "gloss": "we separated"
+    },
+    {
+     "id": "3:4.15",
+     "gloss": "ourselves"
+    },
+    {
+     "id": "3:4.16",
+     "gloss": "from it"
+    },
+    {
+     "id": "3:4.17",
+     "gloss": "and we clung"
+    },
+    {
+     "id": "3:4.18",
+     "gloss": "to the words of"
+    },
+    {
+     "id": "3:4.19",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:4.20",
+     "gloss": "of blessed memory",
+     "note": "ז\"ל: 'of blessed memory'"
+    },
+    {
+     "id": "3:4.21",
+     "gloss": "the masters of"
+    },
+    {
+     "id": "3:4.22",
+     "gloss": "the Mishnah"
+    },
+    {
+     "id": "3:4.23",
+     "gloss": "and the Talmud"
+    },
+    {
+     "id": "3:4.24",
+     "gloss": "Bavli",
+     "note": "the Babylonian Talmud"
+    },
+    {
+     "id": "3:4.25",
+     "gloss": "and Yerushalmi",
+     "note": "the Jerusalem Talmud"
+    },
+    {
+     "id": "3:4.26",
+     "gloss": "and the decisors",
+     "note": "הפוסקים: the halakhic decisors"
+    },
+    {
+     "id": "3:4.27",
+     "gloss": "and the midrashim of"
+    },
+    {
+     "id": "3:4.28",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:4.29",
+     "gloss": "the famous"
+    },
+    {
+     "id": "3:4.30",
+     "gloss": "Midrash"
+    },
+    {
+     "id": "3:4.31",
+     "gloss": "Rabbah"
+    },
+    {
+     "id": "3:4.32",
+     "gloss": "and Tanchuma"
+    },
+    {
+     "id": "3:4.33",
+     "gloss": "and Yalkut"
+    },
+    {
+     "id": "3:4.34",
+     "gloss": "Shimoni"
+    },
+    {
+     "id": "3:4.35",
+     "gloss": "and the Midrash"
+    },
+    {
+     "id": "3:4.36",
+     "gloss": "ha-Gadol",
+     "note": "Midrash ha-Gadol, 'the Great Midrash', the title of the book"
+    },
+    {
+     "id": "3:4.37",
+     "gloss": "found"
+    },
+    {
+     "id": "3:4.38",
+     "gloss": "in Yemen"
+    },
+    {
+     "id": "3:4.39",
+     "gloss": "in manuscript",
+     "note": "בכת\"י = ketav yad, manuscript"
+    },
+    {
+     "id": "3:4.40",
+     "gloss": "and Nur",
+     "note": "Nur: Arabic נור, 'light'; the title is given as printed, with the second word spelled אלצלאם (see apparatus)"
+    },
+    {
+     "id": "3:4.41",
+     "gloss": "al-Tzalam",
+     "note": "אלצלאם as printed: the צ stands for Arabic ص or ظ; 'al-Salam' (السلام, peace) would be spelled with ס. If the Arabic is الظلام, the title is Nur al-Zulam, 'Light of the Darkness' (Hebrew title Me'or ha-Afelah)"
+    },
+    {
+     "id": "3:4.42",
+     "gloss": "and the like"
+    },
+    {
+     "id": "3:4.43",
+     "gloss": "of them"
+    },
+    {
+     "id": "3:4.44",
+     "gloss": "also"
+    },
+    {
+     "id": "3:4.45",
+     "gloss": "the remnant of"
+    },
+    {
+     "id": "3:4.46",
+     "gloss": "the books of"
+    },
+    {
+     "id": "3:4.47",
+     "gloss": "our forebears"
+    },
+    {
+     "id": "3:4.48",
+     "gloss": "the sages of"
+    },
+    {
+     "id": "3:4.49",
+     "gloss": "Yemen"
+    },
+    {
+     "id": "3:4.50",
+     "gloss": "we find"
+    },
+    {
+     "id": "3:4.51",
+     "gloss": "and we see"
+    },
+    {
+     "id": "3:4.52",
+     "gloss": "that they"
+    },
+    {
+     "id": "3:4.53",
+     "gloss": "adhere"
+    },
+    {
+     "id": "3:4.54",
+     "gloss": "to the words of"
+    },
+    {
+     "id": "3:4.55",
+     "gloss": "the great ones"
+    },
+    {
+     "id": "3:4.56",
+     "gloss": "mentioned"
+    },
+    {
+     "id": "3:4.57",
+     "gloss": "above"
+    },
+    {
+     "id": "3:4.58",
+     "gloss": "and to their opinions"
+    },
+    {
+     "id": "3:4.59",
+     "gloss": "and when you saw"
+    },
+    {
+     "id": "3:4.60",
+     "gloss": "that we separated"
+    },
+    {
+     "id": "3:4.61",
+     "gloss": "from"
+    },
+    {
+     "id": "3:4.62",
+     "gloss": "the Kabbalah"
+    },
+    {
+     "id": "3:4.63",
+     "gloss": "the new"
+    },
+    {
+     "id": "3:4.64",
+     "gloss": "burned"
+    },
+    {
+     "id": "3:4.65",
+     "gloss": "your anger"
+    },
+    {
+     "id": "3:4.66",
+     "gloss": "against us"
+    },
+    {
+     "id": "3:4.67",
+     "gloss": "and in haughtiness of"
+    },
+    {
+     "id": "3:4.68",
+     "gloss": "spirit",
+     "note": "Aramaic ברמות רוחא, 'in loftiness (haughtiness) of spirit'; רמות from רם, 'high'"
+    },
+    {
+     "id": "3:4.69",
+     "gloss": "you smeared",
+     "note": "טפלתם עלינו שקר זדים adapts Ps 119:69, טפלו עלי שקר זדים: 'the arrogant have smeared falsehood on me'"
+    },
+    {
+     "id": "3:4.70",
+     "gloss": "on us"
+    },
+    {
+     "id": "3:4.71",
+     "gloss": "falsehood"
+    },
+    {
+     "id": "3:4.72",
+     "gloss": "the arrogant",
+     "note": "זדים: 'the arrogant ones', as in Ps 119:69; here those whom he addresses"
+    },
+    {
+     "id": "3:4.73",
+     "gloss": "and we asked"
+    },
+    {
+     "id": "3:4.74",
+     "gloss": "of you"
+    },
+    {
+     "id": "3:4.75",
+     "gloss": "to teach us"
+    },
+    {
+     "id": "3:4.76",
+     "gloss": "the way"
+    },
+    {
+     "id": "3:4.77",
+     "gloss": "how"
+    },
+    {
+     "id": "3:4.78",
+     "gloss": "would agree"
+    },
+    {
+     "id": "3:4.79",
+     "gloss": "the words of"
+    },
+    {
+     "id": "3:4.80",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:4.81",
+     "gloss": "the Kabbalists"
+    },
+    {
+     "id": "3:4.82",
+     "gloss": "the new"
+    },
+    {
+     "id": "3:4.83",
+     "gloss": "with"
+    },
+    {
+     "id": "3:4.84",
+     "gloss": "the words of"
+    },
+    {
+     "id": "3:4.85",
+     "gloss": "our rabbis"
+    },
+    {
+     "id": "3:4.86",
+     "gloss": "the early ones"
+    },
+    {
+     "id": "3:4.87",
+     "gloss": "mentioned"
+    },
+    {
+     "id": "3:4.88",
+     "gloss": "above"
+    },
+    {
+     "id": "3:4.89",
+     "gloss": "and with"
+    },
+    {
+     "id": "3:4.90",
+     "gloss": "the words of"
+    },
+    {
+     "id": "3:4.91",
+     "gloss": "the Tannaim"
+    },
+    {
+     "id": "3:4.92",
+     "gloss": "and the Amoraim"
+    },
+    {
+     "id": "3:4.93",
+     "gloss": "and was"
+    },
+    {
+     "id": "3:4.94",
+     "gloss": "your answer"
+    },
+    {
+     "id": "3:4.95",
+     "gloss": "to us"
+    },
+    {
+     "id": "3:4.96",
+     "gloss": "in the manner of"
+    },
+    {
+     "id": "3:4.97",
+     "gloss": "deception",
+     "note": "הטעאה: 'deception'"
+    },
+    {
+     "id": "3:4.98",
+     "gloss": "and taunts",
+     "note": "קינטורים: taunts, provocations (Talmudic קנטר)"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:4.1"
+     ],
+     "english": "5)",
+     "literal": "5)"
+    },
+    {
+     "tokens": [
+      "3:4.2",
+      "3:4.3",
+      "3:4.4",
+      "3:4.5",
+      "3:4.6",
+      "3:4.7",
+      "3:4.8",
+      "3:4.9",
+      "3:4.10",
+      "3:4.11",
+      "3:4.12"
+     ],
+     "english": "And this new faith is very far from the way of our holy Torah, written and oral.",
+     "literal": "and-the-faith this the-new far very from-the-way-of our-Torah the-holy that-written and-that-oral"
+    },
+    {
+     "tokens": [
+      "3:4.13",
+      "3:4.14",
+      "3:4.15",
+      "3:4.16"
+     ],
+     "english": "Therefore we separated ourselves from it,",
+     "literal": "therefore we-separated ourselves from-it"
+    },
+    {
+     "tokens": [
+      "3:4.17",
+      "3:4.18",
+      "3:4.19",
+      "3:4.20",
+      "3:4.21"
+     ],
+     "english": "and we clung to the words of our rabbis of blessed memory, the masters of",
+     "literal": "and-we-clung to-the-words-of our-rabbis of-blessed-memory the-masters-of"
+    },
+    {
+     "tokens": [
+      "3:4.22",
+      "3:4.23",
+      "3:4.24",
+      "3:4.25",
+      "3:4.26"
+     ],
+     "english": "the Mishnah and the Talmud, Bavli and Yerushalmi, and the decisors,",
+     "literal": "the-Mishnah and-the-Talmud Bavli and-Yerushalmi and-the-decisors"
+    },
+    {
+     "tokens": [
+      "3:4.27",
+      "3:4.28",
+      "3:4.29",
+      "3:4.30",
+      "3:4.31",
+      "3:4.32",
+      "3:4.33",
+      "3:4.34"
+     ],
+     "english": "and the midrashim of our famous rabbis, Midrash Rabbah and Tanchuma and Yalkut Shimoni,",
+     "literal": "and-the-midrashim-of our-rabbis the-famous Midrash Rabbah and-Tanchuma and-Yalkut Shimoni"
+    },
+    {
+     "tokens": [
+      "3:4.35",
+      "3:4.36",
+      "3:4.37",
+      "3:4.38",
+      "3:4.39",
+      "3:4.40",
+      "3:4.41",
+      "3:4.42",
+      "3:4.43"
+     ],
+     "english": "and Midrash ha-Gadol found in Yemen in manuscript, and Nur al-Tzalam, and the like.",
+     "literal": "and-Midrash ha-Gadol found in-Yemen in-manuscript and-Nur al-Tzalam and-the-like of-them"
+    },
+    {
+     "tokens": [
+      "3:4.44",
+      "3:4.45",
+      "3:4.46",
+      "3:4.47",
+      "3:4.48",
+      "3:4.49",
+      "3:4.50",
+      "3:4.51",
+      "3:4.52",
+      "3:4.53"
+     ],
+     "english": "Also, the remnant of the books of our forebears, the sages of Yemen, we find and see that they adhere",
+     "literal": "also the-remnant-of the-books-of our-forebears the-sages-of Yemen we-find and-we-see that-they adhere"
+    },
+    {
+     "tokens": [
+      "3:4.54",
+      "3:4.55",
+      "3:4.56",
+      "3:4.57",
+      "3:4.58"
+     ],
+     "english": "to the words of the great ones mentioned above and to their opinions.",
+     "literal": "to-the-words-of the-great-ones mentioned above and-to-their-opinions"
+    },
+    {
+     "tokens": [
+      "3:4.59",
+      "3:4.60",
+      "3:4.61",
+      "3:4.62",
+      "3:4.63",
+      "3:4.64",
+      "3:4.65",
+      "3:4.66"
+     ],
+     "english": "And when you saw that we separated from the new Kabbalah, your anger burned against us,",
+     "literal": "and-when-you-saw that-we-separated from the-Kabbalah the-new burned your-anger against-us"
+    },
+    {
+     "tokens": [
+      "3:4.67",
+      "3:4.68",
+      "3:4.69",
+      "3:4.70",
+      "3:4.71",
+      "3:4.72"
+     ],
+     "english": "and in haughtiness of spirit you, the arrogant, smeared falsehood on us.",
+     "literal": "and-in haughtiness-of spirit you-smeared upon-us falsehood arrogant-ones"
+    },
+    {
+     "tokens": [
+      "3:4.73",
+      "3:4.74",
+      "3:4.75",
+      "3:4.76",
+      "3:4.77"
+     ],
+     "english": "And we asked you to teach us the way: how",
+     "literal": "and-we-asked of-you to-teach-us the-way how"
+    },
+    {
+     "tokens": [
+      "3:4.78",
+      "3:4.79",
+      "3:4.80",
+      "3:4.81",
+      "3:4.82",
+      "3:4.83",
+      "3:4.84",
+      "3:4.85",
+      "3:4.86",
+      "3:4.87",
+      "3:4.88"
+     ],
+     "english": "would the words of our rabbis, the new Kabbalists, agree with the words of our early rabbis mentioned above,",
+     "literal": "would-agree the-words-of our-rabbis the-Kabbalists the-new with the-words-of our-rabbis the-early mentioned above"
+    },
+    {
+     "tokens": [
+      "3:4.89",
+      "3:4.90",
+      "3:4.91",
+      "3:4.92"
+     ],
+     "english": "and with the words of the Tannaim and the Amoraim.",
+     "literal": "and-with the-words-of the-Tannaim and-the-Amoraim"
+    },
+    {
+     "tokens": [
+      "3:4.93",
+      "3:4.94",
+      "3:4.95",
+      "3:4.96",
+      "3:4.97",
+      "3:4.98"
+     ],
+     "english": "And your answer to us was in the manner of deception and taunts.",
+     "literal": "and-was your-answer to-us in-the-manner-of deception and-taunts"
+    }
+   ],
+   "grammar": [
+    "The paragraph is a chain of first-person plural past acts (פירשנו, ודבקנו, שאלנו); the reply of the other side is in the perfect (והיתה).",
+    "ושאלנו אתכם ... איך יסכימו: the question is indirect (איך with the imperfect); the English keeps it as a report, 'how would ... agree'.",
+    "וכראותכם ... חרה אפכם: כראותכם is the infinitive with כ, 'upon your seeing'; the tense comes from the main verb חרה, hence 'when you saw'.",
+    "וברמות רוחא טפלתם עלינו שקר זדים: the Aramaic idiom ברמות רוחא is translated by its sense; the rest adapts Ps 119:69 (טפלו עלי שקר זדים), in which זדים, 'the arrogant', is the subject; here it names those addressed."
+   ],
+   "note": "The list of sources is kept in the order the author gives it. Midrash ha-Gadol is a title; Nur al-Tzalam is transliterated as printed (see apparatus).",
+   "commentary": [],
+   "apparatus": [
+    "Ps 119:69, embedded allusion (no quotation marks): טפלו עלי שקר זדים, adapted to טפלתם עלינו שקר זדים.",
+    "Printed אלצלאם (3:4.41), transliterated as written 'al-Tzalam'; the likelier title is Nur al-Zulam, 'Light of the Darkness' (Hebrew Me'or ha-Afelah); 'al-Salam' would be spelled with ס."
+   ],
+   "context": [
+    "Midrash ha-Gadol: a midrashic compilation on the Torah, preserved above all in Yemenite manuscripts; the author names it as 'found in Yemen in manuscript'."
+   ]
+  }
+ ]
+}

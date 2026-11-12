@@ -1,0 +1,1313 @@
+{
+ "unit": "perek-3-05",
+ "model": "sonnet",
+ "summary": "The translation is faithful and complete in its words, but it lost the full stop after עליך and the capital of 'The Merciful One', merged לדרוש ולחקור into one verb, rendered רז\"ל as 'Sages', and misplaced the Machzor Vitry quotation marks (the author's introduction and the Mishnah were inside them). Several verses went unrecognised (Neh 2:2, Isa 29:15, Ps 36:3, Jon 1:6, Exod 35:35, Joel 2:20, 2 Sam 16:13) and מה לך נרדם was given the wrong sense. Five points are raised as questions: ראב\"ע, כ' ע\"ש and the quotation opening, בבחירתא, bat kol, קטיגורין.",
+ "patches": [
+  {
+   "ref": "3:9",
+   "path": "english",
+   "value": "9) And you, our friend, it was not enough for you that you did not do any one of all these but you believed their words and accepted their lies on the testimony of one witness and one judge and not in the presence of the litigant without inquiry, without investigation, without examination and you enjoyed their words and you also helped to strengthen their lies and it was fixed in your mind as the truth itself until you wrote that I am no longer able to deny it, etc. And you did not take to heart that testimony is accepted only in the presence of the litigant and that you are obliged to investigate and inquire into them with seven inquiries, investigations and examinations, as you are commanded. All the more so, since they did their deeds in the dark and smoothed their tongues to you in secret with their words to find a fault to hate and you were obliged to silence them with a rebuke. This is nothing but wickedness of heart: that you enjoy and long for their gossip and their informing. The Merciful One save us from this opinion! And it is possible that you too add of your own false informing, in order to honor yourself at the disgrace of your friends. And in the chapter Arvei Pesachim (115) we read: \"Rav Sheshet said in the name of R. A.: whoever tells evil talk and whoever bears false witness against his fellow deserves to be thrown to the dogs, as it is said: 'to the dog you shall throw it' and it is written explicitly: 'you shall not carry a false report'; and it is read in it: 'you shall not cause to bear'\". And we find several more homilies of our Rabbis of blessed memory on the punishment of one who tells evil talk. And in Machzor Vitry, tractate Avot, on what we learned, \"do not judge your fellow until you reach his place\", he writes, see there: \"that the same transgression may come into your hand and you may be saved and escape from it, as we find with Jeroboam son of Nebat, that when Solomon married the daughter of Pharaoh, she brought in to him every kind of song in the world and said to him: 'So they do for such-and-such idolatry'. One time, he went to sleep, and the day grew late. She went and called the wood-carvers and the builders, who do the work of the craftsman and the designer, and they made over his bed the likeness of a firmament, and in it the sun, the moon, the stars and the constellations. In the morning he woke from his sleep to open the doors of the Temple, for the keys of the Temple were under his pillow. He saw that the firmament was bright with stars and the host, thinking that the night had not yet passed, he went back to sleep. And he slept four more hours, until he understood and recognised for himself that the night was not so long. And concerning that hour we learned a testimony about the morning daily offering, that was offered at four hours, in the Bechirta. Before he woke from his sleep, Jeroboam son of Nebat went to the door of his house, and a voice passed: 'Wicked one, how long will you sleep and neglect the morning daily offering? What is the matter with you, sleeper? Arise, call upon your God!' A bat kol came out and said to him: 'Wicked one, son of a wicked one, you are destined to abolish from Israel many, many offerings wilfully. And you hold him liable for the inadvertent as for the wilful. And for the coerced as for the voluntary!' And this is what is written: 'When Ephraim spoke there was trembling; he was exalted in Israel, but he incurred guilt through Baal and died'. This is said of Jeroboam, who was of the tribe of Ephraim, the trembling was the accuser against Solomon, he, Jeroboam, was prince in Israel and king, and the bat kol answered him that he would become guilty through Baal and die.\" Thus far his words. And you have done greatly and added to doing evil more than Jeroboam son of Nebat. For after you brought us to the prison by false informing before our exalted government! You called out all the people to go out to the cemetery, and commanded them to throw dust upon their heads for no reason. Not for a light commandment that we neglected, and not for a weighty commandment, God forbid, but because we walked according to the customs of our forefathers and set our learning in the Mishnah and in the Talmud and the Rambam and Shulchan Aruch to learn and to teach, to keep and to do. And we did not study further in a forged book, the book the Zohar, as is your custom.",
+   "severity": "error",
+   "reason": "Pausing and terminal punctuation lost (the full stop after עליך; the sentence start of רחמנא ליצלן); לדרוש ולחקור rendered by one verb; רוע לב; רז\"ל is 'our Rabbis' by the ruling, not 'Sages'; Mahzor is Machzor by the scheme; the author's introduction and the Mishnah were inside the Machzor Vitry quotation marks, the Mishnah as a nested quotation (marks placed by sense: the opening formula כ' stands outside); מלאכת חרש וחושב; פנה לילה is 'passed'; ויעבר קול 'a voice passed'; מה לך נרדם (Jon 1:6) is 'what is the matter with you', not 'what is it to you'; רשע בן רשע; the coerced; לעפר בעפר is 'throw dust'; כמנהגי is plural; בספר מזויף is indefinite; הגדלת; run-on sentences without stops"
+  },
+  {
+   "ref": "3:9",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:9.1"
+     ],
+     "english": "9)",
+     "literal": "9)"
+    },
+    {
+     "tokens": [
+      "3:9.2",
+      "3:9.3",
+      "3:9.4",
+      "3:9.5",
+      "3:9.6",
+      "3:9.7",
+      "3:9.8",
+      "3:9.9",
+      "3:9.10"
+     ],
+     "english": "And you, our friend, it was not enough for you that you did not do any one of all these",
+     "literal": "and you our friend not enough for you that not you did one of all these"
+    },
+    {
+     "tokens": [
+      "3:9.11",
+      "3:9.12",
+      "3:9.13",
+      "3:9.14",
+      "3:9.15"
+     ],
+     "english": "but you believed their words and accepted their lies",
+     "literal": "but that you believed to their words and you accepted their lies"
+    },
+    {
+     "tokens": [
+      "3:9.16",
+      "3:9.17",
+      "3:9.18",
+      "3:9.19"
+     ],
+     "english": "on the testimony of one witness and one judge",
+     "literal": "on the testimony of one and a judge one"
+    },
+    {
+     "tokens": [
+      "3:9.20",
+      "3:9.21",
+      "3:9.22",
+      "3:9.23"
+     ],
+     "english": "and not in the presence of the litigant",
+     "literal": "and not in the presence of the litigant of the case"
+    },
+    {
+     "tokens": [
+      "3:9.24",
+      "3:9.25",
+      "3:9.26",
+      "3:9.27",
+      "3:9.28",
+      "3:9.29"
+     ],
+     "english": "without inquiry, without investigation, without examination",
+     "literal": "and without inquiry and without investigation and without examination"
+    },
+    {
+     "tokens": [
+      "3:9.30",
+      "3:9.31"
+     ],
+     "english": "and you enjoyed their words",
+     "literal": "and you enjoyed in their words"
+    },
+    {
+     "tokens": [
+      "3:9.32",
+      "3:9.33",
+      "3:9.34",
+      "3:9.35"
+     ],
+     "english": "and you also helped to strengthen their lies",
+     "literal": "and also you helped to strengthen their lies"
+    },
+    {
+     "tokens": [
+      "3:9.36",
+      "3:9.37",
+      "3:9.38",
+      "3:9.39"
+     ],
+     "english": "and it was fixed in your mind as the truth itself",
+     "literal": "and was fixed in your mind as truth to its truth"
+    },
+    {
+     "tokens": [
+      "3:9.40",
+      "3:9.41",
+      "3:9.42",
+      "3:9.43",
+      "3:9.44",
+      "3:9.45",
+      "3:9.46"
+     ],
+     "english": "until you wrote that I am no longer able to deny it, etc.",
+     "literal": "until that you wrote that I am able to deny any longer etc."
+    },
+    {
+     "tokens": [
+      "3:9.47",
+      "3:9.48",
+      "3:9.49",
+      "3:9.50",
+      "3:9.51",
+      "3:9.52",
+      "3:9.53",
+      "3:9.54",
+      "3:9.55",
+      "3:9.56",
+      "3:9.57"
+     ],
+     "english": "And you did not take to heart that testimony is accepted only in the presence of the litigant",
+     "literal": "and not you put to your heart that there is not they accept testimony but only in the presence of a litigant of the case"
+    },
+    {
+     "tokens": [
+      "3:9.58",
+      "3:9.59",
+      "3:9.60",
+      "3:9.61",
+      "3:9.62",
+      "3:9.63",
+      "3:9.64",
+      "3:9.65",
+      "3:9.66",
+      "3:9.67",
+      "3:9.68"
+     ],
+     "english": "and that you are obliged to investigate and inquire into them with seven inquiries, investigations and examinations, as you are commanded.",
+     "literal": "and that you are obliged to investigate and to inquire them with seven inquiries and with investigations and with examinations as commanded of you"
+    },
+    {
+     "tokens": [
+      "3:9.69",
+      "3:9.70",
+      "3:9.71",
+      "3:9.72",
+      "3:9.73"
+     ],
+     "english": "All the more so, since they did their deeds in the dark",
+     "literal": "all the more so that they did in the dark their deeds"
+    },
+    {
+     "tokens": [
+      "3:9.74",
+      "3:9.75",
+      "3:9.76",
+      "3:9.77",
+      "3:9.78"
+     ],
+     "english": "and smoothed their tongues to you in secret with their words",
+     "literal": "and smoothed their tongue to you in secret with their words"
+    },
+    {
+     "tokens": [
+      "3:9.79",
+      "3:9.80",
+      "3:9.81"
+     ],
+     "english": "to find a fault to hate",
+     "literal": "to find a fault to hate"
+    },
+    {
+     "tokens": [
+      "3:9.82",
+      "3:9.83",
+      "3:9.84",
+      "3:9.85"
+     ],
+     "english": "and you were obliged to silence them with a rebuke.",
+     "literal": "and you were obliged to silence them with a rebuke"
+    },
+    {
+     "tokens": [
+      "3:9.86",
+      "3:9.87",
+      "3:9.88",
+      "3:9.89",
+      "3:9.90",
+      "3:9.91",
+      "3:9.92",
+      "3:9.93",
+      "3:9.94",
+      "3:9.95",
+      "3:9.96"
+     ],
+     "english": "This is nothing but wickedness of heart: that you enjoy and long for their gossip and their informing.",
+     "literal": "it is not this that except wickedness of heart that you enjoy and long for their gossip and their informing"
+    },
+    {
+     "tokens": [
+      "3:9.97",
+      "3:9.98",
+      "3:9.99",
+      "3:9.100"
+     ],
+     "english": "The Merciful One save us from this opinion!",
+     "literal": "the Merciful One save us from this opinion"
+    },
+    {
+     "tokens": [
+      "3:9.101",
+      "3:9.102",
+      "3:9.103",
+      "3:9.104",
+      "3:9.105",
+      "3:9.106",
+      "3:9.107",
+      "3:9.108",
+      "3:9.109",
+      "3:9.110",
+      "3:9.111"
+     ],
+     "english": "And it is possible that you too add of your own false informing, in order to honor yourself at the disgrace of your friends.",
+     "literal": "and it is possible that also you add of your own informing false in order to honor yourself at the disgrace of your friends"
+    },
+    {
+     "tokens": [
+      "3:9.112",
+      "3:9.113",
+      "3:9.114",
+      "3:9.115",
+      "3:9.116"
+     ],
+     "english": "And in the chapter Arvei Pesachim (115) we read:",
+     "literal": "and in the chapter Arvei Pesachim (115) we read"
+    },
+    {
+     "tokens": [
+      "3:9.117",
+      "3:9.118",
+      "3:9.119",
+      "3:9.120",
+      "3:9.121",
+      "3:9.122",
+      "3:9.123",
+      "3:9.124",
+      "3:9.125"
+     ],
+     "english": "\"Rav Sheshet said in the name of R. A.: whoever tells evil talk",
+     "literal": "said Rav Sheshet in the name of R. A. whoever tells evil talk"
+    },
+    {
+     "tokens": [
+      "3:9.126",
+      "3:9.127",
+      "3:9.128",
+      "3:9.129",
+      "3:9.130",
+      "3:9.131",
+      "3:9.132",
+      "3:9.133"
+     ],
+     "english": "and whoever bears false witness against his fellow deserves to be thrown to the dogs, as it is said:",
+     "literal": "and whoever testifies testimony false against his fellow is fit to cast him to the dogs as it is said"
+    },
+    {
+     "tokens": [
+      "3:9.134",
+      "3:9.135",
+      "3:9.136"
+     ],
+     "english": "'to the dog you shall throw it'",
+     "literal": "to the dog you shall throw it"
+    },
+    {
+     "tokens": [
+      "3:9.137",
+      "3:9.138",
+      "3:9.139",
+      "3:9.140",
+      "3:9.141",
+      "3:9.142",
+      "3:9.143",
+      "3:9.144",
+      "3:9.145",
+      "3:9.146"
+     ],
+     "english": "and it is written explicitly: 'you shall not carry a false report'; and it is read in it: 'you shall not cause to bear'\".",
+     "literal": "and it is written explicitly not you shall carry report false and it is read in it not you shall cause to bear"
+    },
+    {
+     "tokens": [
+      "3:9.147",
+      "3:9.148",
+      "3:9.149",
+      "3:9.150",
+      "3:9.151",
+      "3:9.152",
+      "3:9.153",
+      "3:9.154",
+      "3:9.155"
+     ],
+     "english": "And we find several more homilies of our Rabbis of blessed memory on the punishment of one who tells evil talk.",
+     "literal": "and further several homilies we find our Rabbis of blessed memory on the punishment of the one who tells evil talk"
+    },
+    {
+     "tokens": [
+      "3:9.156",
+      "3:9.157",
+      "3:9.158",
+      "3:9.159",
+      "3:9.160",
+      "3:9.161",
+      "3:9.162"
+     ],
+     "english": "And in Machzor Vitry, tractate Avot, on what we learned,",
+     "literal": "and in Machzor Vitry tractate Avot on that which we learned"
+    },
+    {
+     "tokens": [
+      "3:9.163",
+      "3:9.164",
+      "3:9.165",
+      "3:9.166",
+      "3:9.167",
+      "3:9.168",
+      "3:9.169"
+     ],
+     "english": "\"do not judge your fellow until you reach his place\",",
+     "literal": "on (al: do not) judge - your fellow until you reach his place"
+    },
+    {
+     "tokens": [
+      "3:9.170",
+      "3:9.171",
+      "3:9.172",
+      "3:9.173",
+      "3:9.174",
+      "3:9.175"
+     ],
+     "english": "he writes, see there: \"that the same transgression may come into your hand",
+     "literal": "he writes see there that may come into your hand that same transgression"
+    },
+    {
+     "tokens": [
+      "3:9.176",
+      "3:9.177",
+      "3:9.178"
+     ],
+     "english": "and you may be saved and escape from it",
+     "literal": "and be saved and escape from it"
+    },
+    {
+     "tokens": [
+      "3:9.179",
+      "3:9.180",
+      "3:9.181",
+      "3:9.182",
+      "3:9.183"
+     ],
+     "english": "as we find with Jeroboam son of Nebat",
+     "literal": "as we find with Jeroboam son of Nebat"
+    },
+    {
+     "tokens": [
+      "3:9.184",
+      "3:9.185",
+      "3:9.186",
+      "3:9.187",
+      "3:9.188",
+      "3:9.189"
+     ],
+     "english": "that when Solomon married the daughter of Pharaoh,",
+     "literal": "that when he married Solomon - daughter of Pharaoh"
+    },
+    {
+     "tokens": [
+      "3:9.190",
+      "3:9.191",
+      "3:9.192",
+      "3:9.193",
+      "3:9.194",
+      "3:9.195"
+     ],
+     "english": "she brought in to him every kind of song in the world",
+     "literal": "she brought in to him every kind of song in the world"
+    },
+    {
+     "tokens": [
+      "3:9.196",
+      "3:9.197",
+      "3:9.198",
+      "3:9.199",
+      "3:9.200",
+      "3:9.201"
+     ],
+     "english": "and said to him: 'So they do for such-and-such idolatry'.",
+     "literal": "and she said to him thus they do for idolatry such-and-such"
+    },
+    {
+     "tokens": [
+      "3:9.202",
+      "3:9.203",
+      "3:9.204",
+      "3:9.205",
+      "3:9.206",
+      "3:9.207"
+     ],
+     "english": "One time, he went to sleep, and the day grew late.",
+     "literal": "once time he went to sleep and became late the day"
+    },
+    {
+     "tokens": [
+      "3:9.208",
+      "3:9.209",
+      "3:9.210",
+      "3:9.211",
+      "3:9.212",
+      "3:9.213",
+      "3:9.214",
+      "3:9.215",
+      "3:9.216"
+     ],
+     "english": "She went and called the wood-carvers and the builders, who do the work of the craftsman and the designer,",
+     "literal": "she went and called the craftsmen of the wood and the builders who do the work of the craftsman and the designer"
+    },
+    {
+     "tokens": [
+      "3:9.217",
+      "3:9.218",
+      "3:9.219",
+      "3:9.220",
+      "3:9.221",
+      "3:9.222",
+      "3:9.223",
+      "3:9.224",
+      "3:9.225",
+      "3:9.226"
+     ],
+     "english": "and they made over his bed the likeness of a firmament, and in it the sun, the moon, the stars and the constellations.",
+     "literal": "and they made on his bed the likeness of a firmament and in it the sun and the moon and the stars and the constellations"
+    },
+    {
+     "tokens": [
+      "3:9.227",
+      "3:9.228",
+      "3:9.229",
+      "3:9.230",
+      "3:9.231",
+      "3:9.232"
+     ],
+     "english": "In the morning he woke from his sleep to open the doors of the Temple,",
+     "literal": "and in the morning he woke from his sleep to open the doors of the Temple"
+    },
+    {
+     "tokens": [
+      "3:9.233",
+      "3:9.234",
+      "3:9.235",
+      "3:9.236",
+      "3:9.237"
+     ],
+     "english": "for the keys of the Temple were under his pillow.",
+     "literal": "for there were keys of the Temple under his pillow"
+    },
+    {
+     "tokens": [
+      "3:9.238",
+      "3:9.239",
+      "3:9.240",
+      "3:9.241",
+      "3:9.242"
+     ],
+     "english": "He saw that the firmament was bright with stars and the host,",
+     "literal": "he saw that the firmament was bright with stars and the host"
+    },
+    {
+     "tokens": [
+      "3:9.243",
+      "3:9.244",
+      "3:9.245",
+      "3:9.246",
+      "3:9.247"
+     ],
+     "english": "thinking that the night had not yet passed,",
+     "literal": "thinking still not had passed night"
+    },
+    {
+     "tokens": [
+      "3:9.248",
+      "3:9.249"
+     ],
+     "english": "he went back to sleep.",
+     "literal": "he returned to sleep"
+    },
+    {
+     "tokens": [
+      "3:9.250",
+      "3:9.251",
+      "3:9.252",
+      "3:9.253"
+     ],
+     "english": "And he slept four more hours,",
+     "literal": "and he slept more four hours"
+    },
+    {
+     "tokens": [
+      "3:9.254",
+      "3:9.255",
+      "3:9.256",
+      "3:9.257",
+      "3:9.258",
+      "3:9.259",
+      "3:9.260",
+      "3:9.261",
+      "3:9.262"
+     ],
+     "english": "until he understood and recognised for himself that the night was not so long.",
+     "literal": "until he understood and recognised for himself that there is not the night long so thus"
+    },
+    {
+     "tokens": [
+      "3:9.263",
+      "3:9.264",
+      "3:9.265",
+      "3:9.266",
+      "3:9.267"
+     ],
+     "english": "And concerning that hour we learned a testimony",
+     "literal": "and concerning that hour we learned testimony"
+    },
+    {
+     "tokens": [
+      "3:9.268",
+      "3:9.269",
+      "3:9.270",
+      "3:9.271",
+      "3:9.272",
+      "3:9.273",
+      "3:9.274",
+      "3:9.275"
+     ],
+     "english": "about the morning daily offering, that was offered at four hours, in the Bechirta.",
+     "literal": "about the daily offering of morning that was offered at four hours in the Bechirta"
+    },
+    {
+     "tokens": [
+      "3:9.276",
+      "3:9.277",
+      "3:9.278",
+      "3:9.279",
+      "3:9.280",
+      "3:9.281",
+      "3:9.282"
+     ],
+     "english": "Before he woke from his sleep, Jeroboam son of Nebat went",
+     "literal": "and before he woke from his sleep went Jeroboam son of Nebat"
+    },
+    {
+     "tokens": [
+      "3:9.283",
+      "3:9.284",
+      "3:9.285"
+     ],
+     "english": "to the door of his house",
+     "literal": "to the door of his house"
+    },
+    {
+     "tokens": [
+      "3:9.286",
+      "3:9.287",
+      "3:9.288"
+     ],
+     "english": "and a voice passed: 'Wicked one,",
+     "literal": "and passed a voice wicked one"
+    },
+    {
+     "tokens": [
+      "3:9.289",
+      "3:9.290",
+      "3:9.291",
+      "3:9.292",
+      "3:9.293",
+      "3:9.294",
+      "3:9.295"
+     ],
+     "english": "how long will you sleep and neglect the morning daily offering?",
+     "literal": "until when you sleep and neglect the daily offering of morning"
+    },
+    {
+     "tokens": [
+      "3:9.296",
+      "3:9.297",
+      "3:9.298"
+     ],
+     "english": "What is the matter with you, sleeper?",
+     "literal": "what to you sleeper"
+    },
+    {
+     "tokens": [
+      "3:9.299",
+      "3:9.300",
+      "3:9.301",
+      "3:9.302"
+     ],
+     "english": "Arise, call upon your God!'",
+     "literal": "arise call upon your God"
+    },
+    {
+     "tokens": [
+      "3:9.303",
+      "3:9.304",
+      "3:9.305",
+      "3:9.306",
+      "3:9.307"
+     ],
+     "english": "A bat kol came out and said to him:",
+     "literal": "came out bat (a heavenly) voice and said to him"
+    },
+    {
+     "tokens": [
+      "3:9.308",
+      "3:9.309",
+      "3:9.310",
+      "3:9.311",
+      "3:9.312",
+      "3:9.313",
+      "3:9.314",
+      "3:9.315",
+      "3:9.316",
+      "3:9.317",
+      "3:9.318"
+     ],
+     "english": "'Wicked one, son of a wicked one, you are destined to abolish from Israel many, many offerings wilfully.",
+     "literal": "wicked one son of a wicked one destined you to nullify from Israel many and many offerings wilfully"
+    },
+    {
+     "tokens": [
+      "3:9.319",
+      "3:9.320",
+      "3:9.321",
+      "3:9.322",
+      "3:9.323"
+     ],
+     "english": "And you hold him liable for the inadvertent as for the wilful.",
+     "literal": "and you hold him liable for the inadvertent as the wilful"
+    },
+    {
+     "tokens": [
+      "3:9.324",
+      "3:9.325",
+      "3:9.326"
+     ],
+     "english": "And for the coerced as for the voluntary!'",
+     "literal": "and for the coerced as the voluntary"
+    },
+    {
+     "tokens": [
+      "3:9.327",
+      "3:9.328",
+      "3:9.329",
+      "3:9.330"
+     ],
+     "english": "And this is what is written: 'When Ephraim spoke",
+     "literal": "and this is what is written as the speaking of Ephraim"
+    },
+    {
+     "tokens": [
+      "3:9.331",
+      "3:9.332",
+      "3:9.333",
+      "3:9.334",
+      "3:9.335",
+      "3:9.336",
+      "3:9.337"
+     ],
+     "english": "there was trembling; he was exalted in Israel, but he incurred guilt through Baal and died'.",
+     "literal": "trembling he was exalted he in Israel and became guilty through Baal and died"
+    },
+    {
+     "tokens": [
+      "3:9.338",
+      "3:9.339",
+      "3:9.340",
+      "3:9.341",
+      "3:9.342"
+     ],
+     "english": "This is said of Jeroboam, who was of the tribe of Ephraim,",
+     "literal": "in the matter of Jeroboam who is of the tribe of Ephraim"
+    },
+    {
+     "tokens": [
+      "3:9.343",
+      "3:9.344",
+      "3:9.345",
+      "3:9.346"
+     ],
+     "english": "the trembling was the accuser against Solomon,",
+     "literal": "trembling accuser against Solomon"
+    },
+    {
+     "tokens": [
+      "3:9.347",
+      "3:9.348",
+      "3:9.349",
+      "3:9.350",
+      "3:9.351"
+     ],
+     "english": "he, Jeroboam, was prince in Israel and king",
+     "literal": "he Jeroboam prince in Israel and king"
+    },
+    {
+     "tokens": [
+      "3:9.352",
+      "3:9.353",
+      "3:9.354",
+      "3:9.355",
+      "3:9.356",
+      "3:9.357",
+      "3:9.358"
+     ],
+     "english": "and the bat kol answered him that he would become guilty through Baal and die.\" Thus far his words.",
+     "literal": "and a bat kol answered him that he would become guilty through Baal and die thus far his words"
+    },
+    {
+     "tokens": [
+      "3:9.359",
+      "3:9.360",
+      "3:9.361",
+      "3:9.362",
+      "3:9.363",
+      "3:9.364",
+      "3:9.365",
+      "3:9.366",
+      "3:9.367"
+     ],
+     "english": "And you have done greatly and added to doing evil more than Jeroboam son of Nebat.",
+     "literal": "and you have done greatly and added to do evil more than Jeroboam son of Nebat"
+    },
+    {
+     "tokens": [
+      "3:9.368",
+      "3:9.369",
+      "3:9.370",
+      "3:9.371",
+      "3:9.372",
+      "3:9.373",
+      "3:9.374",
+      "3:9.375"
+     ],
+     "english": "For after you brought us to the prison",
+     "literal": "for after that you brought us to the house of the prison"
+    },
+    {
+     "tokens": [
+      "3:9.376",
+      "3:9.377",
+      "3:9.378",
+      "3:9.379",
+      "3:9.380"
+     ],
+     "english": "by false informing before our exalted government!",
+     "literal": "by false informing before our government exalted"
+    },
+    {
+     "tokens": [
+      "3:9.381",
+      "3:9.382",
+      "3:9.383",
+      "3:9.384",
+      "3:9.385",
+      "3:9.386",
+      "3:9.387",
+      "3:9.388"
+     ],
+     "english": "You called out all the people to go out to the cemetery,",
+     "literal": "you called out - all the people to go out to the house of the cemetery"
+    },
+    {
+     "tokens": [
+      "3:9.389",
+      "3:9.390",
+      "3:9.391",
+      "3:9.392",
+      "3:9.393",
+      "3:9.394"
+     ],
+     "english": "and commanded them to throw dust upon their heads",
+     "literal": "and you commanded them to throw dust on their heads"
+    },
+    {
+     "tokens": [
+      "3:9.395",
+      "3:9.396",
+      "3:9.397"
+     ],
+     "english": "for no reason.",
+     "literal": "for no thing"
+    },
+    {
+     "tokens": [
+      "3:9.398",
+      "3:9.399",
+      "3:9.400",
+      "3:9.401",
+      "3:9.402"
+     ],
+     "english": "Not for a light commandment that we neglected,",
+     "literal": "not for a commandment light that we neglected"
+    },
+    {
+     "tokens": [
+      "3:9.403",
+      "3:9.404",
+      "3:9.405",
+      "3:9.406",
+      "3:9.407"
+     ],
+     "english": "and not for a weighty commandment, God forbid,",
+     "literal": "and not for a commandment weighty God forbid"
+    },
+    {
+     "tokens": [
+      "3:9.408",
+      "3:9.409",
+      "3:9.410",
+      "3:9.411",
+      "3:9.412"
+     ],
+     "english": "but because we walked",
+     "literal": "but only for that we walked"
+    },
+    {
+     "tokens": [
+      "3:9.413",
+      "3:9.414",
+      "3:9.415",
+      "3:9.416"
+     ],
+     "english": "according to the customs of our forefathers and set our learning",
+     "literal": "according to the customs of our forefathers and we set our learning"
+    },
+    {
+     "tokens": [
+      "3:9.417",
+      "3:9.418",
+      "3:9.419",
+      "3:9.420"
+     ],
+     "english": "in the Mishnah and in the Talmud and the Rambam and Shulchan Aruch",
+     "literal": "in the Mishnah and in the Talmud and the Rambam and Shulchan Aruch"
+    },
+    {
+     "tokens": [
+      "3:9.421",
+      "3:9.422",
+      "3:9.423",
+      "3:9.424"
+     ],
+     "english": "to learn and to teach, to keep and to do.",
+     "literal": "to learn and to teach to keep and to do"
+    },
+    {
+     "tokens": [
+      "3:9.425",
+      "3:9.426",
+      "3:9.427",
+      "3:9.428",
+      "3:9.429",
+      "3:9.430",
+      "3:9.431",
+      "3:9.432",
+      "3:9.433"
+     ],
+     "english": "And we did not study further in a forged book, the book the Zohar, as is your custom.",
+     "literal": "and not we studied further in a book forged the book the Zohar as is the custom of you"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed; the phrases follow"
+  },
+  {
+   "ref": "3:9",
+   "path": "literal",
+   "value": "9) and you our friend not enough for you that not you did one of all these but that you believed to their words and you accepted their lies on the testimony of one and a judge one and not in the presence of the litigant of the case and without inquiry and without investigation and without examination and you enjoyed in their words and also you helped to strengthen their lies and was fixed in your mind as truth to its truth until that you wrote that I am able to deny any longer etc. and not you put to your heart that there is not they accept testimony but only in the presence of a litigant of the case and that you are obliged to investigate and to inquire them with seven inquiries and with investigations and with examinations as commanded of you all the more so that they did in the dark their deeds and smoothed their tongue to you in secret with their words to find a fault to hate and you were obliged to silence them with a rebuke it is not this that except wickedness of heart that you enjoy and long for their gossip and their informing the Merciful One save us from this opinion and it is possible that also you add of your own informing false in order to honor yourself at the disgrace of your friends and in the chapter Arvei Pesachim (115) we read said Rav Sheshet in the name of R. A. whoever tells evil talk and whoever testifies testimony false against his fellow is fit to cast him to the dogs as it is said to the dog you shall throw it and it is written explicitly not you shall carry report false and it is read in it not you shall cause to bear and further several homilies we find our Rabbis of blessed memory on the punishment of the one who tells evil talk and in Machzor Vitry tractate Avot on that which we learned on (al: do not) judge - your fellow until you reach his place he writes see there that may come into your hand that same transgression and be saved and escape from it as we find with Jeroboam son of Nebat that when he married Solomon - daughter of Pharaoh she brought in to him every kind of song in the world and she said to him thus they do for idolatry such-and-such once time he went to sleep and became late the day she went and called the craftsmen of the wood and the builders who do the work of the craftsman and the designer and they made on his bed the likeness of a firmament and in it the sun and the moon and the stars and the constellations and in the morning he woke from his sleep to open the doors of the Temple for there were keys of the Temple under his pillow he saw that the firmament was bright with stars and the host thinking still not had passed night he returned to sleep and he slept more four hours until he understood and recognised for himself that there is not the night long so thus and concerning that hour we learned testimony about the daily offering of morning that was offered at four hours in the Bechirta and before he woke from his sleep went Jeroboam son of Nebat to the door of his house and passed a voice wicked one until when you sleep and neglect the daily offering of morning what to you sleeper arise call upon your God came out bat (a heavenly) voice and said to him wicked one son of a wicked one destined you to nullify from Israel many and many offerings wilfully and you hold him liable for the inadvertent as the wilful and for the coerced as the voluntary and this is what is written as the speaking of Ephraim trembling he was exalted he in Israel and became guilty through Baal and died in the matter of Jeroboam who is of the tribe of Ephraim trembling accuser against Solomon he Jeroboam prince in Israel and king and a bat kol answered him that he would become guilty through Baal and die thus far his words and you have done greatly and added to do evil more than Jeroboam son of Nebat for after that you brought us to the house of the prison by false informing before our government exalted you called out - all the people to go out to the house of the cemetery and you commanded them to throw dust on their heads for no thing not for a commandment light that we neglected and not for a commandment weighty God forbid but only for that we walked according to the customs of our forefathers and we set our learning in the Mishnah and in the Talmud and the Rambam and Shulchan Aruch to learn and to teach to keep and to do and not we studied further in a book forged the book the Zohar as is the custom of you",
+   "severity": "error",
+   "reason": "The literal follows the corrected glosses"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.3.note",
+   "value": "ידידנו: \"our friend\", the form of address, kept",
+   "severity": "style",
+   "reason": "The note called it ironic; the Hebrew does not say so"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.60.gloss",
+   "value": "to investigate",
+   "severity": "error",
+   "reason": "לדרוש is 'investigate' (cf. דרישה, 3:9.27); the English had one verb for the two verbs לדרוש ולחקור"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.61.gloss",
+   "value": "and to inquire",
+   "severity": "error",
+   "reason": "לחקור is 'inquire' (cf. חקירה, 3:9.25)"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.72.note",
+   "value": "במחשך מעשיהם: echoes Isa 29:15 (\"והיה במחשך מעשיהם\", \"their deeds are in the dark\")",
+   "severity": "style",
+   "reason": "Embedded verse; list it"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.74.note",
+   "value": "והחליקו ... אליך ... למצוא עון לשנוא (3:9.74-81): echoes Ps 36:3 (\"כי החליק אליו בעיניו למצא עונו לשנא\"); \"smoothed\" is החליק, as in the verse",
+   "severity": "style",
+   "reason": "Embedded verse; list it"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.90.note",
+   "value": "רוע לב: \"wickedness of heart\", the printed word; the phrase echoes Neh 2:2 (\"אין זה כי אם רע לב\", \"sadness of heart\"); the likelier word of the verse is רע, but here the sense is wickedness",
+   "severity": "style",
+   "reason": "Embedded verse with a changed word; recorded as ruled"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.115.gloss",
+   "value": "(115)",
+   "severity": "style",
+   "reason": "The author writes only קי\"ה, with no דף; the English has \"(115)\" and the gloss and literal added \"folio\""
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.115.note",
+   "value": "קי\"ה: the numeral 115, as the author gives it; he writes no \"folio\" and none is added",
+   "severity": "style",
+   "reason": "Follows the ruling: no reference is completed"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.121.note",
+   "value": "ראב\"ע: four letters, ר-א-ב-ע; not expanded in the print. The usual acronym of Rabbi Eleazar ben Azariah, and also of Ibn Ezra (who cannot be meant in a Talmudic citation). Read as \"R. A.\" by the ruling for an unexpanded name; the expansion is not stated in the text",
+   "severity": "question",
+   "reason": "Proposed ruling: keep \"R. A.\" with this note, as for ר\"א; the editor may decide to expand ראב\"ע as \"R. Eleazar ben Azariah\" since the acronym has one usual Talmudic expansion"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.151.gloss",
+   "value": "our Rabbis of blessed memory",
+   "severity": "error",
+   "reason": "רז\"ל is \"our Rabbis of blessed memory\" by the ruling; \"Sages\" is for חז\"ל"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.151.note",
+   "value": "לרז\"ל: רז\"ל, \"our Rabbis of blessed memory\" (רבותינו זכרונם לברכה)",
+   "severity": "error",
+   "reason": "Fixed form"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.156.gloss",
+   "value": "and in Machzor",
+   "severity": "style",
+   "reason": "Scheme: ח = ch, as in Machzor, Pesachim, Shulchan Aruch"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.157.note",
+   "value": "מחזור ויטרי: Machzor Vitry, a compilation of prayers, laws and customs from the school of Rashi; it includes tractate Avot with a commentary",
+   "severity": "style",
+   "reason": "Book title: meaning at its first occurrence in the unit"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.165.note",
+   "value": "את: the sign of the definite object; it has no English word",
+   "severity": "style",
+   "reason": "Learner note"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.170.gloss",
+   "value": "he writes",
+   "severity": "error",
+   "reason": "כ' is כתב (he writes); the expansion belongs in the gloss"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.171.gloss",
+   "value": "see there",
+   "severity": "question",
+   "reason": "ע\"ש is \"see there\" or \"on account of\" by the ruling; \"there\" is neither"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.171.note",
+   "value": "ע\"ש: by the ruling \"see there\" (עיין שם) or \"on account of\" (על שם). Read as \"see there\", the words in the author's voice, and the Machzor Vitry quotation opens at שתבא (\"that the same transgression ...\"); if על שם is meant the sense is \"he writes: on account of the fact that the same transgression ...\". The English is a plain \"he writes, see there:\" and the alternative is in `readings`",
+   "severity": "question",
+   "reason": "Proposed ruling: כ' ע\"ש = \"he writes, see there:\", the marks opening after it (an opening formula stands outside the mark); the author's introduction and the Mishnah (על for אל) are his own words, not part of the quotation"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.187.note",
+   "value": "את: the sign of the definite object; it has no English word",
+   "severity": "style",
+   "reason": "Learner note"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.210.gloss",
+   "value": "the craftsmen of",
+   "severity": "style",
+   "reason": "חרשי is \"craftsmen of\"; \"of wood\" is the next word"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.211.gloss",
+   "value": "the wood",
+   "severity": "style",
+   "reason": "העץ is \"the wood\""
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.214.gloss",
+   "value": "the work of",
+   "severity": "style",
+   "reason": "מלאכת"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.215.gloss",
+   "value": "the craftsman",
+   "severity": "style",
+   "reason": "חרש in Exod 35:35, which the phrase echoes (\"מלאכת חרש וחשב\"); a noun, not \"carving\""
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.216.gloss",
+   "value": "and the designer",
+   "severity": "style",
+   "reason": "חושב (Exod 35:35 חשב), the skilled designer or weaver of patterns; a noun"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.246.gloss",
+   "value": "had passed",
+   "severity": "error",
+   "reason": "פנה לילה, like פנה יום, is \"the night had passed\"; \"had turned\" does not say it"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.272.gloss",
+   "value": "that was offered",
+   "severity": "style",
+   "reason": "שקרב is a past form"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.275.note",
+   "value": "בבחירתא: an Aramaic word, from בחירה, \"choice, chosen\"; the author does not say what it names (it may be the Temple, \"the Chosen House\", or a place or text). Transliterated, not identified",
+   "severity": "question",
+   "reason": "Proposed ruling: keep the transliteration \"the Bechirta\" with this note; the alternative \"in the Chosen House\" is in `readings`. The pack names no source and none is added"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.286.gloss",
+   "value": "and passed",
+   "severity": "style",
+   "reason": "ויעבר is \"and passed\"; \"went out\" is the verb of the bat kol (יצתה)"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.286.note",
+   "value": "ויעבר קול: echoes 1 Kgs 22:36 (\"ויעבר הרנה במחנה\", \"a cry passed through the camp\") and Ezra 1:1 (\"ויעבר קול\", the proclamation)",
+   "severity": "style",
+   "reason": "Embedded verse"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.296.note",
+   "value": "מה לך נרדם קום קרא אל אלהיך: Jon 1:6, the captain to Jonah asleep. \"מה לך\" is \"what is the matter with you\", not \"what is it to you\"",
+   "severity": "error",
+   "reason": "Verse unrecognised and the sense of מה לך wrong; the voice quotes Jon 1:6"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.304.note",
+   "value": "בת קול: literally \"daughter of a voice\", the heavenly voice of rabbinic tradition; kept as \"bat kol\" and explained in `context`",
+   "severity": "question",
+   "reason": "Proposed ruling: transliterate \"bat kol\" (the conventional English term, as the translator did), with the literal sense in this note at the first occurrence"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.308.gloss",
+   "value": "wicked one",
+   "severity": "error",
+   "reason": "רשע is a vocative, as at 3:9.288"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.310.gloss",
+   "value": "a wicked one",
+   "severity": "error",
+   "reason": "\"son of a wicked one\"; \"man\" is not in the Hebrew"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.320.note",
+   "value": "מחייבו: participle with the suffix \"him\": \"you hold him liable\"; \"him\" is Solomon, as the end of the passage shows",
+   "severity": "error",
+   "reason": "The note spoke of pointing, but the Hebrew is unpointed"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.325.gloss",
+   "value": "the coerced",
+   "severity": "style",
+   "reason": "\"the forced one\" adds a word"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.343.gloss",
+   "value": "trembling",
+   "severity": "error",
+   "reason": "רתת is the noun of Hos 13:1, \"trembling\", as at 3:9.331, not a verb"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.343.note",
+   "value": "רתת: \"trembling\", the word of the verse (Hos 13:1), which the author glosses as קטיגורין",
+   "severity": "error",
+   "reason": "The note called it a name of the accuser"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.344.gloss",
+   "value": "accuser",
+   "severity": "question",
+   "reason": "קטיגורין is a Greek loanword, \"accuser\""
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.344.note",
+   "value": "קטיגורין: Greek κατήγορος via Aramaic, \"accuser\"; the -in ending is also the Aramaic plural, but the next words (הוא ירבעם) name one accuser. Translated, not transliterated",
+   "severity": "question",
+   "reason": "Proposed ruling: translate \"accuser\" in the English; the transliteration stays in this note"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.360.gloss",
+   "value": "have done greatly",
+   "severity": "style",
+   "reason": "הגדלת (לעשות) echoes Joel 2:20 (\"כי הגדיל לעשות\"); \"magnified\" has no object"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.371.note",
+   "value": "הבאתם: second person plural, \"you (and those with you) brought\"; the address is singular elsewhere (ואתה, הזעקת). English cannot show the number",
+   "severity": "style",
+   "reason": "Number carried by a note"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.382.note",
+   "value": "את: the sign of the definite object; it has no English word",
+   "severity": "style",
+   "reason": "Learner note"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.391.gloss",
+   "value": "to throw",
+   "severity": "error",
+   "reason": "לעפר בעפר is \"to throw dust\" (2 Sam 16:13, \"ועפר בעפר\"); \"dust themselves\" adds a reflexive"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.392.gloss",
+   "value": "dust",
+   "severity": "error",
+   "reason": "Follows 3:9.391"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.413.gloss",
+   "value": "according to the customs of",
+   "severity": "error",
+   "reason": "כמנהגי is plural"
+  },
+  {
+   "ref": "3:9",
+   "path": "token:3:9.428.gloss",
+   "value": "in a book",
+   "severity": "error",
+   "reason": "בספר מזויף is indefinite; \"the forged book\" adds the article"
+  },
+  {
+   "ref": "3:9",
+   "path": "grammar",
+   "value": [
+    "לא דייך שלא עשית (3:9.5-7): an idiom, \"it was not enough for you that you did not do\". The charge is not only the omission but the belief and acceptance that follow (\"but\", אלא).",
+    "בעד אחד ודיין אחד, ושלא בפני בעל דין, ובלא חקירה ובלא דרישה, ובלא בדיקה (3:9.16-29): the grounds of acceptance are listed in order, each negative with its own ובלא; the English keeps the repetition.",
+    "The Pesachim passage, after גרסינן, is Talmudic Hebrew with its own formulas (אמר רב ששת, כתיב בהדיא, וקרי ביה). It cites Exod 22:30 and Exod 23:1; the Talmud's reading (לא תשיא) is set against the written form (לא תשא).",
+    "The Machzor Vitry citation: the author introduces it (ובמחזור ויטרי ... על הא דתנן), quotes the Mishnah (אל תדון, printed על), and \"כ' ע\"ש\" opens the quotation, which runs to עכ\"ל. The opening formula stands outside the opening mark and the closing formula outside the closing mark. Inside it, single marks hold Solomon's wife's words, the voice, the bat kol and Hos 13:1. In ואתה מחייבו, \"him\" is Solomon.",
+    "הבאתם (3:9.371) is second person plural, while the address is singular elsewhere (ואתה, הזעקת, והוספת): \"you (and those with you)\".",
+    "The last part turns from the story to the addressee: ואתה הגדלת (and you have magnified) and כי אחרי אשר (for after) make the charge that his informing brought the author to prison."
+   ],
+   "severity": "style",
+   "reason": "Notes follow the corrected reading"
+  },
+  {
+   "ref": "3:9",
+   "path": "apparatus",
+   "value": [
+    "Base text from Wikisource; the 1931 scan is not yet collated, so the reading is flagged here until it is (Q2 default).",
+    "Exod 22:30 (לכלב תשליכון אותו), quoted as written: \"to the dog you shall throw it\".",
+    "Exod 23:1 (לא תשא שמע שוא), quoted as written; the Talmud's reading לא תשיא is given as read (וקרי).",
+    "The Mishnah quoted is named only as tractate Avot; the author writes על for אל. No chapter reference is added.",
+    "ראב\"ע and כ' ע\"ש are not expanded with certainty; the English gives the likeliest sense.",
+    "Pesachim: the author gives 115 only (קי\"ה), with no \"folio\".",
+    "Hos 13:1 (כדבר אפרים רתת נשא הוא בישראל ויאשם בבעל וימות), quoted by the author with the printed וימות (MT וימת); translated from the Hebrew.",
+    "Neh 2:2 (אין זה כי אם רע לב), echoed at 3:9.86-91 with רוע (\"wickedness\") for רע.",
+    "Isa 29:15 (והיה במחשך מעשיהם), echoed at 3:9.72-73.",
+    "Ps 36:3 (כי החליק אליו בעיניו למצא עונו לשנא), echoed at 3:9.74-81.",
+    "Exod 35:35 (מלאכת חרש וחשב), echoed at 3:9.214-216.",
+    "Prov 6:9 (עד מתי עצל תשכב מתי תקום משנתך), cf. עד מתי תישן at 3:9.289-291.",
+    "1 Kgs 22:36 (ויעבר הרנה במחנה) and Ezra 1:1 (ויעבר קול), cf. ויעבר קול at 3:9.286-287.",
+    "Jon 1:6 (מה לך נרדם קום קרא אל אלהיך), quoted at 3:9.296-302.",
+    "Joel 2:20 (כי הגדיל לעשות), cf. הגדלת ... לעשות at 3:9.360-362.",
+    "2 Sam 16:13 (ועפר בעפר), cf. לעפר בעפר at 3:9.391-392."
+   ],
+   "severity": "error",
+   "reason": "Verses recognised and listed: Neh 2:2, Isa 29:15, Ps 36:3, Exod 35:35, Prov 6:9, Kgs/Ezra, Jon 1:6, Joel 2:20, 2 Sam 16:13; the folio note corrected"
+  },
+  {
+   "ref": "3:9",
+   "path": "context",
+   "value": [
+    "Bat kol (literally \"daughter of a voice\"): a heavenly voice, the rabbinic way in which a voice from heaven speaks to a person. Here it speaks to Jeroboam son of Nebat in the story the author cites from Machzor Vitry.",
+    "Machzor Vitry: a compilation of prayers, laws and customs from the school of Rashi, attributed to Rabbi Simchah of Vitry, his pupil; it includes tractate Avot with a commentary.",
+    "Jeroboam son of Nebat: an Ephraimite, the first king of the northern kingdom of Israel after Solomon (1 Kgs 11-12). The tale of how he was tricked into oversleeping comes from rabbinic tradition, not from the Book of Kings.",
+    "The seven inquiries (שבע חקירות): the questions about time and place that a court puts to witnesses; the author names no source."
+   ],
+   "severity": "style",
+   "reason": "Realia a reader needs"
+  },
+  {
+   "ref": "3:9",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "3:9.170",
+      "3:9.171"
+     ],
+     "english": "he writes there",
+     "source": "plain reading of the abbreviation",
+     "note": "כ' ע\"ש read as כתב שם; neither expansion of ע\"ש in the ruling, so not chosen"
+    },
+    {
+     "tokens": [
+      "3:9.170",
+      "3:9.171"
+     ],
+     "english": "he writes: on account of",
+     "source": "על שם",
+     "note": "ע\"ש as על שם before a ש- clause; then the quotation opens at ע\"ש"
+    },
+    {
+     "tokens": [
+      "3:9.121"
+     ],
+     "english": "Rabbi Eleazar ben Azariah",
+     "source": "usual Talmudic expansion of ראב\"ע"
+    },
+    {
+     "tokens": [
+      "3:9.275"
+     ],
+     "english": "in the Chosen House",
+     "source": "Aramaic בחירתא as בית הבחירה",
+     "note": "if the word names the Temple; not certain"
+    }
+   ],
+   "severity": "style",
+   "reason": "Other readings the grammar and the abbreviations allow"
+  }
+ ],
+ "verdicts": []
+}

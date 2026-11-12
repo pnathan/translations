@@ -1,0 +1,2305 @@
+{
+ "unit": "perek-2-11",
+ "model": "haiku",
+ "segments": [
+  {
+   "ref": "2:23",
+   "english": "\"The fifth: the people who dwell in Asia, if a written command from the king comes to them, they take it in their hands, kiss it with their mouths and place it on their heads. How much more so shall we honor the words of the living God, King over all the earth.",
+   "literal": "fifth the-people the-dwelling in-Asia if comes to-them written-command from-the-king in-their-hands they-seize-it, with-their-mouths they-kiss-it, and-on their-heads they-place-it, how-much-more so we-shall-honor the-words-of God living King over all the-earth",
+   "tokens": [
+    {
+     "id": "2:23.1",
+     "gloss": "fifth",
+     "note": "ordinal of a numbered series: 2:24 is the sixth, 2:25 the seventh"
+    },
+    {
+     "id": "2:23.2",
+     "gloss": "the people"
+    },
+    {
+     "id": "2:23.3",
+     "gloss": "dwelling"
+    },
+    {
+     "id": "2:23.4",
+     "gloss": "in Asia"
+    },
+    {
+     "id": "2:23.5",
+     "gloss": "if"
+    },
+    {
+     "id": "2:23.6",
+     "gloss": "comes",
+     "note": "yiqtol after אם: the protasis of a conditional; the verbs that follow are yiqtol in a habitual sense"
+    },
+    {
+     "id": "2:23.7",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:23.8",
+     "gloss": "written",
+     "note": "מכתב, 'letter, writing'"
+    },
+    {
+     "id": "2:23.9",
+     "gloss": "command",
+     "note": "פקודה, an order"
+    },
+    {
+     "id": "2:23.10",
+     "gloss": "from the king"
+    },
+    {
+     "id": "2:23.11",
+     "gloss": "in their hands"
+    },
+    {
+     "id": "2:23.12",
+     "gloss": "they take it",
+     "note": "יתפשוהו: root תפש with the suffix ־הו, 'it'; the command is the object"
+    },
+    {
+     "id": "2:23.13",
+     "gloss": "with their mouths"
+    },
+    {
+     "id": "2:23.14",
+     "gloss": "they kiss it"
+    },
+    {
+     "id": "2:23.15",
+     "gloss": "and on"
+    },
+    {
+     "id": "2:23.16",
+     "gloss": "their heads"
+    },
+    {
+     "id": "2:23.17",
+     "gloss": "they place it"
+    },
+    {
+     "id": "2:23.18",
+     "gloss": "how much more",
+     "note": "אף כי: 'how much more so', the apodosis of an argument from the lesser to the greater"
+    },
+    {
+     "id": "2:23.19",
+     "gloss": "so"
+    },
+    {
+     "id": "2:23.20",
+     "gloss": "we"
+    },
+    {
+     "id": "2:23.21",
+     "gloss": "shall honor",
+     "note": "נכבד: cohortative, 'let us honor'"
+    },
+    {
+     "id": "2:23.22",
+     "gloss": "-",
+     "note": "object marker את, no English"
+    },
+    {
+     "id": "2:23.23",
+     "gloss": "the words of"
+    },
+    {
+     "id": "2:23.24",
+     "gloss": "God",
+     "note": "אלהים: the God of Israel, here 'the living God' (חיים)"
+    },
+    {
+     "id": "2:23.25",
+     "gloss": "living"
+    },
+    {
+     "id": "2:23.26",
+     "gloss": "King"
+    },
+    {
+     "id": "2:23.27",
+     "gloss": "over"
+    },
+    {
+     "id": "2:23.28",
+     "gloss": "all"
+    },
+    {
+     "id": "2:23.29",
+     "gloss": "the earth"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:23.1",
+      "2:23.2",
+      "2:23.3",
+      "2:23.4"
+     ],
+     "english": "The fifth: the people who dwell in Asia,",
+     "literal": "fifth the-people the-dwelling in-Asia"
+    },
+    {
+     "tokens": [
+      "2:23.5",
+      "2:23.6",
+      "2:23.7",
+      "2:23.8",
+      "2:23.9",
+      "2:23.10"
+     ],
+     "english": "if a written command from the king comes to them,",
+     "literal": "if comes to-them written-command from-the-king"
+    },
+    {
+     "tokens": [
+      "2:23.11",
+      "2:23.12"
+     ],
+     "english": "they take it in their hands,",
+     "literal": "in-their-hands they-seize-it"
+    },
+    {
+     "tokens": [
+      "2:23.13",
+      "2:23.14"
+     ],
+     "english": "kiss it with their mouths,",
+     "literal": "with-their-mouths they-kiss-it"
+    },
+    {
+     "tokens": [
+      "2:23.15",
+      "2:23.16",
+      "2:23.17"
+     ],
+     "english": "and place it on their heads.",
+     "literal": "and-on their-heads they-place-it"
+    },
+    {
+     "tokens": [
+      "2:23.18",
+      "2:23.19"
+     ],
+     "english": "How much more so",
+     "literal": "how-much-more so"
+    },
+    {
+     "tokens": [
+      "2:23.20",
+      "2:23.21"
+     ],
+     "english": "shall we honor",
+     "literal": "we shall-honor"
+    },
+    {
+     "tokens": [
+      "2:23.22"
+     ],
+     "english": "-",
+     "literal": "object marker, no English"
+    },
+    {
+     "tokens": [
+      "2:23.23",
+      "2:23.24",
+      "2:23.25"
+     ],
+     "english": "the words of the living God,",
+     "literal": "the-words-of God living"
+    },
+    {
+     "tokens": [
+      "2:23.26",
+      "2:23.27",
+      "2:23.28",
+      "2:23.29"
+     ],
+     "english": "King over all the earth.",
+     "literal": "King over all the-earth"
+    }
+   ],
+   "grammar": [
+    "The paragraph is the fifth point of a numbered series, and its number opens the English as it opens the Hebrew.",
+    "The conditional אם takes yiqtol verbs (they take, kiss, place): these describe a habitual practice, so the English uses the present.",
+    "The argument is from the lesser to the greater (qal wa-chomer): if the people honor a king's written command, 'how much more so' the words of God. The cohortative נכבד keeps the 'we shall'.",
+    "The three acts (seizing in the hands, kissing with the mouth, placing on the head) are parallel clauses, and the English keeps their order."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Base text from Wikisource; the 1931 scan is not yet collated, so the paragraph is translated as the base text (decisions, Q2).",
+    "Quotation: the double quotation marks open at this segment because the quoted letter is closed by עכ\"ל at 2:25. The opening formula is not in this unit.",
+    "Allusions, the author's wording and not a quotation: 'the living God' (Jer 10:10) and 'King over all the earth' (cf. Zech 14:9)."
+   ],
+   "readings": []
+  },
+  {
+   "ref": "2:24",
+   "english": "The sixth: when the seventy-two elders brought the Torah to Ptolemy, king of Egypt, he rose from his throne and bowed down seven times to meet it, and if a worshipper of idols who has not put his neck under the yoke of our Torah, which is so heavy, how much more so we who enter into its covenant and to whom it was given as an inheritance.",
+   "literal": "sixth when-they-brought seventy and-two elders (object) the-Torah to-Ptolemy king of-Egypt rose from-his-throne and-bowed-down seven times to-meet-it, and-if worshipper-of idols who not put his-neck into-the-yoke of-our-Torah is-heavy so much, how-much-more so we entering in-its-covenant and-to-whom it-was-given to-us as-inheritance",
+   "tokens": [
+    {
+     "id": "2:24.1",
+     "gloss": "sixth"
+    },
+    {
+     "id": "2:24.2",
+     "gloss": "when they brought",
+     "note": "כשהביאו: 'when' with a qatal; the verb comes before its subject"
+    },
+    {
+     "id": "2:24.3",
+     "gloss": "seventy"
+    },
+    {
+     "id": "2:24.4",
+     "gloss": "and two",
+     "note": "שבעים ושנים: seventy-two, written 'seventy and two'"
+    },
+    {
+     "id": "2:24.5",
+     "gloss": "elders"
+    },
+    {
+     "id": "2:24.6",
+     "gloss": "-",
+     "note": "object marker את, no English"
+    },
+    {
+     "id": "2:24.7",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "2:24.8",
+     "gloss": "to Ptolemy",
+     "note": "תלמי, the Hebrew spelling of the king's name"
+    },
+    {
+     "id": "2:24.9",
+     "gloss": "king"
+    },
+    {
+     "id": "2:24.10",
+     "gloss": "of Egypt"
+    },
+    {
+     "id": "2:24.11",
+     "gloss": "rose"
+    },
+    {
+     "id": "2:24.12",
+     "gloss": "from his throne",
+     "note": "מכסאו: 'from his throne'"
+    },
+    {
+     "id": "2:24.13",
+     "gloss": "and bowed down",
+     "note": "והשתחוה: the act of reverence; the verb is the same as in 2:26"
+    },
+    {
+     "id": "2:24.14",
+     "gloss": "seven",
+     "note": "ז׳ is the numeral seven, not a letter"
+    },
+    {
+     "id": "2:24.15",
+     "gloss": "times"
+    },
+    {
+     "id": "2:24.16",
+     "gloss": "to meet it",
+     "note": "לקראתה: lit. 'to meet it', the greeting of a sacred object"
+    },
+    {
+     "id": "2:24.17",
+     "gloss": "and if"
+    },
+    {
+     "id": "2:24.18",
+     "gloss": "a worshipper",
+     "note": "עובד אלילים: 'worshipper of idols'"
+    },
+    {
+     "id": "2:24.19",
+     "gloss": "of idols"
+    },
+    {
+     "id": "2:24.20",
+     "gloss": "who"
+    },
+    {
+     "id": "2:24.21",
+     "gloss": "has not"
+    },
+    {
+     "id": "2:24.22",
+     "gloss": "put",
+     "note": "הביא צוארו בעול: lit. 'brought his neck into the yoke', an idiom of accepting a burden"
+    },
+    {
+     "id": "2:24.23",
+     "gloss": "his neck"
+    },
+    {
+     "id": "2:24.24",
+     "gloss": "under the yoke",
+     "note": "בעול: the yoke, the image of taking on the Torah"
+    },
+    {
+     "id": "2:24.25",
+     "gloss": "of our Torah"
+    },
+    {
+     "id": "2:24.26",
+     "gloss": "which is heavy",
+     "note": "כבדה: feminine, agreeing with תורתינו; the Torah is what is heavy, not the yoke"
+    },
+    {
+     "id": "2:24.27",
+     "gloss": "so"
+    },
+    {
+     "id": "2:24.28",
+     "gloss": "much"
+    },
+    {
+     "id": "2:24.29",
+     "gloss": "how much more",
+     "note": "אף כי: 'how much more so', as in 2:23"
+    },
+    {
+     "id": "2:24.30",
+     "gloss": "so"
+    },
+    {
+     "id": "2:24.31",
+     "gloss": "we"
+    },
+    {
+     "id": "2:24.32",
+     "gloss": "who enter",
+     "note": "הבאים: participle, 'who enter'"
+    },
+    {
+     "id": "2:24.33",
+     "gloss": "into its covenant",
+     "note": "בבריתה: the covenant of the Torah; 'its' is the Torah"
+    },
+    {
+     "id": "2:24.34",
+     "gloss": "and to whom"
+    },
+    {
+     "id": "2:24.35",
+     "gloss": "it was given"
+    },
+    {
+     "id": "2:24.36",
+     "gloss": "to us"
+    },
+    {
+     "id": "2:24.37",
+     "gloss": "as an inheritance",
+     "note": "למורשה: 'as an inheritance'; see apparatus"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:24.1"
+     ],
+     "english": "The sixth:",
+     "literal": "sixth"
+    },
+    {
+     "tokens": [
+      "2:24.2",
+      "2:24.3",
+      "2:24.4",
+      "2:24.5"
+     ],
+     "english": "when the seventy-two elders brought",
+     "literal": "when-brought seventy and-two elders"
+    },
+    {
+     "tokens": [
+      "2:24.6",
+      "2:24.7"
+     ],
+     "english": "the Torah",
+     "literal": "(object) the-Torah"
+    },
+    {
+     "tokens": [
+      "2:24.8",
+      "2:24.9",
+      "2:24.10"
+     ],
+     "english": "to Ptolemy, king of Egypt,",
+     "literal": "to-Ptolemy king of-Egypt"
+    },
+    {
+     "tokens": [
+      "2:24.11",
+      "2:24.12"
+     ],
+     "english": "he rose from his throne",
+     "literal": "rose from-his-throne"
+    },
+    {
+     "tokens": [
+      "2:24.13",
+      "2:24.14",
+      "2:24.15",
+      "2:24.16"
+     ],
+     "english": "and bowed down seven times to meet it,",
+     "literal": "and-bowed-down seven times to-meet-it"
+    },
+    {
+     "tokens": [
+      "2:24.17",
+      "2:24.18",
+      "2:24.19"
+     ],
+     "english": "and if a worshipper of idols",
+     "literal": "and-if worshipper-of idols"
+    },
+    {
+     "tokens": [
+      "2:24.20",
+      "2:24.21",
+      "2:24.22",
+      "2:24.23",
+      "2:24.24",
+      "2:24.25"
+     ],
+     "english": "who has not put his neck under the yoke of our Torah,",
+     "literal": "who not brought his-neck into-the-yoke of-our-Torah"
+    },
+    {
+     "tokens": [
+      "2:24.26",
+      "2:24.27",
+      "2:24.28"
+     ],
+     "english": "which is so heavy,",
+     "literal": "is-heavy so much"
+    },
+    {
+     "tokens": [
+      "2:24.29",
+      "2:24.30"
+     ],
+     "english": "how much more so",
+     "literal": "how-much-more so"
+    },
+    {
+     "tokens": [
+      "2:24.31",
+      "2:24.32",
+      "2:24.33"
+     ],
+     "english": "we who enter into its covenant",
+     "literal": "we entering in-its-covenant"
+    },
+    {
+     "tokens": [
+      "2:24.34",
+      "2:24.35",
+      "2:24.36",
+      "2:24.37"
+     ],
+     "english": "and to whom it was given as an inheritance.",
+     "literal": "and-to-whom it-was-given to-us as-inheritance"
+    }
+   ],
+   "grammar": [
+    "The temporal clause כשהביאו puts the verb first and the subject after it: 'when the seventy-two elders brought the Torah'.",
+    "קם ... והשתחוה are two past acts in sequence (qatal with vav); the English keeps the sequence, 'rose ... and bowed down'.",
+    "The clause introduced by ואם has no verb. The Hebrew leaves the king's act to be understood, and the English keeps the ellipsis; the apodosis 'how much more so we' answers it.",
+    "כבדה is feminine and agrees with תורתינו, so 'which is so heavy' describes the Torah, not the yoke."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Allusion, not quoted: Deut 33:4 for 'למורשה' ('an inheritance').",
+    "The number seventy-two and the translation story are the author's (see context)."
+   ],
+   "context": [
+    "The Greek translation of the Torah, made in Alexandria in the third century BCE, is attributed in the rabbinic tradition to seventy-two elders in the time of Ptolemy, king of Egypt. The author follows that tradition."
+   ],
+   "readings": []
+  },
+  {
+   "ref": "2:25",
+   "english": "\"Seventh: the foundation and principle of our religion is the existence of one, unique, eternal Creator, who is not a body, nor a force in a body, who gives the Torah to His people Israel through the faithful lawgiver Moses, servant of the LORD, master of all the prophets. He, may He be blessed, looks on and exercises providence over the worlds that He created. And His eyes roam over all, He searches and examines the hearts of the sons of man and judges justly according to the deeds, the steps of a man. From Him alone we seek help in our distress, and He will bring forth a shoot from the stock of Jesse, who will gather the outcasts of Israel from the four corners of the earth, and from all the cut-off corners to which they scattered them there, the dry bones of their dead will live, and their corpses will rise. Indeed, all these are the principles and roots of our religion. And what trace of idolatry is found in them? Even concerning those whose opinions and beliefs differ from our opinions and from our faith.\" Thus far his words.",
+   "literal": "seventh foundation and-principle of-our-religion are existence of-Creator one unique eternal who is-not body nor force in-body giving the-Torah to-his-people Israel through the-hand-of the-lawgiver the-faithful Moses servant of-LORD master of-all the-prophets he may-he-be-blessed who-looks-on and-exercises-providence over the-worlds he-created and-his-eyes roam over-all and-searches and-examines the-hearts of-sons of-man and-judges justly according-to the-deeds the-steps-of a-man from-him alone we-seek help in-distress our and-he will-bear-fruit a-shoot from-stock-of Jesse who will-gather outcasts-of Israel from-four corners-of the-earth and-from all the-cut-off corners to-which they-scattered them there the-bones of-their-dead dry will-live and-their-corpses will-rise indeed all these the-principles and-roots-of our-religion and-what trace idolatry is-found in-them even concerning those whose opinions and-beliefs differ from-our-opinions and-from-our-faith thus far his-words",
+   "tokens": [
+    {
+     "id": "2:25.1",
+     "gloss": "seventh"
+    },
+    {
+     "id": "2:25.2",
+     "gloss": "foundation"
+    },
+    {
+     "id": "2:25.3",
+     "gloss": "and principle"
+    },
+    {
+     "id": "2:25.4",
+     "gloss": "of our religion"
+    },
+    {
+     "id": "2:25.5",
+     "gloss": "is"
+    },
+    {
+     "id": "2:25.6",
+     "gloss": "existence"
+    },
+    {
+     "id": "2:25.7",
+     "gloss": "of Creator"
+    },
+    {
+     "id": "2:25.8",
+     "gloss": "one"
+    },
+    {
+     "id": "2:25.9",
+     "gloss": "unique"
+    },
+    {
+     "id": "2:25.10",
+     "gloss": "eternal",
+     "note": "קדמון: eternal, 'without beginning'"
+    },
+    {
+     "id": "2:25.11",
+     "gloss": "who"
+    },
+    {
+     "id": "2:25.12",
+     "gloss": "is not"
+    },
+    {
+     "id": "2:25.13",
+     "gloss": "a body"
+    },
+    {
+     "id": "2:25.14",
+     "gloss": "nor"
+    },
+    {
+     "id": "2:25.15",
+     "gloss": "a force"
+    },
+    {
+     "id": "2:25.16",
+     "gloss": "in a body",
+     "note": "גשם ולא כח בגשם: the form of the Rambam's principle, 'a body or a force in a body'"
+    },
+    {
+     "id": "2:25.17",
+     "gloss": "gives"
+    },
+    {
+     "id": "2:25.18",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "2:25.19",
+     "gloss": "to His people"
+    },
+    {
+     "id": "2:25.20",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:25.21",
+     "gloss": "through"
+    },
+    {
+     "id": "2:25.22",
+     "gloss": "the hand of",
+     "note": "על ידי: lit. 'upon the hand of', 'through'"
+    },
+    {
+     "id": "2:25.23",
+     "gloss": "the lawgiver"
+    },
+    {
+     "id": "2:25.24",
+     "gloss": "the faithful"
+    },
+    {
+     "id": "2:25.25",
+     "gloss": "Moses"
+    },
+    {
+     "id": "2:25.26",
+     "gloss": "servant"
+    },
+    {
+     "id": "2:25.27",
+     "gloss": "LORD",
+     "note": "ה׳: the Tetragrammaton"
+    },
+    {
+     "id": "2:25.28",
+     "gloss": "master"
+    },
+    {
+     "id": "2:25.29",
+     "gloss": "of all"
+    },
+    {
+     "id": "2:25.30",
+     "gloss": "the prophets"
+    },
+    {
+     "id": "2:25.31",
+     "gloss": "He"
+    },
+    {
+     "id": "2:25.32",
+     "gloss": "may He be blessed",
+     "note": "יתברך: 'may He be blessed'"
+    },
+    {
+     "id": "2:25.33",
+     "gloss": "who looks on",
+     "note": "המציץ: participle, 'who looks on'"
+    },
+    {
+     "id": "2:25.34",
+     "gloss": "and exercises providence over",
+     "note": "ומשגיח: participle; השגחה is 'providence'"
+    },
+    {
+     "id": "2:25.35",
+     "gloss": "the worlds"
+    },
+    {
+     "id": "2:25.36",
+     "gloss": "He created"
+    },
+    {
+     "id": "2:25.37",
+     "gloss": "and His eyes"
+    },
+    {
+     "id": "2:25.38",
+     "gloss": "roam"
+    },
+    {
+     "id": "2:25.39",
+     "gloss": "over all"
+    },
+    {
+     "id": "2:25.40",
+     "gloss": "and searches"
+    },
+    {
+     "id": "2:25.41",
+     "gloss": "and examines"
+    },
+    {
+     "id": "2:25.42",
+     "gloss": "the hearts"
+    },
+    {
+     "id": "2:25.43",
+     "gloss": "of the sons"
+    },
+    {
+     "id": "2:25.44",
+     "gloss": "of man"
+    },
+    {
+     "id": "2:25.45",
+     "gloss": "and judges"
+    },
+    {
+     "id": "2:25.46",
+     "gloss": "justly"
+    },
+    {
+     "id": "2:25.47",
+     "gloss": "according to"
+    },
+    {
+     "id": "2:25.48",
+     "gloss": "the deeds"
+    },
+    {
+     "id": "2:25.49",
+     "gloss": "the steps of"
+    },
+    {
+     "id": "2:25.50",
+     "gloss": "a man"
+    },
+    {
+     "id": "2:25.51",
+     "gloss": "from Him"
+    },
+    {
+     "id": "2:25.52",
+     "gloss": "alone"
+    },
+    {
+     "id": "2:25.53",
+     "gloss": "we seek"
+    },
+    {
+     "id": "2:25.54",
+     "gloss": "help"
+    },
+    {
+     "id": "2:25.55",
+     "gloss": "in distress"
+    },
+    {
+     "id": "2:25.56",
+     "gloss": "our"
+    },
+    {
+     "id": "2:25.57",
+     "gloss": "and He"
+    },
+    {
+     "id": "2:25.58",
+     "gloss": "will bring forth",
+     "note": "יפרה: future; Isa 11:1 has this verb intransitively, 'bear fruit'"
+    },
+    {
+     "id": "2:25.59",
+     "gloss": "a shoot",
+     "note": "נצר: 'shoot' or 'branch'"
+    },
+    {
+     "id": "2:25.60",
+     "gloss": "from the stock of"
+    },
+    {
+     "id": "2:25.61",
+     "gloss": "Jesse"
+    },
+    {
+     "id": "2:25.62",
+     "gloss": "who"
+    },
+    {
+     "id": "2:25.63",
+     "gloss": "will gather"
+    },
+    {
+     "id": "2:25.64",
+     "gloss": "the outcasts of",
+     "note": "נדחי: 'the dispersed'"
+    },
+    {
+     "id": "2:25.65",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:25.66",
+     "gloss": "from the four"
+    },
+    {
+     "id": "2:25.67",
+     "gloss": "corners",
+     "note": "כנפות: lit. 'wings', 'corners'"
+    },
+    {
+     "id": "2:25.68",
+     "gloss": "of the earth"
+    },
+    {
+     "id": "2:25.69",
+     "gloss": "and from all"
+    },
+    {
+     "id": "2:25.70",
+     "gloss": "the cut-off",
+     "note": "קצוצי פאה: see context"
+    },
+    {
+     "id": "2:25.71",
+     "gloss": "corners"
+    },
+    {
+     "id": "2:25.72",
+     "gloss": "to which"
+    },
+    {
+     "id": "2:25.73",
+     "gloss": "they scattered"
+    },
+    {
+     "id": "2:25.74",
+     "gloss": "them"
+    },
+    {
+     "id": "2:25.75",
+     "gloss": "there"
+    },
+    {
+     "id": "2:25.76",
+     "gloss": "the bones"
+    },
+    {
+     "id": "2:25.77",
+     "gloss": "of their dead"
+    },
+    {
+     "id": "2:25.78",
+     "gloss": "dry"
+    },
+    {
+     "id": "2:25.79",
+     "gloss": "will live",
+     "note": "תחינה: fem. plural yiqtol, the bones as subject"
+    },
+    {
+     "id": "2:25.80",
+     "gloss": "and their corpses"
+    },
+    {
+     "id": "2:25.81",
+     "gloss": "will rise"
+    },
+    {
+     "id": "2:25.82",
+     "gloss": "indeed"
+    },
+    {
+     "id": "2:25.83",
+     "gloss": "all"
+    },
+    {
+     "id": "2:25.84",
+     "gloss": "these"
+    },
+    {
+     "id": "2:25.85",
+     "gloss": "the principles"
+    },
+    {
+     "id": "2:25.86",
+     "gloss": "and roots of"
+    },
+    {
+     "id": "2:25.87",
+     "gloss": "our religion"
+    },
+    {
+     "id": "2:25.88",
+     "gloss": "and what"
+    },
+    {
+     "id": "2:25.89",
+     "gloss": "trace"
+    },
+    {
+     "id": "2:25.90",
+     "gloss": "idolatry",
+     "note": "ע״ז = עבודה זרה, lit. 'strange worship'"
+    },
+    {
+     "id": "2:25.91",
+     "gloss": "is found"
+    },
+    {
+     "id": "2:25.92",
+     "gloss": "in them"
+    },
+    {
+     "id": "2:25.93",
+     "gloss": "even"
+    },
+    {
+     "id": "2:25.94",
+     "gloss": "concerning",
+     "note": "לדעת: an infinitive used as 'concerning'; the sentence has no verb"
+    },
+    {
+     "id": "2:25.95",
+     "gloss": "those"
+    },
+    {
+     "id": "2:25.96",
+     "gloss": "whose"
+    },
+    {
+     "id": "2:25.97",
+     "gloss": "opinions"
+    },
+    {
+     "id": "2:25.98",
+     "gloss": "and beliefs"
+    },
+    {
+     "id": "2:25.99",
+     "gloss": "differ"
+    },
+    {
+     "id": "2:25.100",
+     "gloss": "from our opinions"
+    },
+    {
+     "id": "2:25.101",
+     "gloss": "and from our faith"
+    },
+    {
+     "id": "2:25.102",
+     "gloss": "thus far his words",
+     "note": "עכ״ל: the closing formula of the quotation"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:25.1",
+      "2:25.2",
+      "2:25.3",
+      "2:25.4"
+     ],
+     "english": "Seventh: the foundation and principle of our religion",
+     "literal": "seventh foundation and-principle of-our-religion"
+    },
+    {
+     "tokens": [
+      "2:25.5",
+      "2:25.6",
+      "2:25.7",
+      "2:25.8",
+      "2:25.9",
+      "2:25.10"
+     ],
+     "english": "is the existence of one, unique, eternal Creator,",
+     "literal": "are existence of-Creator one unique eternal"
+    },
+    {
+     "tokens": [
+      "2:25.11",
+      "2:25.12",
+      "2:25.13",
+      "2:25.14",
+      "2:25.15",
+      "2:25.16"
+     ],
+     "english": "who is not a body, nor a force in a body,",
+     "literal": "who is-not body nor force in-body"
+    },
+    {
+     "tokens": [
+      "2:25.17",
+      "2:25.18",
+      "2:25.19",
+      "2:25.20"
+     ],
+     "english": "who gives the Torah to His people Israel",
+     "literal": "giving the-Torah to-his-people Israel"
+    },
+    {
+     "tokens": [
+      "2:25.21",
+      "2:25.22",
+      "2:25.23",
+      "2:25.24",
+      "2:25.25"
+     ],
+     "english": "through the faithful lawgiver Moses,",
+     "literal": "through the-hand-of the-lawgiver the-faithful Moses"
+    },
+    {
+     "tokens": [
+      "2:25.26",
+      "2:25.27",
+      "2:25.28",
+      "2:25.29",
+      "2:25.30"
+     ],
+     "english": "servant of the LORD, master of all the prophets.",
+     "literal": "servant of LORD master of-all the-prophets"
+    },
+    {
+     "tokens": [
+      "2:25.31",
+      "2:25.32",
+      "2:25.33",
+      "2:25.34",
+      "2:25.35",
+      "2:25.36"
+     ],
+     "english": "He, may He be blessed, looks on and exercises providence over the worlds that He created.",
+     "literal": "he may-he-be-blessed who-looks-on and-exercises-providence over the-worlds he-created"
+    },
+    {
+     "tokens": [
+      "2:25.37",
+      "2:25.38",
+      "2:25.39"
+     ],
+     "english": "And His eyes roam over all,",
+     "literal": "and-his-eyes roam over-all"
+    },
+    {
+     "tokens": [
+      "2:25.40",
+      "2:25.41",
+      "2:25.42",
+      "2:25.43",
+      "2:25.44",
+      "2:25.45",
+      "2:25.46"
+     ],
+     "english": "He searches and examines the hearts of the sons of man and judges justly",
+     "literal": "searches and-examines the-hearts of-sons of-man and-judges justly"
+    },
+    {
+     "tokens": [
+      "2:25.47",
+      "2:25.48",
+      "2:25.49",
+      "2:25.50"
+     ],
+     "english": "according to the deeds, the steps of a man.",
+     "literal": "according-to the-deeds the-steps-of a-man"
+    },
+    {
+     "tokens": [
+      "2:25.51",
+      "2:25.52",
+      "2:25.53",
+      "2:25.54",
+      "2:25.55",
+      "2:25.56"
+     ],
+     "english": "From Him alone we seek help in our distress,",
+     "literal": "from-Him alone we-seek help in-distress our"
+    },
+    {
+     "tokens": [
+      "2:25.57",
+      "2:25.58",
+      "2:25.59",
+      "2:25.60",
+      "2:25.61"
+     ],
+     "english": "and He will bring forth a shoot from the stock of Jesse,",
+     "literal": "and-he will-bear-fruit a-shoot from-stock-of Jesse"
+    },
+    {
+     "tokens": [
+      "2:25.62",
+      "2:25.63",
+      "2:25.64",
+      "2:25.65",
+      "2:25.66",
+      "2:25.67",
+      "2:25.68"
+     ],
+     "english": "who will gather the outcasts of Israel from the four corners of the earth,",
+     "literal": "who will-gather outcasts-of Israel from-four corners-of the-earth"
+    },
+    {
+     "tokens": [
+      "2:25.69",
+      "2:25.70",
+      "2:25.71",
+      "2:25.72",
+      "2:25.73",
+      "2:25.74",
+      "2:25.75"
+     ],
+     "english": "and from all the cut-off corners to which they scattered them there,",
+     "literal": "and-from all the-cut-off corners to-which they-scattered them there"
+    },
+    {
+     "tokens": [
+      "2:25.76",
+      "2:25.77",
+      "2:25.78",
+      "2:25.79",
+      "2:25.80",
+      "2:25.81"
+     ],
+     "english": "the dry bones of their dead will live, and their corpses will rise.",
+     "literal": "the-bones of-their-dead dry will-live and-their-corpses will-rise"
+    },
+    {
+     "tokens": [
+      "2:25.82",
+      "2:25.83",
+      "2:25.84",
+      "2:25.85",
+      "2:25.86",
+      "2:25.87"
+     ],
+     "english": "Indeed, all these are the principles and roots of our religion.",
+     "literal": "indeed all these the-principles and-roots-of our-religion"
+    },
+    {
+     "tokens": [
+      "2:25.88",
+      "2:25.89",
+      "2:25.90",
+      "2:25.91",
+      "2:25.92"
+     ],
+     "english": "And what trace of idolatry is found in them?",
+     "literal": "and-what trace idolatry is-found in-them"
+    },
+    {
+     "tokens": [
+      "2:25.93",
+      "2:25.94",
+      "2:25.95"
+     ],
+     "english": "Even concerning those",
+     "literal": "even concerning those"
+    },
+    {
+     "tokens": [
+      "2:25.96",
+      "2:25.97",
+      "2:25.98",
+      "2:25.99",
+      "2:25.100",
+      "2:25.101"
+     ],
+     "english": "whose opinions and beliefs differ from our opinions and from our faith.",
+     "literal": "whose opinions and-beliefs differ from-our-opinions and-from-our-faith"
+    },
+    {
+     "tokens": [
+      "2:25.102"
+     ],
+     "english": "Thus far his words.",
+     "literal": "thus far"
+    }
+   ],
+   "grammar": [
+    "The paragraph is one sentence: 'the foundation ... is the existence of ...'. Its relative clauses (אשר, נותן) continue from the Creator, and the English keeps the sentence long.",
+    "The verbs of providence (המציץ, ומשגיח, חוקר, ובוחן, ושופט) are participles with no finite verb; the English makes them finite with 'He'.",
+    "והוא יפרה נצר: Isa 11:1 has this verb intransitively ('shall bear fruit'); here it takes נצר as its object, and the English follows the author ('bring forth a shoot').",
+    "The last sentence has no verb ('even concerning those ...'); the English keeps the fragment, as the Hebrew does."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Quotation: the double quotation marks close here with the formula עכ\"ל. The opening is outside this unit (see 2:23 apparatus).",
+    "Allusions, the author's wording and not quotations: Jer 17:10 (חוקר לב בוחן) for 'searches and examines the hearts'; Prov 20:24 (מצעדי גבר) for 'the steps of a man'; Isa 11:1 for 'a shoot from the stock of Jesse'; Isa 11:12 (מארבע כנפות הארץ) for 'from the four corners of the earth'; Ezek 37 (the dry bones) and Isa 26:19 (נבלתי יקומון) for the resurrection clause; Jer 9:25 for 'cut-off corners'."
+   ],
+   "context": [
+    "קצוצי פאה (Jer 9:25): the phrase names, in that verse, the peoples of the desert who cut the corners of their hair, a practice Lev 19:27 forbids to Israel. Here the phrase names the places to which Israel was scattered."
+   ],
+   "readings": []
+  },
+  {
+   "ref": "2:26",
+   "english": "And according to our way, the way of our Rabbis of blessed memory in the aforementioned baraita, there is no need for all this, since our intention is not that we bow down before the Torah scroll, but to Him who chose the Torah. Explicitly, we say: \"Come, let us bow down and kneel, let us bless before the LORD our Maker.\" As for the bowing down of Abraham our father to the angels, and so Joshua's. If you wish, say: since they appeared to them as men, we apply to them what the Rabbis said in the baraita: \"'You shall not bow down to them.' To them you may not bow down, but you bow down to a man like yourself,\" since they were revealed to them in the form of men. And if you wish, say: the intention of Abraham and Joshua was to bow down to Him who sent them, as the author of the Ikkarim wrote.",
+   "literal": "according-to our-way the-way-of our-Rabbis-of-blessed-memory in-the-baraita the-aforementioned there-is-no need for-all this since our-intention is-not that-we bow-down before the-Torah-scroll but to-whom chose the-Torah explicitly we say come let-us-bow-down and-kneel let-us-bless before the-LORD our-maker the-bowing-down of-Abraham our-father to-the-angels and-so Joshua if-you-wish say since they-appeared to-them as-men we-apply to-them what they-said the-Rabbis in-the-baraita you-shall-not bow-down to-them to-them you-may-not you bow-down but you bow-down to-a-man like-yourself since they-were-revealed to-them in-the-form of-men and-if-you-wish say the-intention of-Abraham and-Joshua to-bow-down to-whom they-sent-them as the-author-of the-Ikkarim wrote",
+   "tokens": [
+    {
+     "id": "2:26.1",
+     "gloss": "and according to"
+    },
+    {
+     "id": "2:26.2",
+     "gloss": "our way"
+    },
+    {
+     "id": "2:26.3",
+     "gloss": "the way of"
+    },
+    {
+     "id": "2:26.4",
+     "gloss": "our Rabbis of blessed memory",
+     "note": "רז״ל: רבותינו זכרונם לברכה"
+    },
+    {
+     "id": "2:26.5",
+     "gloss": "the baraita"
+    },
+    {
+     "id": "2:26.6",
+     "gloss": "aforementioned",
+     "note": "הנז״ל: הנזכר"
+    },
+    {
+     "id": "2:26.7",
+     "gloss": "there is no"
+    },
+    {
+     "id": "2:26.8",
+     "gloss": "need"
+    },
+    {
+     "id": "2:26.9",
+     "gloss": "for all"
+    },
+    {
+     "id": "2:26.10",
+     "gloss": "this"
+    },
+    {
+     "id": "2:26.11",
+     "gloss": "since not"
+    },
+    {
+     "id": "2:26.12",
+     "gloss": "our intention"
+    },
+    {
+     "id": "2:26.13",
+     "gloss": "that we"
+    },
+    {
+     "id": "2:26.14",
+     "gloss": "bow down"
+    },
+    {
+     "id": "2:26.15",
+     "gloss": "before"
+    },
+    {
+     "id": "2:26.16",
+     "gloss": "the Torah scroll",
+     "note": "ס״ת: Sefer Torah, the Torah scroll"
+    },
+    {
+     "id": "2:26.17",
+     "gloss": "but"
+    },
+    {
+     "id": "2:26.18",
+     "gloss": "to Him who",
+     "note": "למי does not name him; the context is worship of God"
+    },
+    {
+     "id": "2:26.19",
+     "gloss": "chose"
+    },
+    {
+     "id": "2:26.20",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "2:26.21",
+     "gloss": "explicitly"
+    },
+    {
+     "id": "2:26.22",
+     "gloss": "we"
+    },
+    {
+     "id": "2:26.23",
+     "gloss": "say"
+    },
+    {
+     "id": "2:26.24",
+     "gloss": "come"
+    },
+    {
+     "id": "2:26.25",
+     "gloss": "let us bow down"
+    },
+    {
+     "id": "2:26.26",
+     "gloss": "and kneel"
+    },
+    {
+     "id": "2:26.27",
+     "gloss": "let us bless"
+    },
+    {
+     "id": "2:26.28",
+     "gloss": "before"
+    },
+    {
+     "id": "2:26.29",
+     "gloss": "the LORD",
+     "note": "ה׳: the Tetragrammaton (Ps 95:6)"
+    },
+    {
+     "id": "2:26.30",
+     "gloss": "our Maker"
+    },
+    {
+     "id": "2:26.31",
+     "gloss": "the bowing down"
+    },
+    {
+     "id": "2:26.32",
+     "gloss": "of Abraham"
+    },
+    {
+     "id": "2:26.33",
+     "gloss": "our father"
+    },
+    {
+     "id": "2:26.34",
+     "gloss": "to the angels"
+    },
+    {
+     "id": "2:26.35",
+     "gloss": "and so"
+    },
+    {
+     "id": "2:26.36",
+     "gloss": "Joshua"
+    },
+    {
+     "id": "2:26.37",
+     "gloss": "if you wish"
+    },
+    {
+     "id": "2:26.38",
+     "gloss": "say"
+    },
+    {
+     "id": "2:26.39",
+     "gloss": "since"
+    },
+    {
+     "id": "2:26.40",
+     "gloss": "they appeared"
+    },
+    {
+     "id": "2:26.41",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:26.42",
+     "gloss": "as men"
+    },
+    {
+     "id": "2:26.43",
+     "gloss": "we apply"
+    },
+    {
+     "id": "2:26.44",
+     "gloss": "to them",
+     "note": "קרינא בהו: lit. 'we read them', the Talmudic 'we apply the verse to them'"
+    },
+    {
+     "id": "2:26.45",
+     "gloss": "what"
+    },
+    {
+     "id": "2:26.46",
+     "gloss": "they said"
+    },
+    {
+     "id": "2:26.47",
+     "gloss": "the Rabbis"
+    },
+    {
+     "id": "2:26.48",
+     "gloss": "in the baraita"
+    },
+    {
+     "id": "2:26.49",
+     "gloss": "you shall not"
+    },
+    {
+     "id": "2:26.50",
+     "gloss": "bow down"
+    },
+    {
+     "id": "2:26.51",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:26.52",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:26.53",
+     "gloss": "you may not",
+     "note": "אי אתה משתחוה: the Talmudic 'you may not bow down'"
+    },
+    {
+     "id": "2:26.54",
+     "gloss": "you"
+    },
+    {
+     "id": "2:26.55",
+     "gloss": "bow down"
+    },
+    {
+     "id": "2:26.56",
+     "gloss": "but"
+    },
+    {
+     "id": "2:26.57",
+     "gloss": "you"
+    },
+    {
+     "id": "2:26.58",
+     "gloss": "bow down"
+    },
+    {
+     "id": "2:26.59",
+     "gloss": "to a man"
+    },
+    {
+     "id": "2:26.60",
+     "gloss": "like yourself"
+    },
+    {
+     "id": "2:26.61",
+     "gloss": "since"
+    },
+    {
+     "id": "2:26.62",
+     "gloss": "they were revealed"
+    },
+    {
+     "id": "2:26.63",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:26.64",
+     "gloss": "in the form"
+    },
+    {
+     "id": "2:26.65",
+     "gloss": "of men"
+    },
+    {
+     "id": "2:26.66",
+     "gloss": "and if you wish"
+    },
+    {
+     "id": "2:26.67",
+     "gloss": "say"
+    },
+    {
+     "id": "2:26.68",
+     "gloss": "the intention"
+    },
+    {
+     "id": "2:26.69",
+     "gloss": "of Abraham"
+    },
+    {
+     "id": "2:26.70",
+     "gloss": "and Joshua"
+    },
+    {
+     "id": "2:26.71",
+     "gloss": "to bow down"
+    },
+    {
+     "id": "2:26.72",
+     "gloss": "to Him",
+     "note": "as the note at 'to Him who' above"
+    },
+    {
+     "id": "2:26.73",
+     "gloss": "who sent them"
+    },
+    {
+     "id": "2:26.74",
+     "gloss": "as"
+    },
+    {
+     "id": "2:26.75",
+     "gloss": "wrote",
+     "note": "שכ׳ = שכתב"
+    },
+    {
+     "id": "2:26.76",
+     "gloss": "the author of"
+    },
+    {
+     "id": "2:26.77",
+     "gloss": "the Ikkarim",
+     "note": "Sefer ha-Ikkarim, 'Principles'; the author is named only by the title"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:26.1",
+      "2:26.2",
+      "2:26.3",
+      "2:26.4",
+      "2:26.5",
+      "2:26.6"
+     ],
+     "english": "And according to our way, the way of our Rabbis of blessed memory in the aforementioned baraita,",
+     "literal": "according-to our-way the-way-of our-Rabbis in-the-baraita the-aforementioned"
+    },
+    {
+     "tokens": [
+      "2:26.7",
+      "2:26.8",
+      "2:26.9",
+      "2:26.10"
+     ],
+     "english": "there is no need for all this,",
+     "literal": "there-is-no need for-all this"
+    },
+    {
+     "tokens": [
+      "2:26.11",
+      "2:26.12",
+      "2:26.13",
+      "2:26.14",
+      "2:26.15",
+      "2:26.16"
+     ],
+     "english": "since our intention is not that we bow down before the Torah scroll,",
+     "literal": "since our-intention is-not that-we bow-down before the-Torah-scroll"
+    },
+    {
+     "tokens": [
+      "2:26.17",
+      "2:26.18",
+      "2:26.19",
+      "2:26.20"
+     ],
+     "english": "but to Him who chose the Torah.",
+     "literal": "but to-whom chose the-Torah"
+    },
+    {
+     "tokens": [
+      "2:26.21",
+      "2:26.22",
+      "2:26.23"
+     ],
+     "english": "Explicitly, we say:",
+     "literal": "explicitly we say"
+    },
+    {
+     "tokens": [
+      "2:26.24",
+      "2:26.25",
+      "2:26.26",
+      "2:26.27",
+      "2:26.28",
+      "2:26.29",
+      "2:26.30"
+     ],
+     "english": "\"Come, let us bow down and kneel, let us bless before the LORD our Maker.\"",
+     "literal": "come let-us-bow-down and-kneel let-us-bless before the-LORD our-maker"
+    },
+    {
+     "tokens": [
+      "2:26.31",
+      "2:26.32",
+      "2:26.33",
+      "2:26.34",
+      "2:26.35",
+      "2:26.36"
+     ],
+     "english": "As for the bowing down of Abraham our father to the angels, and so Joshua's.",
+     "literal": "the-bowing-down of-Abraham our-father to-the-angels and-so Joshua"
+    },
+    {
+     "tokens": [
+      "2:26.37",
+      "2:26.38"
+     ],
+     "english": "If you wish, say:",
+     "literal": "if-you-wish say"
+    },
+    {
+     "tokens": [
+      "2:26.39",
+      "2:26.40",
+      "2:26.41",
+      "2:26.42",
+      "2:26.43",
+      "2:26.44"
+     ],
+     "english": "since they appeared to them as men, we apply to them",
+     "literal": "since they-appeared to-them as-men we-apply to-them"
+    },
+    {
+     "tokens": [
+      "2:26.45",
+      "2:26.46",
+      "2:26.47",
+      "2:26.48"
+     ],
+     "english": "what the Rabbis said in the baraita:",
+     "literal": "what they-said the-Rabbis in-the-baraita"
+    },
+    {
+     "tokens": [
+      "2:26.49",
+      "2:26.50",
+      "2:26.51"
+     ],
+     "english": "\"'You shall not bow down to them.'",
+     "literal": "you-shall-not bow-down to-them"
+    },
+    {
+     "tokens": [
+      "2:26.52",
+      "2:26.53",
+      "2:26.54",
+      "2:26.55"
+     ],
+     "english": "To them you may not bow down,",
+     "literal": "to-them you-may-not you bow-down"
+    },
+    {
+     "tokens": [
+      "2:26.56",
+      "2:26.57",
+      "2:26.58",
+      "2:26.59",
+      "2:26.60"
+     ],
+     "english": "but you bow down to a man like yourself.\"",
+     "literal": "but you bow-down to-a-man like-yourself"
+    },
+    {
+     "tokens": [
+      "2:26.61",
+      "2:26.62",
+      "2:26.63",
+      "2:26.64",
+      "2:26.65"
+     ],
+     "english": "since they were revealed to them in the form of men.",
+     "literal": "since they-were-revealed to-them in-the-form of-men"
+    },
+    {
+     "tokens": [
+      "2:26.66",
+      "2:26.67"
+     ],
+     "english": "And if you wish, say:",
+     "literal": "and-if-you-wish say"
+    },
+    {
+     "tokens": [
+      "2:26.68",
+      "2:26.69",
+      "2:26.70",
+      "2:26.71",
+      "2:26.72",
+      "2:26.73"
+     ],
+     "english": "the intention of Abraham and Joshua was to bow down to Him who sent them,",
+     "literal": "the-intention of-Abraham and-Joshua to-bow-down to-whom they-sent-them"
+    },
+    {
+     "tokens": [
+      "2:26.74",
+      "2:26.75",
+      "2:26.76",
+      "2:26.77"
+     ],
+     "english": "as the author of the Ikkarim wrote.",
+     "literal": "as the-author-of the-Ikkarim wrote"
+    }
+   ],
+   "grammar": [
+    "בואו נשתחוה ונכרעה נברכה is Ps 95:6, given as the people's words: the cohortatives ('let us') stay in the English, and the verse is set in quotation marks.",
+    "והשתחוית is a noun ('the bowing down'), so 'As for the bowing down' is a topic phrase; the English needs no verb until 'and so Joshua's'.",
+    "איבעית אימא ('if you wish, say') introduces a second explanation. The author gives two, the first (the angels appeared as men) and the second (the intention was toward the One who sent them); the English keeps both in order.",
+    "The baraita is quoted inside the sentence ('what the Rabbis said in the baraita: ...'), and the English returns to the author's syntax with 'since they were revealed to them'.",
+    "אי אתה משתחוה is the Talmudic negative of permission, 'you may not bow down'; the English keeps the modal."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Ps 95:6 for 'בואו נשתחוה ונכרעה נברכה לפני ה׳ עושנו'.",
+    "Exod 20:5 for 'לא תשתחוה להם' ('you shall not bow down to them'), the words of the baraita.",
+    "Cf. Gen 18:2 and Josh 5:14 for the bowing of Abraham and Joshua; the author alludes to them and does not quote them."
+   ],
+   "readings": []
+  },
+  {
+   "ref": "2:27",
+   "english": "And your question concerning prophecy, although it does not belong to our subject, and you did not ask only to mislead us and to divert us to another matter. Behold, this is set out in the degrees of prophecy in the Rambam, Laws of the Foundations of the Torah, and in part two of the book Moreh Nevukhim, and in the book Emunot ve-De'ot of Rabbi Saadia Gaon. Since I have found you wise in your eyes, I return to ask you to answer me a decisive answer from the words of our Rabbis of blessed memory in the Talmud, for you alone (in your opinion) all mysteries have been revealed to you, and greater understanding, and a new spirit has been given within you. Instruct us, I and my companions, how the matters can agree fully and well. For our soul has longed to hear your teachings, and to delight in your perfect Torah, and it will be to you a merit, and also great honor you will inherit from us.",
+   "literal": "and-your-question concerning prophecy although is-not relevant to-our-subject and-not you-asked only to-mislead-us and-to-divert-us to-a-matter other. behold this is-set-out the-degrees-of prophecy in-the-Rambam Laws-of the-Foundations-of the-Torah, and-in part two of-the-book the-Moreh, and-in-the-book the-Emunot and-the-De'ot of-Rabbi-Saadia-Gaon. and-since I-found-you wise in-your-eyes, I-return to-ask of-you to-answer to-me an-answer decisive from-the-words-of our-Rabbis in-the-Talmud, for you alone (in-your-opinion) to-you were-revealed all mysteries, and-understanding greater and-spirit new has-been-given within-you. instruct-us I and-my-companions how the-matters will-agree in-one-reed in-full and-good. for our-soul longed to-hear your-teachings, and-to-delight in-your-Torah the-perfect, and-to-you will-be righteousness, and-also honor great you-will-inherit from-us",
+   "tokens": [
+    {
+     "id": "2:27.1",
+     "gloss": "and your question"
+    },
+    {
+     "id": "2:27.2",
+     "gloss": "concerning"
+    },
+    {
+     "id": "2:27.3",
+     "gloss": "prophecy"
+    },
+    {
+     "id": "2:27.4",
+     "gloss": "although",
+     "note": "אעפ״י = אף על פי"
+    },
+    {
+     "id": "2:27.5",
+     "gloss": "is not"
+    },
+    {
+     "id": "2:27.6",
+     "gloss": "relevant"
+    },
+    {
+     "id": "2:27.7",
+     "gloss": "to our subject"
+    },
+    {
+     "id": "2:27.8",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:27.9",
+     "gloss": "you asked"
+    },
+    {
+     "id": "2:27.10",
+     "gloss": "only"
+    },
+    {
+     "id": "2:27.11",
+     "gloss": "to mislead us"
+    },
+    {
+     "id": "2:27.12",
+     "gloss": "and to divert us"
+    },
+    {
+     "id": "2:27.13",
+     "gloss": "to a matter"
+    },
+    {
+     "id": "2:27.14",
+     "gloss": "other"
+    },
+    {
+     "id": "2:27.15",
+     "gloss": "behold"
+    },
+    {
+     "id": "2:27.16",
+     "gloss": "this"
+    },
+    {
+     "id": "2:27.17",
+     "gloss": "is set out"
+    },
+    {
+     "id": "2:27.18",
+     "gloss": "the degrees of"
+    },
+    {
+     "id": "2:27.19",
+     "gloss": "prophecy"
+    },
+    {
+     "id": "2:27.20",
+     "gloss": "in the Rambam"
+    },
+    {
+     "id": "2:27.21",
+     "gloss": "Laws of",
+     "note": "הל׳ = הלכות: the Rambam's Mishneh Torah (the code); its first book is 'Laws of the Foundations of the Torah'"
+    },
+    {
+     "id": "2:27.22",
+     "gloss": "of the Foundations"
+    },
+    {
+     "id": "2:27.23",
+     "gloss": "of the Torah"
+    },
+    {
+     "id": "2:27.24",
+     "gloss": "and in part"
+    },
+    {
+     "id": "2:27.25",
+     "gloss": "two"
+    },
+    {
+     "id": "2:27.26",
+     "gloss": "of the book"
+    },
+    {
+     "id": "2:27.27",
+     "gloss": "Moreh Nevukhim",
+     "note": "Moreh Nevukhim, the Guide of the Perplexed; the Hebrew is 'the book of the Moreh'"
+    },
+    {
+     "id": "2:27.28",
+     "gloss": "and in the book"
+    },
+    {
+     "id": "2:27.29",
+     "gloss": "Emunot",
+     "note": "Emunot ve-De'ot, 'Beliefs and Opinions'"
+    },
+    {
+     "id": "2:27.30",
+     "gloss": "and De'ot"
+    },
+    {
+     "id": "2:27.31",
+     "gloss": "of Rabbi Saadia Gaon",
+     "note": "רס״ג: Rabbi Saadia Gaon"
+    },
+    {
+     "id": "2:27.32",
+     "gloss": "and since"
+    },
+    {
+     "id": "2:27.33",
+     "gloss": "I have found you"
+    },
+    {
+     "id": "2:27.34",
+     "gloss": "wise"
+    },
+    {
+     "id": "2:27.35",
+     "gloss": "in your eyes",
+     "note": "the idiom 'wise in one's own eyes' (Prov 3:7); the Hebrew keeps both readings"
+    },
+    {
+     "id": "2:27.36",
+     "gloss": "I return"
+    },
+    {
+     "id": "2:27.37",
+     "gloss": "to ask"
+    },
+    {
+     "id": "2:27.38",
+     "gloss": "of you"
+    },
+    {
+     "id": "2:27.39",
+     "gloss": "to answer"
+    },
+    {
+     "id": "2:27.40",
+     "gloss": "me"
+    },
+    {
+     "id": "2:27.41",
+     "gloss": "an answer"
+    },
+    {
+     "id": "2:27.42",
+     "gloss": "decisive"
+    },
+    {
+     "id": "2:27.43",
+     "gloss": "from the words of"
+    },
+    {
+     "id": "2:27.44",
+     "gloss": "our Rabbis of blessed memory",
+     "note": "רז״ל: רבותינו זכרונם לברכה"
+    },
+    {
+     "id": "2:27.45",
+     "gloss": "in the Talmud"
+    },
+    {
+     "id": "2:27.46",
+     "gloss": "for"
+    },
+    {
+     "id": "2:27.47",
+     "gloss": "only"
+    },
+    {
+     "id": "2:27.48",
+     "gloss": "you"
+    },
+    {
+     "id": "2:27.49",
+     "gloss": "alone"
+    },
+    {
+     "id": "2:27.50",
+     "gloss": "in"
+    },
+    {
+     "id": "2:27.51",
+     "gloss": "your opinion",
+     "note": "the parentheses are the author's and are kept"
+    },
+    {
+     "id": "2:27.52",
+     "gloss": "to you"
+    },
+    {
+     "id": "2:27.53",
+     "gloss": "were revealed"
+    },
+    {
+     "id": "2:27.54",
+     "gloss": "all"
+    },
+    {
+     "id": "2:27.55",
+     "gloss": "mysteries"
+    },
+    {
+     "id": "2:27.56",
+     "gloss": "and understanding"
+    },
+    {
+     "id": "2:27.57",
+     "gloss": "greater"
+    },
+    {
+     "id": "2:27.58",
+     "gloss": "and a spirit"
+    },
+    {
+     "id": "2:27.59",
+     "gloss": "new"
+    },
+    {
+     "id": "2:27.60",
+     "gloss": "has been given"
+    },
+    {
+     "id": "2:27.61",
+     "gloss": "within you"
+    },
+    {
+     "id": "2:27.62",
+     "gloss": "instruct us",
+     "note": "imperative, with 'us' as object"
+    },
+    {
+     "id": "2:27.63",
+     "gloss": "I"
+    },
+    {
+     "id": "2:27.64",
+     "gloss": "and my companions"
+    },
+    {
+     "id": "2:27.65",
+     "gloss": "how"
+    },
+    {
+     "id": "2:27.66",
+     "gloss": "the matters"
+    },
+    {
+     "id": "2:27.67",
+     "gloss": "can agree",
+     "note": "יעלו בקנה אחד: the idiom 'to agree'"
+    },
+    {
+     "id": "2:27.68",
+     "gloss": "in agreement",
+     "note": "lit. 'in one reed'"
+    },
+    {
+     "id": "2:27.69",
+     "gloss": "one"
+    },
+    {
+     "id": "2:27.70",
+     "gloss": "fully"
+    },
+    {
+     "id": "2:27.71",
+     "gloss": "and well"
+    },
+    {
+     "id": "2:27.72",
+     "gloss": "for"
+    },
+    {
+     "id": "2:27.73",
+     "gloss": "our soul"
+    },
+    {
+     "id": "2:27.74",
+     "gloss": "has longed"
+    },
+    {
+     "id": "2:27.75",
+     "gloss": "to hear"
+    },
+    {
+     "id": "2:27.76",
+     "gloss": "your teachings"
+    },
+    {
+     "id": "2:27.77",
+     "gloss": "and to delight"
+    },
+    {
+     "id": "2:27.78",
+     "gloss": "in your Torah"
+    },
+    {
+     "id": "2:27.79",
+     "gloss": "perfect"
+    },
+    {
+     "id": "2:27.80",
+     "gloss": "and to you"
+    },
+    {
+     "id": "2:27.81",
+     "gloss": "will be"
+    },
+    {
+     "id": "2:27.82",
+     "gloss": "a merit",
+     "note": "צדקה: 'righteousness', here the merit that the act earns"
+    },
+    {
+     "id": "2:27.83",
+     "gloss": "and also"
+    },
+    {
+     "id": "2:27.84",
+     "gloss": "honor"
+    },
+    {
+     "id": "2:27.85",
+     "gloss": "great"
+    },
+    {
+     "id": "2:27.86",
+     "gloss": "you will inherit"
+    },
+    {
+     "id": "2:27.87",
+     "gloss": "from us"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:27.1",
+      "2:27.2",
+      "2:27.3"
+     ],
+     "english": "And your question concerning prophecy,",
+     "literal": "and-your-question concerning prophecy"
+    },
+    {
+     "tokens": [
+      "2:27.4",
+      "2:27.5",
+      "2:27.6",
+      "2:27.7"
+     ],
+     "english": "although it does not belong to our subject,",
+     "literal": "although is-not relevant to-our-subject"
+    },
+    {
+     "tokens": [
+      "2:27.8",
+      "2:27.9",
+      "2:27.10",
+      "2:27.11",
+      "2:27.12",
+      "2:27.13",
+      "2:27.14"
+     ],
+     "english": "and you did not ask only to mislead us and to divert us to another matter.",
+     "literal": "and-not you-asked only to-mislead-us and-to-divert-us to-a-matter other"
+    },
+    {
+     "tokens": [
+      "2:27.15",
+      "2:27.16",
+      "2:27.17",
+      "2:27.18",
+      "2:27.19"
+     ],
+     "english": "Behold, this is set out in the degrees of prophecy",
+     "literal": "behold this is-set-out the-degrees-of prophecy"
+    },
+    {
+     "tokens": [
+      "2:27.20",
+      "2:27.21",
+      "2:27.22",
+      "2:27.23"
+     ],
+     "english": "in the Rambam, Laws of the Foundations of the Torah,",
+     "literal": "in-the-Rambam Laws-of the-Foundations-of the-Torah"
+    },
+    {
+     "tokens": [
+      "2:27.24",
+      "2:27.25",
+      "2:27.26",
+      "2:27.27"
+     ],
+     "english": "and in part two of the book Moreh Nevukhim,",
+     "literal": "and-in part two of-the-book the-Moreh"
+    },
+    {
+     "tokens": [
+      "2:27.28",
+      "2:27.29",
+      "2:27.30",
+      "2:27.31"
+     ],
+     "english": "and in the book Emunot ve-De'ot of Rabbi Saadia Gaon.",
+     "literal": "and-in-the-book the-Emunot and-the-De'ot of-Rabbi-Saadia-Gaon"
+    },
+    {
+     "tokens": [
+      "2:27.32",
+      "2:27.33",
+      "2:27.34",
+      "2:27.35"
+     ],
+     "english": "Since I have found you wise in your eyes,",
+     "literal": "and-since I-found-you wise in-your-eyes"
+    },
+    {
+     "tokens": [
+      "2:27.36",
+      "2:27.37",
+      "2:27.38",
+      "2:27.39",
+      "2:27.40"
+     ],
+     "english": "I return to ask you to answer me",
+     "literal": "I return to-ask of-you to-answer me"
+    },
+    {
+     "tokens": [
+      "2:27.41",
+      "2:27.42",
+      "2:27.43",
+      "2:27.44",
+      "2:27.45"
+     ],
+     "english": "a decisive answer from the words of our Rabbis of blessed memory in the Talmud,",
+     "literal": "an-answer decisive from-the-words-of our-Rabbis in-the-Talmud"
+    },
+    {
+     "tokens": [
+      "2:27.46",
+      "2:27.47",
+      "2:27.48",
+      "2:27.49",
+      "2:27.50",
+      "2:27.51"
+     ],
+     "english": "for you alone (in your opinion)",
+     "literal": "for only you alone (in-your-opinion)"
+    },
+    {
+     "tokens": [
+      "2:27.52",
+      "2:27.53",
+      "2:27.54",
+      "2:27.55"
+     ],
+     "english": "all mysteries have been revealed to you,",
+     "literal": "to-you were-revealed all mysteries"
+    },
+    {
+     "tokens": [
+      "2:27.56",
+      "2:27.57",
+      "2:27.58",
+      "2:27.59",
+      "2:27.60",
+      "2:27.61"
+     ],
+     "english": "and greater understanding, and a new spirit has been given within you.",
+     "literal": "and-understanding greater and-spirit new has-been-given within-you"
+    },
+    {
+     "tokens": [
+      "2:27.62",
+      "2:27.63",
+      "2:27.64",
+      "2:27.65",
+      "2:27.66",
+      "2:27.67",
+      "2:27.68",
+      "2:27.69",
+      "2:27.70",
+      "2:27.71"
+     ],
+     "english": "Instruct us, I and my companions, how the matters can agree fully and well.",
+     "literal": "instruct-us I and-my-companions how the-matters will-agree in-one-reed in-full and-good"
+    },
+    {
+     "tokens": [
+      "2:27.72",
+      "2:27.73",
+      "2:27.74",
+      "2:27.75",
+      "2:27.76"
+     ],
+     "english": "For our soul has longed to hear your teachings,",
+     "literal": "for our-soul has-longed to-hear your-teachings"
+    },
+    {
+     "tokens": [
+      "2:27.77",
+      "2:27.78",
+      "2:27.79"
+     ],
+     "english": "and to delight in your perfect Torah,",
+     "literal": "and-to-delight in-your-Torah the-perfect"
+    },
+    {
+     "tokens": [
+      "2:27.80",
+      "2:27.81",
+      "2:27.82"
+     ],
+     "english": "and it will be to you a merit,",
+     "literal": "and-to-you will-be righteousness"
+    },
+    {
+     "tokens": [
+      "2:27.83",
+      "2:27.84",
+      "2:27.85",
+      "2:27.86",
+      "2:27.87"
+     ],
+     "english": "and also great honor you will inherit from us.",
+     "literal": "and-also honor great you-will-inherit from-us"
+    }
+   ],
+   "grammar": [
+    "The paragraph is a single letter sentence, and the list of works (the Rambam, the Moreh, Emunot ve-De'ot) is a series of 'in' phrases; the English keeps the series in the Hebrew's order.",
+    "ולא שאלת רק להטעותנו: 'you did not ask except to mislead us'; the English keeps the restriction with 'only'.",
+    "חכם בעיניך is an idiom that can mean 'wise in your own eyes' (Prov 3:7). The English keeps 'in your eyes', as the Hebrew does.",
+    "הורינו אני וחבירי איך הדברים יעלו: the imperative is followed by a 'how' clause, so the English reads 'Instruct us ..., how the matters can agree'."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Cf. Ezek 36:26 for 'ורוח חדש ניתן בקרבך' ('a new spirit ... within you'); the author does not quote it.",
+    "Cf. Prov 3:7 for 'חכם בעיניך' (see the token note at 'in your eyes')."
+   ],
+   "readings": []
+  }
+ ]
+}

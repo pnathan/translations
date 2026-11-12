@@ -1,0 +1,2360 @@
+{
+ "unit": "perek-2-15",
+ "model": "sonnet",
+ "summary": "The Haiku translation followed the Hebrew word by word but misread several places: it made the author say he is explaining the Ramban (שאני פי' הרמב\"ן means the Ramban's commentary is different), gave 'my mothers' for חמותי (Isa 44:16), 'to balance' for לאזן, 'prompting' for נדנוד and 'purities' for צחצחות, left Eretz Israel against the ruling, and left several verses unrecognised. The quotation marks closed Shemen la-Ma'or too early and gave the Ramban double marks instead of single ones; the English also lacked sentence breaks and the full stops the Hebrew has. The English is rewritten, with phrases, literal, grammar, apparatus, context and readings; five questions are open (נתקע, נתפתהו, צחצחות, the Gaon's reply, the end of the Etz Chayyim quotation). Rabbi Meir Gabbai and Yish'ar of Candia stand as the rulings provide; Eretz Israel becomes the Land of Israel; purities becomes tzachtzachot (question).",
+ "patches": [
+  {
+   "ref": "2:31",
+   "path": "token:2:31.1.gloss",
+   "value": "have you seen",
+   "severity": "error",
+   "reason": "ה interrogative + ראית, not hif'il 'you have shown'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.5.gloss",
+   "value": "got involved",
+   "severity": "error",
+   "reason": "נתקע is 'was fixed/lodged', not 'stumbled'; see question"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.18.gloss",
+   "value": "qualm",
+   "severity": "error",
+   "reason": "נדנוד is a trace of doubt or reservation, not 'prompting'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.33.gloss",
+   "value": "great",
+   "severity": "error",
+   "reason": "גדול is 'great'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.34.gloss",
+   "value": "very",
+   "severity": "error",
+   "reason": "מאד is 'very', not 'indeed'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.82.gloss",
+   "value": "the Rabbi",
+   "severity": "style",
+   "reason": "מהר' = the Rabbi; the English has the article"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.98.gloss",
+   "value": "from wisdom",
+   "severity": "error",
+   "reason": "מחכמה; the demonstrative is the next token"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.112.gloss",
+   "value": "who merits",
+   "severity": "error",
+   "reason": "דזכי לה is 'whoever merits it', not 'that he merited'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.116.gloss",
+   "value": "of ascent",
+   "severity": "style",
+   "reason": "בני עלייה: literally 'sons of ascent'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.135.gloss",
+   "value": "like sheaves",
+   "severity": "style",
+   "reason": "Mic 4:12"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.136.gloss",
+   "value": "to the threshing floor",
+   "severity": "error",
+   "reason": "גורנה has the directional he (Mic 4:12)"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.157.gloss",
+   "value": "firm",
+   "severity": "error",
+   "reason": "Isa 22:23 במקום נאמן: a firm place, not 'faithful'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.201.gloss",
+   "value": "to call attention",
+   "severity": "error",
+   "reason": "לעורר על: to call attention to, not 'rouse'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.202.gloss",
+   "value": "to",
+   "severity": "error",
+   "reason": "על is 'to/about', not the article"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.213.gloss",
+   "value": "I am warm",
+   "severity": "error",
+   "reason": "חמותי (Isa 44:16) is 'I am warm', not 'my mothers'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.218.gloss",
+   "value": "like leaven",
+   "severity": "error",
+   "reason": "כשאור is 'like leaven'; 'of chicks' is not in the Hebrew"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.221.gloss",
+   "value": "were opened",
+   "severity": "question",
+   "reason": "printed נתפתהו; see note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.227.gloss",
+   "value": "on earth",
+   "severity": "error",
+   "reason": "אשר בארץ echoes 2 Sam 7:9: 'on earth'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.235.gloss",
+   "value": "there is no",
+   "severity": "style",
+   "reason": "אין כח is impersonal"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.252.gloss",
+   "value": "behold, I",
+   "severity": "error",
+   "reason": "הנני is 'behold, I'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.262.gloss",
+   "value": "in the book",
+   "severity": "error",
+   "reason": "בספר; the demonstrative is the next token"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.263.gloss",
+   "value": "this",
+   "severity": "error",
+   "reason": "הזה"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.270.gloss",
+   "value": "about a matter",
+   "severity": "error",
+   "reason": "בדבר מכל: 'about any matter of all'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.292.gloss",
+   "value": "to the ear",
+   "severity": "error",
+   "reason": "לאזן = לאוזן 'to the ear', not 'to balance'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.295.gloss",
+   "value": "And the supposition",
+   "severity": "error",
+   "reason": "סברא, the same word as 'supposition' above"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.305.gloss",
+   "value": "that is different",
+   "severity": "error",
+   "reason": "שאני is Aramaic 'is different', not 'that I am'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.306.gloss",
+   "value": "the commentary of",
+   "severity": "error",
+   "reason": "פי' = פירוש, a noun, not 'explaining'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.308.gloss",
+   "value": "for all",
+   "severity": "style",
+   "reason": "שכל is 'since all'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.310.gloss",
+   "value": "in brevity",
+   "severity": "error",
+   "reason": "בקיצור is 'in brevity'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.330.gloss",
+   "value": "Bachya",
+   "severity": "style",
+   "reason": "the Hebrew has בחיי; 'Rabbeinu' is not written"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.343.gloss",
+   "value": "closed",
+   "severity": "error",
+   "reason": "סגור is 'closed', not 'sealed'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.351.gloss",
+   "value": "that certainly",
+   "severity": "error",
+   "reason": "שבודאי is 'that certainly'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.364.gloss",
+   "value": "to any",
+   "severity": "style",
+   "reason": "לכל אדם after לא: 'to any man'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.407.gloss",
+   "value": "with a thousand",
+   "severity": "style",
+   "reason": "באלף"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.408.gloss",
+   "value": "seals",
+   "severity": "error",
+   "reason": "עזקן is 'rings/seals', not 'locks'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.412.gloss",
+   "value": "of understanding",
+   "severity": "error",
+   "reason": "אנשי לבב (Job 34:10): men of understanding"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.416.gloss",
+   "value": "break through",
+   "severity": "error",
+   "reason": "תהרסון (Exod 19:21): 'break through', not 'destroy yourselves'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.418.gloss",
+   "value": "at books",
+   "severity": "style",
+   "reason": "לראות ספרים"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.436.gloss",
+   "value": "to be borne",
+   "severity": "error",
+   "reason": "גדול עונו מנשוא (Gen 4:13): too great to bear"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.458.gloss",
+   "value": "from his precinct",
+   "severity": "error",
+   "reason": "ממחיצתו is masculine: 'his', not 'its'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.516.gloss",
+   "value": "of moral discipline",
+   "severity": "style",
+   "reason": "מוסר"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.548.gloss",
+   "value": "I am not",
+   "severity": "error",
+   "reason": "איני is 'I am not'; the gloss dropped the negative"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.551.gloss",
+   "value": "And behold",
+   "severity": "style",
+   "reason": "והנה"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.574.gloss",
+   "value": "and like",
+   "severity": "error",
+   "reason": "ובעובד ע\"ז is 'and like a worshipper of idols'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.575.gloss",
+   "value": "a worshipper of idols",
+   "severity": "error",
+   "reason": "ruling on עובד ע\"ז"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.579.gloss",
+   "value": "in the Land of Israel",
+   "severity": "error",
+   "reason": "ruling: בא\"י = in the Land of Israel"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.582.gloss",
+   "value": "of the world to come",
+   "severity": "error",
+   "reason": "capitalisation: the file writes 'world to come'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.606.gloss",
+   "value": "to stand",
+   "severity": "style",
+   "reason": "לעמוד literally 'to stand'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.607.gloss",
+   "value": "upon them",
+   "severity": "style",
+   "reason": "עליהם"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.617.gloss",
+   "value": "his mind",
+   "severity": "style",
+   "reason": "דעת is literally 'mind'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.619.gloss",
+   "value": "the mind",
+   "severity": "style",
+   "reason": "דעת is literally 'mind'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.627.gloss",
+   "value": "excellent",
+   "severity": "error",
+   "reason": "מעולה is 'excellent'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.628.gloss",
+   "value": "from all",
+   "severity": "error",
+   "reason": "מכל is 'from all'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.643.gloss",
+   "value": "valuation",
+   "severity": "error",
+   "reason": "בלי ערך: without valuation, beyond compare"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.674.gloss",
+   "value": "to reason",
+   "severity": "style",
+   "reason": "לשכל"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.677.gloss",
+   "value": "from the weighing",
+   "severity": "style",
+   "reason": "משיקול"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.678.gloss",
+   "value": "of his mind",
+   "severity": "style",
+   "reason": "דעתו"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.680.gloss",
+   "value": "three",
+   "severity": "error",
+   "reason": "the Hebrew has no article"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.681.gloss",
+   "value": "first ones",
+   "severity": "error",
+   "reason": "ראשונות"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.683.gloss",
+   "value": "tzachtzachot",
+   "severity": "error",
+   "reason": "kabbalistic technical name: transliterate (general rule); 'purities' takes a side"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.689.gloss",
+   "value": "that not",
+   "severity": "error",
+   "reason": "token glosses 689-691 were shifted"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.690.gloss",
+   "value": "stands",
+   "severity": "error",
+   "reason": "קימא"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.691.gloss",
+   "value": "for a question",
+   "severity": "error",
+   "reason": "לשאלה"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.699.gloss",
+   "value": "and R. M.",
+   "severity": "error",
+   "reason": "ruling: an initial no surname fixes stays an initial with a note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.705.gloss",
+   "value": "and holy ones",
+   "severity": "error",
+   "reason": "עילאין is the next token; 'supernal' was doubled"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.710.gloss",
+   "value": "in the Zohar",
+   "severity": "error",
+   "reason": "דבזהר is 'that are in the Zohar'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.29.note",
+   "value": "Chavot Yair means 'Villages of Yair' (Num 32:41); a book of responsa. 'The Gaon, the author of Chavot Yair' is the author as the Hebrew calls him; no more is said of him.",
+   "severity": "style",
+   "reason": "book title: meaning at first occurrence"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.76.note",
+   "value": "Ben Sira's saying as the Talmud quotes it, cut short by וכו'; no reference added (decisions).",
+   "severity": "style",
+   "reason": "a quotation without a formula whose source is certain takes marks; learner note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.82.note",
+   "value": "מהר' = מהרב, 'of the Rabbi' (the Gaon). Expanded here.",
+   "severity": "style",
+   "reason": "abbreviation"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.116.note",
+   "value": "בני עלייה: a Talmudic term for people of high standing; literally 'sons of ascent'.",
+   "severity": "style",
+   "reason": "learner note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.124.note",
+   "value": "גודלו, 'his greatness' as printed; the likelier word is גורלו 'his lot', as in the liturgy (מה נעים גורלנו). Translated as printed; see apparatus.",
+   "severity": "style",
+   "reason": "ruling on printed word echoing a likelier one"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.130.note",
+   "value": "יש\"ר is an acronym; expanded by the usual form 'Yish'ar of Candia' (ruling). The expansion is conjectural, since no surname fixes it.",
+   "severity": "style",
+   "reason": "ruling on acronym names with a place"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.145.note",
+   "value": "בחינת הדת: 'examination of religion', the title of a book.",
+   "severity": "style",
+   "reason": "title meaning"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.169.note",
+   "value": "שמן למאור: 'oil for the light' (Exod 25:6), the title of a book.",
+   "severity": "style",
+   "reason": "title meaning"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.173.note",
+   "value": "הרב is 'the Rav', not named here. The Hebrew says only 'of the father of the Rav'.",
+   "severity": "style",
+   "reason": "reader needs it"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.180.note",
+   "value": "ר\"מ expanded as Rabbi Meir; the surname Gabbai fixes the person (Rabbi Meir ibn Gabbai the Kabbalist is meant, but the text does not say more).",
+   "severity": "style",
+   "reason": "ruling: initial before a surname"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.213.note",
+   "value": "חמותי is from Isa 44:16, where it is the verb 'I am warm'; it is not חמות 'mother-in-law'. The verse has אוּר 'fire'; the author's text reads אור 'light'.",
+   "severity": "error",
+   "reason": "the gloss 'my mothers' was a misreading"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.224.note",
+   "value": "The Hebrew has a full stop after 'תורה', and the main clause (אין כח) follows it; joined here with a comma, as the ruling on a main clause after a full stop provides.",
+   "severity": "style",
+   "reason": "ruling: join and say so in a token note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.292.note",
+   "value": "לאזן is a defective spelling of לאוזן 'to the ear'.",
+   "severity": "error",
+   "reason": "not 'to balance'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.305.note",
+   "value": "שאני is Aramaic 'is different'; פי' is פירוש 'commentary'. The sentence says that the Ramban's commentary is different because it is all brief and by allusion.",
+   "severity": "error",
+   "reason": "the first English made the author say 'I am explaining the Ramban'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.318.note",
+   "value": "The main clause of the conditional (ואם תאמר ...) follows a Hebrew full stop; joined with a comma (ruling).",
+   "severity": "style",
+   "reason": "ruling: join and say so in a token note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.320.note",
+   "value": "שערי אורה: 'Gates of Light', the title of a book.",
+   "severity": "style",
+   "reason": "title meaning"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.330.note",
+   "value": "The author writes בחיי only; the fixed form 'Rabbeinu Bachya' is for רבינו בחיי.",
+   "severity": "style",
+   "reason": "ruling: keep every word as written"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.346.note",
+   "value": "עץ חיים: 'Tree of Life' (Prov 3:18), the title of a book. Here the book speaks in its introduction.",
+   "severity": "style",
+   "reason": "title meaning"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.432.note",
+   "value": "בעולם האצילות after הרהור: the World of Emanation is what the musing is about; 'in the World' is also possible.",
+   "severity": "style",
+   "reason": "sense of ב"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.458.note",
+   "value": "ממחיצתו: 'his precinct'. The referent is not stated (the abstainer's own station, or God's). Kept as the Hebrew has it.",
+   "severity": "style",
+   "reason": "the first English said 'its'"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.482.note",
+   "value": "The concession (ואע\"ג) ends at a full stop and its main clause (טוב ציפורנם) follows; joined with a comma (ruling).",
+   "severity": "style",
+   "reason": "ruling: join and say so in a token note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.579.note",
+   "value": "בא\"י = בארץ ישראל.",
+   "severity": "style",
+   "reason": "abbreviation expansion"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.597.note",
+   "value": "כי opens after a full stop and continues the sentence before; joined with a comma.",
+   "severity": "style",
+   "reason": "ruling on a fragment after a full stop"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.606.note",
+   "value": "לעמוד עליהם: literally 'to stand upon them'; here 'to fulfil'.",
+   "severity": "style",
+   "reason": "learner note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.608.note",
+   "value": "ועוד continues the list of reasons after a full stop; joined with a comma.",
+   "severity": "style",
+   "reason": "ruling on a fragment after a full stop"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.617.note",
+   "value": "על דעתו ועל דעת קונו: literally 'against his mind and the mind of his Maker'; 'will' in the English.",
+   "severity": "style",
+   "reason": "learner note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.644.note",
+   "value": "בתנאי opens after a full stop and continues the sentence before; joined with a comma.",
+   "severity": "style",
+   "reason": "ruling on a fragment after a full stop"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.681.note",
+   "value": "שלש ראשונות: 'three first ones', a technical term of the Kabbalists; no article in the Hebrew.",
+   "severity": "style",
+   "reason": "term"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.698.note",
+   "value": "ספר יצירה: 'Book of Formation'.",
+   "severity": "style",
+   "reason": "title meaning"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.699.note",
+   "value": "ר\"מ: an initial with no surname; not expanded. It may be Rabbi Meir, but the text does not fix it.",
+   "severity": "error",
+   "reason": "ruling: initial with no surname stays an initial"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.702.note",
+   "value": "סבא דסבין is Zohar Aramaic, 'the Elder of Elders' (a partzuf epithet).",
+   "severity": "style",
+   "reason": "learner note"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.718.note",
+   "value": "וגם after a full stop continues the list 'there is no proof from ...'; joined with a comma.",
+   "severity": "style",
+   "reason": "ruling on a fragment after a full stop"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.5.note",
+   "value": "נתקע is the nif'al of תקע, 'was fixed, was driven in'. 'Got involved' is the sense of the context (the Ribash did not engage with it). Proposed ruling: translate 'did not get involved in it' and record 'was not fixed in it' in readings.",
+   "severity": "question",
+   "reason": "the ruling is silent on נתקע; 'stumbled' (נתקל) is not the word"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.221.note",
+   "value": "שלא נתפתהו עיניהם: the printed word נתפתהו (from פתה 'be enticed') does not suit eyes; the likelier word is נתפקחו / נפתחו 'were opened' (chicks' eyes not yet opened). Translated by the sense, 'whose eyes had not opened'; the printed word is in apparatus. כשאור 'like leaven' is kept, with a comma before 'chicks'. Proposed ruling: confirm.",
+   "severity": "question",
+   "reason": "ruling on a printed word near a likelier one; the first English ('like the leaven of chicks that their eyes were not enticed') made no sense"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.683.note",
+   "value": "צחצחות: a Kabbalists' technical term (Isa 58:11 has the word in another sense, 'parched places'). Proposed ruling: transliterate 'tzachtzachot' under the general rule for kabbalistic names, with the root צח 'bright, clear' in this note; add the term to the Terms section.",
+   "severity": "question",
+   "reason": "decisions.md has no entry for צחצחות; 'purities' takes a side"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.85.note",
+   "value": "Proposed ruling: the Gaon's reply (ויען ויאמר לו ... אהוב למעלה וכו') is direct speech and takes double marks, as does the Talmudic saying before it; the Gaon's account of the question (ששאלו ...) is a report, without marks. Shemen la-Ma'or then opens its own double mark after וז\"ל.",
+   "severity": "question",
+   "reason": "the rulings do not say whether the Gaon's reply, introduced by ויאמר, is a quotation"
+  },
+  {
+   "ref": "2:31",
+   "path": "token:2:31.349.note",
+   "value": "Proposed ruling: the single-marked quotation from Etz Chayyim runs from עם היות to האנושי, closing before ע\"ש; the sentence ואם האחרון שבמקובלים continues its argument (the divine flow, the words sealed with a thousand seals, 'men of understanding, hear me'). Shemen's own voice resumes at ולדעתי. To be checked against the book when the sources are collated.",
+   "severity": "question",
+   "reason": "the boundary of this quotation is not marked in the Hebrew"
+  },
+  {
+   "ref": "2:31",
+   "path": "english",
+   "value": "Have you seen, to know that the Ribash's not getting involved in it is due to his not having received it from mouth to mouth, not due to any qualm as you say? And here you have the wording of the second witness, the Gaon, the author of Chavot Yair, of blessed memory, in very great brevity who was asked by a certain sage who spent his days in the Gemara and the decisors, and behold, a spirit rose within him and stirred him to study the Kabbalah for the exceeding excellence of its virtues, which is the soul of the Torah, and he saw several sayings of the Zohar that it is impossible to enter before the Holy King except by it, and the sages of the Talmud did not command about it, only warned not to expound it, \"Do not inquire into what is too wondrous for you, etc.\" and he asked the Rabbi to free him from confusion, and he answered and said to him, \"Woe is me if I advise you about withdrawal and cause slackening of hands and hindrance from this wisdom, which is without doubt the soul of the Torah and the root of faith, like wisdom and knowledge and understanding, and without doubt, whoever merits it is of the sons of ascent; happy is he, how good is his portion, and how pleasant is his greatness, beloved on high, etc.\" He cited the words of Yish'ar of Candia who went at very great length and gathered like sheaves to the threshing floor most of the opinions that preceded him to bring near and not to distance, against the book Bechinat ha-Dat, which sought to lead many astray! And he said that he found a peg fixed in a pillar of iron in a firm place to hang on to agree to receive a reward for withdrawal more than for inquiry in the book Shemen la-Ma'or, of the father of the Rav and these are his words, briefly: \"And this matter that he wrote in the name of Rabbi Meir Gabbai, that everyone who has not received the secrets of the Torah from his master and thinks to weigh them in his mind transgresses the prohibition 'you shall not make for yourself a graven image', I said in my heart to call attention to the ways of people in our generation, I have seen infants who have not seen light, who say 'I am warm, I have seen light', hidden within them like leaven, chicks whose eyes had not opened, etc. And even the great ones on earth, whoever is sharp and diligent, expert in the chambers of the Torah, there is no strength in his intellect to grasp the chambers of light, except from the mouth of an elder and teacher. And these are the words of the Ramban in his introduction to the commentary on the Torah: 'And I hereby bring in a faithful covenant and it gives proper counsel to everyone who looks into this book, that he not suppose a supposition and not think thoughts about any matter of all the hints that I write in the secrets of the Torah, for I inform faithfully that my words will not be grasped by any reason or understanding except from the mouth of a wise Kabbalist into the ear of an understanding recipient. And the supposition about them is a folly of many harms, preventing benefit, etc.' And if you say that the commentary of the Ramban is different, since all his words are brief, by allusion, unlike other books of Kabbalah that explained their words, do you not see in Sha'arei Orah that he wrote on every page the phrase 'I hereby allude'? So too, in the book of Bachya, he was very brief and was accustomed to say in his own words 'and the wise will understand,' all the more so the book of the Zohar, which is closed and locked, and these are the words of Etz Chayyim in his introduction: 'Although certainly in the later generations they are sustained from this composition. There is no doubt that the waters of wisdom will not be revealed to any man by the power of contemplation according to their human intellect but only through a divine flow that flows upon him. And if the last of the Kabbalists went so far as to say that his words will not be grasped, how can it arise in the mind that human reason, especially of the people of our generation, this one, to understand and comprehend the words of the living God, Rabbi Shimon bar Yochai, the voice of whose utterances is flames of fire and they are sealed with a thousand seals, etc. Therefore, men of understanding, hear me and do not break through to look at later books built according to their human intellect.' See there. And in my opinion, when a man sins in the musing of thought about the World of Emanation, his iniquity is too great to bear. Although many, and likewise perfect ones, of the later Kabbalists aroused the hearts of people greatly to the study of the Kabbalah and wrote that the one who withholds himself from studying Kabbalah is thrust out from his precinct and loses his world. It seems to me that they do not disagree, and surely whoever can learn from the mouth of a divine Kabbalist who will explain the matters to him as the Ari did for his disciples happy is his portion. And although the later ones permitted study from the books and understanding from one's own mind, 'better is the fingernail of the early ones, etc.' and 'sit and do not do' is better, for the danger to the body is graver, and all the more so to the soul, etc. And we may not inquire into hidden things but only to hear in the study of the plain meaning of Scripture and the reproof of moral instruction, to walk in the ways of the upright, for our knowledge is limited.\" Thus far the words of Shemen la-Ma'or, the proof from which is to agree to withdrawal, etc. And with all this I have revealed to you my opinion and do not rely on me, neither you nor another, for I am not fit to decide. And behold, I liken the study of this holy of holies to a journey to the Holy Land, for its virtue is known, as they said in the Talmud, that without it he is like one who has no God and like a worshipper of idols, and one who walks four cubits in the Land of Israel is a son of the world to come, and many praises. And even so, the Tosafot wrote in the name of Rabbi Chayyim that now it is not a commandment to dwell in the land, for there are many commandments dependent on the land which we are unable to fulfil, and further because of the danger of the roads, and because of the poverty there, which will lead him to transgress against his own will and the will of his Maker there. And if there is no expert before him and an excellent protection from all harm, it is good to refrain from this! Surely, too, who would deny the excellence of this wisdom, raised on high beyond compare, on condition that one who merits it learns it from the mouth of a Kabbalist who also received it from his master? And indeed it is true that I am astonished at books composed by later authors that brought sayings of the Zohar. And they raise difficulties about them and explain them according to their own judgment. Who gave permission to human reason to invent from the weighing of its own judgment the existence of three first ones and three tzachtzachot? For it is explained in the Zohar that there is a place that is not open to question, etc. and there is no proof from the saying of the Zohar and Sefer Yetzirah and R. M., who received from the mouth of the Elder of Elders and Elijah and the supernal holy ones, and all those children in the Zohar, the spirit of the LORD spoke through them and His word was on their tongue, and also the Ari and his disciples, who received from him mouth to mouth—from the mouth of the supernal ones the words came forth— and we, in our study of them, nothing comes to our mind except the reading of the words, which is not so with these later ones and with those who explain from their own judgment.",
+   "severity": "error",
+   "reason": "Rewritten against the Hebrew: הראית/נתקע/נדנוד; 'my mothers' (Isa 44:16); 'If you say that I am explaining the Ramban' (שאני פי' הרמב\"ן is 'the Ramban's commentary is different'); 'to balance' (לאזן, to the ear); 'that he merited it he is' (דזכי לה); 'to rouse the ways' (לעורר על); 'purities' (צחצחות); 'Eretz Israel' against the ruling; doubled 'supernal'; ר\"מ at 2:31.699; Shemen's double mark closed too early and the Ramban given double marks (nested marks: double, single); closing formulas outside the marks; fragments after a full stop joined with a comma (rulings); verses (Mic 4:12, Isa 22:23, Job 34:10, Exod 19:21, Gen 4:13, Jer 23:36, 2 Sam 23:2) in the verse's sense"
+  },
+  {
+   "ref": "2:31",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:31.1",
+      "2:31.2",
+      "2:31.3",
+      "2:31.4",
+      "2:31.5",
+      "2:31.6",
+      "2:31.7"
+     ],
+     "english": "Have you seen, to know that the Ribash's not getting involved in it",
+     "literal": "have you seen to know why not got involved the Ribash in it"
+    },
+    {
+     "tokens": [
+      "2:31.8",
+      "2:31.9"
+     ],
+     "english": "is due to",
+     "literal": "is due to"
+    },
+    {
+     "tokens": [
+      "2:31.10",
+      "2:31.11",
+      "2:31.12",
+      "2:31.13",
+      "2:31.14"
+     ],
+     "english": "his not having received it from mouth to mouth,",
+     "literal": "not receiving it from mouth to mouth"
+    },
+    {
+     "tokens": [
+      "2:31.15",
+      "2:31.16",
+      "2:31.17",
+      "2:31.18"
+     ],
+     "english": "not due to any qualm",
+     "literal": "not due to any qualm"
+    },
+    {
+     "tokens": [
+      "2:31.19",
+      "2:31.20",
+      "2:31.21"
+     ],
+     "english": "as you say?",
+     "literal": "as you say"
+    },
+    {
+     "tokens": [
+      "2:31.22",
+      "2:31.23",
+      "2:31.24",
+      "2:31.25",
+      "2:31.26",
+      "2:31.27",
+      "2:31.28",
+      "2:31.29",
+      "2:31.30",
+      "2:31.31"
+     ],
+     "english": "And here you have the wording of the second witness, the Gaon, the author of Chavot Yair, of blessed memory,",
+     "literal": "And here for you the words of the witness the second the Gaon the author of Chavot Yair of blessed memory"
+    },
+    {
+     "tokens": [
+      "2:31.32",
+      "2:31.33",
+      "2:31.34"
+     ],
+     "english": "in very great brevity",
+     "literal": "briefly great very"
+    },
+    {
+     "tokens": [
+      "2:31.35",
+      "2:31.36",
+      "2:31.37",
+      "2:31.38",
+      "2:31.39",
+      "2:31.40",
+      "2:31.41"
+     ],
+     "english": "who was asked by a certain sage who spent his days in the Gemara and the decisors,",
+     "literal": "who was asked a sage one who spent his days in the Gemara and the decisors"
+    },
+    {
+     "tokens": [
+      "2:31.42",
+      "2:31.43",
+      "2:31.44",
+      "2:31.45"
+     ],
+     "english": "and behold, a spirit rose within him",
+     "literal": "and behold a spirit rose within him"
+    },
+    {
+     "tokens": [
+      "2:31.46",
+      "2:31.47",
+      "2:31.48",
+      "2:31.49"
+     ],
+     "english": "and stirred him to study the Kabbalah",
+     "literal": "and stirred him to study the Kabbalah"
+    },
+    {
+     "tokens": [
+      "2:31.50",
+      "2:31.51",
+      "2:31.52",
+      "2:31.53",
+      "2:31.54"
+     ],
+     "english": "for the exceeding excellence of its virtues, which is the soul of the Torah,",
+     "literal": "for the excellence of its virtues which is the soul of the Torah"
+    },
+    {
+     "tokens": [
+      "2:31.55",
+      "2:31.56",
+      "2:31.57",
+      "2:31.58"
+     ],
+     "english": "and he saw several sayings of the Zohar",
+     "literal": "and he saw how many sayings of the Zohar"
+    },
+    {
+     "tokens": [
+      "2:31.59",
+      "2:31.60",
+      "2:31.61",
+      "2:31.62",
+      "2:31.63",
+      "2:31.64",
+      "2:31.65"
+     ],
+     "english": "that it is impossible to enter before the Holy King except by it,",
+     "literal": "that impossible to enter before the King the Holy except by it"
+    },
+    {
+     "tokens": [
+      "2:31.66",
+      "2:31.67",
+      "2:31.68",
+      "2:31.69",
+      "2:31.70"
+     ],
+     "english": "and the sages of the Talmud did not command about it,",
+     "literal": "and the sages of the Talmud did not command about it"
+    },
+    {
+     "tokens": [
+      "2:31.71",
+      "2:31.72",
+      "2:31.73",
+      "2:31.74",
+      "2:31.75"
+     ],
+     "english": "only warned not to expound it,",
+     "literal": "only warned that not to expound it"
+    },
+    {
+     "tokens": [
+      "2:31.76",
+      "2:31.77",
+      "2:31.78",
+      "2:31.79",
+      "2:31.80"
+     ],
+     "english": "\"Do not inquire into what is too wondrous for you, etc.\"",
+     "literal": "what is beyond you do not seek etc."
+    },
+    {
+     "tokens": [
+      "2:31.81",
+      "2:31.82",
+      "2:31.83",
+      "2:31.84"
+     ],
+     "english": "and he asked the Rabbi to free him from confusion,",
+     "literal": "and he asked the Rabbi to free him from confusion"
+    },
+    {
+     "tokens": [
+      "2:31.85",
+      "2:31.86",
+      "2:31.87"
+     ],
+     "english": "and he answered and said to him,",
+     "literal": "and he answered and said to him"
+    },
+    {
+     "tokens": [
+      "2:31.88",
+      "2:31.89",
+      "2:31.90",
+      "2:31.91",
+      "2:31.92",
+      "2:31.93"
+     ],
+     "english": "\"Woe is me if I advise you about withdrawal",
+     "literal": "Woe to me if I advise you about withdrawal"
+    },
+    {
+     "tokens": [
+      "2:31.94",
+      "2:31.95",
+      "2:31.96",
+      "2:31.97",
+      "2:31.98",
+      "2:31.99"
+     ],
+     "english": "and cause slackening of hands and hindrance from this wisdom,",
+     "literal": "and cause slackening of hands and hindrance from wisdom this"
+    },
+    {
+     "tokens": [
+      "2:31.100",
+      "2:31.101",
+      "2:31.102",
+      "2:31.103",
+      "2:31.104"
+     ],
+     "english": "which is without doubt the soul of the Torah",
+     "literal": "which is without doubt the soul of the Torah"
+    },
+    {
+     "tokens": [
+      "2:31.105",
+      "2:31.106",
+      "2:31.107",
+      "2:31.108",
+      "2:31.109"
+     ],
+     "english": "and the root of faith, like wisdom and knowledge and understanding,",
+     "literal": "and the root of faith like wisdom and knowledge and understanding"
+    },
+    {
+     "tokens": [
+      "2:31.110",
+      "2:31.111",
+      "2:31.112",
+      "2:31.113"
+     ],
+     "english": "and without doubt, whoever merits it",
+     "literal": "and without doubt who merits it"
+    },
+    {
+     "tokens": [
+      "2:31.114",
+      "2:31.115",
+      "2:31.116",
+      "2:31.117",
+      "2:31.118"
+     ],
+     "english": "is of the sons of ascent; happy is he,",
+     "literal": "he of the sons of ascent happy is he"
+    },
+    {
+     "tokens": [
+      "2:31.119",
+      "2:31.120",
+      "2:31.121"
+     ],
+     "english": "how good is his portion,",
+     "literal": "how good is his portion"
+    },
+    {
+     "tokens": [
+      "2:31.122",
+      "2:31.123",
+      "2:31.124"
+     ],
+     "english": "and how pleasant is his greatness,",
+     "literal": "and how pleasant is his greatness"
+    },
+    {
+     "tokens": [
+      "2:31.125",
+      "2:31.126",
+      "2:31.127"
+     ],
+     "english": "beloved on high, etc.\"",
+     "literal": "beloved on high etc."
+    },
+    {
+     "tokens": [
+      "2:31.128",
+      "2:31.129",
+      "2:31.130",
+      "2:31.131"
+     ],
+     "english": "He cited the words of Yish'ar of Candia",
+     "literal": "He cited the words of Yish'ar of Candia"
+    },
+    {
+     "tokens": [
+      "2:31.132",
+      "2:31.133"
+     ],
+     "english": "who went at very great length",
+     "literal": "who went at length greatly"
+    },
+    {
+     "tokens": [
+      "2:31.134",
+      "2:31.135",
+      "2:31.136",
+      "2:31.137",
+      "2:31.138",
+      "2:31.139"
+     ],
+     "english": "and gathered like sheaves to the threshing floor most of the opinions that preceded him",
+     "literal": "and gathered like sheaves to the threshing floor the majority of opinions that preceded him"
+    },
+    {
+     "tokens": [
+      "2:31.140",
+      "2:31.141",
+      "2:31.142"
+     ],
+     "english": "to bring near and not to distance,",
+     "literal": "to bring near and not to distance"
+    },
+    {
+     "tokens": [
+      "2:31.143",
+      "2:31.144",
+      "2:31.145",
+      "2:31.146",
+      "2:31.147",
+      "2:31.148",
+      "2:31.149"
+     ],
+     "english": "against the book Bechinat ha-Dat, which sought to lead many astray!",
+     "literal": "against the book Bechinat ha-Dat which sought to lead astray many!"
+    },
+    {
+     "tokens": [
+      "2:31.150",
+      "2:31.151"
+     ],
+     "english": "And he said that he found",
+     "literal": "And he said that he found"
+    },
+    {
+     "tokens": [
+      "2:31.152",
+      "2:31.153",
+      "2:31.154",
+      "2:31.155",
+      "2:31.156",
+      "2:31.157",
+      "2:31.158",
+      "2:31.159"
+     ],
+     "english": "a peg fixed in a pillar of iron in a firm place to hang on",
+     "literal": "a peg fixed in a pillar of iron in a place firm to hang on to it"
+    },
+    {
+     "tokens": [
+      "2:31.160",
+      "2:31.161",
+      "2:31.162"
+     ],
+     "english": "to agree to receive a reward",
+     "literal": "to agree to receive a reward"
+    },
+    {
+     "tokens": [
+      "2:31.163",
+      "2:31.164",
+      "2:31.165",
+      "2:31.166",
+      "2:31.167"
+     ],
+     "english": "for withdrawal more than for inquiry",
+     "literal": "for withdrawal more than inquiry"
+    },
+    {
+     "tokens": [
+      "2:31.168",
+      "2:31.169",
+      "2:31.170",
+      "2:31.171",
+      "2:31.172",
+      "2:31.173"
+     ],
+     "english": "in the book Shemen la-Ma'or, of the father of the Rav",
+     "literal": "in the book Shemen la-Ma'or of the father of the Rav"
+    },
+    {
+     "tokens": [
+      "2:31.174",
+      "2:31.175"
+     ],
+     "english": "and these are his words, briefly:",
+     "literal": "and these are his words briefly"
+    },
+    {
+     "tokens": [
+      "2:31.176",
+      "2:31.177",
+      "2:31.178",
+      "2:31.179"
+     ],
+     "english": "\"And this matter that he wrote in the name of",
+     "literal": "And this thing that he wrote in the name of"
+    },
+    {
+     "tokens": [
+      "2:31.180",
+      "2:31.181"
+     ],
+     "english": "Rabbi Meir Gabbai,",
+     "literal": "Rabbi Meir Gabbai"
+    },
+    {
+     "tokens": [
+      "2:31.182",
+      "2:31.183",
+      "2:31.184",
+      "2:31.185",
+      "2:31.186",
+      "2:31.187",
+      "2:31.188"
+     ],
+     "english": "that everyone who has not received the secrets of the Torah from his master",
+     "literal": "that everyone who has not received the secrets of the Torah from his master"
+    },
+    {
+     "tokens": [
+      "2:31.189",
+      "2:31.190",
+      "2:31.191",
+      "2:31.192",
+      "2:31.193",
+      "2:31.194",
+      "2:31.195",
+      "2:31.196",
+      "2:31.197"
+     ],
+     "english": "and thinks to weigh them in his mind transgresses the prohibition 'you shall not make for yourself a graven image',",
+     "literal": "and thinks to weigh them in his mind transgresses the prohibition not make for yourself a graven image"
+    },
+    {
+     "tokens": [
+      "2:31.198",
+      "2:31.199",
+      "2:31.200",
+      "2:31.201"
+     ],
+     "english": "I said in my heart to call attention",
+     "literal": "I said in my heart to call attention"
+    },
+    {
+     "tokens": [
+      "2:31.202",
+      "2:31.203",
+      "2:31.204",
+      "2:31.205",
+      "2:31.206"
+     ],
+     "english": "to the ways of people in our generation,",
+     "literal": "to ways of the sons of man in our generation"
+    },
+    {
+     "tokens": [
+      "2:31.207",
+      "2:31.208",
+      "2:31.209",
+      "2:31.210",
+      "2:31.211",
+      "2:31.212",
+      "2:31.213",
+      "2:31.214",
+      "2:31.215"
+     ],
+     "english": "I have seen infants who have not seen light, who say 'I am warm, I have seen light',",
+     "literal": "I have seen infants who did not see light who say I am warm I have seen light"
+    },
+    {
+     "tokens": [
+      "2:31.216",
+      "2:31.217",
+      "2:31.218",
+      "2:31.219"
+     ],
+     "english": "hidden within them like leaven, chicks",
+     "literal": "within them hidden like leaven chicks"
+    },
+    {
+     "tokens": [
+      "2:31.220",
+      "2:31.221",
+      "2:31.222",
+      "2:31.223"
+     ],
+     "english": "whose eyes had not opened, etc.",
+     "literal": "that not were opened their eyes etc."
+    },
+    {
+     "tokens": [
+      "2:31.224",
+      "2:31.225",
+      "2:31.226",
+      "2:31.227"
+     ],
+     "english": "And even the great ones on earth,",
+     "literal": "and even the great ones who on earth"
+    },
+    {
+     "tokens": [
+      "2:31.228",
+      "2:31.229",
+      "2:31.230",
+      "2:31.231",
+      "2:31.232",
+      "2:31.233",
+      "2:31.234"
+     ],
+     "english": "whoever is sharp and diligent, expert in the chambers of the Torah,",
+     "literal": "whoever is sharp and diligent expert in the chambers of Torah"
+    },
+    {
+     "tokens": [
+      "2:31.235",
+      "2:31.236",
+      "2:31.237",
+      "2:31.238",
+      "2:31.239",
+      "2:31.240"
+     ],
+     "english": "there is no strength in his intellect to grasp the chambers of light,",
+     "literal": "there is no strength in his intellect to grasp the chambers of light"
+    },
+    {
+     "tokens": [
+      "2:31.241",
+      "2:31.242",
+      "2:31.243",
+      "2:31.244",
+      "2:31.245"
+     ],
+     "english": "except from the mouth of an elder and teacher.",
+     "literal": "for only from the mouth of an elder and teacher"
+    },
+    {
+     "tokens": [
+      "2:31.246",
+      "2:31.247",
+      "2:31.248",
+      "2:31.249",
+      "2:31.250"
+     ],
+     "english": "And these are the words of the Ramban in his introduction to the commentary on the Torah:",
+     "literal": "and these are his words the Ramban in his introduction to the commentary on the Torah"
+    },
+    {
+     "tokens": [
+      "2:31.251",
+      "2:31.252",
+      "2:31.253",
+      "2:31.254",
+      "2:31.255"
+     ],
+     "english": "'And I hereby bring in a faithful covenant",
+     "literal": "And I behold, I bring in a covenant faithful"
+    },
+    {
+     "tokens": [
+      "2:31.256",
+      "2:31.257",
+      "2:31.258",
+      "2:31.259",
+      "2:31.260",
+      "2:31.261",
+      "2:31.262",
+      "2:31.263"
+     ],
+     "english": "and it gives proper counsel to everyone who looks into this book,",
+     "literal": "and it gives counsel proper to everyone who looks into in the book this"
+    },
+    {
+     "tokens": [
+      "2:31.264",
+      "2:31.265",
+      "2:31.266",
+      "2:31.267",
+      "2:31.268",
+      "2:31.269",
+      "2:31.270"
+     ],
+     "english": "that he not suppose a supposition and not think thoughts about any matter",
+     "literal": "lest he suppose a supposition and not think thoughts about a matter"
+    },
+    {
+     "tokens": [
+      "2:31.271",
+      "2:31.272",
+      "2:31.273",
+      "2:31.274",
+      "2:31.275",
+      "2:31.276",
+      "2:31.277"
+     ],
+     "english": "of all the hints that I write in the secrets of the Torah,",
+     "literal": "of all the hints that I write in the secrets of the Torah"
+    },
+    {
+     "tokens": [
+      "2:31.278",
+      "2:31.279",
+      "2:31.280",
+      "2:31.281"
+     ],
+     "english": "for I inform faithfully",
+     "literal": "for I inform faithfully"
+    },
+    {
+     "tokens": [
+      "2:31.282",
+      "2:31.283",
+      "2:31.284",
+      "2:31.285",
+      "2:31.286",
+      "2:31.287"
+     ],
+     "english": "that my words will not be grasped by any reason or understanding",
+     "literal": "that not be grasped my words by any reason and understanding"
+    },
+    {
+     "tokens": [
+      "2:31.288",
+      "2:31.289",
+      "2:31.290",
+      "2:31.291",
+      "2:31.292",
+      "2:31.293",
+      "2:31.294"
+     ],
+     "english": "except from the mouth of a wise Kabbalist into the ear of an understanding recipient.",
+     "literal": "except from the mouth of a wise received to the ear receiving understanding"
+    },
+    {
+     "tokens": [
+      "2:31.295",
+      "2:31.296",
+      "2:31.297",
+      "2:31.298",
+      "2:31.299",
+      "2:31.300",
+      "2:31.301"
+     ],
+     "english": "And the supposition about them is a folly of many harms, preventing benefit,",
+     "literal": "And the supposition in them is folly of great harm preventing benefit"
+    },
+    {
+     "tokens": [
+      "2:31.302"
+     ],
+     "english": "etc.'",
+     "literal": "etc."
+    },
+    {
+     "tokens": [
+      "2:31.303",
+      "2:31.304",
+      "2:31.305",
+      "2:31.306",
+      "2:31.307"
+     ],
+     "english": "And if you say that the commentary of the Ramban is different,",
+     "literal": "If you say that is different the commentary of the Ramban"
+    },
+    {
+     "tokens": [
+      "2:31.308",
+      "2:31.309",
+      "2:31.310",
+      "2:31.311",
+      "2:31.312",
+      "2:31.313",
+      "2:31.314",
+      "2:31.315",
+      "2:31.316",
+      "2:31.317"
+     ],
+     "english": "since all his words are brief, by allusion, unlike other books of Kabbalah that explained their words,",
+     "literal": "for all his words in brevity by allusion unlike other books of Kabbalah that explained their words"
+    },
+    {
+     "tokens": [
+      "2:31.318",
+      "2:31.319",
+      "2:31.320",
+      "2:31.321",
+      "2:31.322",
+      "2:31.323",
+      "2:31.324",
+      "2:31.325",
+      "2:31.326",
+      "2:31.327"
+     ],
+     "english": "do you not see in Sha'arei Orah that he wrote on every page the phrase 'I hereby allude'?",
+     "literal": "Is it not that you see in Sha'arei Orah he wrote on every page the phrase I hereby allude"
+    },
+    {
+     "tokens": [
+      "2:31.328",
+      "2:31.329",
+      "2:31.330",
+      "2:31.331",
+      "2:31.332",
+      "2:31.333",
+      "2:31.334",
+      "2:31.335",
+      "2:31.336"
+     ],
+     "english": "So too, in the book of Bachya, he was very brief and was accustomed to say in his own words",
+     "literal": "So too in the book of Bachya made brief very and was accustomed in his own words to say"
+    },
+    {
+     "tokens": [
+      "2:31.337",
+      "2:31.338",
+      "2:31.339"
+     ],
+     "english": "'and the wise will understand,' all the more so",
+     "literal": "and the wise will understand all the more so"
+    },
+    {
+     "tokens": [
+      "2:31.340",
+      "2:31.341",
+      "2:31.342",
+      "2:31.343",
+      "2:31.344"
+     ],
+     "english": "the book of the Zohar, which is closed and locked,",
+     "literal": "the book the Zohar which is closed and locked"
+    },
+    {
+     "tokens": [
+      "2:31.345",
+      "2:31.346",
+      "2:31.347",
+      "2:31.348"
+     ],
+     "english": "and these are the words of Etz Chayyim in his introduction:",
+     "literal": "and these are his words Etz Chayyim in his introduction"
+    },
+    {
+     "tokens": [
+      "2:31.349",
+      "2:31.350",
+      "2:31.351",
+      "2:31.352",
+      "2:31.353",
+      "2:31.354",
+      "2:31.355",
+      "2:31.356"
+     ],
+     "english": "'Although certainly in the later generations they are sustained from this composition.",
+     "literal": "although it is that certainly in the generations the later are sustained from this composition"
+    },
+    {
+     "tokens": [
+      "2:31.357",
+      "2:31.358",
+      "2:31.359"
+     ],
+     "english": "There is no doubt that",
+     "literal": "there is no doubt that"
+    },
+    {
+     "tokens": [
+      "2:31.360",
+      "2:31.361",
+      "2:31.362",
+      "2:31.363",
+      "2:31.364",
+      "2:31.365",
+      "2:31.366",
+      "2:31.367"
+     ],
+     "english": "the waters of wisdom will not be revealed to any man by the power of contemplation",
+     "literal": "the waters of wisdom will not be revealed to any man by the power of contemplation"
+    },
+    {
+     "tokens": [
+      "2:31.368",
+      "2:31.369",
+      "2:31.370"
+     ],
+     "english": "according to their human intellect",
+     "literal": "according to their human intellect"
+    },
+    {
+     "tokens": [
+      "2:31.371",
+      "2:31.372",
+      "2:31.373",
+      "2:31.374",
+      "2:31.375",
+      "2:31.376"
+     ],
+     "english": "but only through a divine flow that flows upon him.",
+     "literal": "but through a flow divine that flows upon him"
+    },
+    {
+     "tokens": [
+      "2:31.377",
+      "2:31.378",
+      "2:31.379",
+      "2:31.380",
+      "2:31.381"
+     ],
+     "english": "And if the last of the Kabbalists went so far as to say",
+     "literal": "And if the last of the Kabbalists went so far to say"
+    },
+    {
+     "tokens": [
+      "2:31.382",
+      "2:31.383",
+      "2:31.384",
+      "2:31.385",
+      "2:31.386"
+     ],
+     "english": "that his words will not be grasped, how can it arise",
+     "literal": "that not be grasped his words how can it arise"
+    },
+    {
+     "tokens": [
+      "2:31.387",
+      "2:31.388",
+      "2:31.389",
+      "2:31.390",
+      "2:31.391",
+      "2:31.392",
+      "2:31.393"
+     ],
+     "english": "in the mind that human reason, especially of the people of our generation, this one,",
+     "literal": "in the mind that reason human especially among the people of our generation this"
+    },
+    {
+     "tokens": [
+      "2:31.394",
+      "2:31.395",
+      "2:31.396"
+     ],
+     "english": "to understand and comprehend the words",
+     "literal": "to understand and comprehend the words"
+    },
+    {
+     "tokens": [
+      "2:31.397",
+      "2:31.398"
+     ],
+     "english": "of the living God,",
+     "literal": "of the living God"
+    },
+    {
+     "tokens": [
+      "2:31.399",
+      "2:31.400",
+      "2:31.401",
+      "2:31.402",
+      "2:31.403",
+      "2:31.404"
+     ],
+     "english": "Rabbi Shimon bar Yochai, the voice of whose utterances is flames of fire",
+     "literal": "Rabbi Shimon bar Yochai whose voice of his words is flames of fire"
+    },
+    {
+     "tokens": [
+      "2:31.405",
+      "2:31.406",
+      "2:31.407",
+      "2:31.408",
+      "2:31.409"
+     ],
+     "english": "and they are sealed with a thousand seals, etc.",
+     "literal": "and they are sealed with a thousand seals etc."
+    },
+    {
+     "tokens": [
+      "2:31.410",
+      "2:31.411",
+      "2:31.412",
+      "2:31.413",
+      "2:31.414"
+     ],
+     "english": "Therefore, men of understanding, hear me",
+     "literal": "Therefore men of understanding hear me"
+    },
+    {
+     "tokens": [
+      "2:31.415",
+      "2:31.416",
+      "2:31.417",
+      "2:31.418",
+      "2:31.419",
+      "2:31.420"
+     ],
+     "english": "and do not break through to look at later books built",
+     "literal": "and do not break through to look at books later built"
+    },
+    {
+     "tokens": [
+      "2:31.421",
+      "2:31.422",
+      "2:31.423",
+      "2:31.424",
+      "2:31.425"
+     ],
+     "english": "according to their human intellect.' See there.",
+     "literal": "on according to their human intellect see there"
+    },
+    {
+     "tokens": [
+      "2:31.426",
+      "2:31.427",
+      "2:31.428",
+      "2:31.429",
+      "2:31.430",
+      "2:31.431",
+      "2:31.432",
+      "2:31.433",
+      "2:31.434",
+      "2:31.435",
+      "2:31.436"
+     ],
+     "english": "And in my opinion, when a man sins in the musing of thought about the World of Emanation, his iniquity is too great to bear.",
+     "literal": "and in my opinion that when a man sins in the reflection of the thought in the World of Emanation is great his iniquity to be borne"
+    },
+    {
+     "tokens": [
+      "2:31.437",
+      "2:31.438",
+      "2:31.439",
+      "2:31.440",
+      "2:31.441",
+      "2:31.442"
+     ],
+     "english": "Although many, and likewise perfect ones, of the later Kabbalists",
+     "literal": "Although many and also perfect ones of the Kabbalists later"
+    },
+    {
+     "tokens": [
+      "2:31.443",
+      "2:31.444",
+      "2:31.445",
+      "2:31.446",
+      "2:31.447",
+      "2:31.448",
+      "2:31.449",
+      "2:31.450"
+     ],
+     "english": "aroused the hearts of people greatly to the study of the Kabbalah",
+     "literal": "aroused the hearts of the sons of man greatly to the study of the Kabbalah"
+    },
+    {
+     "tokens": [
+      "2:31.451",
+      "2:31.452",
+      "2:31.453",
+      "2:31.454",
+      "2:31.455",
+      "2:31.456",
+      "2:31.457",
+      "2:31.458",
+      "2:31.459",
+      "2:31.460"
+     ],
+     "english": "and wrote that the one who withholds himself from studying Kabbalah is thrust out from his precinct and loses his world.",
+     "literal": "and wrote that the one who withholds himself from studying Kabbalah is pushed away from his precinct and loses his world"
+    },
+    {
+     "tokens": [
+      "2:31.461",
+      "2:31.462",
+      "2:31.463",
+      "2:31.464",
+      "2:31.465"
+     ],
+     "english": "It seems to me that they do not disagree, and surely",
+     "literal": "It seems to me that not they disagree and surely"
+    },
+    {
+     "tokens": [
+      "2:31.466",
+      "2:31.467",
+      "2:31.468",
+      "2:31.469",
+      "2:31.470",
+      "2:31.471"
+     ],
+     "english": "whoever can learn from the mouth of a divine Kabbalist",
+     "literal": "whoever can learn from the mouth of a Kabbalist divine"
+    },
+    {
+     "tokens": [
+      "2:31.472",
+      "2:31.473",
+      "2:31.474",
+      "2:31.475"
+     ],
+     "english": "who will explain the matters to him",
+     "literal": "who will explain to him the matters"
+    },
+    {
+     "tokens": [
+      "2:31.476",
+      "2:31.477",
+      "2:31.478",
+      "2:31.479"
+     ],
+     "english": "as the Ari did for his disciples",
+     "literal": "as did the Ari for his disciples"
+    },
+    {
+     "tokens": [
+      "2:31.480",
+      "2:31.481"
+     ],
+     "english": "happy is his portion.",
+     "literal": "happy is his portion"
+    },
+    {
+     "tokens": [
+      "2:31.482",
+      "2:31.483",
+      "2:31.484",
+      "2:31.485",
+      "2:31.486",
+      "2:31.487",
+      "2:31.488",
+      "2:31.489"
+     ],
+     "english": "And although the later ones permitted study from the books and understanding from one's own mind,",
+     "literal": "Even though the later ones permitted to study from the books and to understand from his own mind"
+    },
+    {
+     "tokens": [
+      "2:31.490",
+      "2:31.491",
+      "2:31.492",
+      "2:31.493",
+      "2:31.494"
+     ],
+     "english": "'better is the fingernail of the early ones, etc.'",
+     "literal": "better is the fingernail of the early ones etc."
+    },
+    {
+     "tokens": [
+      "2:31.495",
+      "2:31.496",
+      "2:31.497",
+      "2:31.498",
+      "2:31.499",
+      "2:31.500",
+      "2:31.501",
+      "2:31.502",
+      "2:31.503",
+      "2:31.504"
+     ],
+     "english": "and 'sit and do not do' is better, for the danger to the body is graver, and all the more so to the soul, etc.",
+     "literal": "Sit and do not do is better since the danger of the body all the more so of the soul etc."
+    },
+    {
+     "tokens": [
+      "2:31.505",
+      "2:31.506",
+      "2:31.507",
+      "2:31.508"
+     ],
+     "english": "And we may not inquire into hidden things",
+     "literal": "And we may not for us inquire into hidden things"
+    },
+    {
+     "tokens": [
+      "2:31.509",
+      "2:31.510",
+      "2:31.511",
+      "2:31.512",
+      "2:31.513",
+      "2:31.514",
+      "2:31.515",
+      "2:31.516",
+      "2:31.517",
+      "2:31.518",
+      "2:31.519"
+     ],
+     "english": "but only to hear in the study of the plain meaning of Scripture and the reproof of moral instruction, to walk in the ways of the upright,",
+     "literal": "but only to hear in the study of the plain of Scripture and the rebuke of moral discipline to walk in the ways of the upright"
+    },
+    {
+     "tokens": [
+      "2:31.520",
+      "2:31.521",
+      "2:31.522"
+     ],
+     "english": "for our knowledge is limited.\"",
+     "literal": "for our knowledge is short"
+    },
+    {
+     "tokens": [
+      "2:31.523",
+      "2:31.524",
+      "2:31.525",
+      "2:31.526",
+      "2:31.527",
+      "2:31.528",
+      "2:31.529",
+      "2:31.530",
+      "2:31.531",
+      "2:31.532",
+      "2:31.533"
+     ],
+     "english": "Thus far the words of Shemen la-Ma'or, the proof from which is to agree to withdrawal, etc.",
+     "literal": "Thus far the words of Shemen la-Ma'or from which the proof from him is to agree to withdrawal etc."
+    },
+    {
+     "tokens": [
+      "2:31.534",
+      "2:31.535",
+      "2:31.536",
+      "2:31.537",
+      "2:31.538",
+      "2:31.539"
+     ],
+     "english": "And with all this I have revealed to you my opinion",
+     "literal": "And with all this I have made known to you my opinion"
+    },
+    {
+     "tokens": [
+      "2:31.540",
+      "2:31.541",
+      "2:31.542",
+      "2:31.543",
+      "2:31.544",
+      "2:31.545",
+      "2:31.546"
+     ],
+     "english": "and do not rely on me, neither you nor another,",
+     "literal": "and do not rely on me neither you nor another"
+    },
+    {
+     "tokens": [
+      "2:31.547",
+      "2:31.548",
+      "2:31.549",
+      "2:31.550"
+     ],
+     "english": "for I am not fit to decide.",
+     "literal": "for I am not fit to decide"
+    },
+    {
+     "tokens": [
+      "2:31.551",
+      "2:31.552",
+      "2:31.553"
+     ],
+     "english": "And behold, I liken",
+     "literal": "And behold I liken"
+    },
+    {
+     "tokens": [
+      "2:31.554",
+      "2:31.555",
+      "2:31.556",
+      "2:31.557",
+      "2:31.558",
+      "2:31.559",
+      "2:31.560"
+     ],
+     "english": "the study of this holy of holies to a journey to the Holy Land,",
+     "literal": "the study of holy of holies this to a journey to the land of holiness"
+    },
+    {
+     "tokens": [
+      "2:31.561",
+      "2:31.562",
+      "2:31.563",
+      "2:31.564",
+      "2:31.565",
+      "2:31.566"
+     ],
+     "english": "for its virtue is known, as they said in the Talmud,",
+     "literal": "for known its virtue as they said in the Talmud"
+    },
+    {
+     "tokens": [
+      "2:31.567",
+      "2:31.568",
+      "2:31.569",
+      "2:31.570",
+      "2:31.571",
+      "2:31.572",
+      "2:31.573"
+     ],
+     "english": "that without it he is like one who has no God",
+     "literal": "that without it is like one who has no to him God"
+    },
+    {
+     "tokens": [
+      "2:31.574",
+      "2:31.575"
+     ],
+     "english": "and like a worshipper of idols,",
+     "literal": "and like a worshipper of idols"
+    },
+    {
+     "tokens": [
+      "2:31.576",
+      "2:31.577",
+      "2:31.578",
+      "2:31.579",
+      "2:31.580",
+      "2:31.581",
+      "2:31.582"
+     ],
+     "english": "and one who walks four cubits in the Land of Israel is a son of the world to come,",
+     "literal": "and one who walks four cubits in the Land of Israel is a son of the world to come"
+    },
+    {
+     "tokens": [
+      "2:31.583",
+      "2:31.584"
+     ],
+     "english": "and many praises.",
+     "literal": "and many praises"
+    },
+    {
+     "tokens": [
+      "2:31.585",
+      "2:31.586",
+      "2:31.587",
+      "2:31.588"
+     ],
+     "english": "And even so, the Tosafot wrote",
+     "literal": "And even so they wrote the Tosafot"
+    },
+    {
+     "tokens": [
+      "2:31.589",
+      "2:31.590",
+      "2:31.591"
+     ],
+     "english": "in the name of Rabbi Chayyim",
+     "literal": "in the name of Rabbi Chayyim"
+    },
+    {
+     "tokens": [
+      "2:31.592",
+      "2:31.593",
+      "2:31.594",
+      "2:31.595",
+      "2:31.596"
+     ],
+     "english": "that now it is not a commandment to dwell in the land,",
+     "literal": "that now it is not a commandment to dwell in the land"
+    },
+    {
+     "tokens": [
+      "2:31.597",
+      "2:31.598",
+      "2:31.599",
+      "2:31.600",
+      "2:31.601",
+      "2:31.602",
+      "2:31.603",
+      "2:31.604",
+      "2:31.605",
+      "2:31.606",
+      "2:31.607"
+     ],
+     "english": "for there are many commandments dependent on the land which we are unable to fulfil,",
+     "literal": "for there are many commandments dependent on the land which we are not able to stand upon them"
+    },
+    {
+     "tokens": [
+      "2:31.608",
+      "2:31.609",
+      "2:31.610",
+      "2:31.611"
+     ],
+     "english": "and further because of the danger of the roads,",
+     "literal": "And also because of the danger of the roads"
+    },
+    {
+     "tokens": [
+      "2:31.612",
+      "2:31.613",
+      "2:31.614",
+      "2:31.615",
+      "2:31.616",
+      "2:31.617",
+      "2:31.618",
+      "2:31.619",
+      "2:31.620",
+      "2:31.621"
+     ],
+     "english": "and because of the poverty there, which will lead him to transgress against his own will and the will of his Maker there.",
+     "literal": "and because of the poverty there which will cause him to transgress against his mind and against the mind of his Maker there"
+    },
+    {
+     "tokens": [
+      "2:31.622",
+      "2:31.623",
+      "2:31.624",
+      "2:31.625",
+      "2:31.626",
+      "2:31.627",
+      "2:31.628",
+      "2:31.629",
+      "2:31.630",
+      "2:31.631",
+      "2:31.632"
+     ],
+     "english": "And if there is no expert before him and an excellent protection from all harm, it is good to refrain from this!",
+     "literal": "And if there is no before him expert and a guard excellent from all harms it is good to refrain from this!"
+    },
+    {
+     "tokens": [
+      "2:31.633",
+      "2:31.634",
+      "2:31.635",
+      "2:31.636",
+      "2:31.637",
+      "2:31.638",
+      "2:31.639",
+      "2:31.640",
+      "2:31.641",
+      "2:31.642",
+      "2:31.643"
+     ],
+     "english": "Surely, too, who would deny the excellence of this wisdom, raised on high beyond compare,",
+     "literal": "Surely also who will deny the virtue of wisdom this exalted above without valuation"
+    },
+    {
+     "tokens": [
+      "2:31.644",
+      "2:31.645",
+      "2:31.646",
+      "2:31.647",
+      "2:31.648",
+      "2:31.649",
+      "2:31.650",
+      "2:31.651",
+      "2:31.652"
+     ],
+     "english": "on condition that one who merits it learns it from the mouth of a Kabbalist who also received it from his master?",
+     "literal": "on condition that one merits it to learn it from the mouth of a Kabbalist who received also from his master"
+    },
+    {
+     "tokens": [
+      "2:31.653",
+      "2:31.654",
+      "2:31.655",
+      "2:31.656",
+      "2:31.657",
+      "2:31.658",
+      "2:31.659",
+      "2:31.660",
+      "2:31.661",
+      "2:31.662",
+      "2:31.663"
+     ],
+     "english": "And indeed it is true that I am astonished at books composed by later authors that brought sayings of the Zohar.",
+     "literal": "And indeed it is true that I am astonished at books that were composed by later authors that brought sayings of the Zohar"
+    },
+    {
+     "tokens": [
+      "2:31.664",
+      "2:31.665",
+      "2:31.666",
+      "2:31.667",
+      "2:31.668",
+      "2:31.669",
+      "2:31.670"
+     ],
+     "english": "And they raise difficulties about them and explain them according to their own judgment.",
+     "literal": "and they raise difficulties about them and explain according to their own judgment"
+    },
+    {
+     "tokens": [
+      "2:31.671",
+      "2:31.672",
+      "2:31.673",
+      "2:31.674",
+      "2:31.675",
+      "2:31.676",
+      "2:31.677",
+      "2:31.678"
+     ],
+     "english": "Who gave permission to human reason to invent from the weighing of its own judgment",
+     "literal": "Who gave permission to reason human to invent from the weighing of his mind"
+    },
+    {
+     "tokens": [
+      "2:31.679",
+      "2:31.680",
+      "2:31.681",
+      "2:31.682",
+      "2:31.683"
+     ],
+     "english": "the existence of three first ones and three tzachtzachot?",
+     "literal": "the existence three first ones and three tzachtzachot"
+    },
+    {
+     "tokens": [
+      "2:31.684",
+      "2:31.685",
+      "2:31.686",
+      "2:31.687",
+      "2:31.688",
+      "2:31.689",
+      "2:31.690",
+      "2:31.691",
+      "2:31.692"
+     ],
+     "english": "For it is explained in the Zohar that there is a place that is not open to question, etc.",
+     "literal": "for it is explained in the Zohar that there is a place that not stands for a question etc."
+    },
+    {
+     "tokens": [
+      "2:31.693",
+      "2:31.694",
+      "2:31.695",
+      "2:31.696",
+      "2:31.697",
+      "2:31.698"
+     ],
+     "english": "and there is no proof from the saying of the Zohar and Sefer Yetzirah",
+     "literal": "and there is no proof from the saying of the Zohar and Sefer Yetzirah"
+    },
+    {
+     "tokens": [
+      "2:31.699",
+      "2:31.700",
+      "2:31.701",
+      "2:31.702",
+      "2:31.703",
+      "2:31.704",
+      "2:31.705",
+      "2:31.706"
+     ],
+     "english": "and R. M., who received from the mouth of the Elder of Elders and Elijah and the supernal holy ones,",
+     "literal": "and R. M. who received from the mouth of the Elder of Elders and Elijah and holy ones supernal"
+    },
+    {
+     "tokens": [
+      "2:31.707",
+      "2:31.708",
+      "2:31.709",
+      "2:31.710",
+      "2:31.711",
+      "2:31.712",
+      "2:31.713",
+      "2:31.714",
+      "2:31.715",
+      "2:31.716",
+      "2:31.717"
+     ],
+     "english": "and all those children in the Zohar, the spirit of the LORD spoke through them and His word was on their tongue,",
+     "literal": "and all those children in the Zohar spirit of the LORD spoke in them and His word on their tongue"
+    },
+    {
+     "tokens": [
+      "2:31.718",
+      "2:31.719",
+      "2:31.720",
+      "2:31.721",
+      "2:31.722",
+      "2:31.723",
+      "2:31.724",
+      "2:31.725",
+      "2:31.726",
+      "2:31.727",
+      "2:31.728",
+      "2:31.729"
+     ],
+     "english": "and also the Ari and his disciples, who received from him mouth to mouth—from the mouth of the supernal ones the words came forth—",
+     "literal": "And also the Ari and his disciples who received from him mouth to mouth from the mouth of the supernal ones went out the words"
+    },
+    {
+     "tokens": [
+      "2:31.730",
+      "2:31.731",
+      "2:31.732",
+      "2:31.733",
+      "2:31.734",
+      "2:31.735",
+      "2:31.736",
+      "2:31.737",
+      "2:31.738"
+     ],
+     "english": "and we, in our study of them, nothing comes to our mind except the reading of the words,",
+     "literal": "and we in our study of those it does not occur to our mind except the reading of the words"
+    },
+    {
+     "tokens": [
+      "2:31.739",
+      "2:31.740",
+      "2:31.741",
+      "2:31.742",
+      "2:31.743",
+      "2:31.744",
+      "2:31.745",
+      "2:31.746"
+     ],
+     "english": "which is not so with these later ones and with those who explain from their own judgment.",
+     "literal": "what is not so with these later ones and those who explain from their judgment"
+    }
+   ],
+   "severity": "error",
+   "reason": "the new English changed the fragments; every token is covered in order"
+  },
+  {
+   "ref": "2:31",
+   "path": "literal",
+   "value": "have you seen to know why not got involved the Ribash in it is due to not receiving it from mouth to mouth not due to any qualm as you say And here for you the words of the witness the second the Gaon the author of Chavot Yair of blessed memory briefly great very who was asked a sage one who spent his days in the Gemara and the decisors and behold a spirit rose within him and stirred him to study the Kabbalah for the excellence of its virtues which is the soul of the Torah and he saw how many sayings of the Zohar that impossible to enter before the King the Holy except by it and the sages of the Talmud did not command about it only warned that not to expound it what is beyond you do not seek etc. and he asked the Rabbi to free him from confusion and he answered and said to him Woe to me if I advise you about withdrawal and cause slackening of hands and hindrance from wisdom this which is without doubt the soul of the Torah and the root of faith like wisdom and knowledge and understanding and without doubt who merits it he of the sons of ascent happy is he how good is his portion and how pleasant is his greatness beloved on high etc. He cited the words of Yish'ar of Candia who went at length greatly and gathered like sheaves to the threshing floor the majority of opinions that preceded him to bring near and not to distance against the book Bechinat ha-Dat which sought to lead astray many! And he said that he found a peg fixed in a pillar of iron in a place firm to hang on to it to agree to receive a reward for withdrawal more than inquiry in the book Shemen la-Ma'or of the father of the Rav and these are his words briefly And this thing that he wrote in the name of Rabbi Meir Gabbai that everyone who has not received the secrets of the Torah from his master and thinks to weigh them in his mind transgresses the prohibition not make for yourself a graven image I said in my heart to call attention to ways of the sons of man in our generation I have seen infants who did not see light who say I am warm I have seen light within them hidden like leaven chicks that not were opened their eyes etc. and even the great ones who on earth whoever is sharp and diligent expert in the chambers of Torah there is no strength in his intellect to grasp the chambers of light for only from the mouth of an elder and teacher and these are his words the Ramban in his introduction to the commentary on the Torah And I behold, I bring in a covenant faithful and it gives counsel proper to everyone who looks into in the book this lest he suppose a supposition and not think thoughts about a matter of all the hints that I write in the secrets of the Torah for I inform faithfully that not be grasped my words by any reason and understanding except from the mouth of a wise received to the ear receiving understanding And the supposition in them is folly of great harm preventing benefit etc. If you say that is different the commentary of the Ramban for all his words in brevity by allusion unlike other books of Kabbalah that explained their words Is it not that you see in Sha'arei Orah he wrote on every page the phrase I hereby allude So too in the book of Bachya made brief very and was accustomed in his own words to say and the wise will understand all the more so the book the Zohar which is closed and locked and these are his words Etz Chayyim in his introduction although it is that certainly in the generations the later are sustained from this composition there is no doubt that the waters of wisdom will not be revealed to any man by the power of contemplation according to their human intellect but through a flow divine that flows upon him And if the last of the Kabbalists went so far to say that not be grasped his words how can it arise in the mind that reason human especially among the people of our generation this to understand and comprehend the words of the living God Rabbi Shimon bar Yochai whose voice of his words is flames of fire and they are sealed with a thousand seals etc. Therefore men of understanding hear me and do not break through to look at books later built on according to their human intellect see there and in my opinion that when a man sins in the reflection of the thought in the World of Emanation is great his iniquity to be borne Although many and also perfect ones of the Kabbalists later aroused the hearts of the sons of man greatly to the study of the Kabbalah and wrote that the one who withholds himself from studying Kabbalah is pushed away from his precinct and loses his world It seems to me that not they disagree and surely whoever can learn from the mouth of a Kabbalist divine who will explain to him the matters as did the Ari for his disciples happy is his portion Even though the later ones permitted to study from the books and to understand from his own mind better is the fingernail of the early ones etc. Sit and do not do is better since the danger of the body all the more so of the soul etc. And we may not for us inquire into hidden things but only to hear in the study of the plain of Scripture and the rebuke of moral discipline to walk in the ways of the upright for our knowledge is short Thus far the words of Shemen la-Ma'or from which the proof from him is to agree to withdrawal etc. And with all this I have made known to you my opinion and do not rely on me neither you nor another for I am not fit to decide And behold I liken the study of holy of holies this to a journey to the land of holiness for known its virtue as they said in the Talmud that without it is like one who has no to him God and like a worshipper of idols and one who walks four cubits in the Land of Israel is a son of the world to come and many praises And even so they wrote the Tosafot in the name of Rabbi Chayyim that now it is not a commandment to dwell in the land for there are many commandments dependent on the land which we are not able to stand upon them And also because of the danger of the roads and because of the poverty there which will cause him to transgress against his mind and against the mind of his Maker there And if there is no before him expert and a guard excellent from all harms it is good to refrain from this! Surely also who will deny the virtue of wisdom this exalted above without valuation on condition that one merits it to learn it from the mouth of a Kabbalist who received also from his master And indeed it is true that I am astonished at books that were composed by later authors that brought sayings of the Zohar and they raise difficulties about them and explain according to their own judgment Who gave permission to reason human to invent from the weighing of his mind the existence three first ones and three tzachtzachot for it is explained in the Zohar that there is a place that not stands for a question etc. and there is no proof from the saying of the Zohar and Sefer Yetzirah and R. M. who received from the mouth of the Elder of Elders and Elijah and holy ones supernal and all those children in the Zohar spirit of the LORD spoke in them and His word on their tongue And also the Ari and his disciples who received from him mouth to mouth from the mouth of the supernal ones went out the words and we in our study of those it does not occur to our mind except the reading of the words what is not so with these later ones and those who explain from their judgment",
+   "severity": "error",
+   "reason": "the old literal dropped the negative at 2:31.548 and carried the glosses patched above"
+  },
+  {
+   "ref": "2:31",
+   "path": "grammar",
+   "value": [
+    "The paragraph is one long period built on ו. The author's own voice carries the whole: the Gaon's reply (double marks), Shemen la-Ma'or (double marks, opened by וז\"ל and closed by ע\"כ at token 523), and inside Shemen the Ramban and Etz Chayyim (single marks) and shorter sayings (single marks). The closing formulas stand outside the marks.",
+    "הראית is ה (the question particle) with ראית 'you saw': 'Have you seen ... ?'. The clause מה שלא נתקע הריב\"ש בה is the subject of הוא מחמת: 'the Ribash's not getting involved in it is due to ...'. שאתה האומר is 'as you, the sayer'.",
+    "Aramaic in the paragraph: Zohar Aramaic in דאי אפשר ליעול קמי מלכא קדישא ('that it is impossible to enter before the Holy King') and דאית מקום דלא קימא לשאלה; Talmudic Aramaic in דזכי לה ('whoever merits it'), שאני ('is different'), לא פליגי ('they do not disagree'), ואע\"ג ('and although') and דחמירא סכנתא דגופא ('for the danger of the body is graver').",
+    "Three sentences have their main clause after a Hebrew full stop (ואם תאמר ... הלא תראה; ואע\"ג ... טוב ציפורנם; ואפי' הגדולים ... אין כח בשכלו). They are joined with a comma, as the rulings provide, and a token note says so. Two later sentences (ועוד, בתנאי, כי יש, וגם האר\"י) continue a list and are joined in the same way.",
+    "שאני פי' הרמב\"ן: שאני is Aramaic 'is different' and פי' is פירוש 'commentary', so 'the commentary of the Ramban is different'. The speaker's objection is that the Ramban was brief by allusion, unlike books that explain; the reply is the question הלא תראה בשערי אורה.",
+    "Several phrases echo verses and are translated in the verse's sense: סגור ומסוגר, אשר בארץ, כעמיר גורנה, יתד תקוע במקום נאמן, אנשי לבב שמעו לי, ואל תהרסון לראות, גדול עונו מנשוא, רוח ה' דבר בם ומלתו על לשונם (see apparatus)."
+   ],
+   "severity": "error",
+   "reason": "the first grammar note misdescribed הראית and the paragraph had no note on the Aramaic, the quotation levels or the sentences joined across a full stop"
+  },
+  {
+   "ref": "2:31",
+   "path": "apparatus",
+   "value": [
+    "Base text: Wikisource (the 1931 scan has not been collated; Q2 default: Wikisource additions are translated as base text, flagged here until collated).",
+    "פה אל פה (2:31.12-14, 721-725): Num 12:8, the idiom of direct oral tradition.",
+    "Isa 44:16 אח חמותי ראיתי אור (2:31.212-215): 'I am warm, I have seen the fire'; the author's text has אור and the sense 'light' follows לא ראו אור (Job 3:16, עללים לא ראו אור, 'infants who never saw light').",
+    "Printed word: נתפתהו (2:31.221); the likelier word is נתפקחו or נפתחו, 'were opened'. Translated by the sense of the context.",
+    "2 Sam 7:9 (1 Chr 17:8) כשם הגדולים אשר בארץ (2:31.225-227): echo; 'the great ones on earth'.",
+    "Mic 4:12 כי קבצם כעמיר גרנה (2:31.134-136): 'He has gathered them like sheaves to the threshing floor'.",
+    "Isa 22:23, 25 יתד תקוע במקום נאמן (2:31.152-159): 'a peg driven in a firm place'; Jer 1:18 עמוד ברזל (2:31.154-155): 'a pillar of iron'.",
+    "Exod 20:4 (Deut 5:8) לא תעשה לך פסל (2:31.194-197): 'You shall not make for yourself a graven image'.",
+    "Printed word: גודלו (2:31.124); the likelier word is גורלו 'his lot' (liturgy: מה טוב חלקנו ומה נעים גורלנו). Translated as printed, 'his greatness'.",
+    "Dan 12:10 והמשכילים יבינו (2:31.337-338): echo in Bachya's formula והמשכיל יבין.",
+    "Josh 6:1 סגרת ומסגרת (2:31.343-344): possible echo of סגור ומסוגר, 'closed and locked'.",
+    "Jer 23:36 דברי אלהים חיים (2:31.396-398): 'the words of the living God'.",
+    "Ps 29:7 קול ה' חצב להבות אש (2:31.401-404): echo; 'the voice ... flames of fire'.",
+    "Job 34:10 לכן אנשי לבב שמעו לי (2:31.410-414): 'Therefore, men of understanding, hear me'.",
+    "Exod 19:21 (also 19:24) פן יהרסו אל ה' לראות (2:31.415-417): 'lest they break through ... to look'; the sense of הרס there is 'break through'.",
+    "Gen 4:13 גדול עוני מנשוא (2:31.434-436): 'my iniquity is too great to bear'.",
+    "Deut 29:28 הנסתרות (2:31.508): echo; Prov 6:23 תוכחות מוסר (2:31.515-516): 'reproofs of discipline'.",
+    "2 Sam 23:2 רוח ה' דבר בי ומלתו על לשוני (2:31.711-717): 'The spirit of the LORD spoke through me, His word was on my tongue', with the plural 'them'.",
+    "Isa 58:11 בצחצחות: the only biblical occurrence of the word, in another sense ('parched places'); the Kabbalists' term (2:31.683) is not that sense.",
+    "Quotations of the Talmud, the Zohar and Ben Sira in the paragraph carry no reference in the Hebrew, and none is added."
+   ],
+   "severity": "error",
+   "reason": "verses and allusions were not recognised or listed; printed words recorded as the rulings require"
+  },
+  {
+   "ref": "2:31",
+   "path": "context",
+   "value": [
+    "The Ribash is Rabbi Yitzchak ben Sheshet.",
+    "The Ari is Rabbi Yitzchak Luria (Isaac Luria), the sixteenth-century Kabbalist of Safed.",
+    "Candia is the Venetian name of Heraklion on Crete; Yish'ar of Candia is named after it."
+   ],
+   "severity": "style",
+   "reason": "the original note named authorities without saying who they are; Yish'ar and the Ari are now explained, and no claim goes beyond what is established"
+  },
+  {
+   "ref": "2:31",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "2:31.5",
+      "2:31.6",
+      "2:31.7"
+     ],
+     "english": "the Ribash was not fixed in it",
+     "source": "plain nif'al of תקע, be fixed",
+     "note": "the literal sense behind 'did not get involved in it'"
+    },
+    {
+     "tokens": [
+      "2:31.364",
+      "2:31.365"
+     ],
+     "english": "to every man",
+     "source": "plain לא before לכל",
+     "note": "'not to every man' (some might) against 'not to any man'; the following אלא (only through the flow) favours 'any'"
+    },
+    {
+     "tokens": [
+      "2:31.123",
+      "2:31.124"
+     ],
+     "english": "how pleasant is his lot",
+     "source": "printed word גודלו read as גורלו",
+     "note": "see apparatus"
+    }
+   ],
+   "severity": "style",
+   "reason": "the paragraph had no recorded alternatives"
+  }
+ ],
+ "verdicts": []
+}

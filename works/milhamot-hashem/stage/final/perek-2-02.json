@@ -1,0 +1,4399 @@
+{
+ "unit": "perek-2-02",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "2:5",
+   "english": "And how can we leave all the divinities that are above the World of Emanation, and worship specifically Ze'ir and his Nukva, who are in the World of Emanation, since there have already preceded him several Atikin and Arikhei Anpin, and Abba and Imma, and Ze'ir and his Nukva in the upper worlds; there is no number of those still closer to Ein Sof?",
+   "literal": "and-how shall-we-leave all the-divinities that above the-World of-Emanation and-worship specifically Ze'ir and-his-Nukva who-are-in-the World-of-Emanation who-already preceded him several Atikin and-Arikhei Anpin and-Abba-and-Imma and-Ze'ir and-his-Nukva in-the-worlds upper without number the-close-ones to-Ein Sof more",
+   "tokens": [
+    {
+     "id": "2:5.1",
+     "gloss": "and how"
+    },
+    {
+     "id": "2:5.2",
+     "gloss": "shall we leave"
+    },
+    {
+     "id": "2:5.3",
+     "gloss": "all"
+    },
+    {
+     "id": "2:5.4",
+     "gloss": "the divinities"
+    },
+    {
+     "id": "2:5.5",
+     "gloss": "that"
+    },
+    {
+     "id": "2:5.6",
+     "gloss": "above"
+    },
+    {
+     "id": "2:5.7",
+     "gloss": "the World"
+    },
+    {
+     "id": "2:5.8",
+     "gloss": "of Emanation"
+    },
+    {
+     "id": "2:5.9",
+     "gloss": "and worship"
+    },
+    {
+     "id": "2:5.10",
+     "gloss": "specifically"
+    },
+    {
+     "id": "2:5.11",
+     "gloss": "Ze'ir",
+     "note": "Ze'ir Anpin, 'Small Face' (Aramaic); here the bare name Ze'ir."
+    },
+    {
+     "id": "2:5.12",
+     "gloss": "and his Nukva",
+     "note": "Nukva: the female partzuf paired with Ze'ir; 'his Nukva' carries the Hebrew possessive suffix."
+    },
+    {
+     "id": "2:5.13",
+     "gloss": "who are in the"
+    },
+    {
+     "id": "2:5.14",
+     "gloss": "World of Emanation"
+    },
+    {
+     "id": "2:5.15",
+     "gloss": "who already"
+    },
+    {
+     "id": "2:5.16",
+     "gloss": "preceded"
+    },
+    {
+     "id": "2:5.17",
+     "gloss": "him"
+    },
+    {
+     "id": "2:5.18",
+     "gloss": "several"
+    },
+    {
+     "id": "2:5.19",
+     "gloss": "Atikin",
+     "note": "Atik, plural Atikin: partzufim named for the Ancient One. Atika Kadisha is the Holy Ancient One."
+    },
+    {
+     "id": "2:5.20",
+     "gloss": "and Arikhei",
+     "note": "Arikh Anpin, plural Arikhei Anpin: 'Long Face'."
+    },
+    {
+     "id": "2:5.21",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "2:5.22",
+     "gloss": "and Abba and Imma",
+     "note": "Abba (Father) and Imma (Mother), written with the abbreviation ואו\"א."
+    },
+    {
+     "id": "2:5.23",
+     "gloss": "and Ze'ir"
+    },
+    {
+     "id": "2:5.24",
+     "gloss": "and his Nukva"
+    },
+    {
+     "id": "2:5.25",
+     "gloss": "in the worlds"
+    },
+    {
+     "id": "2:5.26",
+     "gloss": "upper"
+    },
+    {
+     "id": "2:5.27",
+     "gloss": "without"
+    },
+    {
+     "id": "2:5.28",
+     "gloss": "number"
+    },
+    {
+     "id": "2:5.29",
+     "gloss": "the close ones"
+    },
+    {
+     "id": "2:5.30",
+     "gloss": "to Ein",
+     "note": "Ein Sof, literally 'without end'."
+    },
+    {
+     "id": "2:5.31",
+     "gloss": "Sof"
+    },
+    {
+     "id": "2:5.32",
+     "gloss": "still more",
+     "note": "יותר: comparative with הקרובים לאין סוף, \"closer to Ein Sof still / even closer\": the questioner says there are countless partzufim nearer to Ein Sof than Ze'ir."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:5.1"
+     ],
+     "english": "And how",
+     "literal": "and-how"
+    },
+    {
+     "tokens": [
+      "2:5.2"
+     ],
+     "english": "can we leave",
+     "literal": "shall-we-leave"
+    },
+    {
+     "tokens": [
+      "2:5.3",
+      "2:5.4",
+      "2:5.5",
+      "2:5.6",
+      "2:5.7",
+      "2:5.8"
+     ],
+     "english": "all the divinities that are above the World of Emanation,",
+     "literal": "all the-divinities that above the-World of-Emanation"
+    },
+    {
+     "tokens": [
+      "2:5.9",
+      "2:5.10"
+     ],
+     "english": "and worship specifically",
+     "literal": "and-worship specifically"
+    },
+    {
+     "tokens": [
+      "2:5.11",
+      "2:5.12"
+     ],
+     "english": "Ze'ir and his Nukva,",
+     "literal": "Ze'ir and-his-Nukva"
+    },
+    {
+     "tokens": [
+      "2:5.13",
+      "2:5.14"
+     ],
+     "english": "who are in the World of Emanation,",
+     "literal": "who-are-in-the World-of-Emanation"
+    },
+    {
+     "tokens": [
+      "2:5.15",
+      "2:5.16",
+      "2:5.17"
+     ],
+     "english": "since there have already preceded him",
+     "literal": "who-already preceded him"
+    },
+    {
+     "tokens": [
+      "2:5.18",
+      "2:5.19",
+      "2:5.20",
+      "2:5.21"
+     ],
+     "english": "several Atikin and Arikhei Anpin,",
+     "literal": "several Atikin and-Arikhei Anpin"
+    },
+    {
+     "tokens": [
+      "2:5.22"
+     ],
+     "english": "and Abba and Imma,",
+     "literal": "and-Abba-and-Imma"
+    },
+    {
+     "tokens": [
+      "2:5.23",
+      "2:5.24"
+     ],
+     "english": "and Ze'ir and his Nukva",
+     "literal": "and-Ze'ir and-his-Nukva"
+    },
+    {
+     "tokens": [
+      "2:5.25",
+      "2:5.26"
+     ],
+     "english": "in the upper worlds;",
+     "literal": "in-the-worlds upper"
+    },
+    {
+     "tokens": [
+      "2:5.27",
+      "2:5.28",
+      "2:5.29",
+      "2:5.30",
+      "2:5.31",
+      "2:5.32"
+     ],
+     "english": "there is no number of those still closer to Ein Sof?",
+     "literal": "without number the-close-ones to-Ein Sof more (יותר is comparative of הקרובים)"
+    }
+   ],
+   "grammar": [
+    "נניח and ונעבוד are first-person plural imperfects (not cohortatives, which would end in ה) in a rhetorical question: 'how shall we leave ... and worship'; the English reads 'can we leave'.",
+    "קדמו לו כמה עתיקין: the verb comes before its subject (verb-subject order), and לו means 'before him'.",
+    "The last clause, אין מספר הקרובים לאין סוף יותר?, means 'there is no number of those still closer to Ein Sof?': יותר is the comparative of הקרובים ('closer'), not 'and more'. The question mark is the Hebrew's."
+   ],
+   "note": "The questioner's letter, in his voice. Ze'ir and his Nukva are named as the partzufim the question asks us to worship.",
+   "commentary": [],
+   "apparatus": [
+    "Wikisource base text; not yet collated with the 1931 scan (decisions, Q2).",
+    "ואו\"א is one abbreviated word for Abba and Imma."
+   ]
+  },
+  {
+   "ref": "2:6",
+   "english": "And our early rabbis said that it is not fitting to worship, to give thanks, to magnify, and to glorify, except to the first God of all that exists apart from Him! And why should we leave the principal Ein Sof, that contracts above all of them, with all the partzufim close to it, and worship that which is very far from it, which is the last partzuf of the World of Emanation? All this, make us understand, our lord, let us go and pursue the LORD our Maker the Creator of the beginning. And do not pour upon us a word of Belial, God forbid. For who has gathered grace and good understanding in his palms, to have insight and to know the LORD through investigating divine matters in the principles of the faith, like you. Who will ascend to the mountain of the LORD, and who will stand in His holy place, like you, for I am more brutish than any man, and I have no understanding of a man. And the Rock knows the secrets of the heart, the examiner of hearts, for I did not give sleep to my eyes, and my sleep was taken from my eyes until I find solutions and whoever comes to purify himself, they help him, to provide for him a guide to the way of holiness by intellect and knowledge, like Khalkhal and Darda, and among the sages of truth a sage and an artisan, like Ethan and Heman, for perhaps the rabbis who lack this wisdom are to us false oracles and misleading ones, God forbid. And you, my lord, to you its secrets are revealed, and your treasure will fill the bellies of your disciples, they will be sated and delight in your goodness, and upon us to pay the wages of your work. And you, do not withhold good from its owners. And here I adjure you by the God of heaven: make Your face shine upon us, to answer the weary with a word spoken in its proper setting, and we shall be servants to my lord. And our lips will ask a great reward for your goodness, then we shall not be ashamed, neither in this world nor in the world to come, and we shall return and graze among the lilies from the company of sages and discerning ones.",
+   "literal": "and-our-rabbis the-early said that-it-is-not fitting to-worship and-to-give-thanks and-to-magnify and-to-glorify except to-God the-first of-all the-existing-ones apart-from-Him and-why should-we-leave the-Ein Sof the-principal that-contracts above all-of-them with all the-partzufim the-close to-it and-worship this-one the-far from-it very which-is a-partzuf last of-the World-of-Emanation (object-marker) all these make-us-understand our-lord let-us-go let-us-pursue (object-marker) the-LORD our-Maker Creator of-the-beginning and-do-not pour upon-us a-word-of Belial God-forbid for who has-gathered grace and-understanding good in-his-palms to-have-insight and-to-know (object-marker) the-LORD by-investigating the-matters divine in-the-principles-of the-faith like-you who will-ascend to-the-mountain-of the-LORD and-who will-stand in His-holy-place like-you for brutish I-am than-any-man and-not understanding-of a-man I-have and-the-Rock knows secrets-of the-heart examiner-of hearts for not I-gave sleep to-my-eyes and-was-taken my-sleep from-my-eyes until I-find solutions and-whoever-comes to-purify-himself they-help him to-provide for-him a-guide to-the-way-of holiness by-intellect and-knowledge like-Khalkhal and-Darda and-among the-sages-of truth a-sage and-an-artisan like-Ethan and-Heman that-perhaps the-rabbis who-lack of the-wisdom this to-us burdens(oracles) vain and-misleading-ones God-forbid and-you my-lord to-you are-revealed its-secrets and-your-treasure will-fill their-bellies of your-disciples will-be-sated and-will-delight in-your-goodness and-upon-us to-pay the-wage-of your-work and-you do-not withhold good from-its-owners and-here-I adjure-you by-the-God-of heaven make-shine Your-face upon-us to-answer (object-marker) the-weary a-word spoken in its-proper-setting and-we-shall-be servants to-my-lord and-reward great for-your-goodness will-ask our-lips and-then not we-shall-be-ashamed not in-this-world and-not in-the-world-to-come and-we-shall-return and-graze among-the-lilies from-the-company-of sages and-discerning-ones",
+   "tokens": [
+    {
+     "id": "2:6.1",
+     "gloss": "and our rabbis"
+    },
+    {
+     "id": "2:6.2",
+     "gloss": "the early"
+    },
+    {
+     "id": "2:6.3",
+     "gloss": "said"
+    },
+    {
+     "id": "2:6.4",
+     "gloss": "that it is not"
+    },
+    {
+     "id": "2:6.5",
+     "gloss": "fitting"
+    },
+    {
+     "id": "2:6.6",
+     "gloss": "to worship"
+    },
+    {
+     "id": "2:6.7",
+     "gloss": "and to give thanks"
+    },
+    {
+     "id": "2:6.8",
+     "gloss": "and to magnify"
+    },
+    {
+     "id": "2:6.9",
+     "gloss": "and to glorify"
+    },
+    {
+     "id": "2:6.10",
+     "gloss": "except"
+    },
+    {
+     "id": "2:6.11",
+     "gloss": "to God",
+     "note": "אלוה: the singular Eloah, used of the one God (Deut 32:15; Job 3:4); rendered \"God\". הראשון, \"the first\", is the author's word, as the rabbis use it for the Creator before all that exists."
+    },
+    {
+     "id": "2:6.12",
+     "gloss": "the first"
+    },
+    {
+     "id": "2:6.13",
+     "gloss": "of all"
+    },
+    {
+     "id": "2:6.14",
+     "gloss": "the existing ones"
+    },
+    {
+     "id": "2:6.15",
+     "gloss": "apart from Him"
+    },
+    {
+     "id": "2:6.16",
+     "gloss": "and why"
+    },
+    {
+     "id": "2:6.17",
+     "gloss": "should we leave"
+    },
+    {
+     "id": "2:6.18",
+     "gloss": "the Ein"
+    },
+    {
+     "id": "2:6.19",
+     "gloss": "Sof"
+    },
+    {
+     "id": "2:6.20",
+     "gloss": "the principal"
+    },
+    {
+     "id": "2:6.21",
+     "gloss": "that contracts",
+     "note": "צמצם: 'contracted'. The tzimtzum (contraction) is the Kabbalists' doctrine; the English keeps the word fixed."
+    },
+    {
+     "id": "2:6.22",
+     "gloss": "above"
+    },
+    {
+     "id": "2:6.23",
+     "gloss": "all of them"
+    },
+    {
+     "id": "2:6.24",
+     "gloss": "with"
+    },
+    {
+     "id": "2:6.25",
+     "gloss": "all"
+    },
+    {
+     "id": "2:6.26",
+     "gloss": "the partzufim"
+    },
+    {
+     "id": "2:6.27",
+     "gloss": "the close"
+    },
+    {
+     "id": "2:6.28",
+     "gloss": "to it"
+    },
+    {
+     "id": "2:6.29",
+     "gloss": "and worship"
+    },
+    {
+     "id": "2:6.30",
+     "gloss": "this one"
+    },
+    {
+     "id": "2:6.31",
+     "gloss": "the far"
+    },
+    {
+     "id": "2:6.32",
+     "gloss": "from it"
+    },
+    {
+     "id": "2:6.33",
+     "gloss": "very"
+    },
+    {
+     "id": "2:6.34",
+     "gloss": "which is"
+    },
+    {
+     "id": "2:6.35",
+     "gloss": "a partzuf",
+     "note": "Partzuf (plural partzufim): a Kabbalistic entity; in the generic sense it means 'face'."
+    },
+    {
+     "id": "2:6.36",
+     "gloss": "last"
+    },
+    {
+     "id": "2:6.37",
+     "gloss": "of the"
+    },
+    {
+     "id": "2:6.38",
+     "gloss": "World of Emanation"
+    },
+    {
+     "id": "2:6.39",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:6.40",
+     "gloss": "all"
+    },
+    {
+     "id": "2:6.41",
+     "gloss": "these"
+    },
+    {
+     "id": "2:6.42",
+     "gloss": "make us understand"
+    },
+    {
+     "id": "2:6.43",
+     "gloss": "our lord"
+    },
+    {
+     "id": "2:6.44",
+     "gloss": "let us go"
+    },
+    {
+     "id": "2:6.45",
+     "gloss": "let us pursue"
+    },
+    {
+     "id": "2:6.46",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:6.47",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:6.48",
+     "gloss": "our Maker"
+    },
+    {
+     "id": "2:6.49",
+     "gloss": "Creator"
+    },
+    {
+     "id": "2:6.50",
+     "gloss": "of the beginning",
+     "note": "Literally 'creator of the beginning'. The Hebrew word is also the first word of Genesis."
+    },
+    {
+     "id": "2:6.51",
+     "gloss": "and do not"
+    },
+    {
+     "id": "2:6.52",
+     "gloss": "pour",
+     "note": "תצוק: from יצק, \"pour\"; the phrase echoes Ps 41:9 (דְּבַר בְּלִיַּעַל יָצוּק בּוֹ), \"a thing of Belial is poured upon him\"."
+    },
+    {
+     "id": "2:6.53",
+     "gloss": "upon us"
+    },
+    {
+     "id": "2:6.54",
+     "gloss": "a word of"
+    },
+    {
+     "id": "2:6.55",
+     "gloss": "Belial",
+     "note": "Belial: a Biblical word for worthlessness, here 'a word of Belial'."
+    },
+    {
+     "id": "2:6.56",
+     "gloss": "God forbid"
+    },
+    {
+     "id": "2:6.57",
+     "gloss": "for"
+    },
+    {
+     "id": "2:6.58",
+     "gloss": "who"
+    },
+    {
+     "id": "2:6.59",
+     "gloss": "has gathered"
+    },
+    {
+     "id": "2:6.60",
+     "gloss": "grace"
+    },
+    {
+     "id": "2:6.61",
+     "gloss": "and understanding"
+    },
+    {
+     "id": "2:6.62",
+     "gloss": "good"
+    },
+    {
+     "id": "2:6.63",
+     "gloss": "in his palms"
+    },
+    {
+     "id": "2:6.64",
+     "gloss": "to have insight",
+     "note": "השכל: hifil infinitive, \"to have insight\"; with וידוע it recalls Jer 9:23, \"that he has insight and knows Me\". The sentence says: who has gathered grace and good sense in his palms, in order to have insight and know the LORD."
+    },
+    {
+     "id": "2:6.65",
+     "gloss": "and to know"
+    },
+    {
+     "id": "2:6.66",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:6.67",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:6.68",
+     "gloss": "by investigating"
+    },
+    {
+     "id": "2:6.69",
+     "gloss": "the matters"
+    },
+    {
+     "id": "2:6.70",
+     "gloss": "divine"
+    },
+    {
+     "id": "2:6.71",
+     "gloss": "in the principles of"
+    },
+    {
+     "id": "2:6.72",
+     "gloss": "the faith"
+    },
+    {
+     "id": "2:6.73",
+     "gloss": "like you"
+    },
+    {
+     "id": "2:6.74",
+     "gloss": "who"
+    },
+    {
+     "id": "2:6.75",
+     "gloss": "will ascend"
+    },
+    {
+     "id": "2:6.76",
+     "gloss": "to the mountain of"
+    },
+    {
+     "id": "2:6.77",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:6.78",
+     "gloss": "and who"
+    },
+    {
+     "id": "2:6.79",
+     "gloss": "will stand"
+    },
+    {
+     "id": "2:6.80",
+     "gloss": "in"
+    },
+    {
+     "id": "2:6.81",
+     "gloss": "His holy place"
+    },
+    {
+     "id": "2:6.82",
+     "gloss": "like you"
+    },
+    {
+     "id": "2:6.83",
+     "gloss": "for"
+    },
+    {
+     "id": "2:6.84",
+     "gloss": "brutish"
+    },
+    {
+     "id": "2:6.85",
+     "gloss": "I am"
+    },
+    {
+     "id": "2:6.86",
+     "gloss": "than any man"
+    },
+    {
+     "id": "2:6.87",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:6.88",
+     "gloss": "understanding of"
+    },
+    {
+     "id": "2:6.89",
+     "gloss": "a man"
+    },
+    {
+     "id": "2:6.90",
+     "gloss": "I have"
+    },
+    {
+     "id": "2:6.91",
+     "gloss": "and the Rock"
+    },
+    {
+     "id": "2:6.92",
+     "gloss": "knows"
+    },
+    {
+     "id": "2:6.93",
+     "gloss": "secrets of"
+    },
+    {
+     "id": "2:6.94",
+     "gloss": "the heart"
+    },
+    {
+     "id": "2:6.95",
+     "gloss": "examiner of"
+    },
+    {
+     "id": "2:6.96",
+     "gloss": "hearts"
+    },
+    {
+     "id": "2:6.97",
+     "gloss": "for"
+    },
+    {
+     "id": "2:6.98",
+     "gloss": "not"
+    },
+    {
+     "id": "2:6.99",
+     "gloss": "I gave"
+    },
+    {
+     "id": "2:6.100",
+     "gloss": "sleep"
+    },
+    {
+     "id": "2:6.101",
+     "gloss": "to my eyes"
+    },
+    {
+     "id": "2:6.102",
+     "gloss": "and was taken"
+    },
+    {
+     "id": "2:6.103",
+     "gloss": "my sleep"
+    },
+    {
+     "id": "2:6.104",
+     "gloss": "from my eyes"
+    },
+    {
+     "id": "2:6.105",
+     "gloss": "until"
+    },
+    {
+     "id": "2:6.106",
+     "gloss": "I find"
+    },
+    {
+     "id": "2:6.107",
+     "gloss": "solutions"
+    },
+    {
+     "id": "2:6.108",
+     "gloss": "and whoever comes"
+    },
+    {
+     "id": "2:6.109",
+     "gloss": "to purify himself"
+    },
+    {
+     "id": "2:6.110",
+     "gloss": "they help"
+    },
+    {
+     "id": "2:6.111",
+     "gloss": "him"
+    },
+    {
+     "id": "2:6.112",
+     "gloss": "to provide"
+    },
+    {
+     "id": "2:6.113",
+     "gloss": "for him"
+    },
+    {
+     "id": "2:6.114",
+     "gloss": "a guide"
+    },
+    {
+     "id": "2:6.115",
+     "gloss": "to the way of"
+    },
+    {
+     "id": "2:6.116",
+     "gloss": "holiness"
+    },
+    {
+     "id": "2:6.117",
+     "gloss": "by intellect"
+    },
+    {
+     "id": "2:6.118",
+     "gloss": "and knowledge"
+    },
+    {
+     "id": "2:6.119",
+     "gloss": "like Khalkhal",
+     "note": "Khalkhal: one of the four wise men named in 1 Kings 5:11."
+    },
+    {
+     "id": "2:6.120",
+     "gloss": "and Darda"
+    },
+    {
+     "id": "2:6.121",
+     "gloss": "and among"
+    },
+    {
+     "id": "2:6.122",
+     "gloss": "the sages of"
+    },
+    {
+     "id": "2:6.123",
+     "gloss": "truth"
+    },
+    {
+     "id": "2:6.124",
+     "gloss": "a sage"
+    },
+    {
+     "id": "2:6.125",
+     "gloss": "and an artisan"
+    },
+    {
+     "id": "2:6.126",
+     "gloss": "like Ethan",
+     "note": "Ethan: one of the four wise men named in 1 Kings 5:11."
+    },
+    {
+     "id": "2:6.127",
+     "gloss": "and Heman",
+     "note": "Heman: one of the four wise men named in 1 Kings 5:11."
+    },
+    {
+     "id": "2:6.128",
+     "gloss": "for perhaps"
+    },
+    {
+     "id": "2:6.129",
+     "gloss": "the rabbis"
+    },
+    {
+     "id": "2:6.130",
+     "gloss": "who lack"
+    },
+    {
+     "id": "2:6.131",
+     "gloss": "of"
+    },
+    {
+     "id": "2:6.132",
+     "gloss": "the wisdom"
+    },
+    {
+     "id": "2:6.133",
+     "gloss": "this"
+    },
+    {
+     "id": "2:6.134",
+     "gloss": "to us"
+    },
+    {
+     "id": "2:6.135",
+     "gloss": "oracles",
+     "note": "משאות: \"burdens\" or \"oracles\" (משא); the phrase is Lam 2:14 (מַשְּׂאוֹת שָׁוְא וּמַדּוּחִים), said of false prophecies that led astray. The sense: the rabbis who lack this wisdom are, for us, false and misleading guides."
+    },
+    {
+     "id": "2:6.136",
+     "gloss": "false"
+    },
+    {
+     "id": "2:6.137",
+     "gloss": "and misleading ones"
+    },
+    {
+     "id": "2:6.138",
+     "gloss": "God forbid"
+    },
+    {
+     "id": "2:6.139",
+     "gloss": "and you"
+    },
+    {
+     "id": "2:6.140",
+     "gloss": "my lord"
+    },
+    {
+     "id": "2:6.141",
+     "gloss": "to you"
+    },
+    {
+     "id": "2:6.142",
+     "gloss": "are revealed"
+    },
+    {
+     "id": "2:6.143",
+     "gloss": "its secrets"
+    },
+    {
+     "id": "2:6.144",
+     "gloss": "and your treasure"
+    },
+    {
+     "id": "2:6.145",
+     "gloss": "will fill"
+    },
+    {
+     "id": "2:6.146",
+     "gloss": "their bellies"
+    },
+    {
+     "id": "2:6.147",
+     "gloss": "of"
+    },
+    {
+     "id": "2:6.148",
+     "gloss": "your disciples"
+    },
+    {
+     "id": "2:6.149",
+     "gloss": "will be sated"
+    },
+    {
+     "id": "2:6.150",
+     "gloss": "and will delight"
+    },
+    {
+     "id": "2:6.151",
+     "gloss": "in your goodness"
+    },
+    {
+     "id": "2:6.152",
+     "gloss": "and upon us"
+    },
+    {
+     "id": "2:6.153",
+     "gloss": "to pay"
+    },
+    {
+     "id": "2:6.154",
+     "gloss": "the wage of"
+    },
+    {
+     "id": "2:6.155",
+     "gloss": "your work"
+    },
+    {
+     "id": "2:6.156",
+     "gloss": "and you"
+    },
+    {
+     "id": "2:6.157",
+     "gloss": "do not"
+    },
+    {
+     "id": "2:6.158",
+     "gloss": "withhold"
+    },
+    {
+     "id": "2:6.159",
+     "gloss": "good"
+    },
+    {
+     "id": "2:6.160",
+     "gloss": "from its owners"
+    },
+    {
+     "id": "2:6.161",
+     "gloss": "and here I"
+    },
+    {
+     "id": "2:6.162",
+     "gloss": "adjure you"
+    },
+    {
+     "id": "2:6.163",
+     "gloss": "by the God of"
+    },
+    {
+     "id": "2:6.164",
+     "gloss": "heaven"
+    },
+    {
+     "id": "2:6.165",
+     "gloss": "make shine"
+    },
+    {
+     "id": "2:6.166",
+     "gloss": "Your face"
+    },
+    {
+     "id": "2:6.167",
+     "gloss": "upon us"
+    },
+    {
+     "id": "2:6.168",
+     "gloss": "to answer",
+     "note": "לעות את יעף דבר (Isa 50:4): the verb is hard; here read \"to answer the weary with a word\"; others \"to sustain the weary with a word\"."
+    },
+    {
+     "id": "2:6.169",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:6.170",
+     "gloss": "the weary"
+    },
+    {
+     "id": "2:6.171",
+     "gloss": "a word"
+    },
+    {
+     "id": "2:6.172",
+     "gloss": "spoken"
+    },
+    {
+     "id": "2:6.173",
+     "gloss": "in"
+    },
+    {
+     "id": "2:6.174",
+     "gloss": "its proper setting",
+     "note": "Literally 'its wheels' (אפניו, written as in the source). The idiom means 'its proper setting'."
+    },
+    {
+     "id": "2:6.175",
+     "gloss": "and we shall be"
+    },
+    {
+     "id": "2:6.176",
+     "gloss": "servants"
+    },
+    {
+     "id": "2:6.177",
+     "gloss": "to my lord"
+    },
+    {
+     "id": "2:6.178",
+     "gloss": "and reward"
+    },
+    {
+     "id": "2:6.179",
+     "gloss": "great"
+    },
+    {
+     "id": "2:6.180",
+     "gloss": "for your goodness"
+    },
+    {
+     "id": "2:6.181",
+     "gloss": "will ask"
+    },
+    {
+     "id": "2:6.182",
+     "gloss": "our lips"
+    },
+    {
+     "id": "2:6.183",
+     "gloss": "and then"
+    },
+    {
+     "id": "2:6.184",
+     "gloss": "not"
+    },
+    {
+     "id": "2:6.185",
+     "gloss": "we shall be ashamed"
+    },
+    {
+     "id": "2:6.186",
+     "gloss": "not"
+    },
+    {
+     "id": "2:6.187",
+     "gloss": "in this world"
+    },
+    {
+     "id": "2:6.188",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:6.189",
+     "gloss": "in the world to come"
+    },
+    {
+     "id": "2:6.190",
+     "gloss": "and we shall return"
+    },
+    {
+     "id": "2:6.191",
+     "gloss": "and graze"
+    },
+    {
+     "id": "2:6.192",
+     "gloss": "among the lilies",
+     "note": "Song 2:16: the one who grazes among the lilies."
+    },
+    {
+     "id": "2:6.193",
+     "gloss": "from the company of"
+    },
+    {
+     "id": "2:6.194",
+     "gloss": "sages"
+    },
+    {
+     "id": "2:6.195",
+     "gloss": "and discerning ones"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:6.1",
+      "2:6.2",
+      "2:6.3"
+     ],
+     "english": "And our early rabbis said",
+     "literal": "and-our-rabbis the-early said"
+    },
+    {
+     "tokens": [
+      "2:6.4",
+      "2:6.5"
+     ],
+     "english": "that it is not fitting",
+     "literal": "that-it-is-not fitting"
+    },
+    {
+     "tokens": [
+      "2:6.6",
+      "2:6.7",
+      "2:6.8",
+      "2:6.9"
+     ],
+     "english": "to worship, to give thanks, to magnify, and to glorify,",
+     "literal": "to-worship and-to-give-thanks and-to-magnify and-to-glorify"
+    },
+    {
+     "tokens": [
+      "2:6.10",
+      "2:6.11",
+      "2:6.12"
+     ],
+     "english": "except to the first God",
+     "literal": "except to-God the-first"
+    },
+    {
+     "tokens": [
+      "2:6.13",
+      "2:6.14",
+      "2:6.15"
+     ],
+     "english": "of all that exists apart from Him!",
+     "literal": "of-all the-existing-ones apart-from-Him"
+    },
+    {
+     "tokens": [
+      "2:6.16",
+      "2:6.17"
+     ],
+     "english": "And why should we leave",
+     "literal": "and-why should-we-leave"
+    },
+    {
+     "tokens": [
+      "2:6.18",
+      "2:6.19",
+      "2:6.20"
+     ],
+     "english": "the principal Ein Sof,",
+     "literal": "the-Ein Sof the-principal"
+    },
+    {
+     "tokens": [
+      "2:6.21",
+      "2:6.22",
+      "2:6.23"
+     ],
+     "english": "that contracts above all of them,",
+     "literal": "that-contracted above all-of-them"
+    },
+    {
+     "tokens": [
+      "2:6.24",
+      "2:6.25",
+      "2:6.26",
+      "2:6.27",
+      "2:6.28"
+     ],
+     "english": "with all the partzufim close to it,",
+     "literal": "with all the-partzufim the-close to-it"
+    },
+    {
+     "tokens": [
+      "2:6.29",
+      "2:6.30",
+      "2:6.31",
+      "2:6.32",
+      "2:6.33"
+     ],
+     "english": "and worship that which is very far from it,",
+     "literal": "and-worship this-one the-far from-it very"
+    },
+    {
+     "tokens": [
+      "2:6.34",
+      "2:6.35",
+      "2:6.36",
+      "2:6.37",
+      "2:6.38"
+     ],
+     "english": "which is the last partzuf of the World of Emanation?",
+     "literal": "which-is a-partzuf last of-the World-of-Emanation"
+    },
+    {
+     "tokens": [
+      "2:6.39",
+      "2:6.40",
+      "2:6.41",
+      "2:6.42"
+     ],
+     "english": "All this, make us understand,",
+     "literal": "(object-marker) all these make-us-understand"
+    },
+    {
+     "tokens": [
+      "2:6.43"
+     ],
+     "english": "our lord,",
+     "literal": "our-master"
+    },
+    {
+     "tokens": [
+      "2:6.44",
+      "2:6.45"
+     ],
+     "english": "let us go and pursue",
+     "literal": "let-us-go let-us-pursue"
+    },
+    {
+     "tokens": [
+      "2:6.46",
+      "2:6.47",
+      "2:6.48"
+     ],
+     "english": "the LORD our Maker",
+     "literal": "(object-marker) the-LORD our-Maker"
+    },
+    {
+     "tokens": [
+      "2:6.49",
+      "2:6.50"
+     ],
+     "english": "the Creator of the beginning.",
+     "literal": "Creator of-the-beginning"
+    },
+    {
+     "tokens": [
+      "2:6.51",
+      "2:6.52",
+      "2:6.53",
+      "2:6.54",
+      "2:6.55"
+     ],
+     "english": "And do not pour upon us a word of Belial,",
+     "literal": "and-do-not press upon-us a-word-of Belial"
+    },
+    {
+     "tokens": [
+      "2:6.56"
+     ],
+     "english": "God forbid.",
+     "literal": "God-forbid"
+    },
+    {
+     "tokens": [
+      "2:6.57",
+      "2:6.58",
+      "2:6.59",
+      "2:6.60"
+     ],
+     "english": "For who has gathered grace",
+     "literal": "for who has-gathered grace"
+    },
+    {
+     "tokens": [
+      "2:6.61",
+      "2:6.62",
+      "2:6.63"
+     ],
+     "english": "and good understanding in his palms,",
+     "literal": "and-understanding good in-his-palms"
+    },
+    {
+     "tokens": [
+      "2:6.64",
+      "2:6.65"
+     ],
+     "english": "to have insight and to know",
+     "literal": "the-intelligent-one and-who-knows"
+    },
+    {
+     "tokens": [
+      "2:6.66",
+      "2:6.67",
+      "2:6.68",
+      "2:6.69",
+      "2:6.70"
+     ],
+     "english": "the LORD through investigating divine matters",
+     "literal": "(object-marker) the-LORD by-investigating the-matters divine"
+    },
+    {
+     "tokens": [
+      "2:6.71",
+      "2:6.72",
+      "2:6.73"
+     ],
+     "english": "in the principles of the faith, like you.",
+     "literal": "in-the-principles-of the-faith like-you"
+    },
+    {
+     "tokens": [
+      "2:6.74",
+      "2:6.75",
+      "2:6.76",
+      "2:6.77"
+     ],
+     "english": "Who will ascend to the mountain of the LORD,",
+     "literal": "who will-ascend to-the-mountain-of the-LORD"
+    },
+    {
+     "tokens": [
+      "2:6.78",
+      "2:6.79",
+      "2:6.80",
+      "2:6.81",
+      "2:6.82"
+     ],
+     "english": "and who will stand in His holy place, like you,",
+     "literal": "and-who will-stand in His-holy-place like-you"
+    },
+    {
+     "tokens": [
+      "2:6.83",
+      "2:6.84",
+      "2:6.85",
+      "2:6.86"
+     ],
+     "english": "for I am more brutish than any man,",
+     "literal": "for brutish I-am than-any-man"
+    },
+    {
+     "tokens": [
+      "2:6.87",
+      "2:6.88",
+      "2:6.89",
+      "2:6.90"
+     ],
+     "english": "and I have no understanding of a man.",
+     "literal": "and-not understanding-of a-man I-have"
+    },
+    {
+     "tokens": [
+      "2:6.91",
+      "2:6.92",
+      "2:6.93",
+      "2:6.94"
+     ],
+     "english": "And the Rock knows the secrets of the heart,",
+     "literal": "and-the-Rock knows secrets-of the-heart"
+    },
+    {
+     "tokens": [
+      "2:6.95",
+      "2:6.96"
+     ],
+     "english": "the examiner of hearts,",
+     "literal": "examiner-of hearts"
+    },
+    {
+     "tokens": [
+      "2:6.97",
+      "2:6.98",
+      "2:6.99",
+      "2:6.100"
+     ],
+     "english": "for I did not give sleep",
+     "literal": "for not I-gave sleep"
+    },
+    {
+     "tokens": [
+      "2:6.101",
+      "2:6.102",
+      "2:6.103",
+      "2:6.104"
+     ],
+     "english": "to my eyes, and my sleep was taken from my eyes",
+     "literal": "to-my-eyes and-was-taken my-sleep from-my-eyes"
+    },
+    {
+     "tokens": [
+      "2:6.105",
+      "2:6.106",
+      "2:6.107"
+     ],
+     "english": "until I find solutions",
+     "literal": "until I-find solutions"
+    },
+    {
+     "tokens": [
+      "2:6.108",
+      "2:6.109",
+      "2:6.110",
+      "2:6.111"
+     ],
+     "english": "and whoever comes to purify himself, they help him,",
+     "literal": "and-whoever-comes to-purify-himself they-help him"
+    },
+    {
+     "tokens": [
+      "2:6.112",
+      "2:6.113",
+      "2:6.114",
+      "2:6.115",
+      "2:6.116"
+     ],
+     "english": "to provide for him a guide to the way of holiness",
+     "literal": "to-provide for-him a-guide to-the-way-of holiness"
+    },
+    {
+     "tokens": [
+      "2:6.117",
+      "2:6.118"
+     ],
+     "english": "by intellect and knowledge,",
+     "literal": "by-intellect and-knowledge"
+    },
+    {
+     "tokens": [
+      "2:6.119",
+      "2:6.120"
+     ],
+     "english": "like Khalkhal and Darda,",
+     "literal": "like-Khalkhal and-Darda"
+    },
+    {
+     "tokens": [
+      "2:6.121",
+      "2:6.122",
+      "2:6.123"
+     ],
+     "english": "and among the sages of truth",
+     "literal": "and-among the-sages-of truth"
+    },
+    {
+     "tokens": [
+      "2:6.124",
+      "2:6.125"
+     ],
+     "english": "a sage and an artisan,",
+     "literal": "a-sage and-an-artisan"
+    },
+    {
+     "tokens": [
+      "2:6.126",
+      "2:6.127"
+     ],
+     "english": "like Ethan and Heman,",
+     "literal": "like-Ethan and-Heman"
+    },
+    {
+     "tokens": [
+      "2:6.128",
+      "2:6.129",
+      "2:6.130",
+      "2:6.131",
+      "2:6.132",
+      "2:6.133"
+     ],
+     "english": "for perhaps the rabbis who lack this wisdom",
+     "literal": "perhaps the-rabbis who-lack of the-wisdom this"
+    },
+    {
+     "tokens": [
+      "2:6.134",
+      "2:6.135",
+      "2:6.136",
+      "2:6.137"
+     ],
+     "english": "are to us false oracles and misleading ones,",
+     "literal": "for-us burdens vain rejected"
+    },
+    {
+     "tokens": [
+      "2:6.138"
+     ],
+     "english": "God forbid.",
+     "literal": "God-forbid"
+    },
+    {
+     "tokens": [
+      "2:6.139",
+      "2:6.140"
+     ],
+     "english": "And you, my lord,",
+     "literal": "and-you my-lord"
+    },
+    {
+     "tokens": [
+      "2:6.141",
+      "2:6.142",
+      "2:6.143"
+     ],
+     "english": "to you its secrets are revealed,",
+     "literal": "to-you are-revealed its-secrets"
+    },
+    {
+     "tokens": [
+      "2:6.144",
+      "2:6.145",
+      "2:6.146",
+      "2:6.147",
+      "2:6.148"
+     ],
+     "english": "and your treasure will fill the bellies of your disciples,",
+     "literal": "and-your-treasure will-fill their-bellies of your-disciples"
+    },
+    {
+     "tokens": [
+      "2:6.149",
+      "2:6.150",
+      "2:6.151"
+     ],
+     "english": "they will be sated and delight in your goodness,",
+     "literal": "will-be-sated and-will-delight in-your-goodness"
+    },
+    {
+     "tokens": [
+      "2:6.152",
+      "2:6.153",
+      "2:6.154",
+      "2:6.155"
+     ],
+     "english": "and upon us to pay the wages of your work.",
+     "literal": "and-upon-us to-pay the-wage-of your-work"
+    },
+    {
+     "tokens": [
+      "2:6.156",
+      "2:6.157",
+      "2:6.158",
+      "2:6.159",
+      "2:6.160"
+     ],
+     "english": "And you, do not withhold good from its owners.",
+     "literal": "and-you do-not withhold good from-its-owners"
+    },
+    {
+     "tokens": [
+      "2:6.161",
+      "2:6.162",
+      "2:6.163",
+      "2:6.164"
+     ],
+     "english": "And here I adjure you by the God of heaven:",
+     "literal": "and-here-I adjure-you by-the-God-of heaven"
+    },
+    {
+     "tokens": [
+      "2:6.165",
+      "2:6.166",
+      "2:6.167"
+     ],
+     "english": "make Your face shine upon us,",
+     "literal": "make-shine Your-face upon-us"
+    },
+    {
+     "tokens": [
+      "2:6.168",
+      "2:6.169",
+      "2:6.170"
+     ],
+     "english": "to answer the weary",
+     "literal": "to-answer (object-marker) the-weary"
+    },
+    {
+     "tokens": [
+      "2:6.171",
+      "2:6.172",
+      "2:6.173",
+      "2:6.174"
+     ],
+     "english": "with a word spoken in its proper setting,",
+     "literal": "a-word spoken in its-proper-setting"
+    },
+    {
+     "tokens": [
+      "2:6.175",
+      "2:6.176",
+      "2:6.177"
+     ],
+     "english": "and we shall be servants to my lord.",
+     "literal": "and-we-shall-be servants to-our-master"
+    },
+    {
+     "tokens": [
+      "2:6.178",
+      "2:6.179",
+      "2:6.180",
+      "2:6.181",
+      "2:6.182"
+     ],
+     "english": "And our lips will ask a great reward for your goodness,",
+     "literal": "and-reward great for-your-goodness will-ask our-lips"
+    },
+    {
+     "tokens": [
+      "2:6.183",
+      "2:6.184",
+      "2:6.185",
+      "2:6.186",
+      "2:6.187",
+      "2:6.188",
+      "2:6.189"
+     ],
+     "english": "then we shall not be ashamed, neither in this world nor in the world to come,",
+     "literal": "and-then not we-shall-be-ashamed not in-this-world and-not in-the-world-to-come"
+    },
+    {
+     "tokens": [
+      "2:6.190",
+      "2:6.191",
+      "2:6.192",
+      "2:6.193",
+      "2:6.194",
+      "2:6.195"
+     ],
+     "english": "and we shall return and graze among the lilies from the company of sages and discerning ones.",
+     "literal": "and-we-shall-return and-graze among-the-lilies from-the-company-of sages and-discerning-ones"
+    }
+   ],
+   "grammar": [
+    "אמרו שאין ראוי is indirect speech ('said that it is not fitting'), so the segment has no quotation marks; the four infinitives that follow are its objects.",
+    "ולמה נניח ... ונעבוד ...? is a rhetorical question in first-person plural imperfects (not cohortatives: no ה ending); the Hebrew closes it with '?'.",
+    "מי יעלה בהר ה' and כי בער אנכי מאיש are embedded verses (Ps 24:3; Prov 30:2) with no quotation marks; their imperfects keep the verses' future sense.",
+    "הביננו אדונינו נלכה נרדפה: an imperative with a vocative ('our lord'), then a true cohortative pair ('let us go and pursue', after Hos 6:3).",
+    "ישבע ויתענגו are imperfects after תמלא and read as a result: 'they will be sated and delight'.",
+    "המצטמצם is a hitpael present participle ('that contracts'), and השכל וידוע is the infinitive pair of Jer 9:23 ('to have insight and to know')."
+   ],
+   "note": "The questioner's letter, in his voice, addressed to the respondent as 'my lord'. Biblical phrases are embedded and unmarked.",
+   "commentary": [],
+   "apparatus": [
+    "Ps 24:3 (embedded): מי יעלה בהר ה' ומי יקום במקום קדשו.",
+    "Prov 30:2 (embedded): כי בער אנכי מאיש ולא בינת אדם לי.",
+    "Ps 44:22 (embedded): יודע תעלומות לב. Prov 17:3: ובֹחֵן לִבּוֹת, 'examiner of hearts'.",
+    "Ps 17:14 (embedded): וצפונך תמלא בטנם.",
+    "Prov 3:27: אל תמנע טוב מבעליו.",
+    "Ps 80:4 (Hebrew numbering, embedded): האר פניך.",
+    "Isa 50:4 (embedded): לעות את יעף דבר.",
+    "Prov 25:11 (embedded): דבר דבור על אופניו; the source writes אפניו.",
+    "Song 2:16 (embedded): הָרֹעֶה בַּשּׁוֹשַׁנִּים.",
+    "1 Kings 5:11 (Hebrew): the wise men Ethan, Heman, Khalkhal and Darda.",
+    "Hos 6:3 (allusion): נרדפה לדעת את ה'; the author writes נלכה נרדפה את ה'.",
+    "Ps 41:9 (allusion): דבר בליעל יצוק בו; the author writes ואל תצוק בנו דבר בליעל.",
+    "Prov 30:4 (allusion): מי אסף רוח בחפניו; and Prov 3:4: חן ושכל טוב.",
+    "Jer 9:23 (allusion): השכל וידע אותי; the author writes השכל וידוע את ה'.",
+    "Ps 132:4–5 (allusion): אם אתן שנת לעיני ... עד אמצא; the author writes עד אמצא פתרונים.",
+    "Isa 35:8 (allusion): ודרך הקדש.",
+    "Lam 2:14 (allusion): משאות שוא ומדוחים.",
+    "Gen 24:3 (allusion): ואשביעך ביהוה אלהי השמים; the author writes משביעך באלהי השמים.",
+    "Wikisource base text; not yet collated with the 1931 scan (Q2)."
+   ]
+  },
+  {
+   "ref": "2:7",
+   "english": "Second Reply. I saw all that is written in the letter of the eminent one, a tree whose branches are many, its height like the height of cedars, After the pardon for the delay, for the pressure of the times is outstretched, and every delay is for good. When I looked at the letter, behold, you opened your mouth, by mentioning divinities, thinking that it is against us. And what are we, that you murmur against us, and your scorn does not reach us, but only to the sages of Israel, whose least is thicker than your loins, and all Israel rests on them, and by their merit the world stands. Woe to you, for you have brought out against them words that are not according to the law, in innocence, and in its place guile. But your judgment has already been made clear, by the mouth of all the masters of wisdom. And as for what you wrote about Kisse Eliyahu, that on folio 3 he likens His oneness, may He be blessed, to the other unities. You are already walking in darkness. Surely the beginning of his words on folio 20 is that all these likenesses are about holy lights, which have no grasp, no form and no likeness, neither in intellect nor in knowledge at all and in principle, but so that the intellect can receive them, we were permitted to liken. And on folio 4b he wrote that all the epithets and attributes are in the manner of likeness, in the sefirot and the holy lights, the emanated beings. But in Him, may He be blessed, there is not in Him any likeness and form, and grasp in thought at all and in principle. And as for what you wrote, how can we leave the other partzufim and worship Ze'ir Anpin with the power in him, Ein Sof, blessed be He. The Master, Kisse Eliyahu, has already explained on folio 25b, that when we call upon Ze'ir Anpin, we call all the partzufim together, with a soul hidden in them. And as for what you wrote, why do we leave the partzufim closest to Ein Sof and call upon Ze'ir Anpin. Because it is known that among the inner attributes some are judgment and some are mercy, and this one includes them all, and therefore the Emanator wanted to perform His actions through this vessel. Before you object to the likenesses concerning the upper ones, which you have no right to ponder, all the more so to mock, object to your corporeal hand, which does all the labors, and the head above does not do anything. Also, the power of speech, which is your glory, above every living creature, why was it not given above your eyes. But thus His wisdom decreed, may He be blessed. And if you have proper counsel, go to your Creator and counsel Him. And as for what you wrote, that the words of Kisse Eliyahu are against the Rambam, etc., who wrote that it is not a force in a body, and according to the words of Kisse Eliyahu it is a force in a body. Surely all the Kabbalists with one mouth answer and say that whoever ascribes corporeality to the sefirot, like you, is a denier and has no share in the God of Israel. And as for their having called them subtle lights, it is only to soothe the ear! We have to ask about what the Rambam wrote: \"Let him direct his heart toward the Shekhinah and pray.\" And in the Guide he wrote that the Shekhinah is a created light. And more than this, what he wrote about the glory of the LORD, that it is created. If so, how did Israel go out to the opening of their tents and bow down to the created thing. And more than this, what he wrote, that every form which the prophets saw and spoke with is a created light. If so, we have no prophecy through the Creator, but all of it from the side of the created ones. And if it is said that the created thing was attached to the Creator, then, in your opinion, it is a force in a body! Your answer will quickly spring up, the end of the verse: \"They refuse to know Me, says the LORD.\"",
+   "literal": "Reply second I-saw (object-marker) all what-is-written in-the-letter-of the-eminent-one a-tree whose-branches are-many its-height like-the-height-of cedars after the-pardon for the-delay for the-pressure-of the-times is-outstretched and-every delay is-for-good when-I-looked at the-letter and-behold you-opened your-mouth by-mentioning divinities thinking that-it-is against-us and-we what that you-murmur against-us and-your-scorn does-not reach to-us but only to the-sages-of Israel who their-least is-thicker from-your-loins and-all Israel rest on-them and-by-their-merit the-world stands woe to-you for you-have-brought-out against-them words which are-not according-to-the-law in-innocence and-in-its-place guile but already was-made-clear your-judgment by-the-mouth-of all the-masters-of wisdom and-as-for what-you-wrote about Kisse Eliyahu that on-folio 3 he-likens His-oneness may-He-be-blessed to-the-other unities already you walk in-darkness surely the-beginning-of his-words folio 20 that-all the-likenesses these are-about lights holy which have-no for-them grasp and-form and-likeness neither in-intellect nor in-knowledge at-all and-in-principle but so-that that-it-can the-intellect receive them we-were-permitted to-liken and-on-folio 4 b he-wrote that-all the-epithets and-the-attributes are in-the-manner-of likeness in-the-sefirot and-lights holy the-emanated-beings but in-Him may-He-be-blessed there-is-not in-Him any likeness and-form and-grasp in-thought at-all and-in-principle and-as-for what-you-wrote how can-we-leave the-other the-partzufim and-worship Ze'ir Anpin with the-power in-him Ein-Sof blessed-be-He already explained the-Master Kisse-Eliyahu on-folio 25 b that-when-we-call upon-Ze'ir-Anpin we call all the-partzufim together with a-soul hidden in-them and-as-for what-you-wrote why do-we-leave the-partzufim closest to-Ein-Sof and-call-upon Ze'ir-Anpin because it-is-known that-the-attributes inner there-are of-them judgment and-there-are of-them mercy and-this-one includes all-of-them and-therefore wanted the-Emanator to-act His-actions through the-hand-of a-vessel this before you-object to the-likenesses concerning the-upper-ones that-you-have-no for-you right to-ponder them all-the-more so to-mock object to your-hand the-corporeal which-is does all the-labors and-the-head above does-not do anything also the-power-of speech which-is your-glory above every living creature why not was-it-given above your-eyes but thus decreed His-wisdom may-He-be-blessed and-if you-have for-you counsel proper go to your-Creator and-counsel-Him and-as-for what-you-wrote that-the-words-of Kisse-Eliyahu are-against the-Rambam etc. who-wrote that-it-is-not a-force in-a-body and-according-to the-words-of Kisse-Eliyahu it-is a-force in-a-body surely all the-Kabbalists with-one mouth answer and-say that-all those-who-ascribe-corporeality to-the-sefirot like-you is such-a-one a-denier and-has-no for-him share in-the-God-of Israel and-as-for what-they-called them lights subtle is-not but to-soothe (object-marker) the-ear we-have for-us to-ask about what he-wrote the-Rambam let-him-direct his-heart toward the-Shekhinah and-pray and-in-the-Guide he-wrote that-the-Shekhinah-is a-light created and-more than-this what he-wrote about the-glory-of the-LORD that-it-is created if so how were Israel going-out to-the-opening-of their-tents and-bowing to-the-created-thing and-more than this what he-wrote that-every form which seeing the-prophets and-speaking with-it is a-light created if-so there-is-no for-us any prophecy through the-Creator but all-of-it from-the-side-of the-created-ones and-if it-is-said that the-created attached to-the-Creator if-so in-your-opinion it-is a-force in-a-body your-answer quickly will-spring-up (the-verse) they-refuse to-know Me says the-LORD",
+   "tokens": [
+    {
+     "id": "2:7.1",
+     "gloss": "Reply"
+    },
+    {
+     "id": "2:7.2",
+     "gloss": "second"
+    },
+    {
+     "id": "2:7.3",
+     "gloss": "I saw"
+    },
+    {
+     "id": "2:7.4",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:7.5",
+     "gloss": "all"
+    },
+    {
+     "id": "2:7.6",
+     "gloss": "what is written"
+    },
+    {
+     "id": "2:7.7",
+     "gloss": "in the letter of"
+    },
+    {
+     "id": "2:7.8",
+     "gloss": "the eminent one"
+    },
+    {
+     "id": "2:7.9",
+     "gloss": "a tree"
+    },
+    {
+     "id": "2:7.10",
+     "gloss": "whose branches"
+    },
+    {
+     "id": "2:7.11",
+     "gloss": "are many"
+    },
+    {
+     "id": "2:7.12",
+     "gloss": "its height"
+    },
+    {
+     "id": "2:7.13",
+     "gloss": "like the height of"
+    },
+    {
+     "id": "2:7.14",
+     "gloss": "cedars"
+    },
+    {
+     "id": "2:7.15",
+     "gloss": "after"
+    },
+    {
+     "id": "2:7.16",
+     "gloss": "the pardon"
+    },
+    {
+     "id": "2:7.17",
+     "gloss": "for"
+    },
+    {
+     "id": "2:7.18",
+     "gloss": "the delay"
+    },
+    {
+     "id": "2:7.19",
+     "gloss": "for"
+    },
+    {
+     "id": "2:7.20",
+     "gloss": "the pressure of"
+    },
+    {
+     "id": "2:7.21",
+     "gloss": "the times"
+    },
+    {
+     "id": "2:7.22",
+     "gloss": "is outstretched"
+    },
+    {
+     "id": "2:7.23",
+     "gloss": "and every"
+    },
+    {
+     "id": "2:7.24",
+     "gloss": "delay"
+    },
+    {
+     "id": "2:7.25",
+     "gloss": "is for good"
+    },
+    {
+     "id": "2:7.26",
+     "gloss": "when I looked"
+    },
+    {
+     "id": "2:7.27",
+     "gloss": "at"
+    },
+    {
+     "id": "2:7.28",
+     "gloss": "the letter"
+    },
+    {
+     "id": "2:7.29",
+     "gloss": "and behold"
+    },
+    {
+     "id": "2:7.30",
+     "gloss": "you opened"
+    },
+    {
+     "id": "2:7.31",
+     "gloss": "your mouth"
+    },
+    {
+     "id": "2:7.32",
+     "gloss": "by mentioning"
+    },
+    {
+     "id": "2:7.33",
+     "gloss": "divinities",
+     "note": "Counted here, so 'divinities'; the abstract is 'divinity'."
+    },
+    {
+     "id": "2:7.34",
+     "gloss": "thinking"
+    },
+    {
+     "id": "2:7.35",
+     "gloss": "that it is"
+    },
+    {
+     "id": "2:7.36",
+     "gloss": "against us"
+    },
+    {
+     "id": "2:7.37",
+     "gloss": "and we"
+    },
+    {
+     "id": "2:7.38",
+     "gloss": "what"
+    },
+    {
+     "id": "2:7.39",
+     "gloss": "that"
+    },
+    {
+     "id": "2:7.40",
+     "gloss": "you murmur",
+     "note": "תלינו: printed so; Exod 16:7 reads תלונו, \"you murmur\" (from לון). The English follows the verse; the printed word is in `apparatus`."
+    },
+    {
+     "id": "2:7.41",
+     "gloss": "against us"
+    },
+    {
+     "id": "2:7.42",
+     "gloss": "and your scorn"
+    },
+    {
+     "id": "2:7.43",
+     "gloss": "does not"
+    },
+    {
+     "id": "2:7.44",
+     "gloss": "reach"
+    },
+    {
+     "id": "2:7.45",
+     "gloss": "to us"
+    },
+    {
+     "id": "2:7.46",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.47",
+     "gloss": "only"
+    },
+    {
+     "id": "2:7.48",
+     "gloss": "to"
+    },
+    {
+     "id": "2:7.49",
+     "gloss": "the sages of"
+    },
+    {
+     "id": "2:7.50",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:7.51",
+     "gloss": "who"
+    },
+    {
+     "id": "2:7.52",
+     "gloss": "their least"
+    },
+    {
+     "id": "2:7.53",
+     "gloss": "is thicker"
+    },
+    {
+     "id": "2:7.54",
+     "gloss": "from your loins"
+    },
+    {
+     "id": "2:7.55",
+     "gloss": "and all"
+    },
+    {
+     "id": "2:7.56",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:7.57",
+     "gloss": "rest"
+    },
+    {
+     "id": "2:7.58",
+     "gloss": "on them"
+    },
+    {
+     "id": "2:7.59",
+     "gloss": "and by their merit"
+    },
+    {
+     "id": "2:7.60",
+     "gloss": "the world"
+    },
+    {
+     "id": "2:7.61",
+     "gloss": "stands"
+    },
+    {
+     "id": "2:7.62",
+     "gloss": "woe"
+    },
+    {
+     "id": "2:7.63",
+     "gloss": "to you"
+    },
+    {
+     "id": "2:7.64",
+     "gloss": "for"
+    },
+    {
+     "id": "2:7.65",
+     "gloss": "you have brought out"
+    },
+    {
+     "id": "2:7.66",
+     "gloss": "against them"
+    },
+    {
+     "id": "2:7.67",
+     "gloss": "words"
+    },
+    {
+     "id": "2:7.68",
+     "gloss": "which"
+    },
+    {
+     "id": "2:7.69",
+     "gloss": "are not"
+    },
+    {
+     "id": "2:7.70",
+     "gloss": "according to the law"
+    },
+    {
+     "id": "2:7.71",
+     "gloss": "in innocence"
+    },
+    {
+     "id": "2:7.72",
+     "gloss": "and in its place"
+    },
+    {
+     "id": "2:7.73",
+     "gloss": "guile"
+    },
+    {
+     "id": "2:7.74",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.75",
+     "gloss": "already"
+    },
+    {
+     "id": "2:7.76",
+     "gloss": "was made clear"
+    },
+    {
+     "id": "2:7.77",
+     "gloss": "your judgment"
+    },
+    {
+     "id": "2:7.78",
+     "gloss": "by the mouth of"
+    },
+    {
+     "id": "2:7.79",
+     "gloss": "all"
+    },
+    {
+     "id": "2:7.80",
+     "gloss": "the masters of"
+    },
+    {
+     "id": "2:7.81",
+     "gloss": "wisdom"
+    },
+    {
+     "id": "2:7.82",
+     "gloss": "and as for"
+    },
+    {
+     "id": "2:7.83",
+     "gloss": "what you wrote"
+    },
+    {
+     "id": "2:7.84",
+     "gloss": "about"
+    },
+    {
+     "id": "2:7.85",
+     "gloss": "Kisse",
+     "note": "Kisse Eliyahu: the book, named in full here; the Hebrew title means 'the throne of Elijah'. First occurrence in the unit."
+    },
+    {
+     "id": "2:7.86",
+     "gloss": "Eliyahu"
+    },
+    {
+     "id": "2:7.87",
+     "gloss": "that"
+    },
+    {
+     "id": "2:7.88",
+     "gloss": "on folio"
+    },
+    {
+     "id": "2:7.89",
+     "gloss": "3"
+    },
+    {
+     "id": "2:7.90",
+     "gloss": "he likens"
+    },
+    {
+     "id": "2:7.91",
+     "gloss": "His oneness"
+    },
+    {
+     "id": "2:7.92",
+     "gloss": "may He be blessed"
+    },
+    {
+     "id": "2:7.93",
+     "gloss": "to the other"
+    },
+    {
+     "id": "2:7.94",
+     "gloss": "unities"
+    },
+    {
+     "id": "2:7.95",
+     "gloss": "already"
+    },
+    {
+     "id": "2:7.96",
+     "gloss": "you"
+    },
+    {
+     "id": "2:7.97",
+     "gloss": "walk"
+    },
+    {
+     "id": "2:7.98",
+     "gloss": "in darkness"
+    },
+    {
+     "id": "2:7.99",
+     "gloss": "surely"
+    },
+    {
+     "id": "2:7.100",
+     "gloss": "the beginning of"
+    },
+    {
+     "id": "2:7.101",
+     "gloss": "his words"
+    },
+    {
+     "id": "2:7.102",
+     "gloss": "folio"
+    },
+    {
+     "id": "2:7.103",
+     "gloss": "20",
+     "note": "Folio 20, as the author gives it."
+    },
+    {
+     "id": "2:7.104",
+     "gloss": "that all"
+    },
+    {
+     "id": "2:7.105",
+     "gloss": "the likenesses"
+    },
+    {
+     "id": "2:7.106",
+     "gloss": "these"
+    },
+    {
+     "id": "2:7.107",
+     "gloss": "are about"
+    },
+    {
+     "id": "2:7.108",
+     "gloss": "lights"
+    },
+    {
+     "id": "2:7.109",
+     "gloss": "holy"
+    },
+    {
+     "id": "2:7.110",
+     "gloss": "which"
+    },
+    {
+     "id": "2:7.111",
+     "gloss": "have no"
+    },
+    {
+     "id": "2:7.112",
+     "gloss": "for them"
+    },
+    {
+     "id": "2:7.113",
+     "gloss": "grasp"
+    },
+    {
+     "id": "2:7.114",
+     "gloss": "and form"
+    },
+    {
+     "id": "2:7.115",
+     "gloss": "and likeness"
+    },
+    {
+     "id": "2:7.116",
+     "gloss": "neither"
+    },
+    {
+     "id": "2:7.117",
+     "gloss": "in intellect"
+    },
+    {
+     "id": "2:7.118",
+     "gloss": "nor"
+    },
+    {
+     "id": "2:7.119",
+     "gloss": "in knowledge"
+    },
+    {
+     "id": "2:7.120",
+     "gloss": "at all"
+    },
+    {
+     "id": "2:7.121",
+     "gloss": "and in principle"
+    },
+    {
+     "id": "2:7.122",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.123",
+     "gloss": "so that"
+    },
+    {
+     "id": "2:7.124",
+     "gloss": "that it can"
+    },
+    {
+     "id": "2:7.125",
+     "gloss": "the intellect"
+    },
+    {
+     "id": "2:7.126",
+     "gloss": "receive"
+    },
+    {
+     "id": "2:7.127",
+     "gloss": "them"
+    },
+    {
+     "id": "2:7.128",
+     "gloss": "we were permitted"
+    },
+    {
+     "id": "2:7.129",
+     "gloss": "to liken"
+    },
+    {
+     "id": "2:7.130",
+     "gloss": "and on folio"
+    },
+    {
+     "id": "2:7.131",
+     "gloss": "4",
+     "note": "Folio 4 side b (ד' ע\"ב): 4b."
+    },
+    {
+     "id": "2:7.132",
+     "gloss": "b"
+    },
+    {
+     "id": "2:7.133",
+     "gloss": "he wrote"
+    },
+    {
+     "id": "2:7.134",
+     "gloss": "that all"
+    },
+    {
+     "id": "2:7.135",
+     "gloss": "the epithets"
+    },
+    {
+     "id": "2:7.136",
+     "gloss": "and the attributes"
+    },
+    {
+     "id": "2:7.137",
+     "gloss": "are"
+    },
+    {
+     "id": "2:7.138",
+     "gloss": "in the manner of"
+    },
+    {
+     "id": "2:7.139",
+     "gloss": "likeness"
+    },
+    {
+     "id": "2:7.140",
+     "gloss": "in the sefirot"
+    },
+    {
+     "id": "2:7.141",
+     "gloss": "and lights",
+     "note": "ואודות: printed so (\"and concerning\"); read as ואורות, \"and lights\", after אורות קדושים (2:7.108). If אודות is kept: \"and concerning the holy emanated beings\"."
+    },
+    {
+     "id": "2:7.142",
+     "gloss": "holy"
+    },
+    {
+     "id": "2:7.143",
+     "gloss": "the emanated beings"
+    },
+    {
+     "id": "2:7.144",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.145",
+     "gloss": "in Him"
+    },
+    {
+     "id": "2:7.146",
+     "gloss": "may He be blessed"
+    },
+    {
+     "id": "2:7.147",
+     "gloss": "there is not"
+    },
+    {
+     "id": "2:7.148",
+     "gloss": "in Him"
+    },
+    {
+     "id": "2:7.149",
+     "gloss": "any"
+    },
+    {
+     "id": "2:7.150",
+     "gloss": "likeness"
+    },
+    {
+     "id": "2:7.151",
+     "gloss": "and form"
+    },
+    {
+     "id": "2:7.152",
+     "gloss": "and grasp"
+    },
+    {
+     "id": "2:7.153",
+     "gloss": "in thought"
+    },
+    {
+     "id": "2:7.154",
+     "gloss": "at all"
+    },
+    {
+     "id": "2:7.155",
+     "gloss": "and in principle"
+    },
+    {
+     "id": "2:7.156",
+     "gloss": "and as for"
+    },
+    {
+     "id": "2:7.157",
+     "gloss": "what you wrote"
+    },
+    {
+     "id": "2:7.158",
+     "gloss": "how"
+    },
+    {
+     "id": "2:7.159",
+     "gloss": "can we leave"
+    },
+    {
+     "id": "2:7.160",
+     "gloss": "the other"
+    },
+    {
+     "id": "2:7.161",
+     "gloss": "the partzufim"
+    },
+    {
+     "id": "2:7.162",
+     "gloss": "and worship"
+    },
+    {
+     "id": "2:7.163",
+     "gloss": "Ze'ir",
+     "note": "Ze'ir Anpin, 'Small Face' (see 2:5.11)."
+    },
+    {
+     "id": "2:7.164",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "2:7.165",
+     "gloss": "with"
+    },
+    {
+     "id": "2:7.166",
+     "gloss": "the power"
+    },
+    {
+     "id": "2:7.167",
+     "gloss": "in him"
+    },
+    {
+     "id": "2:7.168",
+     "gloss": "Ein Sof"
+    },
+    {
+     "id": "2:7.169",
+     "gloss": "blessed be He"
+    },
+    {
+     "id": "2:7.170",
+     "gloss": "already"
+    },
+    {
+     "id": "2:7.171",
+     "gloss": "explained"
+    },
+    {
+     "id": "2:7.172",
+     "gloss": "the Master",
+     "note": "הר': הרב, \"the Master\"; Kisse Eliyahu is the title of the book, used for its author (as הר' המורה for the Rambam)."
+    },
+    {
+     "id": "2:7.173",
+     "gloss": "Kisse Eliyahu",
+     "note": "כס\"א: Kisse Eliyahu, named in full at 2:7.85."
+    },
+    {
+     "id": "2:7.174",
+     "gloss": "on folio"
+    },
+    {
+     "id": "2:7.175",
+     "gloss": "25",
+     "note": "Folio 25 side b (כ\"ה ע\"ב): 25b."
+    },
+    {
+     "id": "2:7.176",
+     "gloss": "b"
+    },
+    {
+     "id": "2:7.177",
+     "gloss": "that when we call"
+    },
+    {
+     "id": "2:7.178",
+     "gloss": "upon Ze'ir Anpin"
+    },
+    {
+     "id": "2:7.179",
+     "gloss": "we"
+    },
+    {
+     "id": "2:7.180",
+     "gloss": "call"
+    },
+    {
+     "id": "2:7.181",
+     "gloss": "all"
+    },
+    {
+     "id": "2:7.182",
+     "gloss": "the partzufim"
+    },
+    {
+     "id": "2:7.183",
+     "gloss": "together"
+    },
+    {
+     "id": "2:7.184",
+     "gloss": "with"
+    },
+    {
+     "id": "2:7.185",
+     "gloss": "a soul"
+    },
+    {
+     "id": "2:7.186",
+     "gloss": "hidden"
+    },
+    {
+     "id": "2:7.187",
+     "gloss": "in them"
+    },
+    {
+     "id": "2:7.188",
+     "gloss": "and as for"
+    },
+    {
+     "id": "2:7.189",
+     "gloss": "what you wrote"
+    },
+    {
+     "id": "2:7.190",
+     "gloss": "why"
+    },
+    {
+     "id": "2:7.191",
+     "gloss": "do we leave"
+    },
+    {
+     "id": "2:7.192",
+     "gloss": "the partzufim"
+    },
+    {
+     "id": "2:7.193",
+     "gloss": "closest"
+    },
+    {
+     "id": "2:7.194",
+     "gloss": "to Ein Sof"
+    },
+    {
+     "id": "2:7.195",
+     "gloss": "and call upon"
+    },
+    {
+     "id": "2:7.196",
+     "gloss": "Ze'ir Anpin"
+    },
+    {
+     "id": "2:7.197",
+     "gloss": "because"
+    },
+    {
+     "id": "2:7.198",
+     "gloss": "it is known"
+    },
+    {
+     "id": "2:7.199",
+     "gloss": "that the attributes"
+    },
+    {
+     "id": "2:7.200",
+     "gloss": "inner"
+    },
+    {
+     "id": "2:7.201",
+     "gloss": "there are"
+    },
+    {
+     "id": "2:7.202",
+     "gloss": "of them"
+    },
+    {
+     "id": "2:7.203",
+     "gloss": "judgment"
+    },
+    {
+     "id": "2:7.204",
+     "gloss": "and there are"
+    },
+    {
+     "id": "2:7.205",
+     "gloss": "of them"
+    },
+    {
+     "id": "2:7.206",
+     "gloss": "mercy"
+    },
+    {
+     "id": "2:7.207",
+     "gloss": "and this one"
+    },
+    {
+     "id": "2:7.208",
+     "gloss": "includes"
+    },
+    {
+     "id": "2:7.209",
+     "gloss": "all of them"
+    },
+    {
+     "id": "2:7.210",
+     "gloss": "and therefore"
+    },
+    {
+     "id": "2:7.211",
+     "gloss": "wanted"
+    },
+    {
+     "id": "2:7.212",
+     "gloss": "the Emanator"
+    },
+    {
+     "id": "2:7.213",
+     "gloss": "to act"
+    },
+    {
+     "id": "2:7.214",
+     "gloss": "His actions"
+    },
+    {
+     "id": "2:7.215",
+     "gloss": "through"
+    },
+    {
+     "id": "2:7.216",
+     "gloss": "the hand of"
+    },
+    {
+     "id": "2:7.217",
+     "gloss": "a vessel"
+    },
+    {
+     "id": "2:7.218",
+     "gloss": "this"
+    },
+    {
+     "id": "2:7.219",
+     "gloss": "before",
+     "note": "ועד שאתה מקשה ... תקשה: \"before you object to ..., object to ...\" (in the idiom, \"instead of objecting to X, object to Y\")."
+    },
+    {
+     "id": "2:7.220",
+     "gloss": "that you"
+    },
+    {
+     "id": "2:7.221",
+     "gloss": "object"
+    },
+    {
+     "id": "2:7.222",
+     "gloss": "to"
+    },
+    {
+     "id": "2:7.223",
+     "gloss": "the likenesses"
+    },
+    {
+     "id": "2:7.224",
+     "gloss": "concerning"
+    },
+    {
+     "id": "2:7.225",
+     "gloss": "the upper ones"
+    },
+    {
+     "id": "2:7.226",
+     "gloss": "that you have no"
+    },
+    {
+     "id": "2:7.227",
+     "gloss": "for you"
+    },
+    {
+     "id": "2:7.228",
+     "gloss": "right"
+    },
+    {
+     "id": "2:7.229",
+     "gloss": "to ponder"
+    },
+    {
+     "id": "2:7.230",
+     "gloss": "them"
+    },
+    {
+     "id": "2:7.231",
+     "gloss": "all the more"
+    },
+    {
+     "id": "2:7.232",
+     "gloss": "so"
+    },
+    {
+     "id": "2:7.233",
+     "gloss": "to mock"
+    },
+    {
+     "id": "2:7.234",
+     "gloss": "object"
+    },
+    {
+     "id": "2:7.235",
+     "gloss": "to"
+    },
+    {
+     "id": "2:7.236",
+     "gloss": "your hand"
+    },
+    {
+     "id": "2:7.237",
+     "gloss": "the corporeal"
+    },
+    {
+     "id": "2:7.238",
+     "gloss": "which is"
+    },
+    {
+     "id": "2:7.239",
+     "gloss": "does"
+    },
+    {
+     "id": "2:7.240",
+     "gloss": "all"
+    },
+    {
+     "id": "2:7.241",
+     "gloss": "the labors"
+    },
+    {
+     "id": "2:7.242",
+     "gloss": "and the head"
+    },
+    {
+     "id": "2:7.243",
+     "gloss": "above"
+    },
+    {
+     "id": "2:7.244",
+     "gloss": "does not"
+    },
+    {
+     "id": "2:7.245",
+     "gloss": "do"
+    },
+    {
+     "id": "2:7.246",
+     "gloss": "anything"
+    },
+    {
+     "id": "2:7.247",
+     "gloss": "also"
+    },
+    {
+     "id": "2:7.248",
+     "gloss": "the power of"
+    },
+    {
+     "id": "2:7.249",
+     "gloss": "speech"
+    },
+    {
+     "id": "2:7.250",
+     "gloss": "which is"
+    },
+    {
+     "id": "2:7.251",
+     "gloss": "your glory"
+    },
+    {
+     "id": "2:7.252",
+     "gloss": "above"
+    },
+    {
+     "id": "2:7.253",
+     "gloss": "every"
+    },
+    {
+     "id": "2:7.254",
+     "gloss": "living"
+    },
+    {
+     "id": "2:7.255",
+     "gloss": "creature"
+    },
+    {
+     "id": "2:7.256",
+     "gloss": "why"
+    },
+    {
+     "id": "2:7.257",
+     "gloss": "not"
+    },
+    {
+     "id": "2:7.258",
+     "gloss": "was it given"
+    },
+    {
+     "id": "2:7.259",
+     "gloss": "above"
+    },
+    {
+     "id": "2:7.260",
+     "gloss": "your eyes"
+    },
+    {
+     "id": "2:7.261",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.262",
+     "gloss": "thus"
+    },
+    {
+     "id": "2:7.263",
+     "gloss": "decreed"
+    },
+    {
+     "id": "2:7.264",
+     "gloss": "His wisdom"
+    },
+    {
+     "id": "2:7.265",
+     "gloss": "may He be blessed"
+    },
+    {
+     "id": "2:7.266",
+     "gloss": "and if"
+    },
+    {
+     "id": "2:7.267",
+     "gloss": "you have"
+    },
+    {
+     "id": "2:7.268",
+     "gloss": "for you"
+    },
+    {
+     "id": "2:7.269",
+     "gloss": "counsel"
+    },
+    {
+     "id": "2:7.270",
+     "gloss": "proper"
+    },
+    {
+     "id": "2:7.271",
+     "gloss": "go"
+    },
+    {
+     "id": "2:7.272",
+     "gloss": "to"
+    },
+    {
+     "id": "2:7.273",
+     "gloss": "your Creator"
+    },
+    {
+     "id": "2:7.274",
+     "gloss": "and counsel Him",
+     "note": "ותיעצנו: 2nd person masculine imperfect with the suffix -נו: \"you will counsel him\" (energic nun) or \"counsel us\". Read here \"counsel Him\"."
+    },
+    {
+     "id": "2:7.275",
+     "gloss": "and as for"
+    },
+    {
+     "id": "2:7.276",
+     "gloss": "what you wrote"
+    },
+    {
+     "id": "2:7.277",
+     "gloss": "that the words of"
+    },
+    {
+     "id": "2:7.278",
+     "gloss": "Kisse Eliyahu"
+    },
+    {
+     "id": "2:7.279",
+     "gloss": "are against"
+    },
+    {
+     "id": "2:7.280",
+     "gloss": "the Rambam"
+    },
+    {
+     "id": "2:7.281",
+     "gloss": "etc.",
+     "note": "וכו': 'etc.', kept as the Hebrew marks a truncated passage."
+    },
+    {
+     "id": "2:7.282",
+     "gloss": "who wrote"
+    },
+    {
+     "id": "2:7.283",
+     "gloss": "that it is not"
+    },
+    {
+     "id": "2:7.284",
+     "gloss": "a force"
+    },
+    {
+     "id": "2:7.285",
+     "gloss": "in a body"
+    },
+    {
+     "id": "2:7.286",
+     "gloss": "and according to"
+    },
+    {
+     "id": "2:7.287",
+     "gloss": "the words of"
+    },
+    {
+     "id": "2:7.288",
+     "gloss": "Kisse Eliyahu"
+    },
+    {
+     "id": "2:7.289",
+     "gloss": "it is"
+    },
+    {
+     "id": "2:7.290",
+     "gloss": "a force"
+    },
+    {
+     "id": "2:7.291",
+     "gloss": "in a body"
+    },
+    {
+     "id": "2:7.292",
+     "gloss": "surely"
+    },
+    {
+     "id": "2:7.293",
+     "gloss": "all"
+    },
+    {
+     "id": "2:7.294",
+     "gloss": "the Kabbalists"
+    },
+    {
+     "id": "2:7.295",
+     "gloss": "with one"
+    },
+    {
+     "id": "2:7.296",
+     "gloss": "mouth"
+    },
+    {
+     "id": "2:7.297",
+     "gloss": "answer"
+    },
+    {
+     "id": "2:7.298",
+     "gloss": "and say"
+    },
+    {
+     "id": "2:7.299",
+     "gloss": "that all"
+    },
+    {
+     "id": "2:7.300",
+     "gloss": "those who ascribe corporeality"
+    },
+    {
+     "id": "2:7.301",
+     "gloss": "to the sefirot"
+    },
+    {
+     "id": "2:7.302",
+     "gloss": "like you"
+    },
+    {
+     "id": "2:7.303",
+     "gloss": "is"
+    },
+    {
+     "id": "2:7.304",
+     "gloss": "such a one"
+    },
+    {
+     "id": "2:7.305",
+     "gloss": "a denier"
+    },
+    {
+     "id": "2:7.306",
+     "gloss": "and has no"
+    },
+    {
+     "id": "2:7.307",
+     "gloss": "for him"
+    },
+    {
+     "id": "2:7.308",
+     "gloss": "share"
+    },
+    {
+     "id": "2:7.309",
+     "gloss": "in the God of"
+    },
+    {
+     "id": "2:7.310",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:7.311",
+     "gloss": "and as for"
+    },
+    {
+     "id": "2:7.312",
+     "gloss": "what they called"
+    },
+    {
+     "id": "2:7.313",
+     "gloss": "them"
+    },
+    {
+     "id": "2:7.314",
+     "gloss": "lights"
+    },
+    {
+     "id": "2:7.315",
+     "gloss": "subtle"
+    },
+    {
+     "id": "2:7.316",
+     "gloss": "is not"
+    },
+    {
+     "id": "2:7.317",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.318",
+     "gloss": "to soothe"
+    },
+    {
+     "id": "2:7.319",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:7.320",
+     "gloss": "the ear"
+    },
+    {
+     "id": "2:7.321",
+     "gloss": "we have"
+    },
+    {
+     "id": "2:7.322",
+     "gloss": "for us"
+    },
+    {
+     "id": "2:7.323",
+     "gloss": "to ask"
+    },
+    {
+     "id": "2:7.324",
+     "gloss": "about"
+    },
+    {
+     "id": "2:7.325",
+     "gloss": "what"
+    },
+    {
+     "id": "2:7.326",
+     "gloss": "he wrote"
+    },
+    {
+     "id": "2:7.327",
+     "gloss": "the Rambam"
+    },
+    {
+     "id": "2:7.328",
+     "gloss": "let him direct"
+    },
+    {
+     "id": "2:7.329",
+     "gloss": "his heart"
+    },
+    {
+     "id": "2:7.330",
+     "gloss": "toward"
+    },
+    {
+     "id": "2:7.331",
+     "gloss": "the Shekhinah"
+    },
+    {
+     "id": "2:7.332",
+     "gloss": "and pray"
+    },
+    {
+     "id": "2:7.333",
+     "gloss": "and in the Guide",
+     "note": "Moreh Nevukhim (the Guide for the Perplexed); the Hebrew names it only as 'the Guide' (במורה)."
+    },
+    {
+     "id": "2:7.334",
+     "gloss": "he wrote",
+     "note": "כ': כתב, \"wrote\" (not a chapter number); the Guide is named without a reference."
+    },
+    {
+     "id": "2:7.335",
+     "gloss": "that the Shekhinah is"
+    },
+    {
+     "id": "2:7.336",
+     "gloss": "a light"
+    },
+    {
+     "id": "2:7.337",
+     "gloss": "created"
+    },
+    {
+     "id": "2:7.338",
+     "gloss": "and more"
+    },
+    {
+     "id": "2:7.339",
+     "gloss": "than this"
+    },
+    {
+     "id": "2:7.340",
+     "gloss": "what"
+    },
+    {
+     "id": "2:7.341",
+     "gloss": "he wrote"
+    },
+    {
+     "id": "2:7.342",
+     "gloss": "about"
+    },
+    {
+     "id": "2:7.343",
+     "gloss": "the glory of"
+    },
+    {
+     "id": "2:7.344",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:7.345",
+     "gloss": "that it is"
+    },
+    {
+     "id": "2:7.346",
+     "gloss": "created"
+    },
+    {
+     "id": "2:7.347",
+     "gloss": "if"
+    },
+    {
+     "id": "2:7.348",
+     "gloss": "so"
+    },
+    {
+     "id": "2:7.349",
+     "gloss": "how"
+    },
+    {
+     "id": "2:7.350",
+     "gloss": "were"
+    },
+    {
+     "id": "2:7.351",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:7.352",
+     "gloss": "going out"
+    },
+    {
+     "id": "2:7.353",
+     "gloss": "to the opening of"
+    },
+    {
+     "id": "2:7.354",
+     "gloss": "their tents"
+    },
+    {
+     "id": "2:7.355",
+     "gloss": "and bowing"
+    },
+    {
+     "id": "2:7.356",
+     "gloss": "to the created thing"
+    },
+    {
+     "id": "2:7.357",
+     "gloss": "and more"
+    },
+    {
+     "id": "2:7.358",
+     "gloss": "than"
+    },
+    {
+     "id": "2:7.359",
+     "gloss": "this"
+    },
+    {
+     "id": "2:7.360",
+     "gloss": "what"
+    },
+    {
+     "id": "2:7.361",
+     "gloss": "he wrote"
+    },
+    {
+     "id": "2:7.362",
+     "gloss": "that every"
+    },
+    {
+     "id": "2:7.363",
+     "gloss": "form"
+    },
+    {
+     "id": "2:7.364",
+     "gloss": "which"
+    },
+    {
+     "id": "2:7.365",
+     "gloss": "seeing"
+    },
+    {
+     "id": "2:7.366",
+     "gloss": "the prophets"
+    },
+    {
+     "id": "2:7.367",
+     "gloss": "and speaking"
+    },
+    {
+     "id": "2:7.368",
+     "gloss": "with it"
+    },
+    {
+     "id": "2:7.369",
+     "gloss": "is"
+    },
+    {
+     "id": "2:7.370",
+     "gloss": "a light"
+    },
+    {
+     "id": "2:7.371",
+     "gloss": "created"
+    },
+    {
+     "id": "2:7.372",
+     "gloss": "if so"
+    },
+    {
+     "id": "2:7.373",
+     "gloss": "there is no"
+    },
+    {
+     "id": "2:7.374",
+     "gloss": "for us"
+    },
+    {
+     "id": "2:7.375",
+     "gloss": "any"
+    },
+    {
+     "id": "2:7.376",
+     "gloss": "prophecy"
+    },
+    {
+     "id": "2:7.377",
+     "gloss": "through"
+    },
+    {
+     "id": "2:7.378",
+     "gloss": "the Creator"
+    },
+    {
+     "id": "2:7.379",
+     "gloss": "but"
+    },
+    {
+     "id": "2:7.380",
+     "gloss": "all of it"
+    },
+    {
+     "id": "2:7.381",
+     "gloss": "from the side of"
+    },
+    {
+     "id": "2:7.382",
+     "gloss": "the created ones"
+    },
+    {
+     "id": "2:7.383",
+     "gloss": "and if"
+    },
+    {
+     "id": "2:7.384",
+     "gloss": "it is said"
+    },
+    {
+     "id": "2:7.385",
+     "gloss": "that"
+    },
+    {
+     "id": "2:7.386",
+     "gloss": "the created"
+    },
+    {
+     "id": "2:7.387",
+     "gloss": "attached"
+    },
+    {
+     "id": "2:7.388",
+     "gloss": "to the Creator"
+    },
+    {
+     "id": "2:7.389",
+     "gloss": "if so"
+    },
+    {
+     "id": "2:7.390",
+     "gloss": "in your opinion"
+    },
+    {
+     "id": "2:7.391",
+     "gloss": "it is"
+    },
+    {
+     "id": "2:7.392",
+     "gloss": "a force"
+    },
+    {
+     "id": "2:7.393",
+     "gloss": "in a body"
+    },
+    {
+     "id": "2:7.394",
+     "gloss": "your answer"
+    },
+    {
+     "id": "2:7.395",
+     "gloss": "quickly"
+    },
+    {
+     "id": "2:7.396",
+     "gloss": "will spring up"
+    },
+    {
+     "id": "2:7.397",
+     "gloss": "the end of the verse",
+     "note": "ס': read as סוף, \"end\" (the words close Jer 9:5); not certain. Other expansions: ספר, סימן."
+    },
+    {
+     "id": "2:7.398",
+     "gloss": "they refuse"
+    },
+    {
+     "id": "2:7.399",
+     "gloss": "to know"
+    },
+    {
+     "id": "2:7.400",
+     "gloss": "Me"
+    },
+    {
+     "id": "2:7.401",
+     "gloss": "says"
+    },
+    {
+     "id": "2:7.402",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:7.1",
+      "2:7.2"
+     ],
+     "english": "Second Reply.",
+     "literal": "Reply second"
+    },
+    {
+     "tokens": [
+      "2:7.3",
+      "2:7.4",
+      "2:7.5",
+      "2:7.6"
+     ],
+     "english": "I saw all that is written",
+     "literal": "I-saw (object-marker) all what-is-written"
+    },
+    {
+     "tokens": [
+      "2:7.7",
+      "2:7.8"
+     ],
+     "english": "in the letter of the eminent one,",
+     "literal": "in-the-letter-of the-eminent-one"
+    },
+    {
+     "tokens": [
+      "2:7.9",
+      "2:7.10",
+      "2:7.11"
+     ],
+     "english": "a tree whose branches are many,",
+     "literal": "a-tree whose-branches are-many"
+    },
+    {
+     "tokens": [
+      "2:7.12",
+      "2:7.13",
+      "2:7.14"
+     ],
+     "english": "its height like the height of cedars,",
+     "literal": "its-height like-the-height-of cedars"
+    },
+    {
+     "tokens": [
+      "2:7.15",
+      "2:7.16",
+      "2:7.17",
+      "2:7.18"
+     ],
+     "english": "After the pardon for the delay,",
+     "literal": "after the-pardon for the-delay"
+    },
+    {
+     "tokens": [
+      "2:7.19",
+      "2:7.20",
+      "2:7.21",
+      "2:7.22"
+     ],
+     "english": "for the pressure of the times is outstretched,",
+     "literal": "for the-pressure-of the-times is-outstretched"
+    },
+    {
+     "tokens": [
+      "2:7.23",
+      "2:7.24",
+      "2:7.25"
+     ],
+     "english": "and every delay is for good.",
+     "literal": "and-every delay is-for-good"
+    },
+    {
+     "tokens": [
+      "2:7.26",
+      "2:7.27",
+      "2:7.28"
+     ],
+     "english": "When I looked at the letter,",
+     "literal": "when-I-looked at the-letter"
+    },
+    {
+     "tokens": [
+      "2:7.29",
+      "2:7.30",
+      "2:7.31"
+     ],
+     "english": "behold, you opened your mouth,",
+     "literal": "and-behold you-opened your-mouth"
+    },
+    {
+     "tokens": [
+      "2:7.32",
+      "2:7.33"
+     ],
+     "english": "by mentioning divinities,",
+     "literal": "by-mentioning divinities"
+    },
+    {
+     "tokens": [
+      "2:7.34",
+      "2:7.35",
+      "2:7.36"
+     ],
+     "english": "thinking that it is against us.",
+     "literal": "thinking that-it-is against-us"
+    },
+    {
+     "tokens": [
+      "2:7.37",
+      "2:7.38",
+      "2:7.39",
+      "2:7.40",
+      "2:7.41"
+     ],
+     "english": "And what are we, that you murmur against us,",
+     "literal": "and-we what that you-lay upon-us"
+    },
+    {
+     "tokens": [
+      "2:7.42",
+      "2:7.43",
+      "2:7.44",
+      "2:7.45"
+     ],
+     "english": "and your scorn does not reach us,",
+     "literal": "and-your-scorn does-not reach to-us"
+    },
+    {
+     "tokens": [
+      "2:7.46",
+      "2:7.47",
+      "2:7.48",
+      "2:7.49",
+      "2:7.50"
+     ],
+     "english": "but only to the sages of Israel,",
+     "literal": "but only to the-sages-of Israel"
+    },
+    {
+     "tokens": [
+      "2:7.51",
+      "2:7.52",
+      "2:7.53",
+      "2:7.54"
+     ],
+     "english": "whose least is thicker than your loins,",
+     "literal": "who their-least is-thicker from-your-loins"
+    },
+    {
+     "tokens": [
+      "2:7.55",
+      "2:7.56",
+      "2:7.57",
+      "2:7.58"
+     ],
+     "english": "and all Israel rests on them,",
+     "literal": "and-all Israel rest on-them"
+    },
+    {
+     "tokens": [
+      "2:7.59",
+      "2:7.60",
+      "2:7.61"
+     ],
+     "english": "and by their merit the world stands.",
+     "literal": "and-by-their-merit the-world stands"
+    },
+    {
+     "tokens": [
+      "2:7.62",
+      "2:7.63"
+     ],
+     "english": "Woe to you,",
+     "literal": "woe to-you"
+    },
+    {
+     "tokens": [
+      "2:7.64",
+      "2:7.65",
+      "2:7.66",
+      "2:7.67",
+      "2:7.68",
+      "2:7.69",
+      "2:7.70"
+     ],
+     "english": "for you have brought out against them words that are not according to the law,",
+     "literal": "for you-have-brought-out against-them words which are-not according-to-the-law"
+    },
+    {
+     "tokens": [
+      "2:7.71",
+      "2:7.72",
+      "2:7.73"
+     ],
+     "english": "in innocence, and in its place guile.",
+     "literal": "in-innocence and-in-its-place guile"
+    },
+    {
+     "tokens": [
+      "2:7.74",
+      "2:7.75",
+      "2:7.76",
+      "2:7.77"
+     ],
+     "english": "But your judgment has already been made clear,",
+     "literal": "but already was-made-clear your-judgment"
+    },
+    {
+     "tokens": [
+      "2:7.78",
+      "2:7.79",
+      "2:7.80",
+      "2:7.81"
+     ],
+     "english": "by the mouth of all the masters of wisdom.",
+     "literal": "by-the-mouth-of all the-masters-of wisdom"
+    },
+    {
+     "tokens": [
+      "2:7.82",
+      "2:7.83",
+      "2:7.84"
+     ],
+     "english": "And as for what you wrote about",
+     "literal": "and-as-for what-you-wrote about"
+    },
+    {
+     "tokens": [
+      "2:7.85",
+      "2:7.86"
+     ],
+     "english": "Kisse Eliyahu,",
+     "literal": "Kisse Eliyahu"
+    },
+    {
+     "tokens": [
+      "2:7.87",
+      "2:7.88",
+      "2:7.89"
+     ],
+     "english": "that on folio 3",
+     "literal": "that on-folio 3"
+    },
+    {
+     "tokens": [
+      "2:7.90",
+      "2:7.91",
+      "2:7.92",
+      "2:7.93",
+      "2:7.94"
+     ],
+     "english": "he likens His oneness, may He be blessed, to the other unities.",
+     "literal": "he-likens His-oneness may-He-be-blessed to-the-other unities"
+    },
+    {
+     "tokens": [
+      "2:7.95",
+      "2:7.96",
+      "2:7.97",
+      "2:7.98"
+     ],
+     "english": "You are already walking in darkness.",
+     "literal": "already you walk in-darkness"
+    },
+    {
+     "tokens": [
+      "2:7.99",
+      "2:7.100",
+      "2:7.101",
+      "2:7.102",
+      "2:7.103"
+     ],
+     "english": "Surely the beginning of his words on folio 20",
+     "literal": "surely the-beginning-of his-words folio 20"
+    },
+    {
+     "tokens": [
+      "2:7.104",
+      "2:7.105",
+      "2:7.106",
+      "2:7.107"
+     ],
+     "english": "is that all these likenesses are about",
+     "literal": "that-all the-likenesses these are-about"
+    },
+    {
+     "tokens": [
+      "2:7.108",
+      "2:7.109",
+      "2:7.110"
+     ],
+     "english": "holy lights, which",
+     "literal": "lights holy which"
+    },
+    {
+     "tokens": [
+      "2:7.111",
+      "2:7.112",
+      "2:7.113"
+     ],
+     "english": "have no grasp,",
+     "literal": "have-no for-them grasp"
+    },
+    {
+     "tokens": [
+      "2:7.114",
+      "2:7.115"
+     ],
+     "english": "no form and no likeness,",
+     "literal": "and-form and-likeness"
+    },
+    {
+     "tokens": [
+      "2:7.116",
+      "2:7.117",
+      "2:7.118",
+      "2:7.119",
+      "2:7.120",
+      "2:7.121"
+     ],
+     "english": "neither in intellect nor in knowledge at all and in principle,",
+     "literal": "neither in-intellect nor in-knowledge at-all and-in-principle"
+    },
+    {
+     "tokens": [
+      "2:7.122",
+      "2:7.123",
+      "2:7.124",
+      "2:7.125",
+      "2:7.126",
+      "2:7.127",
+      "2:7.128",
+      "2:7.129"
+     ],
+     "english": "but so that the intellect can receive them, we were permitted to liken.",
+     "literal": "but so-that that-it-can the-intellect receive them we-were-permitted to-liken"
+    },
+    {
+     "tokens": [
+      "2:7.130",
+      "2:7.131",
+      "2:7.132",
+      "2:7.133"
+     ],
+     "english": "And on folio 4b he wrote",
+     "literal": "and-on-folio 4 b he-wrote"
+    },
+    {
+     "tokens": [
+      "2:7.134",
+      "2:7.135",
+      "2:7.136",
+      "2:7.137",
+      "2:7.138"
+     ],
+     "english": "that all the epithets and attributes are in the manner of",
+     "literal": "that-all the-epithets and-the-attributes are in-the-manner-of"
+    },
+    {
+     "tokens": [
+      "2:7.139",
+      "2:7.140",
+      "2:7.141"
+     ],
+     "english": "likeness, in the sefirot and",
+     "literal": "likeness in-the-sefirot and-concerning"
+    },
+    {
+     "tokens": [
+      "2:7.142",
+      "2:7.143"
+     ],
+     "english": "the holy lights, the emanated beings.",
+     "literal": "holy the-emanated-beings"
+    },
+    {
+     "tokens": [
+      "2:7.144",
+      "2:7.145",
+      "2:7.146"
+     ],
+     "english": "But in Him, may He be blessed,",
+     "literal": "but in-Him may-He-be-blessed"
+    },
+    {
+     "tokens": [
+      "2:7.147",
+      "2:7.148",
+      "2:7.149",
+      "2:7.150"
+     ],
+     "english": "there is not in Him any likeness",
+     "literal": "there-is-not in-Him any likeness"
+    },
+    {
+     "tokens": [
+      "2:7.151",
+      "2:7.152",
+      "2:7.153",
+      "2:7.154",
+      "2:7.155"
+     ],
+     "english": "and form, and grasp in thought at all and in principle.",
+     "literal": "and-form and-grasp in-thought at-all and-in-principle"
+    },
+    {
+     "tokens": [
+      "2:7.156",
+      "2:7.157"
+     ],
+     "english": "And as for what you wrote,",
+     "literal": "and-as-for what-you-wrote"
+    },
+    {
+     "tokens": [
+      "2:7.158",
+      "2:7.159",
+      "2:7.160",
+      "2:7.161"
+     ],
+     "english": "how can we leave the other partzufim",
+     "literal": "how can-we-leave the-other the-partzufim"
+    },
+    {
+     "tokens": [
+      "2:7.162",
+      "2:7.163",
+      "2:7.164"
+     ],
+     "english": "and worship Ze'ir Anpin",
+     "literal": "and-worship Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "2:7.165",
+      "2:7.166",
+      "2:7.167",
+      "2:7.168",
+      "2:7.169"
+     ],
+     "english": "with the power in him, Ein Sof, blessed be He.",
+     "literal": "with the-power in-him Ein-Sof blessed-be-He"
+    },
+    {
+     "tokens": [
+      "2:7.170",
+      "2:7.171",
+      "2:7.172",
+      "2:7.173"
+     ],
+     "english": "The Master, Kisse Eliyahu, has already explained",
+     "literal": "already explained Rabbi Kisse-Eliyahu"
+    },
+    {
+     "tokens": [
+      "2:7.174",
+      "2:7.175",
+      "2:7.176"
+     ],
+     "english": "on folio 25b,",
+     "literal": "on-folio 25 b"
+    },
+    {
+     "tokens": [
+      "2:7.177",
+      "2:7.178"
+     ],
+     "english": "that when we call upon Ze'ir Anpin,",
+     "literal": "that-when-we-call upon-Ze'ir-Anpin"
+    },
+    {
+     "tokens": [
+      "2:7.179",
+      "2:7.180",
+      "2:7.181",
+      "2:7.182",
+      "2:7.183"
+     ],
+     "english": "we call all the partzufim together,",
+     "literal": "we call all the-partzufim together"
+    },
+    {
+     "tokens": [
+      "2:7.184",
+      "2:7.185",
+      "2:7.186",
+      "2:7.187"
+     ],
+     "english": "with a soul hidden in them.",
+     "literal": "with a-soul hidden in-them"
+    },
+    {
+     "tokens": [
+      "2:7.188",
+      "2:7.189"
+     ],
+     "english": "And as for what you wrote,",
+     "literal": "and-as-for what-you-wrote"
+    },
+    {
+     "tokens": [
+      "2:7.190",
+      "2:7.191",
+      "2:7.192"
+     ],
+     "english": "why do we leave the partzufim",
+     "literal": "why do-we-leave the-partzufim"
+    },
+    {
+     "tokens": [
+      "2:7.193",
+      "2:7.194"
+     ],
+     "english": "closest to Ein Sof",
+     "literal": "closest to-Ein-Sof"
+    },
+    {
+     "tokens": [
+      "2:7.195",
+      "2:7.196"
+     ],
+     "english": "and call upon Ze'ir Anpin.",
+     "literal": "and-call-upon Ze'ir-Anpin"
+    },
+    {
+     "tokens": [
+      "2:7.197",
+      "2:7.198"
+     ],
+     "english": "Because it is known",
+     "literal": "because it-is-known"
+    },
+    {
+     "tokens": [
+      "2:7.199",
+      "2:7.200"
+     ],
+     "english": "that among the inner attributes",
+     "literal": "that-the-attributes inner"
+    },
+    {
+     "tokens": [
+      "2:7.201",
+      "2:7.202",
+      "2:7.203"
+     ],
+     "english": "some are judgment,",
+     "literal": "there-are of-them judgment"
+    },
+    {
+     "tokens": [
+      "2:7.204",
+      "2:7.205",
+      "2:7.206"
+     ],
+     "english": "and some are mercy,",
+     "literal": "and-there-are of-them mercy"
+    },
+    {
+     "tokens": [
+      "2:7.207",
+      "2:7.208",
+      "2:7.209"
+     ],
+     "english": "and this one includes them all,",
+     "literal": "and-this-one includes all-of-them"
+    },
+    {
+     "tokens": [
+      "2:7.210",
+      "2:7.211",
+      "2:7.212"
+     ],
+     "english": "and therefore the Emanator wanted",
+     "literal": "and-therefore wanted the-Emanator"
+    },
+    {
+     "tokens": [
+      "2:7.213",
+      "2:7.214"
+     ],
+     "english": "to perform His actions",
+     "literal": "to-act His-actions"
+    },
+    {
+     "tokens": [
+      "2:7.215",
+      "2:7.216",
+      "2:7.217",
+      "2:7.218"
+     ],
+     "english": "through this vessel.",
+     "literal": "through the-hand-of a-vessel this"
+    },
+    {
+     "tokens": [
+      "2:7.219",
+      "2:7.220",
+      "2:7.221",
+      "2:7.222",
+      "2:7.223"
+     ],
+     "english": "Before you object to the likenesses",
+     "literal": "even-to-the-point that-you object to the-likenesses"
+    },
+    {
+     "tokens": [
+      "2:7.224",
+      "2:7.225"
+     ],
+     "english": "concerning the upper ones,",
+     "literal": "concerning the-upper-ones"
+    },
+    {
+     "tokens": [
+      "2:7.226",
+      "2:7.227",
+      "2:7.228",
+      "2:7.229",
+      "2:7.230"
+     ],
+     "english": "which you have no right to ponder",
+     "literal": "that-you-have-no for-you right to-ponder them"
+    },
+    {
+     "tokens": [
+      "2:7.231",
+      "2:7.232",
+      "2:7.233"
+     ],
+     "english": "all the more so to mock,",
+     "literal": "all-the-more so to-mock"
+    },
+    {
+     "tokens": [
+      "2:7.234",
+      "2:7.235",
+      "2:7.236",
+      "2:7.237"
+     ],
+     "english": "object to your corporeal hand,",
+     "literal": "then-object to your-hand the-corporeal"
+    },
+    {
+     "tokens": [
+      "2:7.238",
+      "2:7.239",
+      "2:7.240",
+      "2:7.241"
+     ],
+     "english": "which does all the labors,",
+     "literal": "which-is does all the-labors"
+    },
+    {
+     "tokens": [
+      "2:7.242",
+      "2:7.243",
+      "2:7.244",
+      "2:7.245",
+      "2:7.246"
+     ],
+     "english": "and the head above does not do anything.",
+     "literal": "and-the-head above does-not do anything"
+    },
+    {
+     "tokens": [
+      "2:7.247",
+      "2:7.248",
+      "2:7.249",
+      "2:7.250",
+      "2:7.251"
+     ],
+     "english": "Also, the power of speech, which is your glory,",
+     "literal": "also the-power-of speech which-is your-glory"
+    },
+    {
+     "tokens": [
+      "2:7.252",
+      "2:7.253",
+      "2:7.254",
+      "2:7.255"
+     ],
+     "english": "above every living creature,",
+     "literal": "above every living creature"
+    },
+    {
+     "tokens": [
+      "2:7.256",
+      "2:7.257",
+      "2:7.258",
+      "2:7.259",
+      "2:7.260"
+     ],
+     "english": "why was it not given above your eyes.",
+     "literal": "why not was-it-given above your-eyes"
+    },
+    {
+     "tokens": [
+      "2:7.261",
+      "2:7.262",
+      "2:7.263",
+      "2:7.264",
+      "2:7.265"
+     ],
+     "english": "But thus His wisdom decreed, may He be blessed.",
+     "literal": "but thus decreed His-wisdom may-He-be-blessed"
+    },
+    {
+     "tokens": [
+      "2:7.266",
+      "2:7.267",
+      "2:7.268",
+      "2:7.269",
+      "2:7.270"
+     ],
+     "english": "And if you have proper counsel,",
+     "literal": "and-if you-have for-you counsel proper"
+    },
+    {
+     "tokens": [
+      "2:7.271",
+      "2:7.272",
+      "2:7.273"
+     ],
+     "english": "go to your Creator",
+     "literal": "go to your-Creator"
+    },
+    {
+     "tokens": [
+      "2:7.274"
+     ],
+     "english": "and counsel Him.",
+     "literal": "and-let-Him-counsel-us"
+    },
+    {
+     "tokens": [
+      "2:7.275",
+      "2:7.276",
+      "2:7.277"
+     ],
+     "english": "And as for what you wrote, that the words of",
+     "literal": "and-as-for what-you-wrote that-the-words-of"
+    },
+    {
+     "tokens": [
+      "2:7.278",
+      "2:7.279",
+      "2:7.280",
+      "2:7.281"
+     ],
+     "english": "Kisse Eliyahu are against the Rambam, etc.,",
+     "literal": "Kisse-Eliyahu are-against the-Rambam etc."
+    },
+    {
+     "tokens": [
+      "2:7.282",
+      "2:7.283",
+      "2:7.284",
+      "2:7.285"
+     ],
+     "english": "who wrote that it is not a force in a body,",
+     "literal": "who-wrote that-it-is-not a-force in-a-body"
+    },
+    {
+     "tokens": [
+      "2:7.286",
+      "2:7.287",
+      "2:7.288",
+      "2:7.289",
+      "2:7.290",
+      "2:7.291"
+     ],
+     "english": "and according to the words of Kisse Eliyahu it is a force in a body.",
+     "literal": "and-according-to the-words-of Kisse-Eliyahu it-is a-force in-a-body"
+    },
+    {
+     "tokens": [
+      "2:7.292",
+      "2:7.293",
+      "2:7.294"
+     ],
+     "english": "Surely all the Kabbalists",
+     "literal": "surely all the-Kabbalists"
+    },
+    {
+     "tokens": [
+      "2:7.295",
+      "2:7.296"
+     ],
+     "english": "with one mouth",
+     "literal": "with-one mouth"
+    },
+    {
+     "tokens": [
+      "2:7.297",
+      "2:7.298"
+     ],
+     "english": "answer and say",
+     "literal": "answer and-say"
+    },
+    {
+     "tokens": [
+      "2:7.299",
+      "2:7.300",
+      "2:7.301",
+      "2:7.302"
+     ],
+     "english": "that whoever ascribes corporeality to the sefirot, like you,",
+     "literal": "that-all those-who-ascribe-corporeality to-the-sefirot like-you"
+    },
+    {
+     "tokens": [
+      "2:7.303",
+      "2:7.304",
+      "2:7.305"
+     ],
+     "english": "is a denier",
+     "literal": "is such-a-one a-denier"
+    },
+    {
+     "tokens": [
+      "2:7.306",
+      "2:7.307",
+      "2:7.308",
+      "2:7.309",
+      "2:7.310"
+     ],
+     "english": "and has no share in the God of Israel.",
+     "literal": "and-has-no for-him share in-the-God-of Israel"
+    },
+    {
+     "tokens": [
+      "2:7.311",
+      "2:7.312",
+      "2:7.313"
+     ],
+     "english": "And as for their having called them",
+     "literal": "and-as-for what-they-called them"
+    },
+    {
+     "tokens": [
+      "2:7.314",
+      "2:7.315"
+     ],
+     "english": "subtle lights,",
+     "literal": "lights subtle"
+    },
+    {
+     "tokens": [
+      "2:7.316",
+      "2:7.317",
+      "2:7.318"
+     ],
+     "english": "it is only to soothe",
+     "literal": "is-not but to-soothe"
+    },
+    {
+     "tokens": [
+      "2:7.319",
+      "2:7.320"
+     ],
+     "english": "the ear!",
+     "literal": "(object-marker) the-ear"
+    },
+    {
+     "tokens": [
+      "2:7.321",
+      "2:7.322",
+      "2:7.323"
+     ],
+     "english": "We have to ask",
+     "literal": "we-have for-us to-ask"
+    },
+    {
+     "tokens": [
+      "2:7.324",
+      "2:7.325",
+      "2:7.326",
+      "2:7.327"
+     ],
+     "english": "about what the Rambam wrote:",
+     "literal": "about what he-wrote the-Rambam"
+    },
+    {
+     "tokens": [
+      "2:7.328",
+      "2:7.329",
+      "2:7.330",
+      "2:7.331",
+      "2:7.332"
+     ],
+     "english": "\"Let him direct his heart toward the Shekhinah and pray.\"",
+     "literal": "let-him-direct his-heart toward the-Shekhinah and-pray"
+    },
+    {
+     "tokens": [
+      "2:7.333",
+      "2:7.334"
+     ],
+     "english": "And in the Guide he wrote",
+     "literal": "and-in-the-Guide 20"
+    },
+    {
+     "tokens": [
+      "2:7.335",
+      "2:7.336",
+      "2:7.337"
+     ],
+     "english": "that the Shekhinah is a created light.",
+     "literal": "that-the-Shekhinah-is a-light created"
+    },
+    {
+     "tokens": [
+      "2:7.338",
+      "2:7.339"
+     ],
+     "english": "And more than this,",
+     "literal": "and-more than-this"
+    },
+    {
+     "tokens": [
+      "2:7.340",
+      "2:7.341",
+      "2:7.342"
+     ],
+     "english": "what he wrote about",
+     "literal": "what he-wrote about"
+    },
+    {
+     "tokens": [
+      "2:7.343",
+      "2:7.344",
+      "2:7.345",
+      "2:7.346"
+     ],
+     "english": "the glory of the LORD, that it is created.",
+     "literal": "the-glory-of the-LORD that-it-is created"
+    },
+    {
+     "tokens": [
+      "2:7.347",
+      "2:7.348"
+     ],
+     "english": "If so,",
+     "literal": "if so"
+    },
+    {
+     "tokens": [
+      "2:7.349",
+      "2:7.350",
+      "2:7.351",
+      "2:7.352"
+     ],
+     "english": "how did Israel go out",
+     "literal": "how were Israel going-out"
+    },
+    {
+     "tokens": [
+      "2:7.353",
+      "2:7.354"
+     ],
+     "english": "to the opening of their tents",
+     "literal": "to-the-opening-of their-tents"
+    },
+    {
+     "tokens": [
+      "2:7.355",
+      "2:7.356"
+     ],
+     "english": "and bow down to the created thing.",
+     "literal": "and-bowing to-the-created-thing"
+    },
+    {
+     "tokens": [
+      "2:7.357",
+      "2:7.358",
+      "2:7.359"
+     ],
+     "english": "And more than this,",
+     "literal": "and-more than this"
+    },
+    {
+     "tokens": [
+      "2:7.360",
+      "2:7.361"
+     ],
+     "english": "what he wrote,",
+     "literal": "what he-wrote"
+    },
+    {
+     "tokens": [
+      "2:7.362",
+      "2:7.363"
+     ],
+     "english": "that every form",
+     "literal": "that-every form"
+    },
+    {
+     "tokens": [
+      "2:7.364",
+      "2:7.365",
+      "2:7.366",
+      "2:7.367",
+      "2:7.368"
+     ],
+     "english": "which the prophets saw and spoke with",
+     "literal": "which seeing the-prophets and-speaking with-it"
+    },
+    {
+     "tokens": [
+      "2:7.369",
+      "2:7.370",
+      "2:7.371"
+     ],
+     "english": "is a created light.",
+     "literal": "is a-light created"
+    },
+    {
+     "tokens": [
+      "2:7.372"
+     ],
+     "english": "If so,",
+     "literal": "if-so"
+    },
+    {
+     "tokens": [
+      "2:7.373",
+      "2:7.374",
+      "2:7.375",
+      "2:7.376"
+     ],
+     "english": "we have no prophecy",
+     "literal": "there-is-no for-us any prophecy"
+    },
+    {
+     "tokens": [
+      "2:7.377",
+      "2:7.378"
+     ],
+     "english": "through the Creator,",
+     "literal": "through the-Creator"
+    },
+    {
+     "tokens": [
+      "2:7.379",
+      "2:7.380",
+      "2:7.381",
+      "2:7.382"
+     ],
+     "english": "but all of it from the side of the created ones.",
+     "literal": "but all-of-it from-the-side-of the-created-ones"
+    },
+    {
+     "tokens": [
+      "2:7.383",
+      "2:7.384",
+      "2:7.385"
+     ],
+     "english": "And if it is said that",
+     "literal": "and-if it-is-said that"
+    },
+    {
+     "tokens": [
+      "2:7.386",
+      "2:7.387",
+      "2:7.388"
+     ],
+     "english": "the created thing was attached to the Creator,",
+     "literal": "the-created attached to-the-Creator"
+    },
+    {
+     "tokens": [
+      "2:7.389",
+      "2:7.390",
+      "2:7.391",
+      "2:7.392",
+      "2:7.393"
+     ],
+     "english": "then, in your opinion, it is a force in a body!",
+     "literal": "if-so in-your-opinion it-is a-force in-a-body"
+    },
+    {
+     "tokens": [
+      "2:7.394",
+      "2:7.395",
+      "2:7.396"
+     ],
+     "english": "Your answer will quickly spring up,",
+     "literal": "your-answer quickly will-spring-up"
+    },
+    {
+     "tokens": [
+      "2:7.397",
+      "2:7.398",
+      "2:7.399",
+      "2:7.400",
+      "2:7.401",
+      "2:7.402"
+     ],
+     "english": "the end of the verse: \"They refuse to know Me, says the LORD.\"",
+     "literal": "(the-verse) they-refuse to-know Me says the-LORD"
+    }
+   ],
+   "grammar": [
+    "תשובה שנית is a heading ('Second Reply'): Chapter 2 is a correspondence, and the writer now answers the questioner in the second person (פערת פיך, כנגדינו).",
+    "אילן שענפיו מרובים, רומו כגובה ארזים is an image in apposition to כתב האלוף. Its last phrase alludes to Amos 2:9 and is unmarked.",
+    "Each 'ומה שכתבת' clause answers one point of the questioner's letter, in the order he gave them.",
+    "שכתב הרמב\"ם: יכוין לבו כנגד השכינה ויתפלל is an explicit quotation with the formula 'wrote', so it takes double quotation marks; the Hebrew colon is kept.",
+    "ותשובתך מהרה תצמח alludes to Isa 58:8 and takes no marks. ס' מאנו דעת אותי נאם ה' is a quoted verse with the abbreviation ס' before it, so it takes quotation marks."
+   ],
+   "note": "The respondent's reply, in his voice. The Kabbalistic terms and the book's abbreviations follow the decisions for the work.",
+   "commentary": [],
+   "apparatus": [
+    "Jer 9:5 (closing words, quoted): מאנו דעת אותי נאם ה'.",
+    "Isa 58:8 (allusion): ארכתך מהרה תצמח.",
+    "Amos 2:9 (allusion): אשר גבהו כגובה ארזים.",
+    "Folio numbers (3, 20, 4b, 25b) are the author's own; no reference is added.",
+    "Exod 16:7 (allusion): ונחנו מה כי תלונו עלינו; the base text prints תלינו, and the English follows the verse.",
+    "1 Kings 12:10 (allusion; also 2 Chr 10:10): קטני עבה ממתני אבי; the author writes קטנם עבה ממתניך.",
+    "Isa 50:10 (allusion): אשר הלך חשכים.",
+    "Exod 33:10 (allusion): ויקומו ... איש פתח אהלו והשתחוו.",
+    "2:7.141: the base text prints ואודות; the English reads ואורות (cf. אורות קדושים, 2:7.108).",
+    "2:7.397: ס' not expanded in the text; read as סוף (end of the verse); ספר or סימן are the alternatives.",
+    "Wikisource base text; not yet collated with the 1931 scan (Q2)."
+   ],
+   "readings": [
+    {
+     "tokens": [
+      "2:7.274"
+     ],
+     "english": "and counsel us",
+     "source": "suffix -נו as 'us'",
+     "note": "the same spelling read with the plural suffix: go to your Creator and then give us counsel."
+    }
+   ]
+  }
+ ]
+}

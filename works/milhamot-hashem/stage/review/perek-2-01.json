@@ -1,0 +1,1146 @@
+{
+ "unit": "perek-2-01",
+ "model": "sonnet",
+ "summary": "2:1-2:3 are faithful: abbreviations מ״ו (מורנו), ב״ו (ברוך הוא), ע״פ and עכ״ל are expanded correctly, and numbers, fixed terms and the quotation formulas follow the decisions. The faults are in 2:4: אחד rendered 'oneness' in the Rambam passage, לאין סוף rendered 'to Ein Sof', a passive participle made active, missing or added words (תואר, 'of lime'), the book title Kisse Eliyahu read as a personal name after הר׳, two capitalisation errors and the Roke'ach spelling. Embedded verses were missed (2 Chr 15:3, Isa 30:18, Deut 6:13), and the unit-first-segment Wikisource line and several first-occurrence notes (Atik, Abba, Imma, ע״ש) were absent. עה״ת stays 'on the Torah' but is raised as a question.",
+ "patches": [
+  {
+   "ref": "2:1",
+   "path": "apparatus",
+   "value": [
+    "Num 21:14: 'the book of the Wars of the LORD', the source of the title.",
+    "Base text: the Wikisource witness, not yet collated against the 1931 scan (open question 2); any Wikisource addition is translated as base text."
+   ],
+   "severity": "error",
+   "reason": "The decisions (wave 1, Q2) require a general line on the unit's first segment; it is missing."
+  },
+  {
+   "ref": "2:2",
+   "path": "apparatus",
+   "value": [
+    "2 Chr 15:3: 'לְלֹא אֱלֹהֵי אֱמֶת', 'without the true God', is echoed in ללא אלהי אמת (2:2.49-51); the English keeps 'without a God of truth'.",
+    "Isa 30:18: 'כִּי אֱלֹהֵי מִשְׁפָּט ה׳', 'for the LORD is a God of judgment', is echoed in אלהי משפט (2:2.53-54).",
+    "עה״ת (2:2.44) is read as על התורה, 'on the Torah'. It occurs only here, and the work it names is not identified."
+   ],
+   "severity": "error",
+   "reason": "Two embedded verses are not recognised (2 Chr 15:3 ללא אלהי אמת; Isa 30:18 אלהי משפט), which the decisions require. The old line also said עה״ת 'may stand for Etz ha-Chayyim' (that title would be עה״ח, and the author never abbreviates it so) and 'the decisions give no ruling', which is process talk, not apparatus."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.8.note",
+   "value": "מ״ו: מורנו, 'our teacher' (the same at 28).",
+   "severity": "style",
+   "reason": "Checked: מ״ו = מורנו fits the formula יודיענו מורנו and the title before a personal name; the note should not say 'the decisions give no ruling'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.28.note",
+   "value": "מ״ו: מורנו, 'our teacher', as at 2:2.8.",
+   "severity": "style",
+   "reason": "Same reading; the earlier note is reworded."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.17.note",
+   "value": "ב״ו: ברוך הוא, 'blessed be He' (a variant of ב״ה). Elsewhere in the book ב״ו can be בשר ודם, 'flesh and blood', which cannot qualify the Cause of causes.",
+   "severity": "style",
+   "reason": "Reading ברוך הוא is right; the note should give the other expansion and drop the process remark."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.44.note",
+   "value": "עה״ת: read as על התורה, 'on the Torah', that is, a book on the Torah; it occurs only here and the work is not identified.",
+   "severity": "question",
+   "reason": "Decisions are silent on עה״ת. Proposed ruling: 'a book on the Torah' (the shorter expansion, per the pilot ruling on unruled abbreviations); the note says the work is unidentified; no Etz Chayyim in the apparatus."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.32.gloss",
+   "value": "thus far the words of",
+   "severity": "style",
+   "reason": "עכ״ל is 'thus far his words'; the gloss lacked 'the words of', which the English carries and המשיב follows."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.16.note",
+   "value": "המקובל: passive participle of קבל, 'to receive'; the same root as Kabbalah.",
+   "severity": "style",
+   "reason": "The old note says the author claims the word for the rabbinic chain; here it is the respondent's ordinary 'what we have received' (decisions: המקובל בידינו), so the claim is out of place."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.30.note",
+   "value": "Lechem Shlomo, literally 'the bread of Solomon'; a book title.",
+   "severity": "style",
+   "reason": "Process remark ('the decisions give no ruling') removed."
+  },
+  {
+   "ref": "2:4",
+   "path": "english",
+   "value": "The questioner replied again. Your reply, my friend, came closed and sealed, and in it there is nothing but an indication of a place: \"to study in Kisse Eliyahu, from folio 13 to folio 18, 'A wise man will hear and add to learning,' and what we have received is that worship is to God, one Lord, etc.\" I did not understand your opinion and your intention in this, whether this, what you have received, is in accordance with the words of Kisse Eliyahu or the opposite of his words. For when I studied in Kisse Eliyahu the place you marked for me, I did not find what I sought; on the contrary, there, on folio 3, he compares the oneness of the Creator to the other kinds of oneness, where he wrote: \"Just as this house as a whole is called by the name one house. And if you enter it, you will find many rooms, large and small, and many other places. And each and every one of them ascribes to it a designation, one name. Also, a wooden building that has several attributes within it has them. Also, you will find further that this holy wall, which was built, was in parts; each and every stone was separate from the clods of earth, by itself, and the lime by itself, etc. And after the builder came and joined all these parts with his wisdom, this within that, and this beside that, and they became one wall, etc., thus, then, all is one piece and one part. And so is the matter with us, etc.\" And there, on folios 25 and 29, he compares it to the human body, joined of bones and sinews and flesh, head and eye and ear and nose and mouth and hands and feet, and the whole is called by the name man, Reuben or Simeon. And on folios 25, 26 and 27 he wrote: \"The sum of the matter is that the First Cause, which is called Ein Sof by all the Kabbalists, is He who emanated, created, formed and made, and He is hidden within Ze'ir Anpin, and then Ze'ir Anpin is the one who rules over all creatures, leads them, feeds them and sustains them, by the power of Ein Sof within him. Therefore He is our God, and we are His people, for our souls are His portion, and Him we shall worship, and He is the God of our fathers, in whose hand is the conduct of the worlds, for reward and punishment. But Ein Sof, with the other partzufim above Ze'ir and his Nukva, if human beings order their prayers to them individually, without praying to Ze'ir Anpin, even if they direct their intention to the soul hidden in them, they will cry out and not be answered. And on the contrary, those who pray to them will be punished, for it is the will of the First Cause that He be the one who brings out and brings in His flow to the lower beings, and there is no other besides Him. See there carefully.\" And the words of the Rabbi, the author of Kisse Eliyahu, stand against the words of the Rambam, of blessed memory, in his commentary on the Mishnah, in his composition, and in Moreh Nevukhim, and against the words of the pious one, the author of Chovot ha-Levavot, in the Gate of Unity, and Rabbi Saadia Gaon in the book Emunot ve-De'ot, and the Roke'ach, who wrote that His oneness, may He be blessed, is not like the one of a pair, nor like the one of a species, nor like the one man who is divided into many ones. And not one like a simple body, etc., which receives division without end. But the Name, may He be blessed, is one with a oneness that has no like. Also, Kisse Eliyahu wrote that Ein Sof is the soul of Atik, and Arikh Anpin, and Abba and Imma, and Ze'ir and his Nukva, and my teachers, of blessed memory, the aforesaid, wrote that He is not a body, nor a force in a body! And according to his words He is a force in a body. Also he wrote that Arikh Anpin, Abba and Imma preceded Ze'ir Anpin who is our God (according to his words), and he is called a son of Abba and Imma, etc. And our Rabbis of blessed memory said that He is eternal before all that exists, and that every existent other than Him is not eternal, etc. Also he wrote concerning Ein Sof, blessed be He, that no worship pertains to Him, and no invocation at all. And no name applies to Him: not YHVH, nor Adonai, etc. but only to Ze'ir Anpin and his Nukva in the World of Emanation alone, and not to Arikh Anpin, Abba and Imma, and Ze'ir and his Nukva that are in the emanated worlds above the World of Emanation, as explained there, 4, 49, the end of side a, and on folio 53....",
+   "severity": "error",
+   "reason": "(1) 'oneness of a pair/kind' turns אחד into אחדות (the translator's own note keeps them apart); (2) לאין סוף after 'receives division' (Rambam's 'infinitely') is not the Kabbalists' Ein Sof; (3) הנקרא is a passive participle; (4) 'Thus' and 'and not' wrongly capitalised or lowercased; (5) תואר omitted; (6) 'of clods ... and of lime' adds 'of' (והסיד has no מ) and misses מ = 'from'; (7) 'Rabbi Kisse Eliyahu' reads the book title as a personal name (הר׳ = the Rabbi, the author); (8) 'intend the soul' is not English; (9) the quotation of Kisse Eliyahu runs on through 'וכן הענין אצלנו וכו׳' (the וכו׳ marks truncated quotation, אצלנו is the book's voice), so the closing mark moves after it; (10) the fixed form is Roke'ach."
+  },
+  {
+   "ref": "2:4",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:4.1",
+      "2:4.2",
+      "2:4.3"
+     ],
+     "english": "The questioner replied again.",
+     "literal": "again the-questioner replied"
+    },
+    {
+     "tokens": [
+      "2:4.4",
+      "2:4.5",
+      "2:4.6",
+      "2:4.7",
+      "2:4.8",
+      "2:4.9",
+      "2:4.10",
+      "2:4.11",
+      "2:4.12",
+      "2:4.13"
+     ],
+     "english": "Your reply, my friend, came closed and sealed, and in it there is nothing but an indication of a place:",
+     "literal": "your-reply my-friend came closed and-sealed and-there-is-not in-it but an-indication of-a-place"
+    },
+    {
+     "tokens": [
+      "2:4.14",
+      "2:4.15",
+      "2:4.16",
+      "2:4.17",
+      "2:4.18",
+      "2:4.19",
+      "2:4.20",
+      "2:4.21"
+     ],
+     "english": "\"to study in Kisse Eliyahu, from folio 13 to folio 18,",
+     "literal": "to-study in-Kisse Eliyahu from-folio 13 to folio 18"
+    },
+    {
+     "tokens": [
+      "2:4.22",
+      "2:4.23",
+      "2:4.24",
+      "2:4.25"
+     ],
+     "english": "'A wise man will hear and add to learning,'",
+     "literal": "will-hear a-wise-man and-will-add to-learning"
+    },
+    {
+     "tokens": [
+      "2:4.26",
+      "2:4.27",
+      "2:4.28",
+      "2:4.29",
+      "2:4.30",
+      "2:4.31"
+     ],
+     "english": "and what we have received is that worship is to God, one Lord,",
+     "literal": "and-what-is-received by-us that-worship to-God lord one"
+    },
+    {
+     "tokens": [
+      "2:4.32"
+     ],
+     "english": "etc.\"",
+     "literal": "etc."
+    },
+    {
+     "tokens": [
+      "2:4.33",
+      "2:4.34",
+      "2:4.35",
+      "2:4.36",
+      "2:4.37"
+     ],
+     "english": "I did not understand your opinion and your intention in this,",
+     "literal": "and-not I-understood your-opinion and-your-intention in-this"
+    },
+    {
+     "tokens": [
+      "2:4.38",
+      "2:4.39",
+      "2:4.40",
+      "2:4.41",
+      "2:4.42",
+      "2:4.43",
+      "2:4.44",
+      "2:4.45",
+      "2:4.46",
+      "2:4.47",
+      "2:4.48"
+     ],
+     "english": "whether this, what you have received, is in accordance with the words of Kisse Eliyahu or the opposite of his words.",
+     "literal": "whether this what-is-received by-you is in-accordance-with-the-words-of Kisse Eliyahu or the-opposite-of his-words"
+    },
+    {
+     "tokens": [
+      "2:4.49",
+      "2:4.50",
+      "2:4.51",
+      "2:4.52",
+      "2:4.53",
+      "2:4.54",
+      "2:4.55",
+      "2:4.56"
+     ],
+     "english": "For when I studied in Kisse Eliyahu the place you marked for me,",
+     "literal": "for when I-studied in-Kisse Eliyahu the-place you-marked for-me"
+    },
+    {
+     "tokens": [
+      "2:4.57",
+      "2:4.58",
+      "2:4.59",
+      "2:4.60"
+     ],
+     "english": "I did not find what I sought; on the contrary,",
+     "literal": "not I-found what-I-sought on-the-contrary"
+    },
+    {
+     "tokens": [
+      "2:4.61",
+      "2:4.62",
+      "2:4.63",
+      "2:4.64"
+     ],
+     "english": "there, on folio 3, he compares",
+     "literal": "there on-folio 3 he-compares"
+    },
+    {
+     "tokens": [
+      "2:4.65",
+      "2:4.66",
+      "2:4.67",
+      "2:4.68",
+      "2:4.69",
+      "2:4.70",
+      "2:4.71"
+     ],
+     "english": "the oneness of the Creator to the other kinds of oneness, where he wrote:",
+     "literal": "the-oneness of-the-Creator to-the-other kinds of-oneness where-there he-wrote"
+    },
+    {
+     "tokens": [
+      "2:4.72",
+      "2:4.73",
+      "2:4.74",
+      "2:4.75",
+      "2:4.76",
+      "2:4.77",
+      "2:4.78",
+      "2:4.79"
+     ],
+     "english": "\"Just as this house as a whole is called by the name one house.",
+     "literal": "just-as this the-house as-a-whole is-called by-the-name house one"
+    },
+    {
+     "tokens": [
+      "2:4.80",
+      "2:4.81",
+      "2:4.82",
+      "2:4.83",
+      "2:4.84",
+      "2:4.85",
+      "2:4.86",
+      "2:4.87",
+      "2:4.88",
+      "2:4.89",
+      "2:4.90",
+      "2:4.91"
+     ],
+     "english": "And if you enter it, you will find many rooms, large and small, and many other places.",
+     "literal": "and-if you-enter in-it you-will-find some and-some rooms large and-small and-some places other-than-them"
+    },
+    {
+     "tokens": [
+      "2:4.92",
+      "2:4.93",
+      "2:4.94",
+      "2:4.95",
+      "2:4.96",
+      "2:4.97",
+      "2:4.98",
+      "2:4.99"
+     ],
+     "english": "And each and every one of them ascribes to it a designation, one name.",
+     "literal": "and-each one and-one they-ascribe to-it a-designation name one"
+    },
+    {
+     "tokens": [
+      "2:4.100",
+      "2:4.101",
+      "2:4.102",
+      "2:4.103",
+      "2:4.104",
+      "2:4.105",
+      "2:4.106",
+      "2:4.107",
+      "2:4.108",
+      "2:4.109"
+     ],
+     "english": "Also, a wooden building that has several attributes within it has them.",
+     "literal": "also the-building of wood that-has within-it several attributes has in-it"
+    },
+    {
+     "tokens": [
+      "2:4.110",
+      "2:4.111",
+      "2:4.112",
+      "2:4.113",
+      "2:4.114",
+      "2:4.115",
+      "2:4.116",
+      "2:4.117",
+      "2:4.118"
+     ],
+     "english": "Also, you will find further that this holy wall, which was built, was in parts;",
+     "literal": "also you-will-find further that-this the-wall holy which-was-built was in-parts"
+    },
+    {
+     "tokens": [
+      "2:4.119",
+      "2:4.120",
+      "2:4.121",
+      "2:4.122",
+      "2:4.123",
+      "2:4.124",
+      "2:4.125",
+      "2:4.126",
+      "2:4.127",
+      "2:4.128",
+      "2:4.129"
+     ],
+     "english": "each and every stone was separate from the clods of earth, by itself, and the lime by itself, etc.",
+     "literal": "each stone and-stone it was-divided from-clods the-earth by-itself and-the-lime by-itself etc."
+    },
+    {
+     "tokens": [
+      "2:4.130",
+      "2:4.131",
+      "2:4.132",
+      "2:4.133",
+      "2:4.134",
+      "2:4.135",
+      "2:4.136",
+      "2:4.137"
+     ],
+     "english": "And after the builder came and joined all these parts with his wisdom,",
+     "literal": "and-after came the-builder and-joined all parts these with-his-wisdom"
+    },
+    {
+     "tokens": [
+      "2:4.138",
+      "2:4.139",
+      "2:4.140",
+      "2:4.141",
+      "2:4.142",
+      "2:4.143",
+      "2:4.144",
+      "2:4.145",
+      "2:4.146"
+     ],
+     "english": "this within that, and this beside that, and they became one wall,",
+     "literal": "this within that and-this beside that and-became a-wall one"
+    },
+    {
+     "tokens": [
+      "2:4.147"
+     ],
+     "english": "etc.,",
+     "literal": "etc."
+    },
+    {
+     "tokens": [
+      "2:4.148",
+      "2:4.149",
+      "2:4.150",
+      "2:4.151",
+      "2:4.152",
+      "2:4.153",
+      "2:4.154"
+     ],
+     "english": "thus, then, all is one piece and one part.",
+     "literal": "it-is-found then all a-piece one and-a-part one"
+    },
+    {
+     "tokens": [
+      "2:4.155",
+      "2:4.156",
+      "2:4.157",
+      "2:4.158"
+     ],
+     "english": "And so is the matter with us, etc.\"",
+     "literal": "and-so the-matter with-us etc."
+    },
+    {
+     "tokens": [
+      "2:4.159",
+      "2:4.160",
+      "2:4.161",
+      "2:4.162",
+      "2:4.163",
+      "2:4.164",
+      "2:4.165",
+      "2:4.166"
+     ],
+     "english": "And there, on folios 25 and 29, he compares it to the human body,",
+     "literal": "and-there on-folio 25 and-29 he-compares it to-the-body of-man"
+    },
+    {
+     "tokens": [
+      "2:4.167",
+      "2:4.168",
+      "2:4.169",
+      "2:4.170",
+      "2:4.171",
+      "2:4.172",
+      "2:4.173",
+      "2:4.174",
+      "2:4.175",
+      "2:4.176",
+      "2:4.177"
+     ],
+     "english": "joined of bones and sinews and flesh, head and eye and ear and nose and mouth and hands and feet,",
+     "literal": "joined of-bones and-sinews and-flesh and-head and-eye and-ear and-nose and-mouth and-hands and-feet"
+    },
+    {
+     "tokens": [
+      "2:4.178",
+      "2:4.179",
+      "2:4.180",
+      "2:4.181",
+      "2:4.182",
+      "2:4.183",
+      "2:4.184"
+     ],
+     "english": "and the whole is called by the name man, Reuben or Simeon.",
+     "literal": "and-all is-called by-the-name man Reuben or Simeon"
+    },
+    {
+     "tokens": [
+      "2:4.185",
+      "2:4.186",
+      "2:4.187",
+      "2:4.188",
+      "2:4.189"
+     ],
+     "english": "And on folios 25, 26 and 27 he wrote:",
+     "literal": "and-on-folio 25 and-26 and-27 he-wrote"
+    },
+    {
+     "tokens": [
+      "2:4.190",
+      "2:4.191",
+      "2:4.192",
+      "2:4.193",
+      "2:4.194",
+      "2:4.195",
+      "2:4.196",
+      "2:4.197",
+      "2:4.198",
+      "2:4.199",
+      "2:4.200"
+     ],
+     "english": "\"The sum of the matter is that the First Cause, which is called Ein Sof by all the Kabbalists,",
+     "literal": "the-sum that-emerges that the-cause the-first which-is-called by-the-mouth-of all the-Kabbalists Ein Sof"
+    },
+    {
+     "tokens": [
+      "2:4.201",
+      "2:4.202",
+      "2:4.203",
+      "2:4.204",
+      "2:4.205",
+      "2:4.206"
+     ],
+     "english": "is He who emanated, created, formed and made,",
+     "literal": "he who emanated and-created and-formed and-made"
+    },
+    {
+     "tokens": [
+      "2:4.207",
+      "2:4.208",
+      "2:4.209",
+      "2:4.210",
+      "2:4.211"
+     ],
+     "english": "and He is hidden within Ze'ir Anpin,",
+     "literal": "and-he is-hidden within Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "2:4.212",
+      "2:4.213",
+      "2:4.214",
+      "2:4.215",
+      "2:4.216"
+     ],
+     "english": "and then Ze'ir Anpin is the one who rules",
+     "literal": "and-then Ze'ir Anpin he who-rules"
+    },
+    {
+     "tokens": [
+      "2:4.217",
+      "2:4.218",
+      "2:4.219",
+      "2:4.220",
+      "2:4.221",
+      "2:4.222",
+      "2:4.223",
+      "2:4.224",
+      "2:4.225",
+      "2:4.226"
+     ],
+     "english": "over all creatures, leads them, feeds them and sustains them, by the power of Ein Sof within him.",
+     "literal": "over all creatures and-leads-them and-feeds-them and-sustains-them by-the-power Ein Sof within-him"
+    },
+    {
+     "tokens": [
+      "2:4.227",
+      "2:4.228",
+      "2:4.229",
+      "2:4.230",
+      "2:4.231"
+     ],
+     "english": "Therefore He is our God, and we are His people,",
+     "literal": "therefore He our-God and-we his-people"
+    },
+    {
+     "tokens": [
+      "2:4.232",
+      "2:4.233",
+      "2:4.234",
+      "2:4.235",
+      "2:4.236",
+      "2:4.237"
+     ],
+     "english": "for our souls are His portion, and Him we shall worship,",
+     "literal": "for our-souls they His-portion and-Him we-shall-worship"
+    },
+    {
+     "tokens": [
+      "2:4.238",
+      "2:4.239",
+      "2:4.240",
+      "2:4.241",
+      "2:4.242",
+      "2:4.243"
+     ],
+     "english": "and He is the God of our fathers, in whose hand is the conduct of the worlds,",
+     "literal": "and-he God-of our-fathers in-whose-hand the-conduct the-worlds"
+    },
+    {
+     "tokens": [
+      "2:4.244",
+      "2:4.245"
+     ],
+     "english": "for reward and punishment.",
+     "literal": "for-reward and-punishment"
+    },
+    {
+     "tokens": [
+      "2:4.246",
+      "2:4.247",
+      "2:4.248",
+      "2:4.249",
+      "2:4.250",
+      "2:4.251",
+      "2:4.252",
+      "2:4.253",
+      "2:4.254"
+     ],
+     "english": "But Ein Sof, with the other partzufim above Ze'ir and his Nukva,",
+     "literal": "but the-Ein Sof with the-rest the-partzufim that-are-above Ze'ir and-his-Nukva"
+    },
+    {
+     "tokens": [
+      "2:4.255",
+      "2:4.256",
+      "2:4.257",
+      "2:4.258",
+      "2:4.259",
+      "2:4.260",
+      "2:4.261",
+      "2:4.262"
+     ],
+     "english": "if human beings order their prayers to them individually, without",
+     "literal": "if they-arrange human beings their-prayer to-them individually without"
+    },
+    {
+     "tokens": [
+      "2:4.263",
+      "2:4.264",
+      "2:4.265"
+     ],
+     "english": "praying to Ze'ir Anpin,",
+     "literal": "praying to-Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "2:4.266",
+      "2:4.267",
+      "2:4.268",
+      "2:4.269",
+      "2:4.270",
+      "2:4.271",
+      "2:4.272",
+      "2:4.273",
+      "2:4.274",
+      "2:4.275"
+     ],
+     "english": "even if they direct their intention to the soul hidden in them, they will cry out and not be answered.",
+     "literal": "even if they-intend to-the-soul hidden in-them they-will-be crying-out and-not answered"
+    },
+    {
+     "tokens": [
+      "2:4.276",
+      "2:4.277",
+      "2:4.278",
+      "2:4.279",
+      "2:4.280"
+     ],
+     "english": "And on the contrary, those who pray to them will be punished,",
+     "literal": "and-on-the-contrary will-be those-who-pray to-them punished"
+    },
+    {
+     "tokens": [
+      "2:4.281",
+      "2:4.282",
+      "2:4.283",
+      "2:4.284",
+      "2:4.285",
+      "2:4.286",
+      "2:4.287",
+      "2:4.288",
+      "2:4.289",
+      "2:4.290",
+      "2:4.291"
+     ],
+     "english": "for it is the will of the First Cause that He be the one who brings out and brings in His flow to the lower beings,",
+     "literal": "for this-is the-will of-the-cause the-first that he the-one-who-brings-out and-brings-in His-flow to-the-lower-beings"
+    },
+    {
+     "tokens": [
+      "2:4.292",
+      "2:4.293",
+      "2:4.294"
+     ],
+     "english": "and there is no other besides Him.",
+     "literal": "and-there-is-not other besides-Him"
+    },
+    {
+     "tokens": [
+      "2:4.295",
+      "2:4.296"
+     ],
+     "english": "See there carefully.\"",
+     "literal": "see-there carefully"
+    },
+    {
+     "tokens": [
+      "2:4.297",
+      "2:4.298",
+      "2:4.299",
+      "2:4.300",
+      "2:4.301",
+      "2:4.302"
+     ],
+     "english": "And the words of the Rabbi, the author of Kisse Eliyahu, stand against",
+     "literal": "and-the-words-of the-Rabbi Kisse Eliyahu stand against"
+    },
+    {
+     "tokens": [
+      "2:4.303",
+      "2:4.304",
+      "2:4.305",
+      "2:4.306",
+      "2:4.307",
+      "2:4.308",
+      "2:4.309",
+      "2:4.310"
+     ],
+     "english": "the words of the Rambam, of blessed memory, in his commentary on the Mishnah, in his composition, and in Moreh Nevukhim,",
+     "literal": "the-words-of the-Rambam of-blessed-memory in-his-commentary on-the-Mishnah and-in-his-composition and-in-Moreh Nevukhim"
+    },
+    {
+     "tokens": [
+      "2:4.311",
+      "2:4.312",
+      "2:4.313",
+      "2:4.314",
+      "2:4.315",
+      "2:4.316",
+      "2:4.317",
+      "2:4.318"
+     ],
+     "english": "and against the words of the pious one, the author of Chovot ha-Levavot, in the Gate of Unity,",
+     "literal": "and-against the-words-of the-pious-one the-author-of Chovot ha-Levavot in-the-gate-of Unity"
+    },
+    {
+     "tokens": [
+      "2:4.319",
+      "2:4.320",
+      "2:4.321",
+      "2:4.322",
+      "2:4.323"
+     ],
+     "english": "and Rabbi Saadia Gaon in the book Emunot ve-De'ot, and the Roke'ach,",
+     "literal": "and-Rabbi-Saadia-Gaon in-the-book Emunot and-De'ot and-the-Roke'ach"
+    },
+    {
+     "tokens": [
+      "2:4.324",
+      "2:4.325",
+      "2:4.326",
+      "2:4.327",
+      "2:4.328",
+      "2:4.329"
+     ],
+     "english": "who wrote that His oneness, may He be blessed, is not like the one of a pair,",
+     "literal": "who-wrote that-His-oneness may-He-be-blessed is-not like-the-one-of the-pair"
+    },
+    {
+     "tokens": [
+      "2:4.330",
+      "2:4.331",
+      "2:4.332",
+      "2:4.333",
+      "2:4.334",
+      "2:4.335",
+      "2:4.336",
+      "2:4.337",
+      "2:4.338"
+     ],
+     "english": "nor like the one of a species, nor like the one man who is divided into many ones.",
+     "literal": "nor like-the-one-of the-species nor like-the-man the-one who-is-divided into-ones many"
+    },
+    {
+     "tokens": [
+      "2:4.339",
+      "2:4.340",
+      "2:4.341",
+      "2:4.342",
+      "2:4.343",
+      "2:4.344",
+      "2:4.345",
+      "2:4.346",
+      "2:4.347",
+      "2:4.348"
+     ],
+     "english": "And not one like a simple body, etc., which receives division without end.",
+     "literal": "and-not one like the-body simple etc. which-receives the-division to-without-end"
+    },
+    {
+     "tokens": [
+      "2:4.349",
+      "2:4.350",
+      "2:4.351",
+      "2:4.352",
+      "2:4.353",
+      "2:4.354",
+      "2:4.355"
+     ],
+     "english": "But the Name, may He be blessed, is one with a oneness that has no like.",
+     "literal": "but the-Name,-may-He-be-blessed He one with-an-oneness that-has-no like-it"
+    },
+    {
+     "tokens": [
+      "2:4.356",
+      "2:4.357",
+      "2:4.358",
+      "2:4.359",
+      "2:4.360",
+      "2:4.361"
+     ],
+     "english": "Also, Kisse Eliyahu wrote that Ein Sof",
+     "literal": "also wrote Kisse Eliyahu that-the-Ein Sof"
+    },
+    {
+     "tokens": [
+      "2:4.362",
+      "2:4.363",
+      "2:4.364",
+      "2:4.365",
+      "2:4.366",
+      "2:4.367",
+      "2:4.368"
+     ],
+     "english": "is the soul of Atik, and Arikh Anpin, and Abba and Imma,",
+     "literal": "is the-soul-of Atik and-Arikh Anpin and-Abba and-Imma"
+    },
+    {
+     "tokens": [
+      "2:4.369",
+      "2:4.370"
+     ],
+     "english": "and Ze'ir and his Nukva,",
+     "literal": "and-Ze'ir and-his-Nukva"
+    },
+    {
+     "tokens": [
+      "2:4.371",
+      "2:4.372",
+      "2:4.373",
+      "2:4.374"
+     ],
+     "english": "and my teachers, of blessed memory, the aforesaid, wrote",
+     "literal": "and-my-teachers of-blessed-memory the-aforesaid wrote"
+    },
+    {
+     "tokens": [
+      "2:4.375",
+      "2:4.376",
+      "2:4.377",
+      "2:4.378",
+      "2:4.379"
+     ],
+     "english": "that He is not a body, nor a force in a body!",
+     "literal": "that-He-is-not a-body nor a-force in-a-body"
+    },
+    {
+     "tokens": [
+      "2:4.380",
+      "2:4.381",
+      "2:4.382",
+      "2:4.383",
+      "2:4.384"
+     ],
+     "english": "And according to his words He is a force in a body.",
+     "literal": "and-according-to his-words He a-force in-a-body"
+    },
+    {
+     "tokens": [
+      "2:4.385",
+      "2:4.386",
+      "2:4.387",
+      "2:4.388",
+      "2:4.389",
+      "2:4.390",
+      "2:4.391",
+      "2:4.392",
+      "2:4.393"
+     ],
+     "english": "Also he wrote that Arikh Anpin, Abba and Imma preceded Ze'ir Anpin",
+     "literal": "also he-wrote that-Arikh Anpin Abba and-Imma preceded Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "2:4.394",
+      "2:4.395",
+      "2:4.396",
+      "2:4.397"
+     ],
+     "english": "who is our God (according to his words),",
+     "literal": "who is-our-God according-to his-words"
+    },
+    {
+     "tokens": [
+      "2:4.398",
+      "2:4.399",
+      "2:4.400",
+      "2:4.401",
+      "2:4.402",
+      "2:4.403"
+     ],
+     "english": "and he is called a son of Abba and Imma, etc.",
+     "literal": "and-he is-called son of-Abba and-Imma etc."
+    },
+    {
+     "tokens": [
+      "2:4.404",
+      "2:4.405",
+      "2:4.406"
+     ],
+     "english": "And our Rabbis of blessed memory said that He",
+     "literal": "and-our-Rabbis-of-blessed-memory said that-He"
+    },
+    {
+     "tokens": [
+      "2:4.407",
+      "2:4.408",
+      "2:4.409",
+      "2:4.410",
+      "2:4.411",
+      "2:4.412",
+      "2:4.413",
+      "2:4.414",
+      "2:4.415"
+     ],
+     "english": "is eternal before all that exists, and that every existent other than Him is not eternal, etc.",
+     "literal": "eternal before-all the-existents and-that-every existent other-than-Him not eternal etc."
+    },
+    {
+     "tokens": [
+      "2:4.416",
+      "2:4.417",
+      "2:4.418",
+      "2:4.419",
+      "2:4.420"
+     ],
+     "english": "Also he wrote concerning Ein Sof, blessed be He,",
+     "literal": "also he-wrote concerning-Ein Sof blessed-be-He"
+    },
+    {
+     "tokens": [
+      "2:4.421",
+      "2:4.422",
+      "2:4.423",
+      "2:4.424",
+      "2:4.425",
+      "2:4.426",
+      "2:4.427",
+      "2:4.428",
+      "2:4.429"
+     ],
+     "english": "that no worship pertains to Him, and no invocation at all.",
+     "literal": "not pertains any worship to-Him and-not any calling at-all"
+    },
+    {
+     "tokens": [
+      "2:4.430",
+      "2:4.431",
+      "2:4.432",
+      "2:4.433",
+      "2:4.434",
+      "2:4.435",
+      "2:4.436"
+     ],
+     "english": "And no name applies to Him: not YHVH,",
+     "literal": "and-not applies to-Him any name not YHVH"
+    },
+    {
+     "tokens": [
+      "2:4.437",
+      "2:4.438",
+      "2:4.439"
+     ],
+     "english": "nor Adonai, etc.",
+     "literal": "nor Adonai etc."
+    },
+    {
+     "tokens": [
+      "2:4.440",
+      "2:4.441",
+      "2:4.442",
+      "2:4.443",
+      "2:4.444",
+      "2:4.445"
+     ],
+     "english": "but only to Ze'ir Anpin and his Nukva in the World of Emanation alone,",
+     "literal": "but-only to-Ze'ir-Anpin and-his-Nukva in-the-world of-Emanation alone"
+    },
+    {
+     "tokens": [
+      "2:4.446",
+      "2:4.447",
+      "2:4.448",
+      "2:4.449",
+      "2:4.450",
+      "2:4.451"
+     ],
+     "english": "and not to Arikh Anpin, Abba and Imma, and Ze'ir and his Nukva",
+     "literal": "and-not to-Arikh-Anpin and-Abba and-Imma and-Ze'ir and-his-Nukva"
+    },
+    {
+     "tokens": [
+      "2:4.452",
+      "2:4.453",
+      "2:4.454",
+      "2:4.455",
+      "2:4.456",
+      "2:4.457",
+      "2:4.458"
+     ],
+     "english": "that are in the emanated worlds above the World of Emanation, as explained",
+     "literal": "that-are in-the-worlds the-emanated above the-world-of Emanation as-explained"
+    },
+    {
+     "tokens": [
+      "2:4.459",
+      "2:4.460",
+      "2:4.461",
+      "2:4.462",
+      "2:4.463",
+      "2:4.464",
+      "2:4.465",
+      "2:4.466"
+     ],
+     "english": "there, 4, 49, the end of side a, and on folio 53....",
+     "literal": "there 4 49 end-of side a and-on-folio 53"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrases follow the corrected English and literal lines."
+  },
+  {
+   "ref": "2:4",
+   "path": "literal",
+   "value": "again the-questioner replied your-reply my-friend came closed and-sealed and-there-is-not in-it but an-indication of-a-place to-study in-Kisse Eliyahu from-folio 13 to folio 18 will-hear a-wise-man and-will-add to-learning and-what-is-received by-us that-worship to-God lord one etc. and-not I-understood your-opinion and-your-intention in-this whether this what-is-received by-you is in-accordance-with-the-words-of Kisse Eliyahu or the-opposite-of his-words for when I-studied in-Kisse Eliyahu the-place you-marked for-me not I-found what-I-sought on-the-contrary there on-folio 3 he-compares the-oneness of-the-Creator to-the-other kinds of-oneness where-there he-wrote just-as this the-house as-a-whole is-called by-the-name house one and-if you-enter in-it you-will-find some and-some rooms large and-small and-some places other-than-them and-each one and-one they-ascribe to-it a-designation name one also the-building of wood that-has within-it several attributes has in-it also you-will-find further that-this the-wall holy which-was-built was in-parts each stone and-stone it was-divided from-clods the-earth by-itself and-the-lime by-itself etc. and-after came the-builder and-joined all parts these with-his-wisdom this within that and-this beside that and-became a-wall one etc. it-is-found then all a-piece one and-a-part one and-so the-matter with-us etc. and-there on-folio 25 and-29 he-compares it to-the-body of-man joined of-bones and-sinews and-flesh and-head and-eye and-ear and-nose and-mouth and-hands and-feet and-all is-called by-the-name man Reuben or Simeon and-on-folio 25 and-26 and-27 he-wrote the-sum that-emerges that the-cause the-first which-is-called by-the-mouth-of all the-Kabbalists Ein Sof he who emanated and-created and-formed and-made and-he is-hidden within Ze'ir Anpin and-then Ze'ir Anpin he who-rules over all creatures and-leads-them and-feeds-them and-sustains-them by-the-power Ein Sof within-him therefore He our-God and-we his-people for our-souls they His-portion and-Him we-shall-worship and-he God-of our-fathers in-whose-hand the-conduct the-worlds for-reward and-punishment but the-Ein Sof with the-rest the-partzufim that-are-above Ze'ir and-his-Nukva if they-arrange human beings their-prayer to-them individually without praying to-Ze'ir Anpin even if they-intend to-the-soul hidden in-them they-will-be crying-out and-not answered and-on-the-contrary will-be those-who-pray to-them punished for this-is the-will of-the-cause the-first that he the-one-who-brings-out and-brings-in His-flow to-the-lower-beings and-there-is-not other besides-Him see-there carefully and-the-words-of the-Rabbi Kisse Eliyahu stand against the-words-of the-Rambam of-blessed-memory in-his-commentary on-the-Mishnah and-in-his-composition and-in-Moreh Nevukhim and-against the-words-of the-pious-one the-author-of Chovot ha-Levavot in-the-gate-of Unity and-Rabbi-Saadia-Gaon in-the-book Emunot and-De'ot and-the-Roke'ach who-wrote that-His-oneness may-He-be-blessed is-not like-the-one-of the-pair nor like-the-one-of the-species nor like-the-man the-one who-is-divided into-ones many and-not one like the-body simple etc. which-receives the-division to-without-end but the-Name,-may-He-be-blessed He one with-an-oneness that-has-no like-it also wrote Kisse Eliyahu that-the-Ein Sof is the-soul-of Atik and-Arikh Anpin and-Abba and-Imma and-Ze'ir and-his-Nukva and-my-teachers of-blessed-memory the-aforesaid wrote that-He-is-not a-body nor a-force in-a-body and-according-to his-words He a-force in-a-body also he-wrote that-Arikh Anpin Abba and-Imma preceded Ze'ir Anpin who is-our-God according-to his-words and-he is-called son of-Abba and-Imma etc. and-our-Rabbis-of-blessed-memory said that-He eternal before-all the-existents and-that-every existent other-than-Him not eternal etc. also he-wrote concerning-Ein Sof blessed-be-He not pertains any worship to-Him and-not any calling at-all and-not applies to-Him any name not YHVH nor Adonai etc. but-only to-Ze'ir-Anpin and-his-Nukva in-the-world of-Emanation alone and-not to-Arikh-Anpin and-Abba and-Imma and-Ze'ir and-his-Nukva that-are in-the-worlds the-emanated above the-world-of Emanation as-explained there 4 49 end-of side a and-on-folio 53",
+   "severity": "style",
+   "reason": "Follows the corrected English."
+  },
+  {
+   "ref": "2:4",
+   "path": "apparatus",
+   "value": [
+    "Prov 1:5 (2:4.22–25): 'ישמע חכם ויוסף לקח', rendered as the verse's future.",
+    "Deut 4:35 and 4:39 (2:4.292–294): 'ואין עוד מלבדו'.",
+    "שם (2:4.61) is read as 'there', the place in the book; the other sense, 'the name', does not fit the sentence.",
+    "The author writes ארוך (2:4.365) and שאריך (2:4.387) for Arikh; both are rendered Arikh Anpin.",
+    "ד׳ (2:4.460) is read as 4, the folio; the numeral is kept because the author writes דף in full nearby.",
+    "Deut 6:13: 'ואתו תעבד', 'and Him you shall worship', is echoed in ואותו נעבוד (2:4.236-237), with the verb in the first person plural."
+   ],
+   "severity": "error",
+   "reason": "The allusion to Deut 6:13 (a verse the decisions fix) is not listed."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.97.gloss",
+   "value": "a designation",
+   "severity": "error",
+   "reason": "תואר is 'designation, title'; 'name-attribute' is not English and the word was dropped from the English line."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.124.gloss",
+   "value": "from clods",
+   "severity": "style",
+   "reason": "מ- is 'from'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.127.gloss",
+   "value": "and the lime",
+   "severity": "error",
+   "reason": "והסיד carries no מ; 'of' was added."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.199.gloss",
+   "value": "Ein",
+   "severity": "style",
+   "reason": "Fixed term: Ein Sof, not 'without end', as the English line and 2:2.46 have it."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.200.gloss",
+   "value": "Sof",
+   "severity": "style",
+   "reason": "As above."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.268.gloss",
+   "value": "they direct their intention",
+   "severity": "style",
+   "reason": "Follows the English line (כוון ל- = direct one's intention to)."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.298.gloss",
+   "value": "the Rabbi, the author of",
+   "severity": "error",
+   "reason": "הר׳ = the Rabbi; the title precedes the book's name and the author of the book is meant."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.323.gloss",
+   "value": "and the Roke'ach",
+   "severity": "style",
+   "reason": "Fixed form in the decisions."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.328.gloss",
+   "value": "like the one of",
+   "severity": "style",
+   "reason": "אחד, not אחדות."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.329.gloss",
+   "value": "a pair",
+   "severity": "style",
+   "reason": "Follows the English line."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.331.gloss",
+   "value": "like the one of",
+   "severity": "style",
+   "reason": "אחד, not אחדות."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.332.gloss",
+   "value": "a species",
+   "severity": "style",
+   "reason": "Follows the English line."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.347.gloss",
+   "value": "without",
+   "severity": "error",
+   "reason": "לאין סוף is the adverbial 'without end', not the Kabbalistic Ein Sof."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.348.gloss",
+   "value": "end",
+   "severity": "error",
+   "reason": "As above."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.295.note",
+   "value": "ע״ש: עיין שם, 'see there' (not על שם, 'on account of').",
+   "severity": "style",
+   "reason": "Decisions: name the expansion of ע״ש in the token note."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.308.note",
+   "value": "ובחבור: 'and in his composition'; החבור is the usual name of the Rambam's Mishneh Torah (the text does not name it).",
+   "severity": "style",
+   "reason": "Decisions: say in a note who or what is meant; 'the text does not name the work' leaves the learner without the identification."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.364.note",
+   "value": "עתיק: Atik, literally 'ancient'; a partzuf.",
+   "severity": "style",
+   "reason": "Decisions: literal sense of the partzuf names in a note at first occurrence."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.367.note",
+   "value": "אבא: Abba, literally 'father'; a partzuf.",
+   "severity": "style",
+   "reason": "As above (first occurrence of Abba in the unit)."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.368.note",
+   "value": "אימא: Imma, literally 'mother'; a partzuf.",
+   "severity": "style",
+   "reason": "As above (first occurrence of Imma in the unit)."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.298.note",
+   "value": "הר׳ = הרב, 'the Rabbi'; the title stands before the book's name and means its author, as the Rabbi Etz Yosef at 2:9 and at 4:19 (cf. 'Kisse Eliyahu wrote' below).",
+   "severity": "question",
+   "reason": "Decisions are silent on הר׳ + a book title. Proposed ruling: 'the Rabbi, the author of [title]', with this note."
+  }
+ ],
+ "verdicts": []
+}

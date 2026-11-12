@@ -1,0 +1,2506 @@
+{
+ "unit": "perek-4-10",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "4:16",
+   "english": "And also about Rabbi Akiva, who was the teacher of Rabbi Shimon bar Yochai, he too was the greatest of the four who entered the Pardes, and reached the place of stones of pure marble, and entered in peace and came out in peace. It is strange why he included the disciples of the wise, who are flesh and blood, and equated their reverence with the reverence of Heaven. And Rabbi also established it in the Mishnah, tractate Avot, chapter 4, in the name of R. A., he should have included the wife of Ze'ir Anpin, who is the LORD our God, according to their words? Or rather he should have included the fathers of Ze'ir Anpin, who are Abba and Imma?",
+   "literal": "and also about Rabbi Akiva who was the teacher of Rabbi Shimon bar Yochai and also he the greatest of the four who entered into the Pardes and reached the place of stones of marble pure and entered in peace and came out in peace it is strange why he multiplied the disciples of the wise who are flesh and blood and equated their reverence with the reverence of Heaven and Rabbi also established it in the Mishnah tractate Avot chapter 4 in the name of R. A. he should have for him to multiply his wife of Ze'ir Anpin who is the LORD our God according to their words or rather he should have for him to multiply the fathers of Ze'ir Anpin who are Abba and Imma",
+   "tokens": [
+    {
+     "id": "4:16.1",
+     "gloss": "and also"
+    },
+    {
+     "id": "4:16.2",
+     "gloss": "about"
+    },
+    {
+     "id": "4:16.3",
+     "gloss": "Rabbi"
+    },
+    {
+     "id": "4:16.4",
+     "gloss": "Akiva"
+    },
+    {
+     "id": "4:16.5",
+     "gloss": "who was"
+    },
+    {
+     "id": "4:16.6",
+     "gloss": "the teacher"
+    },
+    {
+     "id": "4:16.7",
+     "gloss": "of"
+    },
+    {
+     "id": "4:16.8",
+     "gloss": "Rabbi Shimon bar Yochai"
+    },
+    {
+     "id": "4:16.9",
+     "gloss": "and also"
+    },
+    {
+     "id": "4:16.10",
+     "gloss": "he"
+    },
+    {
+     "id": "4:16.11",
+     "gloss": "the greatest"
+    },
+    {
+     "id": "4:16.12",
+     "gloss": "of the four"
+    },
+    {
+     "id": "4:16.13",
+     "gloss": "who entered"
+    },
+    {
+     "id": "4:16.14",
+     "gloss": "into the Pardes",
+     "note": "Pardes, literally 'orchard': the Talmudic story of four who entered it. Of the four, the author names only Akiva here."
+    },
+    {
+     "id": "4:16.15",
+     "gloss": "and reached"
+    },
+    {
+     "id": "4:16.16",
+     "gloss": "the place of"
+    },
+    {
+     "id": "4:16.17",
+     "gloss": "stones"
+    },
+    {
+     "id": "4:16.18",
+     "gloss": "of marble"
+    },
+    {
+     "id": "4:16.19",
+     "gloss": "pure"
+    },
+    {
+     "id": "4:16.20",
+     "gloss": "and entered"
+    },
+    {
+     "id": "4:16.21",
+     "gloss": "in peace"
+    },
+    {
+     "id": "4:16.22",
+     "gloss": "and came out"
+    },
+    {
+     "id": "4:16.23",
+     "gloss": "in peace"
+    },
+    {
+     "id": "4:16.24",
+     "gloss": "it is strange"
+    },
+    {
+     "id": "4:16.25",
+     "gloss": "why"
+    },
+    {
+     "id": "4:16.26",
+     "gloss": "included",
+     "note": "ריבה (and לרבות at 4:16.48 and 4:16.62) is the exegetical term for extending a verse to include something it does not name; literally 'increased'. The subject is Rabbi Akiva: ייפלא על ר' עקיבה ... למה ריבה."
+    },
+    {
+     "id": "4:16.27",
+     "gloss": "the disciples of"
+    },
+    {
+     "id": "4:16.28",
+     "gloss": "the wise"
+    },
+    {
+     "id": "4:16.29",
+     "gloss": "who are"
+    },
+    {
+     "id": "4:16.30",
+     "gloss": "flesh"
+    },
+    {
+     "id": "4:16.31",
+     "gloss": "and blood"
+    },
+    {
+     "id": "4:16.32",
+     "gloss": "and equated"
+    },
+    {
+     "id": "4:16.33",
+     "gloss": "their reverence",
+     "note": "מורא: 'fear' or 'awe'. Rendered 'reverence' here and in למורא שמים. A ruling is needed whether the word is 'fear' (as Deut 6:13 is 'The LORD your God you shall fear', the verse behind this comparison) or 'reverence'."
+    },
+    {
+     "id": "4:16.34",
+     "gloss": "with the reverence of"
+    },
+    {
+     "id": "4:16.35",
+     "gloss": "Heaven"
+    },
+    {
+     "id": "4:16.36",
+     "gloss": "and Rabbi",
+     "note": "ורבי' is written with an apostrophe, so it is an abbreviation, probably of ורבינו ('and our Rabbi'). Read here as the bare title of the Mishnah's redactor, Rabbi Yehudah ha-Nasi. The expansion is not settled."
+    },
+    {
+     "id": "4:16.37",
+     "gloss": "also"
+    },
+    {
+     "id": "4:16.38",
+     "gloss": "established it"
+    },
+    {
+     "id": "4:16.39",
+     "gloss": "in the Mishnah"
+    },
+    {
+     "id": "4:16.40",
+     "gloss": "tractate"
+    },
+    {
+     "id": "4:16.41",
+     "gloss": "Avot"
+    },
+    {
+     "id": "4:16.42",
+     "gloss": "chapter"
+    },
+    {
+     "id": "4:16.43",
+     "gloss": "4"
+    },
+    {
+     "id": "4:16.44",
+     "gloss": "in the name of"
+    },
+    {
+     "id": "4:16.45",
+     "gloss": "R. A.",
+     "note": "ר\"א is written without a name, and the paragraph does not say whom it means, so it stays 'R. A.' and is not expanded."
+    },
+    {
+     "id": "4:16.46",
+     "gloss": "he should have",
+     "note": "היה לו לרבות: literally 'it was for him to multiply', an idiom for 'he should have'."
+    },
+    {
+     "id": "4:16.47",
+     "gloss": "for him"
+    },
+    {
+     "id": "4:16.48",
+     "gloss": "to include"
+    },
+    {
+     "id": "4:16.49",
+     "gloss": "his wife"
+    },
+    {
+     "id": "4:16.50",
+     "gloss": "of"
+    },
+    {
+     "id": "4:16.51",
+     "gloss": "Ze'ir",
+     "note": "Ze'ir Anpin: Aramaic 'small face'. Alone, 'Ze'ir' is the name."
+    },
+    {
+     "id": "4:16.52",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:16.53",
+     "gloss": "who is"
+    },
+    {
+     "id": "4:16.54",
+     "gloss": "the LORD",
+     "note": "The Tetragrammaton as a name: the author gives the Kabbalists' identification of Ze'ir Anpin with 'the LORD our God' (לפי דבריהם)."
+    },
+    {
+     "id": "4:16.55",
+     "gloss": "our God"
+    },
+    {
+     "id": "4:16.56",
+     "gloss": "according to"
+    },
+    {
+     "id": "4:16.57",
+     "gloss": "their words"
+    },
+    {
+     "id": "4:16.58",
+     "gloss": "or"
+    },
+    {
+     "id": "4:16.59",
+     "gloss": "rather"
+    },
+    {
+     "id": "4:16.60",
+     "gloss": "he should have"
+    },
+    {
+     "id": "4:16.61",
+     "gloss": "for him"
+    },
+    {
+     "id": "4:16.62",
+     "gloss": "to include"
+    },
+    {
+     "id": "4:16.63",
+     "gloss": "the fathers"
+    },
+    {
+     "id": "4:16.64",
+     "gloss": "of"
+    },
+    {
+     "id": "4:16.65",
+     "gloss": "Ze'ir"
+    },
+    {
+     "id": "4:16.66",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:16.67",
+     "gloss": "who are"
+    },
+    {
+     "id": "4:16.68",
+     "gloss": "Abba",
+     "note": "Abba: 'Father'; Imma: 'Mother'. In the Kabbalistic scheme they are partzufim, the parents of Ze'ir Anpin."
+    },
+    {
+     "id": "4:16.69",
+     "gloss": "and Imma"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:16.1",
+      "4:16.2",
+      "4:16.3",
+      "4:16.4",
+      "4:16.5",
+      "4:16.6",
+      "4:16.7",
+      "4:16.8"
+     ],
+     "english": "And also about Rabbi Akiva, who was the teacher of Rabbi Shimon bar Yochai,",
+     "literal": "and also about Rabbi Akiva who was the teacher of Rabbi Shimon bar Yochai"
+    },
+    {
+     "tokens": [
+      "4:16.9",
+      "4:16.10",
+      "4:16.11",
+      "4:16.12",
+      "4:16.13",
+      "4:16.14"
+     ],
+     "english": "he too was the greatest of the four who entered the Pardes,",
+     "literal": "and also he the greatest of the four who entered into the Pardes"
+    },
+    {
+     "tokens": [
+      "4:16.15",
+      "4:16.16",
+      "4:16.17",
+      "4:16.18",
+      "4:16.19"
+     ],
+     "english": "and reached the place of stones of pure marble,",
+     "literal": "and reached the place of stones of marble pure"
+    },
+    {
+     "tokens": [
+      "4:16.20",
+      "4:16.21",
+      "4:16.22",
+      "4:16.23"
+     ],
+     "english": "and entered in peace and came out in peace.",
+     "literal": "and entered in peace and came out in peace"
+    },
+    {
+     "tokens": [
+      "4:16.24",
+      "4:16.25",
+      "4:16.26"
+     ],
+     "english": "It is strange why he included",
+     "literal": "it is strange why he multiplied"
+    },
+    {
+     "tokens": [
+      "4:16.27",
+      "4:16.28",
+      "4:16.29",
+      "4:16.30",
+      "4:16.31"
+     ],
+     "english": "the disciples of the wise, who are flesh and blood,",
+     "literal": "the disciples of the wise who are flesh and blood"
+    },
+    {
+     "tokens": [
+      "4:16.32",
+      "4:16.33",
+      "4:16.34",
+      "4:16.35"
+     ],
+     "english": "and equated their reverence with the reverence of Heaven.",
+     "literal": "and equated their reverence with the reverence of Heaven"
+    },
+    {
+     "tokens": [
+      "4:16.36",
+      "4:16.37",
+      "4:16.38",
+      "4:16.39",
+      "4:16.40",
+      "4:16.41",
+      "4:16.42",
+      "4:16.43"
+     ],
+     "english": "And Rabbi also established it in the Mishnah, tractate Avot, chapter 4,",
+     "literal": "and Rabbi also established it in the Mishnah tractate Avot chapter 4"
+    },
+    {
+     "tokens": [
+      "4:16.44",
+      "4:16.45"
+     ],
+     "english": "in the name of R. A.,",
+     "literal": "in the name of R. A."
+    },
+    {
+     "tokens": [
+      "4:16.46",
+      "4:16.47",
+      "4:16.48",
+      "4:16.49",
+      "4:16.50",
+      "4:16.51",
+      "4:16.52"
+     ],
+     "english": "he should have included the wife of Ze'ir Anpin,",
+     "literal": "he should have for him to multiply his wife of Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:16.53",
+      "4:16.54",
+      "4:16.55",
+      "4:16.56",
+      "4:16.57"
+     ],
+     "english": "who is the LORD our God, according to their words?",
+     "literal": "who is the LORD our God according to their words"
+    },
+    {
+     "tokens": [
+      "4:16.58",
+      "4:16.59",
+      "4:16.60",
+      "4:16.61",
+      "4:16.62",
+      "4:16.63",
+      "4:16.64",
+      "4:16.65",
+      "4:16.66",
+      "4:16.67",
+      "4:16.68",
+      "4:16.69"
+     ],
+     "english": "Or rather he should have included the fathers of Ze'ir Anpin, who are Abba and Imma?",
+     "literal": "or rather he should have for him to multiply the fathers of Ze'ir Anpin who are Abba and Imma"
+    }
+   ],
+   "grammar": [
+    "The question is introduced by ייפלא ('it is strange') and למה ('why'). Its subject is Rabbi Akiva, the subject of the long clause before it: ייפלא על ר' עקיבה ... למה ריבה.",
+    "קבעה (4:16.38): 'established it', the object is the saying the author has just described, which he does not restate.",
+    "The two questions are the author's own. The second is offered as the alternative to the first, with או יותר ('or rather').",
+    "The author's Hebrew has no verb of quotation here; the saying is cited as Mishnah, and the question is his.",
+    "ריבה and לרבות (4:16.26, 4:16.48, 4:16.62) are the exegetical term for extending a verse to include something it does not name; the English says 'included'."
+   ],
+   "note": "Ze'ir Anpin and the Tetragrammaton: the author uses the LORD's name for the partzuf, as the Kabbalists do.",
+   "commentary": [],
+   "context": [
+    "Pardes (literally 'orchard') is the Talmudic story of four sages who entered it. The author refers to it without retelling it."
+   ]
+  },
+  {
+   "ref": "4:17",
+   "english": "§29. And in Sefer ha-Berit, part 1, Treatise 20, chapter 15, the author of Mishnat Chasidim wrote in the book Yosher Levav: \"that the name 'the Holy One, blessed be He', which is customary in our mouths, and that by the name YHVH we call Him, is the partzuf of Ze'ir Anpin, which is the Holy One, blessed be He, whose soul, hidden in him through the agency of the partzufim inside him, is the First Cause itself, and it we worship in his worship. The general result is that the First Cause, which all the Kabbalists call Ein Sof, is He who created everything out of nothing, and He encompasses that whole existent from without, and in its choicest part, and it is the choicest of the fathers, called Ze'ir Anpin, hidden, chamber within chamber, as a soul in the body, and gives it life. Therefore this choicest part, which is Ze'ir Anpin, who rules over all the creatures, directs them, sustains them, and provides for them, and He is our God, and we are His people, for our souls are His portion, and He, He is the One praised in all the praises said in our holy Torah, which He bequeathed to us, and through it He revealed all the hidden things to us.\" Thus far his words. And further he went on at length with proofs from the Zohar, and from Tikkunei Zohar, that worship is due to Ze'ir Anpin, who is the middle that connects everything. And further he wrote in the name of the Ari in Likkutei Tanakh on the verse \"Trust in the LORD forever and ever, for in Yah, the LORD, is an everlasting rock.\" And these are his words: \"It follows that when a person intends toward Ze'ir Anpin alone, it suffices, for there are found Arikh Anpin, Abba and Imma, clothed one within the other, within Ze'ir Anpin.\" Thus far his words.",
+   "literal": "§29 and-in Sefer ha-Berit part 1 Treatise 20 chapter 15 wrote the author of Mishnat Chasidim in the book Yosher Levav that the name the Holy One, blessed be He customary in our mouths and-that-by the name YHVH we call him is the partzuf of Ze'ir Anpin which is the Holy One, blessed be He whose soul hidden in him through the agency of the partzufim inside him is the First Cause first itself and to it we worship in his worship the general result is that the cause first which is called by the mouth of all the Kabbalists Ein Sof is who created everything being out of nothing and He encompasses - the existent that whole from without and in the choicest of it and it-is the choicest one of the fathers called Ze'ir Anpin hidden chamber inward from chamber as a soul in the body and gives it life therefore the-choicest-part this and-it-is Ze'ir Anpin who rules over all the creatures directs them sustains them provides for them and He is our God and we are His people for our souls are His portion and He He the praised one in all the praises that are said in our Torah holy which bequeathed to us and through it all the hidden things revealed to us Thus far his words. and further went-on-at-length with proofs from the Zohar and the Tikkunei Zohar that worship to Ze'ir Anpin who is the middle that connects - everything and further wrote in the name of the Ari in Likkutei Tanakh on the verse trust in the LORD for ever and ever for in Yah the LORD is a rock everlasting and these are his words: it follows when one intends (the person) toward Ze'ir Anpin alone it suffices for there are found Arikh Anpin and Abba and Imma clothed one within the other within Ze'ir Anpin Thus far his words.",
+   "tokens": [
+    {
+     "id": "4:17.1",
+     "gloss": "§29"
+    },
+    {
+     "id": "4:17.2",
+     "gloss": "and in"
+    },
+    {
+     "id": "4:17.3",
+     "gloss": "Sefer ha-Berit",
+     "note": "Sefer ha-Berit: 'the Book of the Covenant'."
+    },
+    {
+     "id": "4:17.4",
+     "gloss": "part"
+    },
+    {
+     "id": "4:17.5",
+     "gloss": "1"
+    },
+    {
+     "id": "4:17.6",
+     "gloss": "treatise"
+    },
+    {
+     "id": "4:17.7",
+     "gloss": "20"
+    },
+    {
+     "id": "4:17.8",
+     "gloss": "chapter"
+    },
+    {
+     "id": "4:17.9",
+     "gloss": "15"
+    },
+    {
+     "id": "4:17.10",
+     "gloss": "wrote"
+    },
+    {
+     "id": "4:17.11",
+     "gloss": "the author of"
+    },
+    {
+     "id": "4:17.12",
+     "gloss": "Mishnat",
+     "note": "Mishnat Chasidim: 'the teaching of the pious'. The author of the book is named only by the title."
+    },
+    {
+     "id": "4:17.13",
+     "gloss": "Chasidim"
+    },
+    {
+     "id": "4:17.14",
+     "gloss": "in the book"
+    },
+    {
+     "id": "4:17.15",
+     "gloss": "Yosher",
+     "note": "Yosher Levav: literally 'uprightness of heart'."
+    },
+    {
+     "id": "4:17.16",
+     "gloss": "Levav"
+    },
+    {
+     "id": "4:17.17",
+     "gloss": "that"
+    },
+    {
+     "id": "4:17.18",
+     "gloss": "the name"
+    },
+    {
+     "id": "4:17.19",
+     "gloss": "the Holy One, blessed be He"
+    },
+    {
+     "id": "4:17.20",
+     "gloss": "customary"
+    },
+    {
+     "id": "4:17.21",
+     "gloss": "in our mouths"
+    },
+    {
+     "id": "4:17.22",
+     "gloss": "and that by the name"
+    },
+    {
+     "id": "4:17.23",
+     "gloss": "YHVH"
+    },
+    {
+     "id": "4:17.24",
+     "gloss": "we"
+    },
+    {
+     "id": "4:17.25",
+     "gloss": "call"
+    },
+    {
+     "id": "4:17.26",
+     "gloss": "Him"
+    },
+    {
+     "id": "4:17.27",
+     "gloss": "is"
+    },
+    {
+     "id": "4:17.28",
+     "gloss": "the partzuf",
+     "note": "partzuf: a Kabbalistic entity, the word for 'face'. Transliterated as the Kabbalists' term."
+    },
+    {
+     "id": "4:17.29",
+     "gloss": "of Ze'ir"
+    },
+    {
+     "id": "4:17.30",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.31",
+     "gloss": "which is"
+    },
+    {
+     "id": "4:17.32",
+     "gloss": "the Holy One, blessed be He"
+    },
+    {
+     "id": "4:17.33",
+     "gloss": "whose soul"
+    },
+    {
+     "id": "4:17.34",
+     "gloss": "hidden"
+    },
+    {
+     "id": "4:17.35",
+     "gloss": "in him"
+    },
+    {
+     "id": "4:17.36",
+     "gloss": "through"
+    },
+    {
+     "id": "4:17.37",
+     "gloss": "the agency of"
+    },
+    {
+     "id": "4:17.38",
+     "gloss": "the partzufim"
+    },
+    {
+     "id": "4:17.39",
+     "gloss": "inside"
+    },
+    {
+     "id": "4:17.40",
+     "gloss": "him"
+    },
+    {
+     "id": "4:17.41",
+     "gloss": "is"
+    },
+    {
+     "id": "4:17.42",
+     "gloss": "the First Cause"
+    },
+    {
+     "id": "4:17.43",
+     "gloss": "first"
+    },
+    {
+     "id": "4:17.44",
+     "gloss": "itself"
+    },
+    {
+     "id": "4:17.45",
+     "gloss": "and it"
+    },
+    {
+     "id": "4:17.46",
+     "gloss": "we"
+    },
+    {
+     "id": "4:17.47",
+     "gloss": "worship"
+    },
+    {
+     "id": "4:17.48",
+     "gloss": "in his worship"
+    },
+    {
+     "id": "4:17.49",
+     "gloss": "the general result"
+    },
+    {
+     "id": "4:17.50",
+     "gloss": "is"
+    },
+    {
+     "id": "4:17.51",
+     "gloss": "that"
+    },
+    {
+     "id": "4:17.52",
+     "gloss": "the cause"
+    },
+    {
+     "id": "4:17.53",
+     "gloss": "first"
+    },
+    {
+     "id": "4:17.54",
+     "gloss": "which is called"
+    },
+    {
+     "id": "4:17.55",
+     "gloss": "by the mouth of"
+    },
+    {
+     "id": "4:17.56",
+     "gloss": "all"
+    },
+    {
+     "id": "4:17.57",
+     "gloss": "the Kabbalists"
+    },
+    {
+     "id": "4:17.58",
+     "gloss": "Ein",
+     "note": "Ein Sof: literally 'without end'."
+    },
+    {
+     "id": "4:17.59",
+     "gloss": "Sof"
+    },
+    {
+     "id": "4:17.60",
+     "gloss": "is"
+    },
+    {
+     "id": "4:17.61",
+     "gloss": "who"
+    },
+    {
+     "id": "4:17.62",
+     "gloss": "created"
+    },
+    {
+     "id": "4:17.63",
+     "gloss": "everything"
+    },
+    {
+     "id": "4:17.64",
+     "gloss": "being"
+    },
+    {
+     "id": "4:17.65",
+     "gloss": "out of nothing"
+    },
+    {
+     "id": "4:17.66",
+     "gloss": "and He"
+    },
+    {
+     "id": "4:17.67",
+     "gloss": "encompasses"
+    },
+    {
+     "id": "4:17.68",
+     "gloss": "-"
+    },
+    {
+     "id": "4:17.69",
+     "gloss": "the existent"
+    },
+    {
+     "id": "4:17.70",
+     "gloss": "that"
+    },
+    {
+     "id": "4:17.71",
+     "gloss": "whole"
+    },
+    {
+     "id": "4:17.72",
+     "gloss": "from without"
+    },
+    {
+     "id": "4:17.73",
+     "gloss": "and in the choicest"
+    },
+    {
+     "id": "4:17.74",
+     "gloss": "of it"
+    },
+    {
+     "id": "4:17.75",
+     "gloss": "and it is"
+    },
+    {
+     "id": "4:17.76",
+     "gloss": "the choicest one"
+    },
+    {
+     "id": "4:17.77",
+     "gloss": "of the fathers",
+     "note": "אבות: literally 'fathers', also the word for 'the patriarchs'. Here an epithet of Ze'ir Anpin (the choicest of the avot). Kept as 'fathers', the same word as 4:16.63 (אבותיו); the ruling on 'fathers' or 'patriarchs' is open."
+    },
+    {
+     "id": "4:17.78",
+     "gloss": "called"
+    },
+    {
+     "id": "4:17.79",
+     "gloss": "Ze'ir"
+    },
+    {
+     "id": "4:17.80",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.81",
+     "gloss": "hidden"
+    },
+    {
+     "id": "4:17.82",
+     "gloss": "chamber"
+    },
+    {
+     "id": "4:17.83",
+     "gloss": "inward"
+    },
+    {
+     "id": "4:17.84",
+     "gloss": "from chamber"
+    },
+    {
+     "id": "4:17.85",
+     "gloss": "as a soul"
+    },
+    {
+     "id": "4:17.86",
+     "gloss": "in"
+    },
+    {
+     "id": "4:17.87",
+     "gloss": "the body"
+    },
+    {
+     "id": "4:17.88",
+     "gloss": "and gives it life"
+    },
+    {
+     "id": "4:17.89",
+     "gloss": "therefore"
+    },
+    {
+     "id": "4:17.90",
+     "gloss": "the choicest part"
+    },
+    {
+     "id": "4:17.91",
+     "gloss": "this"
+    },
+    {
+     "id": "4:17.92",
+     "gloss": "which is"
+    },
+    {
+     "id": "4:17.93",
+     "gloss": "Ze'ir"
+    },
+    {
+     "id": "4:17.94",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.95",
+     "gloss": "who rules"
+    },
+    {
+     "id": "4:17.96",
+     "gloss": "over"
+    },
+    {
+     "id": "4:17.97",
+     "gloss": "all"
+    },
+    {
+     "id": "4:17.98",
+     "gloss": "the creatures"
+    },
+    {
+     "id": "4:17.99",
+     "gloss": "directs them"
+    },
+    {
+     "id": "4:17.100",
+     "gloss": "sustains them"
+    },
+    {
+     "id": "4:17.101",
+     "gloss": "provides for them"
+    },
+    {
+     "id": "4:17.102",
+     "gloss": "and He"
+    },
+    {
+     "id": "4:17.103",
+     "gloss": "is our God"
+    },
+    {
+     "id": "4:17.104",
+     "gloss": "and we"
+    },
+    {
+     "id": "4:17.105",
+     "gloss": "are His people"
+    },
+    {
+     "id": "4:17.106",
+     "gloss": "for"
+    },
+    {
+     "id": "4:17.107",
+     "gloss": "our souls"
+    },
+    {
+     "id": "4:17.108",
+     "gloss": "are"
+    },
+    {
+     "id": "4:17.109",
+     "gloss": "His portion"
+    },
+    {
+     "id": "4:17.110",
+     "gloss": "and He"
+    },
+    {
+     "id": "4:17.111",
+     "gloss": "He"
+    },
+    {
+     "id": "4:17.112",
+     "gloss": "the praised one"
+    },
+    {
+     "id": "4:17.113",
+     "gloss": "in all"
+    },
+    {
+     "id": "4:17.114",
+     "gloss": "the praises"
+    },
+    {
+     "id": "4:17.115",
+     "gloss": "that are said"
+    },
+    {
+     "id": "4:17.116",
+     "gloss": "in our Torah"
+    },
+    {
+     "id": "4:17.117",
+     "gloss": "holy"
+    },
+    {
+     "id": "4:17.118",
+     "gloss": "which"
+    },
+    {
+     "id": "4:17.119",
+     "gloss": "bequeathed to us"
+    },
+    {
+     "id": "4:17.120",
+     "gloss": "and through"
+    },
+    {
+     "id": "4:17.121",
+     "gloss": "it"
+    },
+    {
+     "id": "4:17.122",
+     "gloss": "all"
+    },
+    {
+     "id": "4:17.123",
+     "gloss": "the hidden things"
+    },
+    {
+     "id": "4:17.124",
+     "gloss": "revealed"
+    },
+    {
+     "id": "4:17.125",
+     "gloss": "to us"
+    },
+    {
+     "id": "4:17.126",
+     "gloss": "Thus far his words."
+    },
+    {
+     "id": "4:17.127",
+     "gloss": "and further"
+    },
+    {
+     "id": "4:17.128",
+     "gloss": "went on at length"
+    },
+    {
+     "id": "4:17.129",
+     "gloss": "with proofs"
+    },
+    {
+     "id": "4:17.130",
+     "gloss": "from the Zohar"
+    },
+    {
+     "id": "4:17.131",
+     "gloss": "and the Tikkunei Zohar",
+     "note": "Tikkunei Zohar: 'the emendations of the Zohar'."
+    },
+    {
+     "id": "4:17.132",
+     "gloss": "that worship"
+    },
+    {
+     "id": "4:17.133",
+     "gloss": "to Ze'ir"
+    },
+    {
+     "id": "4:17.134",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.135",
+     "gloss": "who is"
+    },
+    {
+     "id": "4:17.136",
+     "gloss": "the middle"
+    },
+    {
+     "id": "4:17.137",
+     "gloss": "that connects"
+    },
+    {
+     "id": "4:17.138",
+     "gloss": "-"
+    },
+    {
+     "id": "4:17.139",
+     "gloss": "everything"
+    },
+    {
+     "id": "4:17.140",
+     "gloss": "and further"
+    },
+    {
+     "id": "4:17.141",
+     "gloss": "wrote"
+    },
+    {
+     "id": "4:17.142",
+     "gloss": "in the name of"
+    },
+    {
+     "id": "4:17.143",
+     "gloss": "the Ari"
+    },
+    {
+     "id": "4:17.144",
+     "gloss": "in Likkutei",
+     "note": "Likkutei: 'collections'; the title of the book the Ari's words are cited from."
+    },
+    {
+     "id": "4:17.145",
+     "gloss": "Tanakh"
+    },
+    {
+     "id": "4:17.146",
+     "gloss": "on"
+    },
+    {
+     "id": "4:17.147",
+     "gloss": "the verse"
+    },
+    {
+     "id": "4:17.148",
+     "gloss": "trust"
+    },
+    {
+     "id": "4:17.149",
+     "gloss": "in the LORD"
+    },
+    {
+     "id": "4:17.150",
+     "gloss": "for ever"
+    },
+    {
+     "id": "4:17.151",
+     "gloss": "and ever"
+    },
+    {
+     "id": "4:17.152",
+     "gloss": "for"
+    },
+    {
+     "id": "4:17.153",
+     "gloss": "in Yah"
+    },
+    {
+     "id": "4:17.154",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:17.155",
+     "gloss": "is a rock"
+    },
+    {
+     "id": "4:17.156",
+     "gloss": "everlasting"
+    },
+    {
+     "id": "4:17.157",
+     "gloss": "and these are his words:"
+    },
+    {
+     "id": "4:17.158",
+     "gloss": "it follows"
+    },
+    {
+     "id": "4:17.159",
+     "gloss": "when one intends"
+    },
+    {
+     "id": "4:17.160",
+     "gloss": "(the person)"
+    },
+    {
+     "id": "4:17.161",
+     "gloss": "toward Ze'ir"
+    },
+    {
+     "id": "4:17.162",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.163",
+     "gloss": "alone"
+    },
+    {
+     "id": "4:17.164",
+     "gloss": "it suffices"
+    },
+    {
+     "id": "4:17.165",
+     "gloss": "for"
+    },
+    {
+     "id": "4:17.166",
+     "gloss": "there"
+    },
+    {
+     "id": "4:17.167",
+     "gloss": "are found"
+    },
+    {
+     "id": "4:17.168",
+     "gloss": "Arikh",
+     "note": "Arikh Anpin: 'Long Face'."
+    },
+    {
+     "id": "4:17.169",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.170",
+     "gloss": "and Abba"
+    },
+    {
+     "id": "4:17.171",
+     "gloss": "and Imma"
+    },
+    {
+     "id": "4:17.172",
+     "gloss": "clothed"
+    },
+    {
+     "id": "4:17.173",
+     "gloss": "one"
+    },
+    {
+     "id": "4:17.174",
+     "gloss": "within"
+    },
+    {
+     "id": "4:17.175",
+     "gloss": "the other"
+    },
+    {
+     "id": "4:17.176",
+     "gloss": "within"
+    },
+    {
+     "id": "4:17.177",
+     "gloss": "Ze'ir"
+    },
+    {
+     "id": "4:17.178",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:17.179",
+     "gloss": "Thus far his words."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:17.1",
+      "4:17.2",
+      "4:17.3",
+      "4:17.4",
+      "4:17.5",
+      "4:17.6",
+      "4:17.7",
+      "4:17.8",
+      "4:17.9"
+     ],
+     "english": "§29. And in Sefer ha-Berit, part 1, Treatise 20, chapter 15,",
+     "literal": "§29 and in Sefer ha-Berit part 1 treatise 20 chapter 15"
+    },
+    {
+     "tokens": [
+      "4:17.10",
+      "4:17.11",
+      "4:17.12",
+      "4:17.13"
+     ],
+     "english": "the author of Mishnat Chasidim wrote",
+     "literal": "wrote the author of Mishnat Chasidim"
+    },
+    {
+     "tokens": [
+      "4:17.14",
+      "4:17.15",
+      "4:17.16"
+     ],
+     "english": "in the book Yosher Levav:",
+     "literal": "in the book Yosher Levav"
+    },
+    {
+     "tokens": [
+      "4:17.17",
+      "4:17.18",
+      "4:17.19",
+      "4:17.20",
+      "4:17.21"
+     ],
+     "english": "\"that the name 'the Holy One, blessed be He', which is customary in our mouths,",
+     "literal": "that the name the Holy One, blessed be He customary in our mouths"
+    },
+    {
+     "tokens": [
+      "4:17.22",
+      "4:17.23",
+      "4:17.24",
+      "4:17.25",
+      "4:17.26"
+     ],
+     "english": "and that by the name YHVH we call Him,",
+     "literal": "and that by the name YHVH we call him"
+    },
+    {
+     "tokens": [
+      "4:17.27",
+      "4:17.28",
+      "4:17.29",
+      "4:17.30",
+      "4:17.31"
+     ],
+     "english": "is the partzuf of Ze'ir Anpin, which is",
+     "literal": "is the partzuf of Ze'ir Anpin which is"
+    },
+    {
+     "tokens": [
+      "4:17.32",
+      "4:17.33",
+      "4:17.34",
+      "4:17.35"
+     ],
+     "english": "the Holy One, blessed be He, whose soul, hidden in him",
+     "literal": "the Holy One, blessed be He whose soul hidden in him"
+    },
+    {
+     "tokens": [
+      "4:17.36",
+      "4:17.37",
+      "4:17.38",
+      "4:17.39",
+      "4:17.40"
+     ],
+     "english": "through the agency of the partzufim inside him,",
+     "literal": "through the agency of the partzufim inside him"
+    },
+    {
+     "tokens": [
+      "4:17.41",
+      "4:17.42",
+      "4:17.43",
+      "4:17.44"
+     ],
+     "english": "is the First Cause itself,",
+     "literal": "is the First Cause first itself"
+    },
+    {
+     "tokens": [
+      "4:17.45",
+      "4:17.46",
+      "4:17.47",
+      "4:17.48"
+     ],
+     "english": "and it we worship in his worship.",
+     "literal": "and to it we worship in his worship"
+    },
+    {
+     "tokens": [
+      "4:17.49",
+      "4:17.50",
+      "4:17.51"
+     ],
+     "english": "The general result is that",
+     "literal": "the general result is that"
+    },
+    {
+     "tokens": [
+      "4:17.52",
+      "4:17.53",
+      "4:17.54",
+      "4:17.55",
+      "4:17.56",
+      "4:17.57",
+      "4:17.58",
+      "4:17.59"
+     ],
+     "english": "the First Cause, which all the Kabbalists call Ein Sof,",
+     "literal": "the cause first which is called by the mouth of all the Kabbalists Ein Sof"
+    },
+    {
+     "tokens": [
+      "4:17.60",
+      "4:17.61",
+      "4:17.62",
+      "4:17.63",
+      "4:17.64",
+      "4:17.65"
+     ],
+     "english": "is He who created everything out of nothing,",
+     "literal": "is who created everything being out of nothing"
+    },
+    {
+     "tokens": [
+      "4:17.66",
+      "4:17.67",
+      "4:17.68",
+      "4:17.69",
+      "4:17.70",
+      "4:17.71",
+      "4:17.72"
+     ],
+     "english": "and He encompasses that whole existent from without,",
+     "literal": "and He encompasses - the existent that whole from without"
+    },
+    {
+     "tokens": [
+      "4:17.73",
+      "4:17.74"
+     ],
+     "english": "and in its choicest part,",
+     "literal": "and in the choicest of it"
+    },
+    {
+     "tokens": [
+      "4:17.75",
+      "4:17.76",
+      "4:17.77",
+      "4:17.78"
+     ],
+     "english": "and it is the choicest of the fathers, called",
+     "literal": "and it is the choicest one of the fathers called"
+    },
+    {
+     "tokens": [
+      "4:17.79",
+      "4:17.80",
+      "4:17.81",
+      "4:17.82",
+      "4:17.83",
+      "4:17.84"
+     ],
+     "english": "Ze'ir Anpin, hidden, chamber within chamber,",
+     "literal": "Ze'ir Anpin hidden chamber inward from chamber"
+    },
+    {
+     "tokens": [
+      "4:17.85",
+      "4:17.86",
+      "4:17.87",
+      "4:17.88"
+     ],
+     "english": "as a soul in the body, and gives it life.",
+     "literal": "as a soul in the body and gives it life"
+    },
+    {
+     "tokens": [
+      "4:17.89",
+      "4:17.90",
+      "4:17.91"
+     ],
+     "english": "Therefore this choicest part",
+     "literal": "therefore the choicest part this"
+    },
+    {
+     "tokens": [
+      "4:17.92",
+      "4:17.93",
+      "4:17.94"
+     ],
+     "english": "which is Ze'ir Anpin,",
+     "literal": "and it is Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:17.95",
+      "4:17.96",
+      "4:17.97",
+      "4:17.98"
+     ],
+     "english": "who rules over all the creatures,",
+     "literal": "who rules over all the creatures"
+    },
+    {
+     "tokens": [
+      "4:17.99",
+      "4:17.100",
+      "4:17.101"
+     ],
+     "english": "directs them, sustains them, and provides for them,",
+     "literal": "directs them sustains them provides for them"
+    },
+    {
+     "tokens": [
+      "4:17.102",
+      "4:17.103",
+      "4:17.104",
+      "4:17.105"
+     ],
+     "english": "and He is our God, and we are His people,",
+     "literal": "and He is our God and we are His people"
+    },
+    {
+     "tokens": [
+      "4:17.106",
+      "4:17.107",
+      "4:17.108",
+      "4:17.109"
+     ],
+     "english": "for our souls are His portion,",
+     "literal": "for our souls are His portion"
+    },
+    {
+     "tokens": [
+      "4:17.110",
+      "4:17.111",
+      "4:17.112",
+      "4:17.113",
+      "4:17.114"
+     ],
+     "english": "and He, He is the One praised in all the praises",
+     "literal": "and He He the praised one in all the praises"
+    },
+    {
+     "tokens": [
+      "4:17.115",
+      "4:17.116",
+      "4:17.117",
+      "4:17.118",
+      "4:17.119"
+     ],
+     "english": "said in our holy Torah, which He bequeathed to us,",
+     "literal": "that are said in our Torah holy which bequeathed to us"
+    },
+    {
+     "tokens": [
+      "4:17.120",
+      "4:17.121",
+      "4:17.122",
+      "4:17.123",
+      "4:17.124",
+      "4:17.125"
+     ],
+     "english": "and through it He revealed all the hidden things to us.\"",
+     "literal": "and through it all the hidden things revealed to us"
+    },
+    {
+     "tokens": [
+      "4:17.126"
+     ],
+     "english": "Thus far his words.",
+     "literal": "Thus far his words."
+    },
+    {
+     "tokens": [
+      "4:17.127",
+      "4:17.128",
+      "4:17.129",
+      "4:17.130"
+     ],
+     "english": "And further he went on at length with proofs from the Zohar,",
+     "literal": "and further went on at length with proofs from the Zohar"
+    },
+    {
+     "tokens": [
+      "4:17.131",
+      "4:17.132",
+      "4:17.133",
+      "4:17.134"
+     ],
+     "english": "and from Tikkunei Zohar, that worship is due to Ze'ir Anpin,",
+     "literal": "and the Tikkunei Zohar that worship to Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:17.135",
+      "4:17.136",
+      "4:17.137",
+      "4:17.138",
+      "4:17.139"
+     ],
+     "english": "who is the middle that connects everything.",
+     "literal": "who is the middle that connects - everything"
+    },
+    {
+     "tokens": [
+      "4:17.140",
+      "4:17.141",
+      "4:17.142"
+     ],
+     "english": "And further he wrote in the name of",
+     "literal": "and further wrote in the name of"
+    },
+    {
+     "tokens": [
+      "4:17.143",
+      "4:17.144",
+      "4:17.145",
+      "4:17.146",
+      "4:17.147"
+     ],
+     "english": "the Ari in Likkutei Tanakh on the verse",
+     "literal": "the Ari in Likkutei Tanakh on the verse"
+    },
+    {
+     "tokens": [
+      "4:17.148",
+      "4:17.149",
+      "4:17.150",
+      "4:17.151"
+     ],
+     "english": "\"Trust in the LORD forever and ever,",
+     "literal": "trust in the LORD for ever and ever"
+    },
+    {
+     "tokens": [
+      "4:17.152",
+      "4:17.153",
+      "4:17.154",
+      "4:17.155",
+      "4:17.156"
+     ],
+     "english": "for in Yah, the LORD, is an everlasting rock.\"",
+     "literal": "for in Yah the LORD is a rock everlasting"
+    },
+    {
+     "tokens": [
+      "4:17.157"
+     ],
+     "english": "And these are his words:",
+     "literal": "and these are his words:"
+    },
+    {
+     "tokens": [
+      "4:17.158",
+      "4:17.159",
+      "4:17.160",
+      "4:17.161",
+      "4:17.162",
+      "4:17.163",
+      "4:17.164"
+     ],
+     "english": "\"It follows that when a person intends toward Ze'ir Anpin alone, it suffices,",
+     "literal": "it follows when one intends (the person) on Ze'ir Anpin alone it suffices"
+    },
+    {
+     "tokens": [
+      "4:17.165",
+      "4:17.166",
+      "4:17.167",
+      "4:17.168",
+      "4:17.169"
+     ],
+     "english": "for there are found Arikh Anpin,",
+     "literal": "for there are found Arikh Anpin"
+    },
+    {
+     "tokens": [
+      "4:17.170",
+      "4:17.171"
+     ],
+     "english": "Abba and Imma,",
+     "literal": "and Abba and Imma"
+    },
+    {
+     "tokens": [
+      "4:17.172",
+      "4:17.173",
+      "4:17.174",
+      "4:17.175",
+      "4:17.176",
+      "4:17.177",
+      "4:17.178"
+     ],
+     "english": "clothed one within the other, within Ze'ir Anpin.\"",
+     "literal": "clothed one within the other within Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:17.179"
+     ],
+     "english": "Thus far his words.",
+     "literal": "Thus far his words."
+    }
+   ],
+   "grammar": [
+    "The first quotation runs from כי (4:17.17) to עכ\"ל (4:17.126). It is introduced by כתב (4:17.10) and is in Hebrew.",
+    "ולה אנו עובדים בעבודתו (4:17.45-48): ולה ('to it') is feminine, because the cause is feminine; בעבודתו ('in his worship') is masculine, for the partzuf.",
+    "הכלל העולה כי (4:17.49-51), 'the general result is that', opens the author's summary of the quotation.",
+    "The Ari's quotation is introduced by וז\"ל (4:17.157), 'and these are his words'. It cites Isa 26:4 (4:17.148-156); ביה (4:17.153) is 'in Yah', the short form of the Name.",
+    "אין סוף (4:17.58-59) is a name in the Kabbalists' usage, literally 'without end'; the author's own argument is about whether it is the First Cause.",
+    "The Hebrew full stop after בפינו (4:17.21) does not end the clause: 'the name HKBH ... and that by the name YHVH we call him' is one compound subject of הוא פרצוף זעיר אנפין. Likewise והוא (4:17.75) refers back to the choicest part (מובחר), and והוא (4:17.92) takes it up again."
+   ],
+   "note": "The section label כט) (4:17.1) is the author's own number, written in Hebrew letters: 29.",
+   "commentary": [],
+   "apparatus": [
+    "Isa 26:4, quoted by the Ari (4:17.148-156): 'Trust in the LORD forever and ever, for in Yah, the LORD, is an everlasting rock.'"
+   ]
+  },
+  {
+   "ref": "4:18",
+   "english": "Also, in the book Etz Chayyim by Rabbi Chayyim Vital, Gate of the Generalities, chapter 11, he wrote that our teacher Moses said to Israel at their entering the land: \"But you who cleave to the LORD your God are alive, every one of you, today,\" for the LORD your God is Ze'ir Anpin and his Nukva, and Israel who entered the land were, etc. See there. Also in Sefer ha-Kavanot, in the customs of the Ari, he wrote that every time you utter the name YHVH, intend toward Ze'ir Anpin, and intend in it thus: Yod-Heh-Vav Ze'ir Anpin, and the last Heh of it is Malkhut (Kingship). Intend that a complete name be made on Adonai, in such a way, etc. See there. Likewise, in the book Machberet ha-Kodesh, in the order of the Musaf of Shabbat, 20, that the hosts of angels above will give a crown to Ze'ir Anpin, who is the LORD our God. See there, folio 40a. Also in Mikdash Melekh, 4, 12, beginning with the words 'the Great God', it is explained that He is called 'the Great God' only in Ze'ir Anpin, and in Chokhmah (Wisdom) He is called wise, etc. And whoever intends toward Ein Sof, because of His exaltedness that He has no name, and no point that would limit Him, his prayer is not a prayer, rather he should intend toward Him while He is clothed in His attributes, etc. And see below, §100, in the name of Nachalat Yosef.",
+   "literal": "also in the book Etz Chayyim by Rabbi Chayyim Vital Gate of the Generalities chapter 11 wrote that Moses our teacher said to Israel at their entering the land but you who cleave to the LORD your God are alive every one of you today for the LORD your God is Ze'ir Anpin and his Nukva (the female) and Israel who entered the land were etc. see there also in-Sefer ha-Kavanot in the customs of the Ari wrote that every time you utter from your mouth the name YHVH intend toward Ze'ir Anpin and intend in it thus Yod-Heh-Vav Ze'ir Anpin and the Heh last of it is Malkhut (Kingship) intend that-be-made name complete on Adonai in such a way etc. see there likewise in the book Machberet ha-Kodesh in the order of the Musaf of Shabbat 20 that angels the hosts of above will give a crown to Ze'ir Anpin who is the LORD our God see there folio 40 a also Mikdash Melekh 4 12 beginning-with-the-words the-God the-great is-explained that-not is-called the-God the-great except in Ze'ir Anpin and in Chokhmah (Wisdom) he is called wise etc. and whoever intends toward Ein Sof because of His exaltedness that there is not to Him a name and not a point that would limit Him is not his prayer a prayer rather should intend toward Him while He is clothed in His attributes etc. and see below section 100 in the name of Nachalat Yosef",
+   "tokens": [
+    {
+     "id": "4:18.1",
+     "gloss": "also"
+    },
+    {
+     "id": "4:18.2",
+     "gloss": "in the book"
+    },
+    {
+     "id": "4:18.3",
+     "gloss": "Etz",
+     "note": "Etz Chayyim: 'Tree of Life'."
+    },
+    {
+     "id": "4:18.4",
+     "gloss": "Chayyim"
+    },
+    {
+     "id": "4:18.5",
+     "gloss": "by Rabbi Chayyim Vital"
+    },
+    {
+     "id": "4:18.6",
+     "gloss": "Gate"
+    },
+    {
+     "id": "4:18.7",
+     "gloss": "of the Generalities"
+    },
+    {
+     "id": "4:18.8",
+     "gloss": "chapter"
+    },
+    {
+     "id": "4:18.9",
+     "gloss": "11"
+    },
+    {
+     "id": "4:18.10",
+     "gloss": "wrote"
+    },
+    {
+     "id": "4:18.11",
+     "gloss": "that Moses"
+    },
+    {
+     "id": "4:18.12",
+     "gloss": "our teacher"
+    },
+    {
+     "id": "4:18.13",
+     "gloss": "said"
+    },
+    {
+     "id": "4:18.14",
+     "gloss": "to Israel"
+    },
+    {
+     "id": "4:18.15",
+     "gloss": "at their entering"
+    },
+    {
+     "id": "4:18.16",
+     "gloss": "the land"
+    },
+    {
+     "id": "4:18.17",
+     "gloss": "but you"
+    },
+    {
+     "id": "4:18.18",
+     "gloss": "who cleave"
+    },
+    {
+     "id": "4:18.19",
+     "gloss": "to the LORD"
+    },
+    {
+     "id": "4:18.20",
+     "gloss": "your God"
+    },
+    {
+     "id": "4:18.21",
+     "gloss": "are alive"
+    },
+    {
+     "id": "4:18.22",
+     "gloss": "every one of you"
+    },
+    {
+     "id": "4:18.23",
+     "gloss": "today"
+    },
+    {
+     "id": "4:18.24",
+     "gloss": "for"
+    },
+    {
+     "id": "4:18.25",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:18.26",
+     "gloss": "your God"
+    },
+    {
+     "id": "4:18.27",
+     "gloss": "is"
+    },
+    {
+     "id": "4:18.28",
+     "gloss": "Ze'ir"
+    },
+    {
+     "id": "4:18.29",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:18.30",
+     "gloss": "and his Nukva (the female)",
+     "note": "Nukva: 'female', the feminine partner of Ze'ir Anpin (Aramaic ונוקביה)."
+    },
+    {
+     "id": "4:18.31",
+     "gloss": "and Israel"
+    },
+    {
+     "id": "4:18.32",
+     "gloss": "who entered"
+    },
+    {
+     "id": "4:18.33",
+     "gloss": "the land"
+    },
+    {
+     "id": "4:18.34",
+     "gloss": "were"
+    },
+    {
+     "id": "4:18.35",
+     "gloss": "etc."
+    },
+    {
+     "id": "4:18.36",
+     "gloss": "see there"
+    },
+    {
+     "id": "4:18.37",
+     "gloss": "also"
+    },
+    {
+     "id": "4:18.38",
+     "gloss": "in Sefer"
+    },
+    {
+     "id": "4:18.39",
+     "gloss": "ha-Kavanot",
+     "note": "Sefer ha-Kavanot: 'the Book of Intentions'. Kavanot are the intentions of the mind in prayer and in the Name."
+    },
+    {
+     "id": "4:18.40",
+     "gloss": "in the customs of"
+    },
+    {
+     "id": "4:18.41",
+     "gloss": "the Ari"
+    },
+    {
+     "id": "4:18.42",
+     "gloss": "wrote"
+    },
+    {
+     "id": "4:18.43",
+     "gloss": "that"
+    },
+    {
+     "id": "4:18.44",
+     "gloss": "every"
+    },
+    {
+     "id": "4:18.45",
+     "gloss": "time"
+    },
+    {
+     "id": "4:18.46",
+     "gloss": "you utter"
+    },
+    {
+     "id": "4:18.47",
+     "gloss": "from your mouth"
+    },
+    {
+     "id": "4:18.48",
+     "gloss": "the name"
+    },
+    {
+     "id": "4:18.49",
+     "gloss": "YHVH"
+    },
+    {
+     "id": "4:18.50",
+     "gloss": "intend"
+    },
+    {
+     "id": "4:18.51",
+     "gloss": "toward Ze'ir"
+    },
+    {
+     "id": "4:18.52",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:18.53",
+     "gloss": "and intend"
+    },
+    {
+     "id": "4:18.54",
+     "gloss": "in it"
+    },
+    {
+     "id": "4:18.55",
+     "gloss": "thus"
+    },
+    {
+     "id": "4:18.56",
+     "gloss": "Yod-Heh-Vav",
+     "note": "Yod, Heh, Vav: the letters of the Name spelled out."
+    },
+    {
+     "id": "4:18.57",
+     "gloss": "Ze'ir"
+    },
+    {
+     "id": "4:18.58",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:18.59",
+     "gloss": "and the Heh",
+     "note": "The last Heh: the letter ה of the Name, as the author takes it."
+    },
+    {
+     "id": "4:18.60",
+     "gloss": "last"
+    },
+    {
+     "id": "4:18.61",
+     "gloss": "of it"
+    },
+    {
+     "id": "4:18.62",
+     "gloss": "is"
+    },
+    {
+     "id": "4:18.63",
+     "gloss": "Malkhut (Kingship)",
+     "note": "Malkhut (Kingship): the tenth sefirah."
+    },
+    {
+     "id": "4:18.64",
+     "gloss": "intend"
+    },
+    {
+     "id": "4:18.65",
+     "gloss": "that be made"
+    },
+    {
+     "id": "4:18.66",
+     "gloss": "a name"
+    },
+    {
+     "id": "4:18.67",
+     "gloss": "complete"
+    },
+    {
+     "id": "4:18.68",
+     "gloss": "on"
+    },
+    {
+     "id": "4:18.69",
+     "gloss": "Adonai",
+     "note": "אדני read as the Name Adonai (the name of Malkhut). The same letters can be read as the plural of אדן, 'bases' or 'sockets'; see apparatus."
+    },
+    {
+     "id": "4:18.70",
+     "gloss": "in such a way"
+    },
+    {
+     "id": "4:18.71",
+     "gloss": "etc."
+    },
+    {
+     "id": "4:18.72",
+     "gloss": "see there"
+    },
+    {
+     "id": "4:18.73",
+     "gloss": "likewise"
+    },
+    {
+     "id": "4:18.74",
+     "gloss": "in the book"
+    },
+    {
+     "id": "4:18.75",
+     "gloss": "Machberet",
+     "note": "Machberet: 'composition'; the title means 'the holy composition'."
+    },
+    {
+     "id": "4:18.76",
+     "gloss": "ha-Kodesh"
+    },
+    {
+     "id": "4:18.77",
+     "gloss": "in the order of"
+    },
+    {
+     "id": "4:18.78",
+     "gloss": "the Musaf"
+    },
+    {
+     "id": "4:18.79",
+     "gloss": "of Shabbat"
+    },
+    {
+     "id": "4:18.80",
+     "gloss": "20"
+    },
+    {
+     "id": "4:18.81",
+     "gloss": "that"
+    },
+    {
+     "id": "4:18.82",
+     "gloss": "angels"
+    },
+    {
+     "id": "4:18.83",
+     "gloss": "the hosts of"
+    },
+    {
+     "id": "4:18.84",
+     "gloss": "above"
+    },
+    {
+     "id": "4:18.85",
+     "gloss": "will give"
+    },
+    {
+     "id": "4:18.86",
+     "gloss": "a crown"
+    },
+    {
+     "id": "4:18.87",
+     "gloss": "to Ze'ir"
+    },
+    {
+     "id": "4:18.88",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:18.89",
+     "gloss": "who is"
+    },
+    {
+     "id": "4:18.90",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:18.91",
+     "gloss": "our God"
+    },
+    {
+     "id": "4:18.92",
+     "gloss": "see"
+    },
+    {
+     "id": "4:18.93",
+     "gloss": "there"
+    },
+    {
+     "id": "4:18.94",
+     "gloss": "folio"
+    },
+    {
+     "id": "4:18.95",
+     "gloss": "40"
+    },
+    {
+     "id": "4:18.96",
+     "gloss": "a"
+    },
+    {
+     "id": "4:18.97",
+     "gloss": "also"
+    },
+    {
+     "id": "4:18.98",
+     "gloss": "Mikdash",
+     "note": "Mikdash Melekh: 'the sanctuary of a king'."
+    },
+    {
+     "id": "4:18.99",
+     "gloss": "Melekh"
+    },
+    {
+     "id": "4:18.100",
+     "gloss": "4",
+     "note": "ד' is read as the number 4. It may instead abbreviate דף, 'folio'. The reference is kept as the author writes it, not completed or converted."
+    },
+    {
+     "id": "4:18.101",
+     "gloss": "12"
+    },
+    {
+     "id": "4:18.102",
+     "gloss": "beginning with the words"
+    },
+    {
+     "id": "4:18.103",
+     "gloss": "the God",
+     "note": "Elaha Rabba: Aramaic for 'the Great God'. The next word, rabba, is 'great'."
+    },
+    {
+     "id": "4:18.104",
+     "gloss": "the great"
+    },
+    {
+     "id": "4:18.105",
+     "gloss": "is explained"
+    },
+    {
+     "id": "4:18.106",
+     "gloss": "that not"
+    },
+    {
+     "id": "4:18.107",
+     "gloss": "is called"
+    },
+    {
+     "id": "4:18.108",
+     "gloss": "the God"
+    },
+    {
+     "id": "4:18.109",
+     "gloss": "the great"
+    },
+    {
+     "id": "4:18.110",
+     "gloss": "only"
+    },
+    {
+     "id": "4:18.111",
+     "gloss": "in Ze'ir"
+    },
+    {
+     "id": "4:18.112",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "4:18.113",
+     "gloss": "and in Chokhmah (Wisdom)",
+     "note": "Chokhmah: the second sefirah, Wisdom."
+    },
+    {
+     "id": "4:18.114",
+     "gloss": "he is called"
+    },
+    {
+     "id": "4:18.115",
+     "gloss": "wise"
+    },
+    {
+     "id": "4:18.116",
+     "gloss": "etc."
+    },
+    {
+     "id": "4:18.117",
+     "gloss": "and whoever intends"
+    },
+    {
+     "id": "4:18.118",
+     "gloss": "toward Ein"
+    },
+    {
+     "id": "4:18.119",
+     "gloss": "Sof"
+    },
+    {
+     "id": "4:18.120",
+     "gloss": "because of"
+    },
+    {
+     "id": "4:18.121",
+     "gloss": "His exaltedness"
+    },
+    {
+     "id": "4:18.122",
+     "gloss": "that there is not"
+    },
+    {
+     "id": "4:18.123",
+     "gloss": "to Him"
+    },
+    {
+     "id": "4:18.124",
+     "gloss": "a name"
+    },
+    {
+     "id": "4:18.125",
+     "gloss": "and not"
+    },
+    {
+     "id": "4:18.126",
+     "gloss": "a point"
+    },
+    {
+     "id": "4:18.127",
+     "gloss": "that would limit Him"
+    },
+    {
+     "id": "4:18.128",
+     "gloss": "is not"
+    },
+    {
+     "id": "4:18.129",
+     "gloss": "his prayer"
+    },
+    {
+     "id": "4:18.130",
+     "gloss": "a prayer"
+    },
+    {
+     "id": "4:18.131",
+     "gloss": "rather"
+    },
+    {
+     "id": "4:18.132",
+     "gloss": "should intend"
+    },
+    {
+     "id": "4:18.133",
+     "gloss": "toward Him"
+    },
+    {
+     "id": "4:18.134",
+     "gloss": "while He is"
+    },
+    {
+     "id": "4:18.135",
+     "gloss": "clothed"
+    },
+    {
+     "id": "4:18.136",
+     "gloss": "in His attributes"
+    },
+    {
+     "id": "4:18.137",
+     "gloss": "etc."
+    },
+    {
+     "id": "4:18.138",
+     "gloss": "and see"
+    },
+    {
+     "id": "4:18.139",
+     "gloss": "below"
+    },
+    {
+     "id": "4:18.140",
+     "gloss": "section"
+    },
+    {
+     "id": "4:18.141",
+     "gloss": "100"
+    },
+    {
+     "id": "4:18.142",
+     "gloss": "in the name of"
+    },
+    {
+     "id": "4:18.143",
+     "gloss": "Nachalat",
+     "note": "Nachalat Yosef: 'the inheritance of Yosef'."
+    },
+    {
+     "id": "4:18.144",
+     "gloss": "Yosef"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:18.1",
+      "4:18.2",
+      "4:18.3",
+      "4:18.4",
+      "4:18.5",
+      "4:18.6",
+      "4:18.7",
+      "4:18.8",
+      "4:18.9"
+     ],
+     "english": "Also, in the book Etz Chayyim by Rabbi Chayyim Vital, Gate of the Generalities, chapter 11,",
+     "literal": "also in the book Etz Chayyim by Rabbi Chayyim Vital Gate of the Generalities chapter 11"
+    },
+    {
+     "tokens": [
+      "4:18.10",
+      "4:18.11",
+      "4:18.12",
+      "4:18.13",
+      "4:18.14",
+      "4:18.15",
+      "4:18.16"
+     ],
+     "english": "he wrote that our teacher Moses said to Israel at their entering the land:",
+     "literal": "wrote that Moses our teacher said to Israel at their entering the land"
+    },
+    {
+     "tokens": [
+      "4:18.17",
+      "4:18.18",
+      "4:18.19",
+      "4:18.20",
+      "4:18.21",
+      "4:18.22",
+      "4:18.23"
+     ],
+     "english": "\"But you who cleave to the LORD your God are alive, every one of you, today,\"",
+     "literal": "but you who cleave to the LORD your God are alive every one of you today"
+    },
+    {
+     "tokens": [
+      "4:18.24",
+      "4:18.25",
+      "4:18.26",
+      "4:18.27",
+      "4:18.28",
+      "4:18.29",
+      "4:18.30"
+     ],
+     "english": "for the LORD your God is Ze'ir Anpin and his Nukva,",
+     "literal": "for the LORD your God is Ze'ir Anpin and his Nukva (the female)"
+    },
+    {
+     "tokens": [
+      "4:18.31",
+      "4:18.32",
+      "4:18.33",
+      "4:18.34",
+      "4:18.35",
+      "4:18.36"
+     ],
+     "english": "and Israel who entered the land were, etc. See there.",
+     "literal": "and Israel who entered the land were etc. see there"
+    },
+    {
+     "tokens": [
+      "4:18.37",
+      "4:18.38",
+      "4:18.39",
+      "4:18.40",
+      "4:18.41",
+      "4:18.42",
+      "4:18.43"
+     ],
+     "english": "Also in Sefer ha-Kavanot, in the customs of the Ari, he wrote that",
+     "literal": "also in the book Sefer ha-Khavanot in the customs of the Ari wrote that"
+    },
+    {
+     "tokens": [
+      "4:18.44",
+      "4:18.45",
+      "4:18.46",
+      "4:18.47",
+      "4:18.48",
+      "4:18.49",
+      "4:18.50",
+      "4:18.51",
+      "4:18.52"
+     ],
+     "english": "every time you utter the name YHVH, intend toward Ze'ir Anpin,",
+     "literal": "every time you utter from your mouth the name YHVH intend toward Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:18.53",
+      "4:18.54",
+      "4:18.55",
+      "4:18.56",
+      "4:18.57",
+      "4:18.58",
+      "4:18.59",
+      "4:18.60",
+      "4:18.61",
+      "4:18.62",
+      "4:18.63"
+     ],
+     "english": "and intend in it thus: Yod-Heh-Vav Ze'ir Anpin, and the last Heh of it is Malkhut (Kingship).",
+     "literal": "and intend in it thus Yod-Heh-Vav Ze'ir Anpin and the Heh last of it is Malkhut (Kingship)"
+    },
+    {
+     "tokens": [
+      "4:18.64",
+      "4:18.65",
+      "4:18.66",
+      "4:18.67",
+      "4:18.68",
+      "4:18.69",
+      "4:18.70",
+      "4:18.71",
+      "4:18.72"
+     ],
+     "english": "Intend that a complete name be made on Adonai, in such a way, etc. See there.",
+     "literal": "intend that-be-made name complete on Adonai in-such-a-way etc. see there"
+    },
+    {
+     "tokens": [
+      "4:18.73",
+      "4:18.74",
+      "4:18.75",
+      "4:18.76",
+      "4:18.77",
+      "4:18.78",
+      "4:18.79",
+      "4:18.80"
+     ],
+     "english": "Likewise, in the book Machberet ha-Kodesh, in the order of the Musaf of Shabbat, 20,",
+     "literal": "likewise in the book Machberet ha-Kodesh in the order of the Musaf of Shabbat 20"
+    },
+    {
+     "tokens": [
+      "4:18.81",
+      "4:18.82",
+      "4:18.83",
+      "4:18.84",
+      "4:18.85",
+      "4:18.86",
+      "4:18.87",
+      "4:18.88"
+     ],
+     "english": "that the hosts of angels above will give a crown to Ze'ir Anpin,",
+     "literal": "that angels the hosts of above will give a crown to Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:18.89",
+      "4:18.90",
+      "4:18.91",
+      "4:18.92",
+      "4:18.93",
+      "4:18.94",
+      "4:18.95",
+      "4:18.96"
+     ],
+     "english": "who is the LORD our God. See there, folio 40a.",
+     "literal": "who is the LORD our God see there folio 40 a"
+    },
+    {
+     "tokens": [
+      "4:18.97",
+      "4:18.98",
+      "4:18.99",
+      "4:18.100",
+      "4:18.101",
+      "4:18.102",
+      "4:18.103",
+      "4:18.104"
+     ],
+     "english": "Also in Mikdash Melekh, 4, 12, beginning with the words 'the Great God',",
+     "literal": "also Mikdash Melekh 4 12 beginning-with-the-words the-God the-great"
+    },
+    {
+     "tokens": [
+      "4:18.105",
+      "4:18.106",
+      "4:18.107",
+      "4:18.108",
+      "4:18.109",
+      "4:18.110",
+      "4:18.111",
+      "4:18.112"
+     ],
+     "english": "it is explained that He is called 'the Great God' only in Ze'ir Anpin,",
+     "literal": "is-explained that-not is-called the-God the-great except in Ze'ir Anpin"
+    },
+    {
+     "tokens": [
+      "4:18.113",
+      "4:18.114",
+      "4:18.115",
+      "4:18.116"
+     ],
+     "english": "and in Chokhmah (Wisdom) he is called wise, etc.",
+     "literal": "and in Chokhmah (Wisdom) he is called wise etc."
+    },
+    {
+     "tokens": [
+      "4:18.117",
+      "4:18.118",
+      "4:18.119",
+      "4:18.120",
+      "4:18.121",
+      "4:18.122",
+      "4:18.123",
+      "4:18.124"
+     ],
+     "english": "And whoever intends toward Ein Sof, because of His exaltedness that He has no name,",
+     "literal": "and whoever intends toward Ein Sof because of His exaltedness that there is not to Him a name"
+    },
+    {
+     "tokens": [
+      "4:18.125",
+      "4:18.126",
+      "4:18.127"
+     ],
+     "english": "and no point that would limit Him,",
+     "literal": "and not a point that would limit Him"
+    },
+    {
+     "tokens": [
+      "4:18.128",
+      "4:18.129",
+      "4:18.130"
+     ],
+     "english": "his prayer is not a prayer,",
+     "literal": "is not his prayer a prayer"
+    },
+    {
+     "tokens": [
+      "4:18.131",
+      "4:18.132",
+      "4:18.133",
+      "4:18.134",
+      "4:18.135",
+      "4:18.136",
+      "4:18.137"
+     ],
+     "english": "rather he should intend toward Him while He is clothed in His attributes, etc.",
+     "literal": "rather should intend toward Him while He is clothed in His attributes etc."
+    },
+    {
+     "tokens": [
+      "4:18.138",
+      "4:18.139",
+      "4:18.140",
+      "4:18.141"
+     ],
+     "english": "And see below, §100,",
+     "literal": "and see below section 100"
+    },
+    {
+     "tokens": [
+      "4:18.142",
+      "4:18.143",
+      "4:18.144"
+     ],
+     "english": "in the name of Nachalat Yosef.",
+     "literal": "in the name of Nachalat Yosef"
+    }
+   ],
+   "grammar": [
+    "The quotation of Deut 4:4 (4:18.17-23) has no formula; it is set in quotation marks as the author's direct words. The author's own gloss begins with כי (4:18.24) and is not part of the verse.",
+    "וכו' (4:18.35, 4:18.71, 4:18.116, 4:18.137) marks an abbreviated passage. It stays as 'etc.' because it marks the truncation.",
+    "יה\"ו (4:18.56) spells the letters yod, heh, vav of the Name; וה\"א אחרונה (4:18.59) is the last heh.",
+    "על אדני (4:18.68-69): read as the Name Adonai, in a passage on the divine names and Malkhut. שנעשה שם שלם is 'that a complete name be made'; שם שלם has no article.",
+    "אלהא רברבא (4:18.103-104, 108-109) is Aramaic, and occurs twice: as the cited heading after ד\"ה, and inside the author's sentence. The verb נקרא has no stated subject, as in ובחכמה נקרא חכם, so 'He is called'. מבואר ('it is explained') introduces indirect speech, so the sentence has no quotation marks."
+   ],
+   "note": "Ein Sof (4:18.118-119) is the same name as in 4:17; see the note there.",
+   "commentary": [],
+   "apparatus": [
+    "Deut 4:4 (4:18.17-23): 'But you who cleave to the LORD your God are alive, every one of you, today.'",
+    "4:18.69: אדני is read as the Name Adonai; the alternative reading is אדני, 'bases' or 'sockets' (plural of אדן)."
+   ]
+  }
+ ]
+}

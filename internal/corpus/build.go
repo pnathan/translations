@@ -255,6 +255,7 @@ func isHead(e *lex.Entry, ix *lex.Index) bool {
 func makeUnits(cfg *work.Config, segs []Segment) []Unit {
 	var units []Unit
 	count := map[string]int{}
+	words := 0 // words in the open unit (prose)
 	for i := range segs {
 		s := &segs[i]
 		var prev *Segment
@@ -276,12 +277,18 @@ func makeUnits(cfg *work.Config, segs []Segment) []Unit {
 				start = true
 			case cfg.Kind == work.Mishnah && pch != sch:
 				start = true
+			case cfg.Kind == work.Prose && cfg.UnitWords > 0 && words >= cfg.UnitWords:
+				start = true
 			}
 		}
 		if start {
 			count[s.Section]++
 			units = append(units, Unit{ID: fmt.Sprintf("%s-%02d", s.Section, count[s.Section]), Section: s.Section})
 		}
+		if start {
+			words = 0
+		}
+		words += len(s.Tokens)
 		u := &units[len(units)-1]
 		u.Refs = append(u.Refs, s.Ref)
 		s.Unit = u.ID
@@ -363,6 +370,18 @@ func BuildMishnah(cfg *work.Config, base [][]string, witnesses map[string][][]st
 		}
 	}
 	c.Units = makeUnits(cfg, c.Segments)
+	return c
+}
+
+// BuildProse reads the base text and the collated witnesses of a prose work.
+// It has no morphology: tokens carry only their text and the variants.
+func BuildProse(cfg *work.Config, base [][]string, witnesses map[string][][]string) *Corpus {
+	c := BuildMishnah(cfg, base, witnesses, nil, nil)
+	for i := range c.Segments {
+		for j := range c.Segments[i].Tokens {
+			c.Segments[i].Tokens[j].Lang = "heb"
+		}
+	}
 	return c
 }
 

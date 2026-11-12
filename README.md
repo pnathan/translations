@@ -9,6 +9,7 @@ the words they explain. The editions serve readers and learners of Hebrew.
 |------|------|------------|--------------|
 | Genesis 1–50 (Bereshit to Vayechi; 18–50 in progress) | Miqra according to the Masorah (Sefaria), collated with the WLC | OSHB | 1–17: Rashi, Ibn Ezra (normative); from 18: Ibn Ezra (normative); Rashi, Ramban, Radak, Sforno, Onkelos |
 | Pirkei Avot 1–6 | Torat Emet (Sefaria), collated with Vilna 1913 | model, reviewed | Bartenura, Rambam (normative); Rabbeinu Yonah |
+| Milchamot ha-Shem 1–10 (Qafiḥ, 1931; sources fetched, not yet translated) | Wikisource via Sefaria, to be collated with the yahadut.org.il PDF | none (prose kind) | none |
 
 ## Pipeline
 

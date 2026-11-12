@@ -1,0 +1,589 @@
+# Translation pack: milhamot-hashem perek-5-04 (Milchamot ha-Shem 5:4–5:7)
+
+Brief: `briefs/translate.md`. Write: `works/milhamot-hashem/stage/translate/perek-5-04.json`. Check: `go run ./cmd/tr check milhamot-hashem perek-5-04`.
+
+## Rulings for this unit
+
+Extracted from `works/milhamot-hashem/decisions.md` for the words of this unit; the rulings below are the whole of what you need. Read the full file only if a question is not answered here.
+
+# Milchamot ha-Shem: decisions for every unit
+
+> Owner answered Q4 and Q7 on 2026-11-10; Q1-3, Q5-6 stand at the defaults (see "Owner's answers and defaults" at the end).
+
+Editorial decisions set before translation. A reviewer may question one in a
+`question` patch; the project owner decides. Where a ruling was amended, only
+the final rule is given. "(note)" means a token `note`; "first in a unit"
+means at the first occurrence in the unit.
+
+General rule for technical terms: the English names the thing the words name
+and goes no further. Kabbalistic technical names are transliterated, because
+every English equivalent takes a side: the Kabbalists' defence
+("configuration", "the Infinite", "Divine Presence") or Kafich's charge
+("god", "idol"). He makes his charge in his own words ("אליל", "אלוהות", "אל
+זר"), and the English translates those where he uses them.
+
+Transliteration: the project's plain scheme, as in Avot and Genesis (Shetach,
+Chayei Sarah, Lekh Lekha): no diacritics; ח = ch, כ = kh, צ = tz, ק = k
+("Machzor Vitry"). The author: Yichya Kafich (owner, 2026-11-10; "Yihya
+Kafich" is named once in the front matter). Book titles with a conventional
+English spelling keep it (Kisse Eliyahu, Sefer ha-Kavanot, Machberet
+ha-Kodesh); the scheme applies where the project has no fixed form.
+
+## Output format for this work (prose)
+
+Read this whole file before translating. A segment is a paragraph of prose.
+The pack has no morphemes, lemmas, lexicon or commentary, so:
+
+- `tokens`: one entry per word: `id`, `gloss`, and a `note` where a learner
+  needs one. No `sense`, no `lex`.
+- `commentary`: `[]`. `context`: only for a realia a reader needs (a Yemenite
+  custom, a book, a person); say what is established; cite no modern work.
+  It may carry a short note on a story the author cites (the Pardes story),
+  without a reference unless the author gives one.
+- `grammar`: 2 to 6 notes per paragraph (in a long one, on the hardest
+  sentences). `literal`: word for word; on a long paragraph the glosses in
+  Hebrew order, hyphens joining the parts of one word; no reasoning (that goes
+  in `note`).
+- `phrases` divide every token of the paragraph, in order; in a long
+  paragraph a phrase is a clause, not a word; each phrase's `english` must
+  occur in the paragraph's `english`.
+- Quotations follow the Quotations section; a Bible verse is translated from
+  the Hebrew as the author quotes it, the reference in `apparatus`.
+- Every Hebrew abbreviation is expanded in `gloss` (the reading line carries
+  the full word).
+
+## Names and titles
+
+- **Authorities**: acronyms and book-names used as names stay, transliterated;
+  first in a unit a note gives the expansion where certain (else says so) and
+  who is meant; identify no one further. ר' + name → "Rabbi". An initial a
+  surname fixes is expanded, else kept (a lone כ' → "K."), noted. Surnames as
+  printed, one spelling across the work.
+- **Honorifics**: translate every one, opponents' included; add none.
+- **Book titles**: transliterated, the meaning in a note first in a unit;
+  abbreviations written out; every word kept. Bible books in English;
+  tractates transliterated. A misspelt title as printed, the likelier in the
+  note and `apparatus`.
+- ה׳: the Tetragrammaton → "the LORD"; cited as a name ("זעיר אנפין דאיקרי
+  ה'") → "who is called 'the LORD'"; before a personal name → "Mr." ("מאת ה'
+  אליעזר בן יהודה" → "from Mr. Eliezer Ben-Yehuda"); a numeral or page letter
+  → the number. The pack splits it into ה plus ': read it in context.
+- **מחבר הזהר / מחבר הספר הזהר**: "the author of the Zohar", never named (no
+  "Moses de León"); מחבר הספר הזהר → "the author of the book the Zohar".
+- **הפילסוף / הפילוסוף** (epithet of the Zohar's author, who is never named) →
+  "the philosopher".
+- נביא **השקר** (epithet of the Zohar's author, never named): נביא השקר → "the
+  false prophet".
+- **ב"ה** → "blessed be He".
+- שם **שמים** → "the name of Heaven".
+- **אלהים / אלהי / אלוה / קבלו באלוה**: no editorialising by case. "God" for the
+  God of Israel, also in the Kabbalists' quoted words and for a plural אלהים
+  with a singular verb; singular אלוה → "God" (Job, Deut 32:15), not "the
+  first God". "god(s)" only where the Hebrew marks foreignness or plurality
+  (אלהים אחרים, אל זר, אלילים), where the author in his own voice calls the
+  Kabbalists' object of worship a god, and for אלוה as what a human being
+  worships or makes himself (קבלו באלוה; Haman) → "a god". In doubt: "God",
+  the alternative in a note.
+- **ז"ל** → "of blessed memory" (honorific).
+- **רז"ל** → "our Rabbis of blessed memory".
+- **רש"י** → "Rashi" (authority, transliterated; note).
+- **רס"ג** → "Rabbi Saadia Gaon", written out.
+- **רבי'** before the lawgiver's name → "Moses our teacher".
+- **ר"י** חיים → "Rabbi Y. Chayyim" (initial kept, with a note).
+- **עץ חיים / ע"ח** → *Etz Chayyim* (book title; meaning in a note).
+- **מקדש** מלך → *Mikdash Melekh* (book title; הרב מקדש מלך → "the Rav Mikdash
+  Melekh").
+- **אמונות והדעות / אמונות ודעות** → *Emunot ve-De'ot* (book title; meaning in
+  a note).
+- **זהר חדש** → *Zohar Chadash* (book title; meaning in a note).
+- **בעל / מחבר / היכל** + book title → "the author of [title]" (only for בעל /
+  מחבר; "המקובל בעל היכל הברכה" → "the Kabbalist, the author of Heikhal
+  ha-Berakhah", title translated in a note); name no author the text does not
+  name.
+- מאמיני **השלוש** → "the believers in the Trinity".
+## Terms
+
+- **ספירה / ספירות / העשיריות**: fixed, "sefirah / sefirot" (not "emanations",
+  "spheres", "numbers"); העשיריות → "the tens" (note). Names transliterated,
+  glossed first in a unit: Keter (Crown), Chokhmah, Binah, Chesed, Gevurah,
+  Tif'eret, Netzach, Hod, Yesod, Malkhut.
+- אין **סוף / א"ס**: fixed, "Ein Sof", a name with no article ("א"ס ב"ה" → "Ein
+  Sof, blessed be He"); never "the Infinite" or "without end" for the noun;
+  "without end" in a note first in a unit. לאין סוף where not the name (the
+  Rambam passage) → "without end".
+- **פרצוף / פרצופים**: the Kabbalistic entities → "partzuf / partzufim";
+  generic, with צורה or תמונה → "face"; a play on both, a note. Never "configuration" or
+  "countenance-structure". The names of the partzufim: transliterated, the
+  literal sense in a note first in a unit; an argument from a name's meaning
+  goes in the note; the name stays.
+- **זעיר אנפין / ז"א / זעיר** → "Ze'ir Anpin" (partzuf; note first in a unit:
+  "Small Face"); ז"א → "Ze'ir Anpin"; זעיר alone → "Ze'ir". An argument from
+  the name's meaning goes in the note; the name stays.
+- **אריך** אנפין → "Arikh Anpin" (partzuf; note first in a unit: "Long Face").
+- **אבא / אמא** (the partzufim) → "Abba" / "Imma" (note first in a unit).
+- **נוקבא / נוקביה** → "Nukva" (partzuf; note first in a unit); נוקביה → "his
+  Nukva".
+- **עתיק / עתיקא / יומין**: עתיק → "Atik"; עתיקא קדישא → "Atika Kadisha"; עתיקא
+  סתימא → "Atika Setima"; עתיק יומין → "Atik Yomin" (Dan 7:9: "the Ancient of
+  Days"); the literal sense in a note first in a unit.
+- **כלא חד / כולא חד / באגרונו** (also ולא אמרינן כלא חד): one English at every
+  occurrence; the sense awaits the owner. The English stands; the reviewer's
+  alternative in `readings` / `apparatus`.
+- **עכו"ם** → "idolaters" (note: "worshippers of stars and constellations"),
+  never "gentiles" or "Christians", even of a Christian king or the Trinity.
+- אל **אחר** → "another god".
+- **כוונה** (in prayer) → "intention".
+- **Abbreviations**: ambiguous: by context, the expansion in the note.
+  Unruled (ורבי'): by his usage, noted; of two expansions the shorter, the
+  other in `apparatus`. Unclear (לי"ח): the conjecture in a note, the letters
+  in `apparatus`, in the English only if the sole sense that fits.
+- **וכו' / וכ'** → "etc." (always kept; וכ' closing a quotation is וכו').
+- **אבות** → "fathers", lower case (note: "patriarchs"); never a title.
+- **שלשה פנים** → "three aspects" (note: "faces").
+- **והוא שלא** → "provided that".
+- **סדר** with no function → "Seder" as printed (note); the other in `readings`.
+- **דין / נקבל**: in "אם הלכה נקבל ואם לדין יש תשובה" דין → "reasoning"; בקש →
+  "in haste" (note: the conjecture "with straw").
+- **חסר / חטר**: "(חסר)" → "(missing)", a lacuna sign; "(חטר)" is a variant of
+  it, recorded.
+
+## Quotations
+
+- **Scope.** All quoted text (Zohar, Bavli, Yerushalmi, Targum, Biblical
+  Aramaic, Midrash, medieval, Judeo-Arabic) from the author's words; no Hebrew,
+  Aramaic or Arabic in `english`.
+- **Marking.** A source's words introduced by a formula (וז"ל, כתב, אמרו,
+  גרסינן, שנאמר, כדכתיב, שנינו, הכי קאמר, אמר ר' X) or closed by עכ"ל / ע"כ:
+  double quotation marks; a paraphrase or report ("כתב ש…"): none; no
+  formula: marks if the source is certain, else none and a note. Nesting:
+  double, single, double. A reply by ויאמר inside a quotation: double marks;
+  his report of a sage's question: unmarked. Over several paragraphs
+  (2:18-2:25): each opens with a mark, only the last closes. Plain text (no
+  italics, no labels); the language in `grammar` ("Zohar Aramaic",
+  "Judeo-Arabic"). Formulas are translated, outside the marks; glosses inside
+  a quotation stay in parentheses where they stand, translated.
+- **Exegesis on a Hebrew word** (את; אם אין → "Ayin"): the word stays
+  transliterated ("not 'to the LORD your God' but 'et the LORD your God'"),
+  explained in `grammar`.
+- **Cut or changed quotation.** Only what is on the page: supply nothing וכו'
+  omits, complete no verse (no "before Me"), restore no source; a verse's
+  fixed wording covers only the words quoted. His comma joining two verses
+  stays; an ellipsis only where he marks one (וכו', וגו'). His wording against
+  the source: follow him, the source in `apparatus`.
+- **Bible verses**, quoted or alluded to (*melitzah*, unmarked): from the
+  Hebrew as it stands, plain modern English, not King James; each in
+  `apparatus`. An echoed verse (אל דבר ה', בטרם תחיל) governs the sense of its
+  words; a poetic phrase
+  translated, a note naming the referent; a plural stays plural, no subject
+  added; ketiv translated, the qere noted.
+- **Idioms**: by sense, the literal in `literal`; a saying he glosses
+  himself: both translated, unmerged.
+- **References** as he gives them, English form, Arabic numerals; add,
+  complete, convert or correct nothing; never the 2015 PDF's; none for
+  unreferenced Zohar, Mishnah or Talmud, even in `apparatus` (Bible verses
+  only). פ' + numeral → "chapter" for a book without parashot or a numeral
+  beyond them, else "parashah" (noted). ד' + number after a book: the
+  numerals ("4, 12"), noted when he writes דף nearby.
+- **Section numbers.** His sections (ב) at 3:1 to קמד) at 10:6): the label →
+  "§2."; irregular ones as written ("קיה)" → "§115", letters noted; the gap
+  קכט)–קלא) noted, not repaired). List markers (א), ב)) → "1)", "2)" (note).
+- **וז"ל** → "and these are his words:"; וז"ל + a name → "and these are the
+  words of X:" (outside the marks).
+- **עכ"ל** → "Thus far his words." (outside the marks).
+- **פי'** inside a quotation: "(פי' …)" → "(explanation: …)".
+- **שמע** ישראל (Deut 6:4) → "Hear, O Israel: the LORD our God, the LORD is
+  one." (Four units in order, which the Zohar reading in 6:1 needs.)
+- **רמב"ם / רס"ג / הכוזרי / הלוי / בחיי / סמ"ג / אלבו / העיקרים / רוקח / שבילי**
+  (medieval authors quoted): from the Hebrew he quotes, not the originals,
+  standard editions or published translations; a certain difference may be
+  noted in `apparatus`.
+- **דף** → "folio" (no "folio" he does not write: "זהר בראשית כ״ב" → "Zohar,
+  Bereshit 22"); "בשלח דף ס"ד (ח"ב סז, א)" → "Be-shallach, folio 64 (vol. 2,
+  67a)" (nothing converted).
+- **פרשת** → the parashah ("Zohar, Balak, folio 191b").
+- **שער / ענף / מאמר** → "Gate / Branch / Treatise".
+## Style
+
+- Plain, exact, modern English, the words at their own strength (אליל
+  "idol"). No sarcasm of your own: no scare quotes, "so-called", "sic", or
+  added "!". Keep his every "!", rhetorical question and disclaimer, and the
+  second person.
+- Long periods may be divided: no clause dropped, no connective that changes
+  the logic, the order kept. Hebrew full stops: שכל / שהוא opening a sentence:
+  the stop kept, a main clause by his syntax (note on the ש); a fragment
+  (ושהם, והפטרה, ולדעת, ורבינו): a main clause when it continues the verb
+  before, a comma when it continues a list (note); a main clause after a stop
+  (ואם ראיתי. הם מגלים): joined with a comma (note); אם ... או after a stop:
+  as punctuated if the English has a main clause, else a colon to the
+  sentence before or a direct alternative question; a period completed in the
+  next segment: the stops kept, the continuation in the segment `note`,
+  semicolons only where unreadable.
+- ל before a person's name is possessive (לרשב"י → "Rabbi Shimon's"), never
+  the subject.
+- Numbers: letter numerals → Arabic, as written whatever the tradition counts
+  (the usual count in a note). A year without thousands → full ("תר"ע" →
+  "5670"); the civil year in `apparatus`. Where gematria is the point, the
+  number in English, the letters in a note.
+- Witnesses: square brackets ("[מתחלת באלוהיות]") are the transcriber's
+  corrections: translate the corrected reading, record both. A word that does
+  not fit but is close to a likelier one (יכינו for יבינו): by the context; a
+  printed word echoing a verse's likelier word (נבוש for נמוש): the printed
+  word; both words in a note and `apparatus`. Rule 3 covers every
+  Wikisource/PDF difference that bears on the English.
+
+## Translator's checklist (the pilot reviews found these faults most often)
+
+Before running the check, read your English once against the Hebrew:
+1. Every Hebrew word has its English; none is added (no "who received it", no
+   parenthetical explanation). A Hebrew full stop is an English full stop, and
+   every sentence has a main clause.
+2. Recognise Bible verses, even in pieces (Isa 62:6, Job 37:18, Gen 43:14,
+   Lev 26:44); translate from the Hebrew, check each verb's form, list the
+   verse in `apparatus`.
+3. Use the fixed renderings of this file for every term, name and abbreviation.
+4. A passive participle is passive; a participle is not a perfect.
+5. Capitalise only what the file capitalises. Begin each sentence with a
+   capital.
+
+## Owner's answers and defaults
+
+Answered by the owner (2026-11-10):
+
+- Q4: Judeo-Arabic and Aramaic are Sonnet's, not Haiku's: `models.json` lists
+  the four Judeo-Arabic units (5:3, 7:24, 9:10, 2:13) and the 15 units with at
+  least six Aramaic marker words (a heuristic; the Sonnet review covers every
+  unit). The `lang` tags stay "heb".
+- Q7: the project's transliteration scheme (above).
+
+Not yet answered; the default stands and can be changed before the review
+stage (a change to 1, 3 or 5 is a find-and-patch):
+
+- Q1 title: "The Wars of the LORD" (Num 21:14).
+- Q2 Wikisource additions: translated as base text, unmarked per word; one
+  general line in `apparatus` on the unit's first segment until the 1931 scan
+  is collated.
+- Q3 השי"ת: "the Name, may He be blessed".
+- Q5 קבלה האמתית: "the true tradition", with a note.
+- Q6 author's name: patronymic kept as written, "Sali'".
+
+
+## Milchamot ha-Shem 5:4
+
+Hebrew (Wikisource): מי לא ידע להזהר בכל אלה האזהרות שהזהירו אותנו קדמונינו. פן יתפתה לבבינו אל דברי הכתות החיצונות. כמאמר רז"ל מאן דבעי למהוי חסידא ליקיים מילי דאבות להזהר מכל אמונה חיצונית כוזבת כאלה האמונות שהזכיר ר' חטר ז"ל והזהיר מהן.
+
+| id | word | punctuation after |
+|---|---|---|
+| 5:4.1 | מי |  |
+| 5:4.2 | לא |  |
+| 5:4.3 | ידע |  |
+| 5:4.4 | להזהר |  |
+| 5:4.5 | בכל |  |
+| 5:4.6 | אלה |  |
+| 5:4.7 | האזהרות |  |
+| 5:4.8 | שהזהירו |  |
+| 5:4.9 | אותנו |  |
+| 5:4.10 | קדמונינו | . |
+| 5:4.11 | פן |  |
+| 5:4.12 | יתפתה |  |
+| 5:4.13 | לבבינו |  |
+| 5:4.14 | אל |  |
+| 5:4.15 | דברי |  |
+| 5:4.16 | הכתות |  |
+| 5:4.17 | החיצונות | . |
+| 5:4.18 | כמאמר |  |
+| 5:4.19 | רז"ל |  |
+| 5:4.20 | מאן |  |
+| 5:4.21 | דבעי |  |
+| 5:4.22 | למהוי |  |
+| 5:4.23 | חסידא |  |
+| 5:4.24 | ליקיים |  |
+| 5:4.25 | מילי |  |
+| 5:4.26 | דאבות |  |
+| 5:4.27 | להזהר |  |
+| 5:4.28 | מכל |  |
+| 5:4.29 | אמונה |  |
+| 5:4.30 | חיצונית |  |
+| 5:4.31 | כוזבת |  |
+| 5:4.32 | כאלה |  |
+| 5:4.33 | האמונות |  |
+| 5:4.34 | שהזכיר |  |
+| 5:4.35 | ר | ' |
+| 5:4.36 | חטר |  |
+| 5:4.37 | ז"ל |  |
+| 5:4.38 | והזהיר |  |
+| 5:4.39 | מהן | . |
+
+
+## Milchamot ha-Shem 5:5
+
+Hebrew (Wikisource): מי לא יתן לב להבין ולהשכיל כי הפילסוף נביא השקר מחבר הזהר לקח לו מאלה האמונות החיצונות ובלל ועירב אמונת העכו"ם מאמיני השלוש באמונת תורתינו הקדושה בשמותם שלא כסדר תולדותם אצלם, וסתר פנים ישים להם אב ובן ורוח הקדש בפסוק שמע ישראל, וז"ל הזהר פ' ואתחנן דף רס"ג (ח"ג רסג, א) עם פי' מקדש מלך והגליון. שמע ישראל אמר ר' ייסא ישראל סבא, ר' יצחק אמר ע' רברבא, לאכללא שבעין שמהן מהדותא דכלא (סוד הבינה שיש בה שבעים שמות והכוונה שהמלכות מקבלת מן ע') שמע ישראל כמה דכתיב שמעו שמים וכתיה האזינו השמים. אוף הכא שמע ישראל וכלא חד מלה הוא (פי' דעיר) ידוד רישא דכלא בנהירו דעתיקא קדישא. והאי הוא דאתקרי אב (פי' אבא מקבל מן יוד דאריך) אלהינו עתיקתא דנחלין ומבועין דנפקין וגנדין לכלא (פי' אימא) ידוד גופא דאילנא שלימו דשרשין (פי' זעיר) אחד כנסת ישראל (פי' א"ח הוא תשעה ספירות דזעיר ודל"ת מלכות וזעיר) וכלא חד שלימותא ואתקשר דא בדא ולא אשתבח פירודא אלא כלא חד עכ"ל.
+
+| id | word | punctuation after |
+|---|---|---|
+| 5:5.1 | מי |  |
+| 5:5.2 | לא |  |
+| 5:5.3 | יתן |  |
+| 5:5.4 | לב |  |
+| 5:5.5 | להבין |  |
+| 5:5.6 | ולהשכיל |  |
+| 5:5.7 | כי |  |
+| 5:5.8 | הפילסוף |  |
+| 5:5.9 | נביא |  |
+| 5:5.10 | השקר |  |
+| 5:5.11 | מחבר |  |
+| 5:5.12 | הזהר |  |
+| 5:5.13 | לקח |  |
+| 5:5.14 | לו |  |
+| 5:5.15 | מאלה |  |
+| 5:5.16 | האמונות |  |
+| 5:5.17 | החיצונות |  |
+| 5:5.18 | ובלל |  |
+| 5:5.19 | ועירב |  |
+| 5:5.20 | אמונת |  |
+| 5:5.21 | העכו"ם |  |
+| 5:5.22 | מאמיני |  |
+| 5:5.23 | השלוש |  |
+| 5:5.24 | באמונת |  |
+| 5:5.25 | תורתינו |  |
+| 5:5.26 | הקדושה |  |
+| 5:5.27 | בשמותם |  |
+| 5:5.28 | שלא |  |
+| 5:5.29 | כסדר |  |
+| 5:5.30 | תולדותם |  |
+| 5:5.31 | אצלם | , |
+| 5:5.32 | וסתר |  |
+| 5:5.33 | פנים |  |
+| 5:5.34 | ישים |  |
+| 5:5.35 | להם |  |
+| 5:5.36 | אב |  |
+| 5:5.37 | ובן |  |
+| 5:5.38 | ורוח |  |
+| 5:5.39 | הקדש |  |
+| 5:5.40 | בפסוק |  |
+| 5:5.41 | שמע |  |
+| 5:5.42 | ישראל | , |
+| 5:5.43 | וז"ל |  |
+| 5:5.44 | הזהר |  |
+| 5:5.45 | פ | ' |
+| 5:5.46 | ואתחנן |  |
+| 5:5.47 | דף |  |
+| 5:5.48 | רס"ג |  |
+| 5:5.49 | ח"ג |  |
+| 5:5.50 | רסג | , |
+| 5:5.51 | א | ) |
+| 5:5.52 | עם |  |
+| 5:5.53 | פי | ' |
+| 5:5.54 | מקדש |  |
+| 5:5.55 | מלך |  |
+| 5:5.56 | והגליון | . |
+| 5:5.57 | שמע |  |
+| 5:5.58 | ישראל |  |
+| 5:5.59 | אמר |  |
+| 5:5.60 | ר | ' |
+| 5:5.61 | ייסא |  |
+| 5:5.62 | ישראל |  |
+| 5:5.63 | סבא | , |
+| 5:5.64 | ר | ' |
+| 5:5.65 | יצחק |  |
+| 5:5.66 | אמר |  |
+| 5:5.67 | ע | ' |
+| 5:5.68 | רברבא | , |
+| 5:5.69 | לאכללא |  |
+| 5:5.70 | שבעין |  |
+| 5:5.71 | שמהן |  |
+| 5:5.72 | מהדותא |  |
+| 5:5.73 | דכלא |  |
+| 5:5.74 | סוד |  |
+| 5:5.75 | הבינה |  |
+| 5:5.76 | שיש |  |
+| 5:5.77 | בה |  |
+| 5:5.78 | שבעים |  |
+| 5:5.79 | שמות |  |
+| 5:5.80 | והכוונה |  |
+| 5:5.81 | שהמלכות |  |
+| 5:5.82 | מקבלת |  |
+| 5:5.83 | מן |  |
+| 5:5.84 | ע | ') |
+| 5:5.85 | שמע |  |
+| 5:5.86 | ישראל |  |
+| 5:5.87 | כמה |  |
+| 5:5.88 | דכתיב |  |
+| 5:5.89 | שמעו |  |
+| 5:5.90 | שמים |  |
+| 5:5.91 | וכתיה |  |
+| 5:5.92 | האזינו |  |
+| 5:5.93 | השמים | . |
+| 5:5.94 | אוף |  |
+| 5:5.95 | הכא |  |
+| 5:5.96 | שמע |  |
+| 5:5.97 | ישראל |  |
+| 5:5.98 | וכלא |  |
+| 5:5.99 | חד |  |
+| 5:5.100 | מלה |  |
+| 5:5.101 | הוא |  |
+| 5:5.102 | פי | ' |
+| 5:5.103 | דעיר | ) |
+| 5:5.104 | ידוד |  |
+| 5:5.105 | רישא |  |
+| 5:5.106 | דכלא |  |
+| 5:5.107 | בנהירו |  |
+| 5:5.108 | דעתיקא |  |
+| 5:5.109 | קדישא | . |
+| 5:5.110 | והאי |  |
+| 5:5.111 | הוא |  |
+| 5:5.112 | דאתקרי |  |
+| 5:5.113 | אב |  |
+| 5:5.114 | פי | ' |
+| 5:5.115 | אבא |  |
+| 5:5.116 | מקבל |  |
+| 5:5.117 | מן |  |
+| 5:5.118 | יוד |  |
+| 5:5.119 | דאריך | ) |
+| 5:5.120 | אלהינו |  |
+| 5:5.121 | עתיקתא |  |
+| 5:5.122 | דנחלין |  |
+| 5:5.123 | ומבועין |  |
+| 5:5.124 | דנפקין |  |
+| 5:5.125 | וגנדין |  |
+| 5:5.126 | לכלא |  |
+| 5:5.127 | פי | ' |
+| 5:5.128 | אימא | ) |
+| 5:5.129 | ידוד |  |
+| 5:5.130 | גופא |  |
+| 5:5.131 | דאילנא |  |
+| 5:5.132 | שלימו |  |
+| 5:5.133 | דשרשין |  |
+| 5:5.134 | פי | ' |
+| 5:5.135 | זעיר | ) |
+| 5:5.136 | אחד |  |
+| 5:5.137 | כנסת |  |
+| 5:5.138 | ישראל |  |
+| 5:5.139 | פי | ' |
+| 5:5.140 | א"ח |  |
+| 5:5.141 | הוא |  |
+| 5:5.142 | תשעה |  |
+| 5:5.143 | ספירות |  |
+| 5:5.144 | דזעיר |  |
+| 5:5.145 | ודל"ת |  |
+| 5:5.146 | מלכות |  |
+| 5:5.147 | וזעיר | ) |
+| 5:5.148 | וכלא |  |
+| 5:5.149 | חד |  |
+| 5:5.150 | שלימותא |  |
+| 5:5.151 | ואתקשר |  |
+| 5:5.152 | דא |  |
+| 5:5.153 | בדא |  |
+| 5:5.154 | ולא |  |
+| 5:5.155 | אשתבח |  |
+| 5:5.156 | פירודא |  |
+| 5:5.157 | אלא |  |
+| 5:5.158 | כלא |  |
+| 5:5.159 | חד |  |
+| 5:5.160 | עכ"ל | . |
+
+
+## Milchamot ha-Shem 5:6
+
+Hebrew (Wikisource): הרי לך שהזהר חשב השלשה שמות לשלשה פרצופים מחולקים ידוד ראשונה אבא, אלהינו אמא, ידוד אחרונה זעיר אנפין. אחד כולל זעיר ונוקביה שהם אחד. ולא מתפרשין וכלא חד וכו' שחמה פרצופין הם אחד, ולשיטתיה אזיל שבפרשת בראשית הוא חושב עצם הבורא אבא, ואימא אומנא, וזעיר אנפין בן לאבא ואמא.
+
+| id | word | punctuation after |
+|---|---|---|
+| 5:6.1 | הרי |  |
+| 5:6.2 | לך |  |
+| 5:6.3 | שהזהר |  |
+| 5:6.4 | חשב |  |
+| 5:6.5 | השלשה |  |
+| 5:6.6 | שמות |  |
+| 5:6.7 | לשלשה |  |
+| 5:6.8 | פרצופים |  |
+| 5:6.9 | מחולקים |  |
+| 5:6.10 | ידוד |  |
+| 5:6.11 | ראשונה |  |
+| 5:6.12 | אבא | , |
+| 5:6.13 | אלהינו |  |
+| 5:6.14 | אמא | , |
+| 5:6.15 | ידוד |  |
+| 5:6.16 | אחרונה |  |
+| 5:6.17 | זעיר |  |
+| 5:6.18 | אנפין | . |
+| 5:6.19 | אחד |  |
+| 5:6.20 | כולל |  |
+| 5:6.21 | זעיר |  |
+| 5:6.22 | ונוקביה |  |
+| 5:6.23 | שהם |  |
+| 5:6.24 | אחד | . |
+| 5:6.25 | ולא |  |
+| 5:6.26 | מתפרשין |  |
+| 5:6.27 | וכלא |  |
+| 5:6.28 | חד |  |
+| 5:6.29 | וכו | ' |
+| 5:6.30 | שחמה |  |
+| 5:6.31 | פרצופין |  |
+| 5:6.32 | הם |  |
+| 5:6.33 | אחד | , |
+| 5:6.34 | ולשיטתיה |  |
+| 5:6.35 | אזיל |  |
+| 5:6.36 | שבפרשת |  |
+| 5:6.37 | בראשית |  |
+| 5:6.38 | הוא |  |
+| 5:6.39 | חושב |  |
+| 5:6.40 | עצם |  |
+| 5:6.41 | הבורא |  |
+| 5:6.42 | אבא | , |
+| 5:6.43 | ואימא |  |
+| 5:6.44 | אומנא | , |
+| 5:6.45 | וזעיר |  |
+| 5:6.46 | אנפין |  |
+| 5:6.47 | בן |  |
+| 5:6.48 | לאבא |  |
+| 5:6.49 | ואמא | . |
+
+
+## Milchamot ha-Shem 5:7
+
+Hebrew (Wikisource): והעכו"ם חשבו עצם הבירא אריך, וקראו לו אב, וספירת החכמה קראו ל הבן והוא אלעלם בלשון ערבי. ולספירת המינה שהיא אימא קראו לה רוח הקודש. והיא רוח החיים הנקרא בערבי אלחיאה, ובדברי מחבר הזהר אלהים חיים.
+
+| id | word | punctuation after |
+|---|---|---|
+| 5:7.1 | והעכו"ם |  |
+| 5:7.2 | חשבו |  |
+| 5:7.3 | עצם |  |
+| 5:7.4 | הבירא |  |
+| 5:7.5 | אריך | , |
+| 5:7.6 | וקראו |  |
+| 5:7.7 | לו |  |
+| 5:7.8 | אב | , |
+| 5:7.9 | וספירת |  |
+| 5:7.10 | החכמה |  |
+| 5:7.11 | קראו |  |
+| 5:7.12 | ל |  |
+| 5:7.13 | הבן |  |
+| 5:7.14 | והוא |  |
+| 5:7.15 | אלעלם |  |
+| 5:7.16 | בלשון |  |
+| 5:7.17 | ערבי | . |
+| 5:7.18 | ולספירת |  |
+| 5:7.19 | המינה |  |
+| 5:7.20 | שהיא |  |
+| 5:7.21 | אימא |  |
+| 5:7.22 | קראו |  |
+| 5:7.23 | לה |  |
+| 5:7.24 | רוח |  |
+| 5:7.25 | הקודש | . |
+| 5:7.26 | והיא |  |
+| 5:7.27 | רוח |  |
+| 5:7.28 | החיים |  |
+| 5:7.29 | הנקרא |  |
+| 5:7.30 | בערבי |  |
+| 5:7.31 | אלחיאה | , |
+| 5:7.32 | ובדברי |  |
+| 5:7.33 | מחבר |  |
+| 5:7.34 | הזהר |  |
+| 5:7.35 | אלהים |  |
+| 5:7.36 | חיים | . |
+
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+

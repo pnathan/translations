@@ -1,0 +1,1276 @@
+{
+ "unit": "perek-1-01",
+ "model": "sonnet",
+ "summary": "Segment 1:1 is correct. Segment 1:2 is generally faithful and the abbreviations and fixed terms are expanded as ruled, but several idioms and verse allusions are misread: the fearing-and-trembling clause is attached to the wrong verb, מרגל לרגל is rendered 'from foot to foot', הקורא as 'reader', 'yearned only for words', 'before she began to bear' for Isa 66:7, 'made it succeed', and 'new bloom' for Gen 18:12, and 'periodicals' contradicts the ruling 'newspapers'. Several verses are missing from the apparatus and the final verse reference is wrong. Three points are raised for the owner (חתור, יכינו, Ashtonot).",
+ "patches": [
+  {
+   "ref": "1:2",
+   "path": "english",
+   "value": "Let the enlightened man reflect, and let him who fears and trembles at the word of the LORD lament over the state of the people of Israel, upon seeing that every people and each people, of all the divisions of the nations, cherish their tongue and magnify their language, in which they were educated. And in it their faith and their religion were engraved, each man in his own tongue. And we, the people of Israel, since the time that we were exiled from our land, have abandoned our holy tongue, in which the first Adam spoke and in which our holy Torah was given, when His glory, may He be blessed, was revealed on Mount Sinai, and He said to His people, “I am the LORD your God,” etc., and we have not done as we were commanded, and you shall teach them to your children, to speak of them. And as Rashi of blessed memory explained in Parashat Ekev, “from here they said: ‘When the child begins to speak, his father speaks with him in the holy tongue and teaches him Torah.’” Thus far his words, but all our conversation with our children is in the language of the people among whom we dwell, and most of the children’s teachers too, are not able to speak all their needs in the holy tongue, even though they know it, for they have not tried these, and there are no systems for teaching the children of the elementary school. It is known and famous, the compassion of the father for his sons, and how many toils and exertions the parents exert in raising their children. With abundant attention to all their children’s needs: his food and his drink, suited to him, his bedding, and his clothing! But when it comes to striving to bring him into school, he casts him off with a teacher of children, in narrow and dark houses, on remnants of mats on the ground, without cleanliness, for the teacher does not clean the children’s abode, only from one festival to the next. And all day they sit crowded, without order, and breathe foul and musty air. And they drink salty water, and because of this, when some months pass since he was brought to school, growths and a bad boil come up on his head. And their fathers do not look after them to bring them clear, sweet water to drink, nor clean bedding to sit on, and on most days they sit on the ground without a mat! And in the period of the new era, from the year 5650 of the full count of creation, many of the enlightened were stirred and sought an organisation of the schools and an organisation of their children for the study of Torah and the study of the languages Hebrew, Arabic and Turkish, which are in use! And they strove to seat enlightened teachers versed in the Torah of the LORD, to manage the children of the school in moral upbringing and cleanliness of the place of learning, in bright houses and spacious windows in order to breathe fresh and clean air! And all the labour of those enlightened men came to nothing, and their plan did not come to fruition, and the children of the elementary school remained as they were, with a teacher, in dark and musty rooms, sitting in a crowd: this one learns the alef-bet, and this one learns Scripture, and this one learns with the Targum of Onkelos and the translation of Rabbi Saadia Gaon in Arabic, without understanding. Also the very smallest, who are not at all fit to learn, like a child of two and three years, are brought there. And many times the child relieves himself there. And the teacher sends to his mother that she should come and wipe her son’s excrement! And at the call of the one who calls in the newspapers in those days, from Mr. Eliezer Ben-Yehuda, for the revival of the holy Hebrew language, our soul yearned only in words and mere conversations, and it did not come to realization until the year 5670, when our exalted government, the government of Turkey, then deigned to open schools for the children of Israel, and there was made there a fine organisation for the children of Israel, in spacious upper rooms with open windows, and bedding of wool, and curtains of goat-hair, and also tables for the older children to learn and to write on them! Then we said: behold, the time has come to bring out Ashtonot Ish Yerushalayim, may it be rebuilt and established, which, before she travailed, bore the great man in the revival of the Hebrew language, namely Eliezer Ben-Yehuda, and we acknowledge our debt to him for what he did and made, and with all his strength he toiled for the good of the people of Israel and the settlement of the land of Israel and the revival of the Hebrew language; this holy work he performed with wondrous alacrity and diligence; he did, and succeeded in raising it from the dust, and after its wearing out it had delight, and because of his love for the holy tongue its wrinkles were smoothed out, and the appearance of its face budded and blossomed, and it found grace and honour in the eyes of its seekers, its knowers, and its acquaintances, and they awoke from their sleep to gird up their senses, to widen it and to enrich it as in the days of its youth, before the exile of the people of Israel! And because of this mitzvah, may his soul be bound up in the bundle of life with the LORD our God, and from the fruit of his labour may his soul be satisfied in Eden, the garden of God!",
+   "severity": "error",
+   "reason": "Several mistranslations: (1) אל דבר ה' qualifies הירא והחרד (cf. Isa 66:2), it is not the object of 'lament'; (2) רוב השקפתם is 'abundant attention', not 'most of their attention'; (3) מרגל לרגל is 'from festival to festival' (רגל = pilgrim festival), not 'from foot to foot'; (4) הקורא after קול is 'the one who calls' (cf. Isa 40:3 קול קורא), not 'reader', and מכתבי עתים is ruled 'newspapers' in the decisions; (5) נכספה נפשינו אך ורק בדברים is 'yearned only in words', not 'for words'; (6) בטרם תחיל ילדה is Isa 66:7, 'before she travailed she bore', not 'began to bear'; (7) הצליח להקימה is 'succeeded in raising it', not 'made it succeed'; (8) עדנה is 'delight' (Gen 18:12), and 'new' was added; (9) ואמר introduces a quotation, which takes quotation marks; (10) ובתקופת, וכל and ואשר were dropped; (11) חתור is not 'eager'."
+  },
+  {
+   "ref": "1:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:2.1",
+      "1:2.2"
+     ],
+     "english": "Let the enlightened man reflect,",
+     "literal": "let-him-reflect the-enlightened-man"
+    },
+    {
+     "tokens": [
+      "1:2.3",
+      "1:2.4",
+      "1:2.5",
+      "1:2.6",
+      "1:2.7",
+      "1:2.8"
+     ],
+     "english": "and let him who fears and trembles at the word of the LORD lament",
+     "literal": "and-let-him-lament the-fearful-one and-the-trembling-one toward the-word-of the-LORD; the 'fearing and trembling' clause of Isa 66:2 qualifies the subject"
+    },
+    {
+     "tokens": [
+      "1:2.9",
+      "1:2.10",
+      "1:2.11",
+      "1:2.12",
+      "1:2.13"
+     ],
+     "english": "over the state of the people of Israel,",
+     "literal": "concerning the-state-of the-people the-children-of Israel"
+    },
+    {
+     "tokens": [
+      "1:2.14",
+      "1:2.15"
+     ],
+     "english": "upon seeing that",
+     "literal": "upon-his-seeing that"
+    },
+    {
+     "tokens": [
+      "1:2.16",
+      "1:2.17",
+      "1:2.18",
+      "1:2.19",
+      "1:2.20",
+      "1:2.21"
+     ],
+     "english": "every people and each people, of all the divisions of the nations,",
+     "literal": "every people and-each of-all the-divisions of-the-nations"
+    },
+    {
+     "tokens": [
+      "1:2.22",
+      "1:2.23",
+      "1:2.24",
+      "1:2.25",
+      "1:2.26",
+      "1:2.27",
+      "1:2.28",
+      "1:2.29",
+      "1:2.30"
+     ],
+     "english": "cherish their tongue and magnify their language, in which they were educated.",
+     "literal": "cherish (object-marker) their-tongue and-magnify (object-marker) their-language which they-were-educated in-it"
+    },
+    {
+     "tokens": [
+      "1:2.31",
+      "1:2.32",
+      "1:2.33",
+      "1:2.34",
+      "1:2.35",
+      "1:2.36",
+      "1:2.37"
+     ],
+     "english": "And in it their faith and their religion were engraved, each man in his own tongue.",
+     "literal": "and-in-which were-engraved in-it their-faith and-their-religion each-man to-his-own-tongue"
+    },
+    {
+     "tokens": [
+      "1:2.38",
+      "1:2.39",
+      "1:2.40",
+      "1:2.41",
+      "1:2.42",
+      "1:2.43",
+      "1:2.44",
+      "1:2.45",
+      "1:2.46"
+     ],
+     "english": "And we, the people of Israel, since the time that we were exiled from our land, have abandoned",
+     "literal": "and-we people of-the-children-of Israel from-the-time that we-were-exiled from-our-land we-have-abandoned"
+    },
+    {
+     "tokens": [
+      "1:2.47",
+      "1:2.48",
+      "1:2.49",
+      "1:2.50"
+     ],
+     "english": "our holy tongue, in which",
+     "literal": "(object-marker) our-tongue holy in-which"
+    },
+    {
+     "tokens": [
+      "1:2.51",
+      "1:2.52",
+      "1:2.53",
+      "1:2.54"
+     ],
+     "english": "the first Adam spoke",
+     "literal": "spoke in-it Adam the-first"
+    },
+    {
+     "tokens": [
+      "1:2.55",
+      "1:2.56",
+      "1:2.57",
+      "1:2.58"
+     ],
+     "english": "and in which our holy Torah was given,",
+     "literal": "and-in-it was-given our-Torah holy"
+    },
+    {
+     "tokens": [
+      "1:2.59",
+      "1:2.60",
+      "1:2.61",
+      "1:2.62",
+      "1:2.63",
+      "1:2.64"
+     ],
+     "english": "when His glory, may He be blessed, was revealed on Mount Sinai,",
+     "literal": "when-revealed His-glory may-He-be-blessed on the-mountain Sinai"
+    },
+    {
+     "tokens": [
+      "1:2.65",
+      "1:2.66",
+      "1:2.67",
+      "1:2.68",
+      "1:2.69",
+      "1:2.70"
+     ],
+     "english": "and He said to His people, “I am the LORD your God,” etc.,",
+     "literal": "and-He-said to-His-people I-am the-LORD your-God etc."
+    },
+    {
+     "tokens": [
+      "1:2.71",
+      "1:2.72",
+      "1:2.73",
+      "1:2.74",
+      "1:2.75",
+      "1:2.76",
+      "1:2.77",
+      "1:2.78",
+      "1:2.79",
+      "1:2.80"
+     ],
+     "english": "and we have not done as we were commanded, and you shall teach them to your children, to speak of them.",
+     "literal": "and-not we-did as-commanded upon-us and-you-shall-teach them (object-marker) your-children to-speak of-them"
+    },
+    {
+     "tokens": [
+      "1:2.81",
+      "1:2.82",
+      "1:2.83",
+      "1:2.84",
+      "1:2.85",
+      "1:2.86",
+      "1:2.87",
+      "1:2.88"
+     ],
+     "english": "And as Rashi of blessed memory explained in Parashat Ekev, “from here they said:",
+     "literal": "and-as explained Rashi of-blessed-memory in-the-parashah-of Ekev from-here they-said"
+    },
+    {
+     "tokens": [
+      "1:2.89",
+      "1:2.90",
+      "1:2.91",
+      "1:2.92",
+      "1:2.93",
+      "1:2.94",
+      "1:2.95",
+      "1:2.96",
+      "1:2.97",
+      "1:2.98"
+     ],
+     "english": "‘When the child begins to speak, his father speaks with him in the holy tongue and teaches him Torah.’”",
+     "literal": "when-the-child begins to-speak his-father speaks-with him in-the-language of-the-holy and-teaches-him Torah"
+    },
+    {
+     "tokens": [
+      "1:2.99"
+     ],
+     "english": "Thus far his words,",
+     "literal": "thus-far-his-words"
+    },
+    {
+     "tokens": [
+      "1:2.100",
+      "1:2.101",
+      "1:2.102",
+      "1:2.103",
+      "1:2.104",
+      "1:2.105",
+      "1:2.106"
+     ],
+     "english": "but all our conversation with our children is in the language of the people",
+     "literal": "but all our-conversation with our-children in-the-language of-the-people"
+    },
+    {
+     "tokens": [
+      "1:2.107",
+      "1:2.108",
+      "1:2.109",
+      "1:2.110"
+     ],
+     "english": "among whom we dwell,",
+     "literal": "among-whom we dwell among-them"
+    },
+    {
+     "tokens": [
+      "1:2.111",
+      "1:2.112",
+      "1:2.113",
+      "1:2.114",
+      "1:2.115"
+     ],
+     "english": "and most of the children’s teachers too,",
+     "literal": "and-the-teachers-of children also they most-of-them"
+    },
+    {
+     "tokens": [
+      "1:2.116",
+      "1:2.117",
+      "1:2.118"
+     ],
+     "english": "are not able to speak",
+     "literal": "not are-able to-speak"
+    },
+    {
+     "tokens": [
+      "1:2.119",
+      "1:2.120",
+      "1:2.121",
+      "1:2.122"
+     ],
+     "english": "all their needs in the holy tongue,",
+     "literal": "all their-needs in-the-language of-the-holy"
+    },
+    {
+     "tokens": [
+      "1:2.123",
+      "1:2.124",
+      "1:2.125"
+     ],
+     "english": "even though they know it,",
+     "literal": "even though-they-know it"
+    },
+    {
+     "tokens": [
+      "1:2.126",
+      "1:2.127",
+      "1:2.128",
+      "1:2.129"
+     ],
+     "english": "for they have not tried these,",
+     "literal": "for not they-tried these"
+    },
+    {
+     "tokens": [
+      "1:2.130",
+      "1:2.131",
+      "1:2.132",
+      "1:2.133",
+      "1:2.134",
+      "1:2.135",
+      "1:2.136"
+     ],
+     "english": "and there are no systems for teaching the children of the elementary school.",
+     "literal": "and-there-is-no system for-teaching children of the-house-of the-elementary-school"
+    },
+    {
+     "tokens": [
+      "1:2.137",
+      "1:2.138",
+      "1:2.139",
+      "1:2.140",
+      "1:2.141",
+      "1:2.142",
+      "1:2.143",
+      "1:2.144",
+      "1:2.145",
+      "1:2.146",
+      "1:2.147",
+      "1:2.148",
+      "1:2.149",
+      "1:2.150"
+     ],
+     "english": "It is known and famous, the compassion of the father for his sons, and how many toils and exertions the parents exert in raising their children.",
+     "literal": "it-is-known it and-famous the-compassion-of the-father for his-sons and-how-many toils and-exertions they-exert-themselves the-parents in-raising their-children"
+    },
+    {
+     "tokens": [
+      "1:2.151",
+      "1:2.152",
+      "1:2.153",
+      "1:2.154",
+      "1:2.155",
+      "1:2.156",
+      "1:2.157",
+      "1:2.158",
+      "1:2.159",
+      "1:2.160",
+      "1:2.161",
+      "1:2.162",
+      "1:2.163"
+     ],
+     "english": "With abundant attention to all their children’s needs: his food and his drink, suited to him, his bedding, and his clothing!",
+     "literal": "with the-great-majority their-attention to all the-needs of-their-children in-his-food and-his-drink suited to-him and-his-bedding and-his-clothing"
+    },
+    {
+     "tokens": [
+      "1:2.164",
+      "1:2.165",
+      "1:2.166",
+      "1:2.167",
+      "1:2.168",
+      "1:2.169",
+      "1:2.170"
+     ],
+     "english": "But when it comes to striving to bring him into school,",
+     "literal": "but when he-comes (it-came) striving to-bring-him-in to-the-house-of school"
+    },
+    {
+     "tokens": [
+      "1:2.171",
+      "1:2.172",
+      "1:2.173",
+      "1:2.174"
+     ],
+     "english": "he casts him off with a teacher of children,",
+     "literal": "he-casts-him-off to the-teacher-of children"
+    },
+    {
+     "tokens": [
+      "1:2.175",
+      "1:2.176",
+      "1:2.177"
+     ],
+     "english": "in narrow and dark houses,",
+     "literal": "in-houses narrow and-dark"
+    },
+    {
+     "tokens": [
+      "1:2.178",
+      "1:2.179",
+      "1:2.180",
+      "1:2.181",
+      "1:2.182"
+     ],
+     "english": "on remnants of mats on the ground,",
+     "literal": "on remnants-of mats on the-ground"
+    },
+    {
+     "tokens": [
+      "1:2.183",
+      "1:2.184"
+     ],
+     "english": "without cleanliness,",
+     "literal": "without cleanliness"
+    },
+    {
+     "tokens": [
+      "1:2.185",
+      "1:2.186",
+      "1:2.187",
+      "1:2.188",
+      "1:2.189",
+      "1:2.190",
+      "1:2.191",
+      "1:2.192",
+      "1:2.193",
+      "1:2.194",
+      "1:2.195"
+     ],
+     "english": "for the teacher does not clean the children’s abode, only from one festival to the next.",
+     "literal": "for not cleans the-teacher (object-marker) the-abode-of the-children only from-festival to-festival another"
+    },
+    {
+     "tokens": [
+      "1:2.196",
+      "1:2.197",
+      "1:2.198",
+      "1:2.199",
+      "1:2.200",
+      "1:2.201",
+      "1:2.202",
+      "1:2.203",
+      "1:2.204",
+      "1:2.205"
+     ],
+     "english": "And all day they sit crowded, without order, and breathe foul and musty air.",
+     "literal": "and-all the-day they-sit crowded without order and-they-breathe air foul and-musty"
+    },
+    {
+     "tokens": [
+      "1:2.206",
+      "1:2.207",
+      "1:2.208"
+     ],
+     "english": "And they drink salty water,",
+     "literal": "and-they-drink water salty"
+    },
+    {
+     "tokens": [
+      "1:2.209",
+      "1:2.210",
+      "1:2.211",
+      "1:2.212",
+      "1:2.213",
+      "1:2.214",
+      "1:2.215",
+      "1:2.216",
+      "1:2.217",
+      "1:2.218",
+      "1:2.219",
+      "1:2.220",
+      "1:2.221",
+      "1:2.222",
+      "1:2.223",
+      "1:2.224"
+     ],
+     "english": "and because of this, when some months pass since he was brought to school, growths and a bad boil come up on his head.",
+     "literal": "and-because-of this when pass some months from-the-time that-he-was-brought to the-house-of school come-up on-his-head growths and-boils bad"
+    },
+    {
+     "tokens": [
+      "1:2.225",
+      "1:2.226",
+      "1:2.227",
+      "1:2.228",
+      "1:2.229",
+      "1:2.230",
+      "1:2.231",
+      "1:2.232",
+      "1:2.233",
+      "1:2.234",
+      "1:2.235",
+      "1:2.236",
+      "1:2.237",
+      "1:2.238",
+      "1:2.239"
+     ],
+     "english": "And their fathers do not look after them to bring them clear, sweet water to drink, nor clean bedding to sit on,",
+     "literal": "and-their-fathers not look-after over-them to-bring for-them water clear and-sweet to-drink nor bedding clean to-sit on-it"
+    },
+    {
+     "tokens": [
+      "1:2.240",
+      "1:2.241",
+      "1:2.242",
+      "1:2.243",
+      "1:2.244",
+      "1:2.245",
+      "1:2.246"
+     ],
+     "english": "and on most days they sit on the ground without a mat!",
+     "literal": "and-for-most of-the-days they-sit on the-ground without a-mat"
+    },
+    {
+     "tokens": [
+      "1:2.247",
+      "1:2.248",
+      "1:2.249",
+      "1:2.250",
+      "1:2.251",
+      "1:2.252",
+      "1:2.253"
+     ],
+     "english": "And in the period of the new era, from the year 5650 of the full count",
+     "literal": "in-the-period-of the-time the-new from-the-year 5650 of-the full-count"
+    },
+    {
+     "tokens": [
+      "1:2.254",
+      "1:2.255",
+      "1:2.256",
+      "1:2.257"
+     ],
+     "english": "of creation, many of the enlightened were stirred",
+     "literal": "of-creation were-stirred many of-the-enlightened"
+    },
+    {
+     "tokens": [
+      "1:2.258",
+      "1:2.259",
+      "1:2.260",
+      "1:2.261",
+      "1:2.262",
+      "1:2.263",
+      "1:2.264",
+      "1:2.265",
+      "1:2.266",
+      "1:2.267",
+      "1:2.268",
+      "1:2.269",
+      "1:2.270",
+      "1:2.271"
+     ],
+     "english": "and sought an organisation of the schools and an organisation of their children for the study of Torah and the study of the languages Hebrew, Arabic and Turkish, which are in use!",
+     "literal": "and-they-sought an-organisation of-the schools and-an-organisation of-their-children for-the-study-of Torah and-the-study-of the-languages Hebrew and-Arabic and-Turkish in-use"
+    },
+    {
+     "tokens": [
+      "1:2.272",
+      "1:2.273",
+      "1:2.274",
+      "1:2.275",
+      "1:2.276",
+      "1:2.277"
+     ],
+     "english": "And they strove to seat enlightened teachers versed in the Torah of the LORD,",
+     "literal": "and-they-strove to-seat teachers enlightened in-the-Torah-of the-LORD"
+    },
+    {
+     "tokens": [
+      "1:2.278",
+      "1:2.279",
+      "1:2.280",
+      "1:2.281",
+      "1:2.282"
+     ],
+     "english": "to manage the children of the school",
+     "literal": "to-manage (object-marker) the-children-of the-house-of school"
+    },
+    {
+     "tokens": [
+      "1:2.283",
+      "1:2.284",
+      "1:2.285"
+     ],
+     "english": "in moral upbringing and cleanliness",
+     "literal": "in-education moral and-in-cleanliness"
+    },
+    {
+     "tokens": [
+      "1:2.286",
+      "1:2.287"
+     ],
+     "english": "of the place of learning,",
+     "literal": "the-abode-of the-place-of-learning"
+    },
+    {
+     "tokens": [
+      "1:2.288",
+      "1:2.289",
+      "1:2.290",
+      "1:2.291"
+     ],
+     "english": "in bright houses and spacious windows",
+     "literal": "in-houses bright and-with-windows spacious"
+    },
+    {
+     "tokens": [
+      "1:2.292",
+      "1:2.293",
+      "1:2.294",
+      "1:2.295",
+      "1:2.296"
+     ],
+     "english": "in order to breathe fresh and clean air!",
+     "literal": "in-order to-breathe air fresh and-clean"
+    },
+    {
+     "tokens": [
+      "1:2.297",
+      "1:2.298",
+      "1:2.299",
+      "1:2.300",
+      "1:2.301",
+      "1:2.302",
+      "1:2.303"
+     ],
+     "english": "And all the labour of those enlightened men came to nothing,",
+     "literal": "and-all their-labour of the-enlightened those was to-nothing"
+    },
+    {
+     "tokens": [
+      "1:2.304",
+      "1:2.305",
+      "1:2.306",
+      "1:2.307"
+     ],
+     "english": "and their plan did not come to fruition,",
+     "literal": "and-not came-out their-plan to-fruition"
+    },
+    {
+     "tokens": [
+      "1:2.308",
+      "1:2.309",
+      "1:2.310",
+      "1:2.311",
+      "1:2.312"
+     ],
+     "english": "and the children of the elementary school remained",
+     "literal": "and-the-children of the-house-of the-elementary-school remained"
+    },
+    {
+     "tokens": [
+      "1:2.313",
+      "1:2.314",
+      "1:2.315",
+      "1:2.316",
+      "1:2.317",
+      "1:2.318"
+     ],
+     "english": "as they were, with a teacher, in dark and musty rooms,",
+     "literal": "as-they-were with a-teacher in-rooms dark and-musty"
+    },
+    {
+     "tokens": [
+      "1:2.319",
+      "1:2.320"
+     ],
+     "english": "sitting in a crowd:",
+     "literal": "sitting in-a-crowd"
+    },
+    {
+     "tokens": [
+      "1:2.321",
+      "1:2.322",
+      "1:2.323",
+      "1:2.324"
+     ],
+     "english": "this one learns the alef-bet,",
+     "literal": "this-one learns alef bet"
+    },
+    {
+     "tokens": [
+      "1:2.325",
+      "1:2.326",
+      "1:2.327"
+     ],
+     "english": "and this one learns Scripture,",
+     "literal": "and-this-one learns Scripture"
+    },
+    {
+     "tokens": [
+      "1:2.328",
+      "1:2.329",
+      "1:2.330",
+      "1:2.331",
+      "1:2.332"
+     ],
+     "english": "and this one learns with the Targum of Onkelos",
+     "literal": "and-this-one learns with the-Targum of-Onkelos"
+    },
+    {
+     "tokens": [
+      "1:2.333",
+      "1:2.334",
+      "1:2.335"
+     ],
+     "english": "and the translation of Rabbi Saadia Gaon in Arabic,",
+     "literal": "and-the-translation Rabbi-Saadia-Gaon in-Arabic"
+    },
+    {
+     "tokens": [
+      "1:2.336",
+      "1:2.337"
+     ],
+     "english": "without understanding.",
+     "literal": "without understanding"
+    },
+    {
+     "tokens": [
+      "1:2.338",
+      "1:2.339",
+      "1:2.340",
+      "1:2.341",
+      "1:2.342",
+      "1:2.343",
+      "1:2.344",
+      "1:2.345",
+      "1:2.346",
+      "1:2.347",
+      "1:2.348",
+      "1:2.349",
+      "1:2.350"
+     ],
+     "english": "Also the very smallest, who are not at all fit to learn, like a child of two and three years, are brought there.",
+     "literal": "also the-smallest-of the-small who-are-not fit to-learn at-all like two and-three years they-bring there"
+    },
+    {
+     "tokens": [
+      "1:2.351",
+      "1:2.352",
+      "1:2.353",
+      "1:2.354",
+      "1:2.355"
+     ],
+     "english": "And many times the child relieves himself there.",
+     "literal": "and-sometimes many the-child relieves-himself there"
+    },
+    {
+     "tokens": [
+      "1:2.356",
+      "1:2.357",
+      "1:2.358",
+      "1:2.359",
+      "1:2.360",
+      "1:2.361",
+      "1:2.362"
+     ],
+     "english": "And the teacher sends to his mother that she should come and wipe her son’s excrement!",
+     "literal": "and-the-teacher sends to-his-mother that-she-come and-wipe the-excrement-of her-son"
+    },
+    {
+     "tokens": [
+      "1:2.363",
+      "1:2.364",
+      "1:2.365",
+      "1:2.366",
+      "1:2.367",
+      "1:2.368"
+     ],
+     "english": "And at the call of the one who calls in the newspapers in those days,",
+     "literal": "and-at-the-call-of the-reader in-the periodicals in-the-days of-those"
+    },
+    {
+     "tokens": [
+      "1:2.369",
+      "1:2.370",
+      "1:2.371",
+      "1:2.372",
+      "1:2.373"
+     ],
+     "english": "from Mr. Eliezer Ben-Yehuda,",
+     "literal": "from Mr. Eliezer ben Yehuda"
+    },
+    {
+     "tokens": [
+      "1:2.374",
+      "1:2.375",
+      "1:2.376",
+      "1:2.377",
+      "1:2.378",
+      "1:2.379"
+     ],
+     "english": "for the revival of the holy Hebrew language, our soul yearned",
+     "literal": "for-the-revival-of the-language Hebrew holy yearned our-soul"
+    },
+    {
+     "tokens": [
+      "1:2.380",
+      "1:2.381",
+      "1:2.382",
+      "1:2.383",
+      "1:2.384",
+      "1:2.385",
+      "1:2.386",
+      "1:2.387",
+      "1:2.388"
+     ],
+     "english": "only in words and mere conversations, and it did not come to realization",
+     "literal": "only and-only for-words and-conversations merely and-not came to realization"
+    },
+    {
+     "tokens": [
+      "1:2.389",
+      "1:2.390",
+      "1:2.391"
+     ],
+     "english": "until the year 5670,",
+     "literal": "until the-year 5670"
+    },
+    {
+     "tokens": [
+      "1:2.392",
+      "1:2.393",
+      "1:2.394",
+      "1:2.395",
+      "1:2.396",
+      "1:2.397",
+      "1:2.398"
+     ],
+     "english": "when our exalted government, the government of Turkey, then deigned",
+     "literal": "which then deigned our-government the-exalted the-government-of Turkey"
+    },
+    {
+     "tokens": [
+      "1:2.399",
+      "1:2.400",
+      "1:2.401",
+      "1:2.402",
+      "1:2.403",
+      "1:2.404"
+     ],
+     "english": "to open schools for the children of Israel,",
+     "literal": "to-open the-houses-of school for-the-children-of the-sons-of Israel"
+    },
+    {
+     "tokens": [
+      "1:2.405",
+      "1:2.406",
+      "1:2.407",
+      "1:2.408",
+      "1:2.409",
+      "1:2.410",
+      "1:2.411"
+     ],
+     "english": "and there was made there a fine organisation for the children of Israel,",
+     "literal": "and-it-was-made there an-organisation fine for-the-children-of the-sons-of Israel"
+    },
+    {
+     "tokens": [
+      "1:2.412",
+      "1:2.413",
+      "1:2.414",
+      "1:2.415",
+      "1:2.416",
+      "1:2.417",
+      "1:2.418",
+      "1:2.419",
+      "1:2.420"
+     ],
+     "english": "in spacious upper rooms with open windows, and bedding of wool, and curtains of goat-hair,",
+     "literal": "in-upper-rooms spacious and-windows open and-bedding of wool and-cloths of-goat-hair"
+    },
+    {
+     "tokens": [
+      "1:2.421",
+      "1:2.422",
+      "1:2.423",
+      "1:2.424",
+      "1:2.425",
+      "1:2.426",
+      "1:2.427"
+     ],
+     "english": "and also tables for the older children to learn and to write on them!",
+     "literal": "and-also tables for-the-children older to-learn and-to-write on-them"
+    },
+    {
+     "tokens": [
+      "1:2.428",
+      "1:2.429",
+      "1:2.430",
+      "1:2.431",
+      "1:2.432",
+      "1:2.433",
+      "1:2.434",
+      "1:2.435",
+      "1:2.436",
+      "1:2.437",
+      "1:2.438",
+      "1:2.439",
+      "1:2.440",
+      "1:2.441",
+      "1:2.442",
+      "1:2.443",
+      "1:2.444",
+      "1:2.445",
+      "1:2.446",
+      "1:2.447",
+      "1:2.448",
+      "1:2.449",
+      "1:2.450",
+      "1:2.451",
+      "1:2.452"
+     ],
+     "english": "Then we said: behold, the time has come to bring out Ashtonot Ish Yerushalayim, may it be rebuilt and established, which, before she travailed, bore the great man in the revival of the Hebrew language, namely Eliezer Ben-Yehuda,",
+     "literal": "then we-said behold has-come the-time to-bring-out into-light Ashtonot the-man-of Jerusalem may-it-be-rebuilt-and-established which before she-began to-bear the-man the-great in-the-revival-of the-language Hebrew he namely Eliezer ben Yehuda"
+    },
+    {
+     "tokens": [
+      "1:2.453",
+      "1:2.454",
+      "1:2.455",
+      "1:2.456",
+      "1:2.457",
+      "1:2.458"
+     ],
+     "english": "and we acknowledge our debt to him for what he did and made,",
+     "literal": "and-we-acknowledge our-debt-to-him for what he-did and-made"
+    },
+    {
+     "tokens": [
+      "1:2.459",
+      "1:2.460",
+      "1:2.461",
+      "1:2.462",
+      "1:2.463",
+      "1:2.464",
+      "1:2.465",
+      "1:2.466",
+      "1:2.467",
+      "1:2.468",
+      "1:2.469",
+      "1:2.470",
+      "1:2.471",
+      "1:2.472",
+      "1:2.473",
+      "1:2.474",
+      "1:2.475",
+      "1:2.476",
+      "1:2.477",
+      "1:2.478",
+      "1:2.479",
+      "1:2.480",
+      "1:2.481"
+     ],
+     "english": "and with all his strength he toiled for the good of the people of Israel and the settlement of the land of Israel and the revival of the Hebrew language; this holy work he performed with wondrous alacrity and diligence; he did, and succeeded in raising it from the dust,",
+     "literal": "and-with-all his-strength he-toiled for-the-good-of the-people of-Israel and-the-settlement of-the-land of-Israel and-the-revival-of the-language Hebrew and-the-work-of the-holy this he-performed with-alacrity and-diligence wondrous and-he-made and-succeeded to-raise-it from-dust"
+    },
+    {
+     "tokens": [
+      "1:2.482",
+      "1:2.483",
+      "1:2.484",
+      "1:2.485",
+      "1:2.486"
+     ],
+     "english": "and after its wearing out it had delight,",
+     "literal": "and-after its-decay it-had for-it a-new-bloom"
+    },
+    {
+     "tokens": [
+      "1:2.487",
+      "1:2.488",
+      "1:2.489",
+      "1:2.490",
+      "1:2.491",
+      "1:2.492",
+      "1:2.493",
+      "1:2.494",
+      "1:2.495",
+      "1:2.496"
+     ],
+     "english": "and because of his love for the holy tongue its wrinkles were smoothed out, and the appearance of its face budded and blossomed,",
+     "literal": "and-because-of his-love for-the-language holy were-smoothed-out its-wrinkles and-the-appearance-of its-face showed-itself and-blossomed"
+    },
+    {
+     "tokens": [
+      "1:2.497",
+      "1:2.498",
+      "1:2.499",
+      "1:2.500",
+      "1:2.501",
+      "1:2.502",
+      "1:2.503"
+     ],
+     "english": "and it found grace and honour in the eyes of its seekers, its knowers, and its acquaintances,",
+     "literal": "and-it-found grace and-honour in-the-eyes-of its-seekers its-knowers and-its-acquaintances"
+    },
+    {
+     "tokens": [
+      "1:2.504",
+      "1:2.505",
+      "1:2.506",
+      "1:2.507",
+      "1:2.508",
+      "1:2.509",
+      "1:2.510",
+      "1:2.511",
+      "1:2.512",
+      "1:2.513",
+      "1:2.514",
+      "1:2.515"
+     ],
+     "english": "and they awoke from their sleep to gird up their senses, to widen it and to enrich it as in the days of its youth, before the exile of the people of Israel!",
+     "literal": "and-they-awoke from-their-sleep to-gird-up their-senses to-widen-it and-to-enrich-it as-in-the-days-of its-youth before the-exile-of the-people-of Israel"
+    },
+    {
+     "tokens": [
+      "1:2.516",
+      "1:2.517",
+      "1:2.518"
+     ],
+     "english": "And because of this mitzvah,",
+     "literal": "and-because-of mitzvah this"
+    },
+    {
+     "tokens": [
+      "1:2.519",
+      "1:2.520",
+      "1:2.521",
+      "1:2.522",
+      "1:2.523"
+     ],
+     "english": "may his soul be bound up in the bundle of life",
+     "literal": "may-be his-soul bound in-the-bundle-of life"
+    },
+    {
+     "tokens": [
+      "1:2.524",
+      "1:2.525",
+      "1:2.526"
+     ],
+     "english": "with the LORD our God,",
+     "literal": "(object-marker) the-LORD our-God"
+    },
+    {
+     "tokens": [
+      "1:2.527",
+      "1:2.528",
+      "1:2.529",
+      "1:2.530",
+      "1:2.531",
+      "1:2.532",
+      "1:2.533"
+     ],
+     "english": "and from the fruit of his labour may his soul be satisfied in Eden, the garden of God!",
+     "literal": "and-from-the-fruit-of his-labour shall-be-satisfied his-soul in-Eden the-garden-of God"
+    }
+   ],
+   "severity": "error",
+   "reason": "Phrases follow the new English."
+  },
+  {
+   "ref": "1:2",
+   "path": "literal",
+   "value": "let-him-reflect the-enlightened-man and-let-him-lament the-fearful-one and-the-trembling-one concerning the-word-of the-LORD concerning the-state-of the-people the-children-of Israel upon-his-seeing that every people and-each of-all the-divisions of-the-nations cherish (object-marker) their-tongue and-magnify (object-marker) their-language which they-were-educated in-it and-in-it were-engraved their-faith and-their-religion each-man to-his-own-tongue and-we people of-the-children-of Israel from-the-time that we-were-exiled from-our-land we-have-abandoned (object-marker) our-tongue holy in-which spoke in-it Adam the-first and-in-it was-given our-Torah holy when-revealed His-glory may-He-be-blessed on the-mountain Sinai and-He-said to-His-people “I-am the-LORD your-God” etc. and-not we-did as-commanded upon-us and-you-shall-teach them (object-marker) your-children to-speak of-them and-as explained Rashi of-blessed-memory in-the-parashah-of Ekev from-here they-said when-the-child begins to-speak his-father speaks-with him in-the-language of-the-holy and-teaches-him Torah thus-far-his-words but all our-conversation with our-children in-the-language of-the-people among-whom we dwell among-them and-the-teachers-of children also they most-of-them not are-able to-speak all their-needs in-the-language of-the-holy even though-they-know it for not they-tried these and-there-is-no system for-teaching children of the-house-of the-elementary-school it-is-known it and-famous the-compassion-of the-father for his-sons and-how-many toils and-exertions they-exert-themselves the-parents in-raising their-children with abundance-of their-attention to all the-needs of-their-children in-his-food and-his-drink suited to-him and-his-bedding and-his-clothing but when it-comes striving to-bring-him-in to-the-house-of school he-casts-him-off to the-teacher-of children in-houses narrow and-dark on remnants-of mats on the-ground without cleanliness for not cleans the-teacher (object-marker) the-abode-of the-children only from-festival to-festival another and-all the-day they-sit crowded without order and-they-breathe air foul and-musty and-they-drink water salty and-because-of this when pass some months from-the-time that-he-was-brought to the-house-of school come-up on-his-head growths and-boils bad and-their-fathers not look-after over-them to-bring for-them water clear and-sweet to-drink nor bedding clean to-sit on-it and-for-most of-the-days they-sit on the-ground without a-mat and-in-the-period-of the-time the-new from-the-year 5650 of-the full-count of-creation were-stirred many of-the-enlightened and-they-sought an-organisation of-the schools and-an-organisation of-their-children for-the-study-of Torah and-the-study-of the-languages Hebrew and-Arabic and-Turkish in-use and-they-strove to-seat teachers enlightened versed-in-the-Torah-of the-LORD to-manage (object-marker) the-children-of the-house-of school in-education moral and-in-cleanliness the-abode-of the-place-of-learning in-houses bright and-with-windows spacious in-order to-breathe air fresh and-clean and-all their-labour of the-enlightened those was to-nothing and-not came-out their-plan to-fruition and-the-children of the-house-of the-elementary-school remained as-they-were with a-teacher in-rooms dark and-musty sitting in-a-crowd this-one learns alef bet and-this-one learns Scripture and-this-one learns with the-Targum of-Onkelos and-the-translation Rabbi-Saadia-Gaon in-Arabic without understanding also the-smallest-of the-small who-are-not fit to-learn at-all like two and-three years they-bring there and-sometimes many the-child relieves-himself there and-the-teacher sends to-his-mother that-she-come and-wipe the-excrement-of her-son and-at-the-call-of the-one-who-calls in-the newspapers in-the-days of-those from Mr. Eliezer ben Yehuda for-the-revival-of the-language Hebrew holy yearned our-soul only and-only in-words and-conversations merely and-not came to realization until the-year 5670 which then deigned our-government the-exalted the-government-of Turkey to-open the-houses-of school for-the-children-of the-sons-of Israel and-it-was-made there an-organisation fine for-the-children-of the-sons-of Israel in-upper-rooms spacious and-windows open and-bedding of wool and-curtains of-goat-hair and-also tables for-the-children older to-learn and-to-write on-them then we-said behold has-come the-time to-bring-out into-light Ashtonot the-man-of Jerusalem may-it-be-rebuilt-and-established which before she-travailed bore the-man the-great in-the-revival-of the-language Hebrew he namely Eliezer ben Yehuda and-we-acknowledge our-debt-to-him for what he-did and-made and-with-all his-strength he-toiled for-the-good-of the-people of-Israel and-the-settlement of-the-land of-Israel and-the-revival-of the-language Hebrew and-the-work-of the-holy this he-performed with-alacrity and-diligence wondrous and-he-made and-succeeded in-raising-it from-dust and-after its-wearing-out it-had for-it delight and-because-of his-love for-the-language holy were-smoothed-out its-wrinkles and-the-appearance-of its-face budded and-blossomed and-it-found grace and-honour in-the-eyes-of its-seekers its-knowers and-its-acquaintances and-they-awoke from-their-sleep to-gird-up their-senses to-widen-it and-to-enrich-it as-in-the-days-of its-youth before the-exile-of the-people-of Israel and-because-of mitzvah this may-be his-soul bound in-the-bundle-of life (object-marker) the-LORD our-God and-from-the-fruit-of his-labour shall-be-satisfied his-soul in-Eden the-garden-of God",
+   "severity": "error",
+   "reason": "Literal follows the corrected words."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.247.gloss",
+   "value": "and in the period of",
+   "severity": "error",
+   "reason": "ובתקופת has the conjunction."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.152.gloss",
+   "value": "the abundance of",
+   "severity": "error",
+   "reason": "רוב here is abundance, not 'the great majority'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.166.gloss",
+   "value": "it comes",
+   "severity": "error",
+   "reason": "הגיע has no expressed subject; 'he comes' is unsupported."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.167.gloss",
+   "value": "striving",
+   "severity": "error",
+   "reason": "חתור is an infinitive (חתר, to strive), not 'eager'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.193.gloss",
+   "value": "from festival",
+   "severity": "error",
+   "reason": "רגל = festival (as in 'the three festivals')."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.194.gloss",
+   "value": "to festival",
+   "severity": "error",
+   "reason": "מרגל לרגל = from festival to festival."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.364.gloss",
+   "value": "the one who calls",
+   "severity": "error",
+   "reason": "הקורא after קול = the caller, cf. Isa 40:3."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.366.gloss",
+   "value": "newspapers",
+   "severity": "error",
+   "reason": "The decisions rule מכתבי עתים = 'newspapers'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.382.gloss",
+   "value": "in words",
+   "severity": "error",
+   "reason": "בדברים has ב, 'in', not 'for'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.441.gloss",
+   "value": "she travailed",
+   "severity": "error",
+   "reason": "Isa 66:7 תחיל = labour pains, not 'begin'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.442.gloss",
+   "value": "bore",
+   "severity": "error",
+   "reason": "ילדה is a perfect, 'she bore', not an infinitive."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.479.gloss",
+   "value": "and succeeded in",
+   "severity": "error",
+   "reason": "הצליח takes להקימה, 'succeeded in raising'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.483.gloss",
+   "value": "its wearing out",
+   "severity": "style",
+   "reason": "בלותה, Gen 18:12 אחרי בלתי."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.486.gloss",
+   "value": "delight",
+   "severity": "error",
+   "reason": "עדנה in Gen 18:12 is 'delight'; 'new bloom' adds 'new'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.495.gloss",
+   "value": "budded",
+   "severity": "style",
+   "reason": "הציץ with פרח recalls Isa 27:6 יציץ ופרח."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.365.note",
+   "value": "Lit. 'in the letters of the times', i.e. in the newspapers (מכתבי עתים).",
+   "severity": "error",
+   "reason": "The note said 'periodicals'; the decisions rule 'newspapers'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.364.note",
+   "value": "הקורא: 'the one who calls', the caller, after קול (cf. Isa 40:3 קול קורא); not 'the reader'.",
+   "severity": "error",
+   "reason": "Learner note for the corrected gloss."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.194.note",
+   "value": "מרגל לרגל: 'from festival to festival' (רגל, a pilgrim festival); the teacher cleans only at festival time.",
+   "severity": "error",
+   "reason": "Learner note for the idiom."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.167.note",
+   "value": "הגיע חתור להכניסו: חתור is the infinitive of חתר, 'to strive, to make an effort'; read as 'when it comes to striving to bring him in'. The construction is unusual; see the question.",
+   "severity": "question",
+   "reason": "Reading of the phrase is uncertain: proposed ruling is 'when it comes to striving to bring him in'; the alternative 'when he comes, eager' is in readings."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.117.note",
+   "value": "יכינו is from הכין, 'to prepare, make ready'; the sense 'are able / know how' is taken from the context (perhaps יבינו or יוכלו was meant). Rendered 'are not able'.",
+   "severity": "question",
+   "reason": "Verb form does not mean 'are able'; propose keeping the sense with a note."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.132.note",
+   "value": "Written ללמוד ('to learn') where the sense is ללמד ('to teach'); rendered 'for teaching'.",
+   "severity": "style",
+   "reason": "The translation silently corrects the verb; a learner needs the note."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.320.note",
+   "value": "Aramaic רבוביא (ribbuvya), 'a multitude, myriads'; here 'in a crowd'.",
+   "severity": "style",
+   "reason": "The word is Talmudic Aramaic, not obscure."
+  },
+  {
+   "ref": "1:2",
+   "path": "apparatus",
+   "value": [
+    "Deut 11:19, 'ולמדתם אותם את בניכם לדבר בם', embedded without quotation marks (tokens 75-80).",
+    "Exod 20:2, 'אנכי ה' אלהיך', the opening of the Decalogue, introduced by ואמר and cut off by the author's וכו' ('etc.'), so the English quotes it and keeps 'etc.'.",
+    "Cf. Isa 66:2, 'וחרד על דברי', and Ezra 9:4: 'the one who fears and trembles at the word of the LORD' (tokens 4-8).",
+    "Cf. Isa 40:3, 'קול קורא': 'ולקול הקורא' (tokens 363-364).",
+    "Isa 66:7, 'בטרם תחיל ילדה': 'before she travailed she bore' (tokens 440-442).",
+    "1 Sam 2:8, 'מקים מעפר דל' (cf. 'להקימה מעפר'); Gen 18:12, 'אחרי בלתי היתה לי עדנה' (tokens 482-486); Isa 27:6, 'יציץ ופרח ישראל' (tokens 495-496); Exod 26:7, 'יריעות עזים' (tokens 418-419).",
+    "1 Sam 25:29, 'צרורה בצרור החיים את ה' אלהיך' ('the bundle of life'), with the author's אלהינו for אלהיך.",
+    "Ezek 28:13, 'בעדן גן אלהים' ('in Eden, the garden of God'), the author's last words exactly.",
+    "The Rashi reference is the author's: 'בפרשת עקב' (Parashat Ekev); no verse is given.",
+    "Dates: 5650 is about 1889-1890 and 5670 is about 1909-1910 of the civil calendar; the text gives no civil year.",
+    "Wikisource text: no collation with the 1931 scan has been made, so any Wikisource addition is translated as base text (Q2)."
+   ],
+   "severity": "error",
+   "reason": "Exact verse for the closing phrase is Ezek 28:13 (not 31:9); several embedded verses were not listed (decisions: recognise Bible verses wherever they occur)."
+  },
+  {
+   "ref": "1:2",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "1:2.3",
+      "1:2.4",
+      "1:2.5",
+      "1:2.6",
+      "1:2.7",
+      "1:2.8"
+     ],
+     "english": "and let the fearful and trembling man lament over the word of the LORD",
+     "source": "grammar",
+     "note": "אל דבר ה' read with ויתאונן; the English takes it with הירא והחרד (cf. Isa 66:2)."
+    },
+    {
+     "tokens": [
+      "1:2.164",
+      "1:2.165",
+      "1:2.166",
+      "1:2.167",
+      "1:2.168"
+     ],
+     "english": "But when he comes, eager to bring him",
+     "source": "grammar",
+     "note": "חתור read as an adjective of the subject (not the infinitive); the English reads the infinitive."
+    }
+   ],
+   "severity": "style",
+   "reason": "Alternative readings the grammar allows."
+  },
+  {
+   "ref": "1:2",
+   "path": "grammar",
+   "value": [
+    "יתבונן and ויתאונן are jussives (hitpa'el): 'let him reflect' and 'and let him lament', a wish addressed to the enlightened and the fearful, not a plain report.",
+    "בראותו is a construct infinitive with a pronominal suffix, 'upon his seeing'; the clause that follows, אשר כל עם ועם ..., states what he sees.",
+    "Rashi's quotation runs from כשהתינוק to תורה, introduced by שמכאן אמרו ('from here they said') and closed by עכ״ל. The words before it are the author's own.",
+    "ולמדתם אותם את בניכם לדבר בם is Deut 11:19 in the second person plural, embedded in the first person plural of ולא עשינו: the author speaks for the community, and the verse's 'you' is the people it addresses.",
+    "חתור in הגיע חתור להכניסו is the infinitive of חתר, 'to strive'; the clause is 'when it comes to striving to bring him in'.",
+    "מרגל לרגל: רגל here is a festival (the three pilgrim festivals), so 'from festival to festival', i.e. rarely."
+   ],
+   "severity": "style",
+   "reason": "Two idioms that a student with one year of Hebrew will misread."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.435.note",
+   "value": "Ashtonot, lit. 'thoughts'. Proposed ruling: the decisions are silent on whether עשתונות איש ירושלים is a title; if it names a book, keep the transliteration and give the meaning once; if it means 'the thoughts of the man of Jerusalem', translate it and let ת״ו attach to Jerusalem.",
+   "severity": "question",
+   "reason": "Decisions silent: Ashtonot Ish Yerushalayim is left as a title, so 'may it be rebuilt and established' reads as if it qualified the title; the following 'which ... she bore' refers to Jerusalem, so ת״ו and 'she' are Jerusalem's. The author gives no sign that this is a book title."
+  }
+ ],
+ "verdicts": []
+}

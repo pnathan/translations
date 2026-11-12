@@ -1,0 +1,1739 @@
+{
+  "unit": "perek-2-04",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "2:9",
+      "english": "Would that, my lord, you would inform me also, who governs all the hidden worlds, of which the Kabbalists did not speak, and who feeds and sustains them. Whether Ze'ir Anpin, this one in the World of Emanation, is the one who feeds and sustains them, and to him they worship and bow down, or Ein Sof is their god, and to Him alone they worship; and we worship Ze'ir Anpin, for he feeds us, and he is our god, as the Kabbalists said. It follows from this that Ein Sof is the god of the upper ones and Ze'ir Anpin the god of the lower ones, and here we have two authorities, God forbid. and explicitly, some of them said: \"every great deed of the LORD,\" by implication there is a small one. And our true Rabbis said, as cited in Menorat ha-Maor, chapter 143, that at the time of the giving of the Torah He tore open for them seven heavens and opened seven lands, and said to them, to Israel: \"Understand the upper ones and understand the lower ones, and know that there is no God besides Me, neither among the upper ones nor among the lower ones: I am the LORD your God.\" In Midrash Rabbah, Parashat Yitro, they said: \"I am the LORD your God.\" Rabbi Abbahu said: \"A parable of a king of flesh and blood who reigns; he has a father, or a brother, or a son. The Holy One, blessed be He, said: I am not so. I am first and I am last, and besides Me there is no God. I am first, for I have no father. I am last, for I have no son. And besides Me there is no God, for I have no brother.\" Thus far the Midrash, etc. The Rabbi Etz Yosef, of blessed memory, that is to say, \"that a king of flesh and blood, his kingship is not complete, because he has a father, whom he must honor, and who shares the kingship with him, or he has a brother who has a share in the honor of kingship, or he has a son who exercises authority with him, and after him is heir to the throne. And the explanation: he has no father, which is the First Cause. And he has no brother, for He is one, and has no second. And he has no son, in that the effects were not drawn from Him by nature, as a son is drawn from a father, as some thought (this is the view of the Kabbalists, who said that Ze'ir Anpin is a son of Abba and Imma, and he is a father to the effects that follow him, etc., and he has a sister or sisters, his nukvin) for according to that view he has no power to change any of the things, and his kingship is not complete. But the Holy One, blessed be He, said: 'I am the LORD your God,' for this is His power to bring them out of the land of Egypt, since His kingship is complete and there is none who can thwart His hand.\" Thus far his words.",
+      "literal": "would-that my-lord inform-me also who governs all the-worlds the-hidden which did-not speak of-them the-Kabbalists and-who feeds-them and-sustains-them whether Ze'ir Anpin this in-the-World-of-Emanation is the-one-who-feeds-them and-sustains-them and-to-him they worship and-bow-down or Ein Sof is their-god and-to-Him alone they-worship and-we to-Ze'ir-Anpin worship for he feeds us and-he is-our-god as they-said the-Kabbalists and-it-follows according-to this that Ein Sof is god-of the-upper-ones and Ze'ir-Anpin god-of the-lower-ones and-here we-have two authorities God-forbid and-explicitly said some-of-them (object marker) every deed the-great of-the-LORD by-implication there-is a-small-one and-our-Rabbis true said cited in-Menorat ha-Maor chapter 143 at-the-time-of the-giving-of the-Torah tore-open for-them seven heavens and-opened seven lands and-said to-them to-Israel understand the-upper-ones and-understand the-lower-ones and-know that-there-is-no God besides-me neither in-the-upper-ones nor in-the-lower-ones I the-LORD your-God and-in Midrash Rabbah Parashat Yitro said I the-LORD your-God said Rabbi Abbahu parable of-king of-flesh and-blood who-reigns he-has to-him father or brother or son said the-Holy-One-blessed-be-He I am-not so first and-I last and-besides-me there-is-no God I first that-there-is-no to-me father and-I last that-there-is-no to-me son and-besides-me there-is-no God that-there-is-no to-me brother thus-far his-words the-Midrash etc. the-Rabbi Etz Yosef of-blessed-memory that-is-to-say that a-king of-flesh-and-blood is-not his-kingship complete because he-has to-him a-father and-must show him honor and-shares with-him in-the-kingship or he-has to-him brother who-has to-him a-share in-the-honor of-kingship or he-has to-him son who-exercises authority with-him and-after-him heir to-the-throne and-the-explanation he-has-no to-him father which-is the-cause the-first and-no to-him brother for He is-one and-there-is-no second to-him and-he-has-no to-him son in-that not were-drawn the-effects from-Him by-nature as a-son from the-father as that-they-thought some this-is the-view of-the-Kabbalists who-said that Ze'ir-Anpin is-a-son of-Abba-and-Imma and-he is-a-father to-the-effects that-follow-him etc. and-he-has to-him sister or sisters nukvin his for according-to that view that there-is-no the-power in-his-hand to-change any thing of the-things and-no his-kingship complete but the-Holy-One-blessed-be-He said I the-LORD your-God for this his-power to-bring-them out-of-the-land-of Egypt since his-kingship complete and-there-is-none who-can-thwart his-hand thus-far his-words",
+      "tokens": [
+        {
+          "id": "2:9.1",
+          "gloss": "would that"
+        },
+        {
+          "id": "2:9.2",
+          "gloss": "my lord",
+          "note": "The questioner's letter is addressed to 'my lord' (his respondent); the paragraph is in his voice."
+        },
+        {
+          "id": "2:9.3",
+          "gloss": "inform me"
+        },
+        {
+          "id": "2:9.4",
+          "gloss": "also"
+        },
+        {
+          "id": "2:9.5",
+          "gloss": "who"
+        },
+        {
+          "id": "2:9.6",
+          "gloss": "governs"
+        },
+        {
+          "id": "2:9.7",
+          "gloss": "all"
+        },
+        {
+          "id": "2:9.8",
+          "gloss": "the worlds"
+        },
+        {
+          "id": "2:9.9",
+          "gloss": "the hidden"
+        },
+        {
+          "id": "2:9.10",
+          "gloss": "which"
+        },
+        {
+          "id": "2:9.11",
+          "gloss": "did not"
+        },
+        {
+          "id": "2:9.12",
+          "gloss": "speak"
+        },
+        {
+          "id": "2:9.13",
+          "gloss": "of them"
+        },
+        {
+          "id": "2:9.14",
+          "gloss": "the Kabbalists"
+        },
+        {
+          "id": "2:9.15",
+          "gloss": "and who"
+        },
+        {
+          "id": "2:9.16",
+          "gloss": "feeds them"
+        },
+        {
+          "id": "2:9.17",
+          "gloss": "and sustains them"
+        },
+        {
+          "id": "2:9.18",
+          "gloss": "whether"
+        },
+        {
+          "id": "2:9.19",
+          "gloss": "Ze'ir",
+          "note": "Ze'ir Anpin: Aramaic, 'small face'. The name is transliterated; this is its first occurrence in the unit, so the sense is given here. Ze'ir alone is the short form."
+        },
+        {
+          "id": "2:9.20",
+          "gloss": "Anpin"
+        },
+        {
+          "id": "2:9.21",
+          "gloss": "this one"
+        },
+        {
+          "id": "2:9.22",
+          "gloss": "in the World of Emanation",
+          "note": "The World of Emanation (olam ha-atzilut), the first of the four worlds: Emanation, Creation, Formation, Making."
+        },
+        {
+          "id": "2:9.23",
+          "gloss": "is"
+        },
+        {
+          "id": "2:9.24",
+          "gloss": "the one who feeds them"
+        },
+        {
+          "id": "2:9.25",
+          "gloss": "and sustains them"
+        },
+        {
+          "id": "2:9.26",
+          "gloss": "and to him"
+        },
+        {
+          "id": "2:9.27",
+          "gloss": "they"
+        },
+        {
+          "id": "2:9.28",
+          "gloss": "worship"
+        },
+        {
+          "id": "2:9.29",
+          "gloss": "and bow down"
+        },
+        {
+          "id": "2:9.30",
+          "gloss": "or"
+        },
+        {
+          "id": "2:9.31",
+          "gloss": "Ein",
+          "note": "Ein Sof, literally 'without end'. A name with no article; the two words are one name."
+        },
+        {
+          "id": "2:9.32",
+          "gloss": "Sof"
+        },
+        {
+          "id": "2:9.33",
+          "gloss": "is"
+        },
+        {
+          "id": "2:9.34",
+          "gloss": "their god",
+          "note": "The questioner's word for the god of the Kabbalists' view: lower case 'god', not the God of the verses."
+        },
+        {
+          "id": "2:9.35",
+          "gloss": "and to Him"
+        },
+        {
+          "id": "2:9.36",
+          "gloss": "alone"
+        },
+        {
+          "id": "2:9.37",
+          "gloss": "they worship"
+        },
+        {
+          "id": "2:9.38",
+          "gloss": "and we"
+        },
+        {
+          "id": "2:9.39",
+          "gloss": "to Ze'ir Anpin",
+          "note": "Ze'ir Anpin, with the preposition ל (to)."
+        },
+        {
+          "id": "2:9.40",
+          "gloss": "worship"
+        },
+        {
+          "id": "2:9.41",
+          "gloss": "for"
+        },
+        {
+          "id": "2:9.42",
+          "gloss": "he"
+        },
+        {
+          "id": "2:9.43",
+          "gloss": "feeds"
+        },
+        {
+          "id": "2:9.44",
+          "gloss": "us"
+        },
+        {
+          "id": "2:9.45",
+          "gloss": "and he"
+        },
+        {
+          "id": "2:9.46",
+          "gloss": "is our god",
+          "note": "'Our god' is the questioner's phrase for Ze'ir Anpin, quoting the Kabbalists' view (see the note on token 34)."
+        },
+        {
+          "id": "2:9.47",
+          "gloss": "as"
+        },
+        {
+          "id": "2:9.48",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.49",
+          "gloss": "the Kabbalists"
+        },
+        {
+          "id": "2:9.50",
+          "gloss": "and so"
+        },
+        {
+          "id": "2:9.51",
+          "gloss": "according to this"
+        },
+        {
+          "id": "2:9.52",
+          "gloss": "this"
+        },
+        {
+          "id": "2:9.53",
+          "gloss": "that"
+        },
+        {
+          "id": "2:9.54",
+          "gloss": "Ein"
+        },
+        {
+          "id": "2:9.55",
+          "gloss": "Sof"
+        },
+        {
+          "id": "2:9.56",
+          "gloss": "is"
+        },
+        {
+          "id": "2:9.57",
+          "gloss": "the god of"
+        },
+        {
+          "id": "2:9.58",
+          "gloss": "the upper ones"
+        },
+        {
+          "id": "2:9.59",
+          "gloss": "and Ze'ir Anpin"
+        },
+        {
+          "id": "2:9.60",
+          "gloss": "the god of"
+        },
+        {
+          "id": "2:9.61",
+          "gloss": "the lower ones"
+        },
+        {
+          "id": "2:9.62",
+          "gloss": "and here"
+        },
+        {
+          "id": "2:9.63",
+          "gloss": "we have"
+        },
+        {
+          "id": "2:9.64",
+          "gloss": "two"
+        },
+        {
+          "id": "2:9.65",
+          "gloss": "authorities",
+          "note": "רשויות, literally 'authorities': the two powers that would rule, which the questioner takes to follow."
+        },
+        {
+          "id": "2:9.66",
+          "gloss": "God forbid",
+          "note": "ח\"ו = חס ושלום, 'God forbid'."
+        },
+        {
+          "id": "2:9.67",
+          "gloss": "and explicitly"
+        },
+        {
+          "id": "2:9.68",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.69",
+          "gloss": "some of them"
+        },
+        {
+          "id": "2:9.70",
+          "gloss": "(object marker)",
+          "note": "את is the object marker and has no English counterpart."
+        },
+        {
+          "id": "2:9.71",
+          "gloss": "every"
+        },
+        {
+          "id": "2:9.72",
+          "gloss": "deed"
+        },
+        {
+          "id": "2:9.73",
+          "gloss": "of the LORD"
+        },
+        {
+          "id": "2:9.74",
+          "gloss": "great"
+        },
+        {
+          "id": "2:9.75",
+          "gloss": "by implication",
+          "note": "מכלל דאיכא קטן, 'by implication there is a small one': the Talmudic inference that the great implies a lesser."
+        },
+        {
+          "id": "2:9.76",
+          "gloss": "there is"
+        },
+        {
+          "id": "2:9.77",
+          "gloss": "a small one"
+        },
+        {
+          "id": "2:9.78",
+          "gloss": "and our Rabbis"
+        },
+        {
+          "id": "2:9.79",
+          "gloss": "true"
+        },
+        {
+          "id": "2:9.80",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.81",
+          "gloss": "cited"
+        },
+        {
+          "id": "2:9.82",
+          "gloss": "in Menorat",
+          "note": "Menorat ha-Maor, 'the candelabrum of light', a book; the title is transliterated and the reference kept as written."
+        },
+        {
+          "id": "2:9.83",
+          "gloss": "ha-Maor"
+        },
+        {
+          "id": "2:9.84",
+          "gloss": "chapter",
+          "note": "פ' is abbreviated and may read 'chapter' or 'section' (פרק or פרשה); read as 'chapter', and kept as the author writes it."
+        },
+        {
+          "id": "2:9.85",
+          "gloss": "143",
+          "note": "קמ\"ג = 143 (the letters 100, 40, 3)."
+        },
+        {
+          "id": "2:9.86",
+          "gloss": "at the time"
+        },
+        {
+          "id": "2:9.87",
+          "gloss": "of the giving"
+        },
+        {
+          "id": "2:9.88",
+          "gloss": "of the Torah"
+        },
+        {
+          "id": "2:9.89",
+          "gloss": "tore open"
+        },
+        {
+          "id": "2:9.90",
+          "gloss": "for them"
+        },
+        {
+          "id": "2:9.91",
+          "gloss": "seven"
+        },
+        {
+          "id": "2:9.92",
+          "gloss": "heavens"
+        },
+        {
+          "id": "2:9.93",
+          "gloss": "and opened"
+        },
+        {
+          "id": "2:9.94",
+          "gloss": "seven",
+          "note": "ז' = seven."
+        },
+        {
+          "id": "2:9.95",
+          "gloss": "lands"
+        },
+        {
+          "id": "2:9.96",
+          "gloss": "and said"
+        },
+        {
+          "id": "2:9.97",
+          "gloss": "to them"
+        },
+        {
+          "id": "2:9.98",
+          "gloss": "to Israel"
+        },
+        {
+          "id": "2:9.99",
+          "gloss": "understand",
+          "note": "Plural imperative, addressed to Israel: 'understand'."
+        },
+        {
+          "id": "2:9.100",
+          "gloss": "the upper ones"
+        },
+        {
+          "id": "2:9.101",
+          "gloss": "and understand"
+        },
+        {
+          "id": "2:9.102",
+          "gloss": "the lower ones"
+        },
+        {
+          "id": "2:9.103",
+          "gloss": "and know"
+        },
+        {
+          "id": "2:9.104",
+          "gloss": "that there is no"
+        },
+        {
+          "id": "2:9.105",
+          "gloss": "God"
+        },
+        {
+          "id": "2:9.106",
+          "gloss": "besides Me"
+        },
+        {
+          "id": "2:9.107",
+          "gloss": "neither"
+        },
+        {
+          "id": "2:9.108",
+          "gloss": "among the upper ones"
+        },
+        {
+          "id": "2:9.109",
+          "gloss": "nor"
+        },
+        {
+          "id": "2:9.110",
+          "gloss": "among the lower ones"
+        },
+        {
+          "id": "2:9.111",
+          "gloss": "I"
+        },
+        {
+          "id": "2:9.112",
+          "gloss": "the LORD",
+          "note": "ה' as written is the Tetragrammaton: 'the LORD'."
+        },
+        {
+          "id": "2:9.113",
+          "gloss": "your God"
+        },
+        {
+          "id": "2:9.114",
+          "gloss": "and in Midrash",
+          "note": "Midrash Rabbah: the great midrashic collection on the Torah."
+        },
+        {
+          "id": "2:9.115",
+          "gloss": "Rabbah"
+        },
+        {
+          "id": "2:9.116",
+          "gloss": "Parashat",
+          "note": "Parashat: the parashah of the Torah reading (Exod 18-20)."
+        },
+        {
+          "id": "2:9.117",
+          "gloss": "Yitro"
+        },
+        {
+          "id": "2:9.118",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.119",
+          "gloss": "I"
+        },
+        {
+          "id": "2:9.120",
+          "gloss": "the LORD"
+        },
+        {
+          "id": "2:9.121",
+          "gloss": "your God"
+        },
+        {
+          "id": "2:9.122",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.123",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "2:9.124",
+          "gloss": "Abbahu"
+        },
+        {
+          "id": "2:9.125",
+          "gloss": "a parable"
+        },
+        {
+          "id": "2:9.126",
+          "gloss": "of a king"
+        },
+        {
+          "id": "2:9.127",
+          "gloss": "of flesh"
+        },
+        {
+          "id": "2:9.128",
+          "gloss": "and blood"
+        },
+        {
+          "id": "2:9.129",
+          "gloss": "who reigns"
+        },
+        {
+          "id": "2:9.130",
+          "gloss": "he has"
+        },
+        {
+          "id": "2:9.131",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.132",
+          "gloss": "a father"
+        },
+        {
+          "id": "2:9.133",
+          "gloss": "or"
+        },
+        {
+          "id": "2:9.134",
+          "gloss": "a brother"
+        },
+        {
+          "id": "2:9.135",
+          "gloss": "or"
+        },
+        {
+          "id": "2:9.136",
+          "gloss": "a son"
+        },
+        {
+          "id": "2:9.137",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.138",
+          "gloss": "the Holy One, blessed be He",
+          "note": "הקב\"ה = 'the Holy One, blessed be He'."
+        },
+        {
+          "id": "2:9.139",
+          "gloss": "I"
+        },
+        {
+          "id": "2:9.140",
+          "gloss": "am not"
+        },
+        {
+          "id": "2:9.141",
+          "gloss": "so"
+        },
+        {
+          "id": "2:9.142",
+          "gloss": "first"
+        },
+        {
+          "id": "2:9.143",
+          "gloss": "and I"
+        },
+        {
+          "id": "2:9.144",
+          "gloss": "last"
+        },
+        {
+          "id": "2:9.145",
+          "gloss": "and besides Me"
+        },
+        {
+          "id": "2:9.146",
+          "gloss": "there is no"
+        },
+        {
+          "id": "2:9.147",
+          "gloss": "God"
+        },
+        {
+          "id": "2:9.148",
+          "gloss": "I"
+        },
+        {
+          "id": "2:9.149",
+          "gloss": "first"
+        },
+        {
+          "id": "2:9.150",
+          "gloss": "that there is no"
+        },
+        {
+          "id": "2:9.151",
+          "gloss": "to me"
+        },
+        {
+          "id": "2:9.152",
+          "gloss": "father"
+        },
+        {
+          "id": "2:9.153",
+          "gloss": "and I"
+        },
+        {
+          "id": "2:9.154",
+          "gloss": "last"
+        },
+        {
+          "id": "2:9.155",
+          "gloss": "that there is no"
+        },
+        {
+          "id": "2:9.156",
+          "gloss": "to me"
+        },
+        {
+          "id": "2:9.157",
+          "gloss": "son"
+        },
+        {
+          "id": "2:9.158",
+          "gloss": "and besides Me"
+        },
+        {
+          "id": "2:9.159",
+          "gloss": "there is no"
+        },
+        {
+          "id": "2:9.160",
+          "gloss": "God"
+        },
+        {
+          "id": "2:9.161",
+          "gloss": "that there is no"
+        },
+        {
+          "id": "2:9.162",
+          "gloss": "to me"
+        },
+        {
+          "id": "2:9.163",
+          "gloss": "brother"
+        },
+        {
+          "id": "2:9.164",
+          "gloss": "thus far his words",
+          "note": "עכ\"ל: the closing formula of a quotation, 'thus far his words'."
+        },
+        {
+          "id": "2:9.165",
+          "gloss": "the Midrash"
+        },
+        {
+          "id": "2:9.166",
+          "gloss": "etc.",
+          "note": "וכו' is kept as 'etc.', because it marks a truncated quotation."
+        },
+        {
+          "id": "2:9.167",
+          "gloss": "the Rabbi",
+          "note": "הר', 'the Rabbi', before the name of the commentary Etz Yosef, which the Hebrew gives in place of a personal name."
+        },
+        {
+          "id": "2:9.168",
+          "gloss": "Etz"
+        },
+        {
+          "id": "2:9.169",
+          "gloss": "Yosef"
+        },
+        {
+          "id": "2:9.170",
+          "gloss": "of blessed memory"
+        },
+        {
+          "id": "2:9.171",
+          "gloss": "that is to say",
+          "note": "ר\"ל = רוצה לומר, 'that is to say'; it introduces the commentator's sense of the Midrash."
+        },
+        {
+          "id": "2:9.172",
+          "gloss": "that a king"
+        },
+        {
+          "id": "2:9.173",
+          "gloss": "of flesh and blood",
+          "note": "ב\"ו = בשר ודם, 'flesh and blood': a human king."
+        },
+        {
+          "id": "2:9.174",
+          "gloss": "is not"
+        },
+        {
+          "id": "2:9.175",
+          "gloss": "his kingship"
+        },
+        {
+          "id": "2:9.176",
+          "gloss": "complete"
+        },
+        {
+          "id": "2:9.177",
+          "gloss": "because"
+        },
+        {
+          "id": "2:9.178",
+          "gloss": "he has"
+        },
+        {
+          "id": "2:9.179",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.180",
+          "gloss": "a father"
+        },
+        {
+          "id": "2:9.181",
+          "gloss": "and must"
+        },
+        {
+          "id": "2:9.182",
+          "gloss": "show"
+        },
+        {
+          "id": "2:9.183",
+          "gloss": "him"
+        },
+        {
+          "id": "2:9.184",
+          "gloss": "honor"
+        },
+        {
+          "id": "2:9.185",
+          "gloss": "and shares"
+        },
+        {
+          "id": "2:9.186",
+          "gloss": "with him"
+        },
+        {
+          "id": "2:9.187",
+          "gloss": "in the kingship"
+        },
+        {
+          "id": "2:9.188",
+          "gloss": "or"
+        },
+        {
+          "id": "2:9.189",
+          "gloss": "he has"
+        },
+        {
+          "id": "2:9.190",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.191",
+          "gloss": "a brother"
+        },
+        {
+          "id": "2:9.192",
+          "gloss": "who has"
+        },
+        {
+          "id": "2:9.193",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.194",
+          "gloss": "a share"
+        },
+        {
+          "id": "2:9.195",
+          "gloss": "in the honor"
+        },
+        {
+          "id": "2:9.196",
+          "gloss": "of kingship"
+        },
+        {
+          "id": "2:9.197",
+          "gloss": "or"
+        },
+        {
+          "id": "2:9.198",
+          "gloss": "he has"
+        },
+        {
+          "id": "2:9.199",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.200",
+          "gloss": "a son"
+        },
+        {
+          "id": "2:9.201",
+          "gloss": "who exercises"
+        },
+        {
+          "id": "2:9.202",
+          "gloss": "authority"
+        },
+        {
+          "id": "2:9.203",
+          "gloss": "with him"
+        },
+        {
+          "id": "2:9.204",
+          "gloss": "and after him"
+        },
+        {
+          "id": "2:9.205",
+          "gloss": "heir"
+        },
+        {
+          "id": "2:9.206",
+          "gloss": "to the throne"
+        },
+        {
+          "id": "2:9.207",
+          "gloss": "and the explanation"
+        },
+        {
+          "id": "2:9.208",
+          "gloss": "he has no"
+        },
+        {
+          "id": "2:9.209",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.210",
+          "gloss": "father"
+        },
+        {
+          "id": "2:9.211",
+          "gloss": "which is"
+        },
+        {
+          "id": "2:9.212",
+          "gloss": "the",
+          "note": "הסבה הראשונה, 'the First Cause', a term of the philosophers."
+        },
+        {
+          "id": "2:9.213",
+          "gloss": "First Cause"
+        },
+        {
+          "id": "2:9.214",
+          "gloss": "and no"
+        },
+        {
+          "id": "2:9.215",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.216",
+          "gloss": "brother"
+        },
+        {
+          "id": "2:9.217",
+          "gloss": "for"
+        },
+        {
+          "id": "2:9.218",
+          "gloss": "He"
+        },
+        {
+          "id": "2:9.219",
+          "gloss": "is one"
+        },
+        {
+          "id": "2:9.220",
+          "gloss": "and there is no"
+        },
+        {
+          "id": "2:9.221",
+          "gloss": "second"
+        },
+        {
+          "id": "2:9.222",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.223",
+          "gloss": "and he has no"
+        },
+        {
+          "id": "2:9.224",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.225",
+          "gloss": "son"
+        },
+        {
+          "id": "2:9.226",
+          "gloss": "in that not"
+        },
+        {
+          "id": "2:9.227",
+          "gloss": "were drawn"
+        },
+        {
+          "id": "2:9.228",
+          "gloss": "the effects"
+        },
+        {
+          "id": "2:9.229",
+          "gloss": "from Him"
+        },
+        {
+          "id": "2:9.230",
+          "gloss": "by nature"
+        },
+        {
+          "id": "2:9.231",
+          "gloss": "as a son"
+        },
+        {
+          "id": "2:9.232",
+          "gloss": "from"
+        },
+        {
+          "id": "2:9.233",
+          "gloss": "the father"
+        },
+        {
+          "id": "2:9.234",
+          "gloss": "as"
+        },
+        {
+          "id": "2:9.235",
+          "gloss": "that they thought"
+        },
+        {
+          "id": "2:9.236",
+          "gloss": "some"
+        },
+        {
+          "id": "2:9.237",
+          "gloss": "this is"
+        },
+        {
+          "id": "2:9.238",
+          "gloss": "the view"
+        },
+        {
+          "id": "2:9.239",
+          "gloss": "of the Kabbalists"
+        },
+        {
+          "id": "2:9.240",
+          "gloss": "who said"
+        },
+        {
+          "id": "2:9.241",
+          "gloss": "that Ze'ir Anpin",
+          "note": "שז\"א = ש + ז\"א: 'that Ze'ir Anpin'."
+        },
+        {
+          "id": "2:9.242",
+          "gloss": "is a son"
+        },
+        {
+          "id": "2:9.243",
+          "gloss": "of Abba and Imma",
+          "note": "לאו\"א = לאבא ולאמא: Abba and Imma, the upper partzufim, transliterated."
+        },
+        {
+          "id": "2:9.244",
+          "gloss": "and he"
+        },
+        {
+          "id": "2:9.245",
+          "gloss": "is a father"
+        },
+        {
+          "id": "2:9.246",
+          "gloss": "to the effects"
+        },
+        {
+          "id": "2:9.247",
+          "gloss": "that follow him"
+        },
+        {
+          "id": "2:9.248",
+          "gloss": "etc."
+        },
+        {
+          "id": "2:9.249",
+          "gloss": "and he has"
+        },
+        {
+          "id": "2:9.250",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:9.251",
+          "gloss": "a sister"
+        },
+        {
+          "id": "2:9.252",
+          "gloss": "or"
+        },
+        {
+          "id": "2:9.253",
+          "gloss": "sisters"
+        },
+        {
+          "id": "2:9.254",
+          "gloss": "nukvin",
+          "note": "Aramaic plural of nukva, 'female'; transliterated as nukvin."
+        },
+        {
+          "id": "2:9.255",
+          "gloss": "his",
+          "note": "Aramaic 'of his'."
+        },
+        {
+          "id": "2:9.256",
+          "gloss": "for"
+        },
+        {
+          "id": "2:9.257",
+          "gloss": "according to"
+        },
+        {
+          "id": "2:9.258",
+          "gloss": "that view"
+        },
+        {
+          "id": "2:9.259",
+          "gloss": "that"
+        },
+        {
+          "id": "2:9.260",
+          "gloss": "there is no"
+        },
+        {
+          "id": "2:9.261",
+          "gloss": "the power"
+        },
+        {
+          "id": "2:9.262",
+          "gloss": "in his hand"
+        },
+        {
+          "id": "2:9.263",
+          "gloss": "to change"
+        },
+        {
+          "id": "2:9.264",
+          "gloss": "any"
+        },
+        {
+          "id": "2:9.265",
+          "gloss": "thing"
+        },
+        {
+          "id": "2:9.266",
+          "gloss": "of"
+        },
+        {
+          "id": "2:9.267",
+          "gloss": "the things"
+        },
+        {
+          "id": "2:9.268",
+          "gloss": "and no"
+        },
+        {
+          "id": "2:9.269",
+          "gloss": "his kingship"
+        },
+        {
+          "id": "2:9.270",
+          "gloss": "complete"
+        },
+        {
+          "id": "2:9.271",
+          "gloss": "but"
+        },
+        {
+          "id": "2:9.272",
+          "gloss": "the Holy One, blessed be He",
+          "note": "הקב\"ה = 'the Holy One, blessed be He'."
+        },
+        {
+          "id": "2:9.273",
+          "gloss": "said"
+        },
+        {
+          "id": "2:9.274",
+          "gloss": "I"
+        },
+        {
+          "id": "2:9.275",
+          "gloss": "the LORD"
+        },
+        {
+          "id": "2:9.276",
+          "gloss": "your God"
+        },
+        {
+          "id": "2:9.277",
+          "gloss": "for"
+        },
+        {
+          "id": "2:9.278",
+          "gloss": "this"
+        },
+        {
+          "id": "2:9.279",
+          "gloss": "his power"
+        },
+        {
+          "id": "2:9.280",
+          "gloss": "to bring them out"
+        },
+        {
+          "id": "2:9.281",
+          "gloss": "out of the land of"
+        },
+        {
+          "id": "2:9.282",
+          "gloss": "Egypt"
+        },
+        {
+          "id": "2:9.283",
+          "gloss": "since"
+        },
+        {
+          "id": "2:9.284",
+          "gloss": "his kingship"
+        },
+        {
+          "id": "2:9.285",
+          "gloss": "complete"
+        },
+        {
+          "id": "2:9.286",
+          "gloss": "and there is none"
+        },
+        {
+          "id": "2:9.287",
+          "gloss": "who can thwart",
+          "note": "Aramaic, 'can wipe out, thwart' (dimchi), from the root 'to strike, wipe out'."
+        },
+        {
+          "id": "2:9.288",
+          "gloss": "His hand"
+        },
+        {
+          "id": "2:9.289",
+          "gloss": "thus far his words",
+          "note": "עכ\"ל: the closing formula, 'thus far his words'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "2:9.1",
+            "2:9.2",
+            "2:9.3",
+            "2:9.4"
+          ],
+          "english": "Would that, my lord, you would inform me also,",
+          "literal": "would-that my-lord inform-me also"
+        },
+        {
+          "tokens": [
+            "2:9.5",
+            "2:9.6",
+            "2:9.7",
+            "2:9.8",
+            "2:9.9",
+            "2:9.10",
+            "2:9.11",
+            "2:9.12",
+            "2:9.13",
+            "2:9.14",
+            "2:9.15",
+            "2:9.16",
+            "2:9.17"
+          ],
+          "english": "who governs all the hidden worlds, of which the Kabbalists did not speak, and who feeds and sustains them.",
+          "literal": "who governs all the-worlds the-hidden which did-not speak of-them the-Kabbalists and-who feeds-them and-sustains-them"
+        },
+        {
+          "tokens": [
+            "2:9.18",
+            "2:9.19",
+            "2:9.20",
+            "2:9.21",
+            "2:9.22",
+            "2:9.23",
+            "2:9.24",
+            "2:9.25",
+            "2:9.26",
+            "2:9.27",
+            "2:9.28",
+            "2:9.29"
+          ],
+          "english": "Whether Ze'ir Anpin, this one in the World of Emanation, is the one who feeds and sustains them, and to him they worship and bow down,",
+          "literal": "whether Ze'ir Anpin this in-the-World-of-Emanation is the-one-who-feeds-them and-sustains-them and-to-him they worship and-bow-down"
+        },
+        {
+          "tokens": [
+            "2:9.30",
+            "2:9.31",
+            "2:9.32",
+            "2:9.33",
+            "2:9.34",
+            "2:9.35",
+            "2:9.36",
+            "2:9.37"
+          ],
+          "english": "or Ein Sof is their god, and to Him alone they worship;",
+          "literal": "or Ein Sof is their-god and-to-Him alone they-worship"
+        },
+        {
+          "tokens": [
+            "2:9.38",
+            "2:9.39",
+            "2:9.40",
+            "2:9.41",
+            "2:9.42",
+            "2:9.43",
+            "2:9.44",
+            "2:9.45",
+            "2:9.46",
+            "2:9.47",
+            "2:9.48",
+            "2:9.49"
+          ],
+          "english": "and we worship Ze'ir Anpin, for he feeds us, and he is our god, as the Kabbalists said.",
+          "literal": "and-we to-Ze'ir-Anpin worship for he feeds us and-he is-our-god as they-said the-Kabbalists"
+        },
+        {
+          "tokens": [
+            "2:9.50",
+            "2:9.51",
+            "2:9.52",
+            "2:9.53",
+            "2:9.54",
+            "2:9.55",
+            "2:9.56",
+            "2:9.57",
+            "2:9.58",
+            "2:9.59",
+            "2:9.60",
+            "2:9.61",
+            "2:9.62",
+            "2:9.63",
+            "2:9.64",
+            "2:9.65",
+            "2:9.66"
+          ],
+          "english": "It follows from this that Ein Sof is the god of the upper ones and Ze'ir Anpin the god of the lower ones, and here we have two authorities, God forbid.",
+          "literal": "and-it-follows according-to this that Ein Sof is god-of the-upper-ones and Ze'ir-Anpin god-of the-lower-ones and-here we-have two authorities God-forbid"
+        },
+        {
+          "tokens": [
+            "2:9.67",
+            "2:9.68",
+            "2:9.69"
+          ],
+          "english": "and explicitly, some of them said:",
+          "literal": "and-explicitly said some-of-them"
+        },
+        {
+          "tokens": [
+            "2:9.70"
+          ],
+          "english": "-",
+          "literal": "(object marker)"
+        },
+        {
+          "tokens": [
+            "2:9.71",
+            "2:9.72",
+            "2:9.73",
+            "2:9.74",
+            "2:9.75",
+            "2:9.76",
+            "2:9.77"
+          ],
+          "english": "\"every great deed of the LORD,\" by implication there is a small one.",
+          "literal": "every deed the-great of-the-LORD by-implication there-is a-small-one"
+        },
+        {
+          "tokens": [
+            "2:9.78",
+            "2:9.79",
+            "2:9.80",
+            "2:9.81",
+            "2:9.82",
+            "2:9.83",
+            "2:9.84",
+            "2:9.85",
+            "2:9.86",
+            "2:9.87",
+            "2:9.88"
+          ],
+          "english": "And our true Rabbis said, as cited in Menorat ha-Maor, chapter 143, that at the time of the giving of the Torah",
+          "literal": "and-our-Rabbis true said cited in-Menorat ha-Maor chapter 143 at-the-time-of the-giving-of the-Torah"
+        },
+        {
+          "tokens": [
+            "2:9.89",
+            "2:9.90",
+            "2:9.91",
+            "2:9.92",
+            "2:9.93",
+            "2:9.94",
+            "2:9.95",
+            "2:9.96",
+            "2:9.97",
+            "2:9.98"
+          ],
+          "english": "He tore open for them seven heavens and opened seven lands, and said to them, to Israel:",
+          "literal": "tore-open for-them seven heavens and-opened seven lands and-said to-them to-Israel"
+        },
+        {
+          "tokens": [
+            "2:9.99",
+            "2:9.100",
+            "2:9.101",
+            "2:9.102",
+            "2:9.103",
+            "2:9.104",
+            "2:9.105",
+            "2:9.106",
+            "2:9.107",
+            "2:9.108",
+            "2:9.109",
+            "2:9.110",
+            "2:9.111",
+            "2:9.112",
+            "2:9.113"
+          ],
+          "english": "\"Understand the upper ones and understand the lower ones, and know that there is no God besides Me, neither among the upper ones nor among the lower ones: I am the LORD your God.\"",
+          "literal": "understand the-upper-ones and-understand the-lower-ones and-know that-there-is-no God besides-me neither in-the-upper-ones nor in-the-lower-ones I the-LORD your-God"
+        },
+        {
+          "tokens": [
+            "2:9.114",
+            "2:9.115",
+            "2:9.116",
+            "2:9.117",
+            "2:9.118",
+            "2:9.119",
+            "2:9.120",
+            "2:9.121"
+          ],
+          "english": "In Midrash Rabbah, Parashat Yitro, they said: \"I am the LORD your God.\"",
+          "literal": "and-in Midrash Rabbah Parashat Yitro said I the-LORD your-God"
+        },
+        {
+          "tokens": [
+            "2:9.122",
+            "2:9.123",
+            "2:9.124"
+          ],
+          "english": "Rabbi Abbahu said:",
+          "literal": "said Rabbi Abbahu"
+        },
+        {
+          "tokens": [
+            "2:9.125",
+            "2:9.126",
+            "2:9.127",
+            "2:9.128",
+            "2:9.129",
+            "2:9.130",
+            "2:9.131",
+            "2:9.132",
+            "2:9.133",
+            "2:9.134",
+            "2:9.135",
+            "2:9.136"
+          ],
+          "english": "\"A parable of a king of flesh and blood who reigns; he has a father, or a brother, or a son.",
+          "literal": "parable of-king of-flesh and-blood who-reigns he-has to-him father or brother or son"
+        },
+        {
+          "tokens": [
+            "2:9.137",
+            "2:9.138",
+            "2:9.139",
+            "2:9.140",
+            "2:9.141",
+            "2:9.142",
+            "2:9.143",
+            "2:9.144",
+            "2:9.145",
+            "2:9.146",
+            "2:9.147"
+          ],
+          "english": "The Holy One, blessed be He, said: I am not so. I am first and I am last, and besides Me there is no God.",
+          "literal": "said the-Holy-One-blessed-be-He I am-not so first and-I last and-besides-me there-is-no God"
+        },
+        {
+          "tokens": [
+            "2:9.148",
+            "2:9.149",
+            "2:9.150",
+            "2:9.151",
+            "2:9.152"
+          ],
+          "english": "I am first, for I have no father.",
+          "literal": "I first that-there-is-no to-me father"
+        },
+        {
+          "tokens": [
+            "2:9.153",
+            "2:9.154",
+            "2:9.155",
+            "2:9.156",
+            "2:9.157"
+          ],
+          "english": "I am last, for I have no son.",
+          "literal": "and-I last that-there-is-no to-me son"
+        },
+        {
+          "tokens": [
+            "2:9.158",
+            "2:9.159",
+            "2:9.160",
+            "2:9.161",
+            "2:9.162",
+            "2:9.163"
+          ],
+          "english": "And besides Me there is no God, for I have no brother.\"",
+          "literal": "and-besides-me there-is-no God that-there-is-no to-me brother"
+        },
+        {
+          "tokens": [
+            "2:9.164",
+            "2:9.165",
+            "2:9.166"
+          ],
+          "english": "Thus far the Midrash, etc.",
+          "literal": "thus-far his-words the-Midrash etc."
+        },
+        {
+          "tokens": [
+            "2:9.167",
+            "2:9.168",
+            "2:9.169",
+            "2:9.170"
+          ],
+          "english": "The Rabbi Etz Yosef, of blessed memory,",
+          "literal": "the-Rabbi Etz Yosef of-blessed-memory"
+        },
+        {
+          "tokens": [
+            "2:9.171"
+          ],
+          "english": "that is to say, \"that",
+          "literal": "that-is-to-say"
+        },
+        {
+          "tokens": [
+            "2:9.172",
+            "2:9.173",
+            "2:9.174",
+            "2:9.175",
+            "2:9.176"
+          ],
+          "english": "a king of flesh and blood, his kingship is not complete,",
+          "literal": "that a-king of-flesh-and-blood is-not his-kingship complete"
+        },
+        {
+          "tokens": [
+            "2:9.177",
+            "2:9.178",
+            "2:9.179",
+            "2:9.180",
+            "2:9.181",
+            "2:9.182",
+            "2:9.183",
+            "2:9.184",
+            "2:9.185",
+            "2:9.186",
+            "2:9.187"
+          ],
+          "english": "because he has a father, whom he must honor, and who shares the kingship with him,",
+          "literal": "because he-has to-him a-father and-must show him honor and-shares with-him in-the-kingship"
+        },
+        {
+          "tokens": [
+            "2:9.188",
+            "2:9.189",
+            "2:9.190",
+            "2:9.191",
+            "2:9.192",
+            "2:9.193",
+            "2:9.194",
+            "2:9.195",
+            "2:9.196"
+          ],
+          "english": "or he has a brother who has a share in the honor of kingship,",
+          "literal": "or he-has to-him brother who-has to-him a-share in-the-honor of-kingship"
+        },
+        {
+          "tokens": [
+            "2:9.197",
+            "2:9.198",
+            "2:9.199",
+            "2:9.200",
+            "2:9.201",
+            "2:9.202",
+            "2:9.203",
+            "2:9.204",
+            "2:9.205",
+            "2:9.206"
+          ],
+          "english": "or he has a son who exercises authority with him, and after him is heir to the throne.",
+          "literal": "or he-has to-him son who-exercises authority with-him and-after-him heir to-the-throne"
+        },
+        {
+          "tokens": [
+            "2:9.207",
+            "2:9.208",
+            "2:9.209",
+            "2:9.210",
+            "2:9.211",
+            "2:9.212",
+            "2:9.213"
+          ],
+          "english": "And the explanation: he has no father, which is the First Cause.",
+          "literal": "and-the-explanation he-has-no to-him father which-is the-cause the-first"
+        },
+        {
+          "tokens": [
+            "2:9.214",
+            "2:9.215",
+            "2:9.216",
+            "2:9.217",
+            "2:9.218",
+            "2:9.219",
+            "2:9.220",
+            "2:9.221",
+            "2:9.222"
+          ],
+          "english": "And he has no brother, for He is one, and has no second.",
+          "literal": "and-no to-him brother for He is-one and-there-is-no second to-him"
+        },
+        {
+          "tokens": [
+            "2:9.223",
+            "2:9.224",
+            "2:9.225",
+            "2:9.226",
+            "2:9.227",
+            "2:9.228",
+            "2:9.229",
+            "2:9.230",
+            "2:9.231",
+            "2:9.232",
+            "2:9.233"
+          ],
+          "english": "And he has no son, in that the effects were not drawn from Him by nature, as a son is drawn from a father,",
+          "literal": "and-he-has-no to-him son in-that not were-drawn the-effects from-Him by-nature as a-son from the-father"
+        },
+        {
+          "tokens": [
+            "2:9.234",
+            "2:9.235",
+            "2:9.236"
+          ],
+          "english": "as some thought",
+          "literal": "as that-they-thought some"
+        },
+        {
+          "tokens": [
+            "2:9.237",
+            "2:9.238",
+            "2:9.239",
+            "2:9.240",
+            "2:9.241",
+            "2:9.242",
+            "2:9.243",
+            "2:9.244",
+            "2:9.245",
+            "2:9.246",
+            "2:9.247",
+            "2:9.248",
+            "2:9.249",
+            "2:9.250",
+            "2:9.251",
+            "2:9.252",
+            "2:9.253",
+            "2:9.254",
+            "2:9.255"
+          ],
+          "english": "(this is the view of the Kabbalists, who said that Ze'ir Anpin is a son of Abba and Imma, and he is a father to the effects that follow him, etc., and he has a sister or sisters, his nukvin)",
+          "literal": "this-is the-view of-the-Kabbalists who-said that Ze'ir-Anpin is-a-son of-Abba-and-Imma and-he is-a-father to-the-effects that-follow-him etc. and-he-has to-him sister or sisters nukvin his"
+        },
+        {
+          "tokens": [
+            "2:9.256",
+            "2:9.257",
+            "2:9.258",
+            "2:9.259",
+            "2:9.260",
+            "2:9.261",
+            "2:9.262",
+            "2:9.263",
+            "2:9.264",
+            "2:9.265",
+            "2:9.266",
+            "2:9.267",
+            "2:9.268",
+            "2:9.269",
+            "2:9.270"
+          ],
+          "english": "for according to that view he has no power to change any of the things, and his kingship is not complete.",
+          "literal": "for according-to that view that there-is-no the-power in-his-hand to-change any thing of the-things and-no his-kingship complete"
+        },
+        {
+          "tokens": [
+            "2:9.271",
+            "2:9.272",
+            "2:9.273"
+          ],
+          "english": "But the Holy One, blessed be He, said:",
+          "literal": "but the-Holy-One-blessed-be-He said"
+        },
+        {
+          "tokens": [
+            "2:9.274",
+            "2:9.275",
+            "2:9.276"
+          ],
+          "english": "'I am the LORD your God,'",
+          "literal": "I the-LORD your-God"
+        },
+        {
+          "tokens": [
+            "2:9.277",
+            "2:9.278",
+            "2:9.279",
+            "2:9.280",
+            "2:9.281",
+            "2:9.282"
+          ],
+          "english": "for this is His power to bring them out of the land of Egypt,",
+          "literal": "for this his-power to-bring-them out-of-the-land-of Egypt"
+        },
+        {
+          "tokens": [
+            "2:9.283",
+            "2:9.284",
+            "2:9.285"
+          ],
+          "english": "since His kingship is complete",
+          "literal": "since his-kingship complete"
+        },
+        {
+          "tokens": [
+            "2:9.286",
+            "2:9.287",
+            "2:9.288"
+          ],
+          "english": "and there is none who can thwart His hand.\"",
+          "literal": "and-there-is-none who-can-thwart his-hand"
+        },
+        {
+          "tokens": [
+            "2:9.289"
+          ],
+          "english": "Thus far his words.",
+          "literal": "thus-far his-words"
+        }
+      ],
+      "grammar": [
+        "אחלי (2:9.1) is a wish, 'would that'. The paragraph is the questioner's letter, addressed to 'my lord' (2:9.2), and is kept in his voice.",
+        "The sentence 'אם ... או' (2:9.18, 2:9.30) gives two alternatives, 'whether ... or', in one statement that ends with a period, not a question; each alternative has its own verbs (עובדים, ומשתחוים; לבדו עובדים).",
+        "ונמצא לפי זה (2:9.50-52) is the questioner's conclusion from the two alternatives, and הרי כאן שתי רשויות ח\"ו (2:9.62-66) is his objection to it.",
+        "From ובהדיא אמרו (2:9.67) the paragraph quotes its sources: the Mnorat ha-Maor, the Midrash Rabbah with its parable, and the commentary Etz Yosef. Each quotation is in quotation marks; the Etz Yosef passage runs from ר\"ל (2:9.171) to the closing עכ\"ל (2:9.289).",
+        "Aramaic: נוקבין דיליה (2:9.254-255) and ולית דימחי בידיה (2:9.286-288); the English gives the sense of each."
+      ],
+      "note": "The questioner's letter in his voice (chapter 2 correspondence). The English keeps each sentence and the quotation boundaries. Names and terms are transliterated per the decisions. 'God' is used for the God of the verses and of the Midrash's direct speech; 'god' in lower case is used for the divinities of the Kabbalists' view, as the questioner states it.",
+      "commentary": [],
+      "apparatus": [
+        "Base text: Wikisource, not yet collated against the 1931 scan (Q2).",
+        "Deut 11:7: 'every great deed of the LORD' renders the words the author quotes from את כל מעשה ה' הגדול אשר עשה; the verse continues 'that He did', which the author does not quote.",
+        "Exod 20:2: 'I am the LORD your God' (אנכי ה' אלהיך), quoted in the Mnorat ha-Maor passage, the Midrash, and the Etz Yosef passage.",
+        "Isa 44:6: the Midrash's אני ראשון ... ומבלעדי אין אלהים echoes Isa 44:6; the English keeps the author's wording, 'I am first ... and besides Me there is no God'.",
+        "The reference 'פ' קמ\"ג' to Menorat ha-Maor is kept as written and has not been checked."
+      ],
+      "context": [],
+      "readings": []
+    }
+  ]
+}

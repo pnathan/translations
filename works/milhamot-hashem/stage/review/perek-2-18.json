@@ -1,0 +1,653 @@
+{
+  "unit": "perek-2-18",
+  "model": "sonnet",
+  "summary": "The translation is close and complete, and the Psalm allusions, the quotations and the fixed renderings (unity of the Name, the true tradition, bat kol) are right. Faults: the label תשובה was read as the object of 'I ask' where chapter 2 uses it as the heading 'Reply'; רז\"ל at 2:34.181 was rendered 'Sages' instead of 'Rabbis'; the apparatus adds a Mishnah reference the author does not give and misses Ps 23:3, Deut 10:10 and Deut 30:12; the note on לבור said 'to choose', where the word is a probable misprint for לעבור. The list marker '1)' and 'the holy Torah' follow the decisions and stand. One question on the verbless sentence opening וכ\"ש.",
+  "patches": [
+    {
+      "ref": "2:34",
+      "path": "english",
+      "value": "Reply. I ask of my God that He lead me in paths of straightness and rescue us from a lying lip, from a deceitful tongue. Teach me, LORD, Your ways; I will walk in Your truth. Unite my heart to fear Your name. And send Your light and Your truth; they will lead me to answer a word spoken in its settings. Roll reproach and scorn away from me, for I have kept Your testimonies. Even though princes sit and speak against me, Your servant meditates on Your statutes. Then I shall not be ashamed, when I do not turn aside from the way that our Rabbis of blessed memory taught us, the masters of the Mishnah and the Talmud and the true midrashim and the decisors who follow in their footsteps, on whom all the house of Israel lean. For they are the masters of the true tradition, who received from Moses our teacher the generalities and particulars of the Torah, upon which he stood at Sinai forty days and forty nights, and handed them to Joshua, and Joshua to the elders, etc., as is stated in tractate Avot. 1) And it is a holy duty incumbent on us to follow in their footsteps in everything that yields a practical difference in law: in all matters of forbidden and permitted, impure and pure, unfit and fit. All the more so in matters of the unity of the Name, may He be blessed, which is the great principle, and after it the tradition of all the commandments and how they are to be done, as the Tanna, peace be upon him, said: \"Why did the section of Shema precede 'And it shall be, if you hearken, etc.!'\" And any author of a book who comes to add to or subtract from their words, and all the more so to turn us from the faith of the holy Torah according to the tradition of our rabbis, the masters of the Mishnah and the Talmud, we will not hearken to him. And even if he performs signs and wonders in heaven and on earth, we will not turn aside from following the LORD our God, according to the tradition of our Rabbis of blessed memory, the masters of the Mishnah and the Talmud and the decisors who come after them and follow in their footsteps. And even if from heaven a bat kol calls, hearken to him, to depart from their tradition, we shall not heed it, as Rabbi Yehoshua said: \"One does not heed a bat kol, for it is not in heaven.\"",
+      "severity": "error",
+      "reason": "תשובה is the label of the reply, as at 2:3 ('Reply.'), 2:7 and 2:28 (the decisions fix 'Reply'); it is not an object of 'I ask'. Also: רז\"ל (2:34.181) is 'our Rabbis of blessed memory' by the fixed ruling, not 'Sages' (that is חז\"ל); ואף and וכל each open a sentence with 'and', which the English dropped."
+    },
+    {
+      "ref": "2:34",
+      "path": "literal",
+      "value": "reply I-ask of-my-God lead-me in-the-paths-of straightness and-rescue-us from-the-lip-of lying from-the-tongue-of deceit teach-me LORD Your-ways I-will-walk in-Your-truth unite my-heart to-fear Your-name and-send Your-light and-Your-truth they will-lead-me to-answer a-word spoken in its-settings roll away-from-me reproach and-scorn for Your-testimonies I-have-kept even though they-sit princes against-me spoke Your-servant meditates on-Your-statutes then not I-will-be-ashamed when not I-turn-aside from the-way that taught-us our-Rabbis-of-blessed-memory the-masters-of the-Mishnah and-the-Talmud and-the-midrashim the-true and-the-decisors who-follow in-their-footsteps on-whom all the-house-of Israel lean on-them for they the-masters-of the-tradition true who received from-Moses-our-teacher its-generalities and-its-particulars of the-Torah which upon-them he-stood at-Sinai forty days and-forty nights and-handed-them to-Joshua and-Joshua to-the-elders etc. as-is-stated in-tractate Avot 1 and-a-duty holy is-laid upon-us to-walk in-their-footsteps in-every anything that-yields a-practical-difference in-law in-all matters-of forbidden and-permitted impure and-pure unfit and-fit all-the-more-so in-matters-of unity the-Name,-may-He-be-blessed which-is the-principle great and-after-it the-tradition-of all the-commandments and-how their-doing as-the-saying the-Tanna peace-be-upon-him why preceded the-section Shema to-'and-it-shall-be' if you-hearken etc.! and-any author of-a-book who comes to-add or to-subtract from-their-words and-all-the-more-so to-turn-us from-the-faith-of the-holy-Torah according-to the-tradition-of our-rabbis the-masters-of the-Mishnah and-the-Talmud not we-will-hearken to-him and-even if he-performs signs and-wonders in-heaven and-on-earth we-will-not turn-aside from-following the-LORD our-God according-to by-the-mouth-of the-tradition-of our-Rabbis-of-blessed-memory the-masters-of the-Mishnah and-the-Talmud and-the-decisors who-come after-them who-follow in-their-footsteps and-even if from heaven calls daughter-of a-voice hearken to-him to-depart from-their-tradition we-do-not heed it as-said Rabbi Yehoshua one-does-not heed daughter-of a-voice for it-is-not in-heaven it",
+      "severity": "error",
+      "reason": "follows the new English: reply; our-Rabbis-of-blessed-memory"
+    },
+    {
+      "ref": "2:34",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "2:34.1"
+          ],
+          "english": "Reply.",
+          "literal": "reply; the label of the respondent's letter, as at 2:3, 2:7 and 2:28 (the Hebrew prints no stop)"
+        },
+        {
+          "tokens": [
+            "2:34.2",
+            "2:34.3"
+          ],
+          "english": "I ask of my God",
+          "literal": "I-ask of-my-God; אשאלה is cohortative in form, 'let me ask'"
+        },
+        {
+          "tokens": [
+            "2:34.4",
+            "2:34.5",
+            "2:34.6"
+          ],
+          "english": "that He lead me in paths of straightness",
+          "literal": "lead-me in-the-paths-of straightness; ינחני is 'He will lead me'; the English makes it a clause of the prayer"
+        },
+        {
+          "tokens": [
+            "2:34.7",
+            "2:34.8",
+            "2:34.9",
+            "2:34.10",
+            "2:34.11"
+          ],
+          "english": "and rescue us from a lying lip, from a deceitful tongue",
+          "literal": "and-rescue-us from-the-lip-of lying from-the-tongue-of deceit; ויצילנו is plural 'us', as written; the psalm (Ps 120:2) has 'my soul'"
+        },
+        {
+          "tokens": [
+            "2:34.12",
+            "2:34.13",
+            "2:34.14",
+            "2:34.15",
+            "2:34.16"
+          ],
+          "english": "Teach me, LORD, Your ways; I will walk in Your truth.",
+          "literal": "teach-me LORD Your-ways I-will-walk in-Your-truth; imperative with the LORD, then first-person 'I will walk' (Ps 86:11)"
+        },
+        {
+          "tokens": [
+            "2:34.17",
+            "2:34.18",
+            "2:34.19",
+            "2:34.20"
+          ],
+          "english": "Unite my heart to fear Your name.",
+          "literal": "unite my-heart to-fear Your-name; Ps 86:11; יחד is the plain verb 'unite' with the heart as object"
+        },
+        {
+          "tokens": [
+            "2:34.21",
+            "2:34.22",
+            "2:34.23",
+            "2:34.24",
+            "2:34.25"
+          ],
+          "english": "And send Your light and Your truth; they will lead me",
+          "literal": "and-send Your-light and-Your-truth they will-lead-me; imperative ושלח; המה 'they' are light and truth (Ps 43:3)"
+        },
+        {
+          "tokens": [
+            "2:34.26",
+            "2:34.27",
+            "2:34.28",
+            "2:34.29",
+            "2:34.30"
+          ],
+          "english": "to answer a word spoken in its settings",
+          "literal": "to-answer a-word spoken in its-settings; להשיב דבר דבור; על אפניו 'on its settings' (Prov 25:11)"
+        },
+        {
+          "tokens": [
+            "2:34.31",
+            "2:34.32",
+            "2:34.33",
+            "2:34.34"
+          ],
+          "english": "Roll reproach and scorn away from me",
+          "literal": "roll away-from-me reproach and-scorn; imperative גל, 'roll' (Ps 119:22)"
+        },
+        {
+          "tokens": [
+            "2:34.35",
+            "2:34.36",
+            "2:34.37"
+          ],
+          "english": "for I have kept Your testimonies",
+          "literal": "for Your-testimonies I-have-kept"
+        },
+        {
+          "tokens": [
+            "2:34.38",
+            "2:34.39",
+            "2:34.40",
+            "2:34.41",
+            "2:34.42",
+            "2:34.43"
+          ],
+          "english": "Even though princes sit and speak against me",
+          "literal": "even though they-sit princes against-me spoke; נדברו בי: 'spoke about me'; the sense in the psalm is hostile"
+        },
+        {
+          "tokens": [
+            "2:34.44",
+            "2:34.45",
+            "2:34.46"
+          ],
+          "english": "Your servant meditates on Your statutes",
+          "literal": "Your-servant meditates on-Your-statutes; Ps 119:23"
+        },
+        {
+          "tokens": [
+            "2:34.47",
+            "2:34.48",
+            "2:34.49",
+            "2:34.50",
+            "2:34.51",
+            "2:34.52"
+          ],
+          "english": "Then I shall not be ashamed, when I do not turn aside",
+          "literal": "then not I-will-be-ashamed when not I-turn-aside; אז לא אבוש is the main clause; כאשר is 'when'"
+        },
+        {
+          "tokens": [
+            "2:34.53",
+            "2:34.54",
+            "2:34.55"
+          ],
+          "english": "from the way that",
+          "literal": "from the-way that; מן הדרך אשר: 'from the way which'"
+        },
+        {
+          "tokens": [
+            "2:34.56",
+            "2:34.57"
+          ],
+          "english": "our Rabbis of blessed memory taught us",
+          "literal": "taught-us our-Rabbis-of-blessed-memory; the Hebrew puts the verb first: 'taught us our Rabbis'"
+        },
+        {
+          "tokens": [
+            "2:34.58",
+            "2:34.59",
+            "2:34.60",
+            "2:34.61",
+            "2:34.62",
+            "2:34.63",
+            "2:34.64",
+            "2:34.65"
+          ],
+          "english": "the masters of the Mishnah and the Talmud and the true midrashim and the decisors who follow in their footsteps",
+          "literal": "the-masters-of the-Mishnah and-the-Talmud and-the-midrashim the-true and-the-decisors who-follow in-their-footsteps"
+        },
+        {
+          "tokens": [
+            "2:34.66",
+            "2:34.67",
+            "2:34.68",
+            "2:34.69",
+            "2:34.70",
+            "2:34.71"
+          ],
+          "english": "on whom all the house of Israel lean",
+          "literal": "on-whom all the-house-of Israel lean on-them; נשענים עליהם: 'lean on them'"
+        },
+        {
+          "tokens": [
+            "2:34.72",
+            "2:34.73",
+            "2:34.74"
+          ],
+          "english": "For they are the masters of",
+          "literal": "for they the-masters-of; כי המה בעלי: 'for they, the masters of'"
+        },
+        {
+          "tokens": [
+            "2:34.75",
+            "2:34.76",
+            "2:34.77"
+          ],
+          "english": "the true tradition, who",
+          "literal": "the-tradition true who; Q5 default: the tradition the author claims for the Mishnah and Talmud"
+        },
+        {
+          "tokens": [
+            "2:34.78",
+            "2:34.79"
+          ],
+          "english": "received from Moses our teacher",
+          "literal": "received from-Moses-our-teacher; ממרע\"ה: 'from Moses our teacher'"
+        },
+        {
+          "tokens": [
+            "2:34.80",
+            "2:34.81",
+            "2:34.82",
+            "2:34.83"
+          ],
+          "english": "the generalities and particulars of the Torah",
+          "literal": "its-generalities and-its-particulars of the-Torah; כללותיה ופרטותיה: 'its generalities and its particulars'"
+        },
+        {
+          "tokens": [
+            "2:34.84",
+            "2:34.85",
+            "2:34.86",
+            "2:34.87"
+          ],
+          "english": "upon which he stood at Sinai",
+          "literal": "which upon-them he-stood at-Sinai; עליהם עמד: 'stood upon them'"
+        },
+        {
+          "tokens": [
+            "2:34.88",
+            "2:34.89",
+            "2:34.90",
+            "2:34.91"
+          ],
+          "english": "forty days and forty nights",
+          "literal": "forty days and-forty nights"
+        },
+        {
+          "tokens": [
+            "2:34.92",
+            "2:34.93",
+            "2:34.94",
+            "2:34.95"
+          ],
+          "english": "and handed them to Joshua, and Joshua to the elders",
+          "literal": "and-handed-them to-Joshua and-Joshua to-the-elders"
+        },
+        {
+          "tokens": [
+            "2:34.96",
+            "2:34.97",
+            "2:34.98",
+            "2:34.99"
+          ],
+          "english": "etc., as is stated in tractate Avot.",
+          "literal": "etc. as-is-stated in-tractate Avot; וכו' marks the omitted part of the chain; no words are added"
+        },
+        {
+          "tokens": [
+            "2:34.100"
+          ],
+          "english": "1)",
+          "literal": "1; the printed marker א) rendered 1)"
+        },
+        {
+          "tokens": [
+            "2:34.101",
+            "2:34.102",
+            "2:34.103",
+            "2:34.104",
+            "2:34.105",
+            "2:34.106"
+          ],
+          "english": "And it is a holy duty incumbent on us to follow in their footsteps",
+          "literal": "and-a-duty holy is-laid upon-us to-walk in-their-footsteps"
+        },
+        {
+          "tokens": [
+            "2:34.107",
+            "2:34.108",
+            "2:34.109",
+            "2:34.110",
+            "2:34.111"
+          ],
+          "english": "in everything that yields a practical difference in law",
+          "literal": "in-every anything that-yields a-practical-difference in-law; Aramaic idiom, translated by its sense"
+        },
+        {
+          "tokens": [
+            "2:34.112",
+            "2:34.113",
+            "2:34.114",
+            "2:34.115",
+            "2:34.116",
+            "2:34.117",
+            "2:34.118",
+            "2:34.119"
+          ],
+          "english": "in all matters of forbidden and permitted, impure and pure, unfit and fit",
+          "literal": "in-all matters-of forbidden and-permitted impure and-pure unfit and-fit"
+        },
+        {
+          "tokens": [
+            "2:34.120",
+            "2:34.121"
+          ],
+          "english": "All the more so in matters of",
+          "literal": "all-the-more-so in-matters-of; וכ\"ש: 'all the more so'"
+        },
+        {
+          "tokens": [
+            "2:34.122",
+            "2:34.123"
+          ],
+          "english": "the unity of the Name, may He be blessed",
+          "literal": "unity the-Name,-may-He-be-blessed; יחוד השי\"ת: the fixed rendering"
+        },
+        {
+          "tokens": [
+            "2:34.124",
+            "2:34.125",
+            "2:34.126"
+          ],
+          "english": "which is the great principle",
+          "literal": "which-is the-principle great"
+        },
+        {
+          "tokens": [
+            "2:34.127",
+            "2:34.128",
+            "2:34.129",
+            "2:34.130"
+          ],
+          "english": "and after it the tradition of all the commandments",
+          "literal": "and-after-it the-tradition-of all the-commandments"
+        },
+        {
+          "tokens": [
+            "2:34.131",
+            "2:34.132"
+          ],
+          "english": "and how they are to be done",
+          "literal": "and-how their-doing"
+        },
+        {
+          "tokens": [
+            "2:34.133",
+            "2:34.134",
+            "2:34.135"
+          ],
+          "english": "as the Tanna, peace be upon him",
+          "literal": "as-the-saying the-Tanna peace-be-upon-him; כמאמר introduces the Tanna's words"
+        },
+        {
+          "tokens": [
+            "2:34.136",
+            "2:34.137",
+            "2:34.138",
+            "2:34.139"
+          ],
+          "english": "Why did the section of Shema precede",
+          "literal": "why preceded the-section Shema; the question is quoted; למה קדמה: 'why preceded'"
+        },
+        {
+          "tokens": [
+            "2:34.140",
+            "2:34.141",
+            "2:34.142",
+            "2:34.143"
+          ],
+          "english": "And it shall be, if you hearken, etc.!",
+          "literal": "to-'and-it-shall-be' if you-hearken etc.!; לוהיה: 'to And it shall be'; וכו' truncates the quotation"
+        },
+        {
+          "tokens": [
+            "2:34.144",
+            "2:34.145",
+            "2:34.146",
+            "2:34.147"
+          ],
+          "english": "And any author of a book who",
+          "literal": "and-any author of-a-book who; וכל מחבר ספר אשר: 'and any author of a book who'"
+        },
+        {
+          "tokens": [
+            "2:34.148",
+            "2:34.149",
+            "2:34.150",
+            "2:34.151"
+          ],
+          "english": "comes to add to or subtract",
+          "literal": "comes to-add or to-subtract; יבוא להוסיף או לגרוע"
+        },
+        {
+          "tokens": [
+            "2:34.152"
+          ],
+          "english": "from their words",
+          "literal": "from-their-words"
+        },
+        {
+          "tokens": [
+            "2:34.153",
+            "2:34.154",
+            "2:34.155",
+            "2:34.156"
+          ],
+          "english": "and all the more so to turn us from the faith of the holy Torah",
+          "literal": "and-all-the-more-so to-turn-us from-the-faith-of the-holy-Torah; וכ\"ש להטותינו מאמונת תוה\"ק"
+        },
+        {
+          "tokens": [
+            "2:34.157",
+            "2:34.158",
+            "2:34.159",
+            "2:34.160",
+            "2:34.161",
+            "2:34.162"
+          ],
+          "english": "according to the tradition of our rabbis, the masters of the Mishnah and the Talmud",
+          "literal": "according-to the-tradition-of our-rabbis the-masters-of the-Mishnah and-the-Talmud; כפי קבלת רבותינו בעלי המשנה והתלמוד"
+        },
+        {
+          "tokens": [
+            "2:34.163",
+            "2:34.164",
+            "2:34.165"
+          ],
+          "english": "we will not hearken to him.",
+          "literal": "not we-will-hearken to-him; לא נשמע לו: 'not, we will hearken to him'"
+        },
+        {
+          "tokens": [
+            "2:34.166",
+            "2:34.167",
+            "2:34.168",
+            "2:34.169",
+            "2:34.170",
+            "2:34.171",
+            "2:34.172"
+          ],
+          "english": "And even if he performs signs and wonders in heaven and on earth",
+          "literal": "and-even if he-performs signs and-wonders in-heaven and-on-earth; ואף אם: 'and even if'"
+        },
+        {
+          "tokens": [
+            "2:34.173",
+            "2:34.174",
+            "2:34.175",
+            "2:34.176",
+            "2:34.177"
+          ],
+          "english": "we will not turn aside from following the LORD our God",
+          "literal": "we-will-not turn-aside from-following the-LORD our-God; לא נסור מאחרי ה' אלהינו"
+        },
+        {
+          "tokens": [
+            "2:34.178",
+            "2:34.179",
+            "2:34.180",
+            "2:34.181"
+          ],
+          "english": "according to the tradition of our Rabbis of blessed memory",
+          "literal": "according-to by-the-mouth-of the-tradition-of our-Rabbis-of-blessed-memory; על פי: 'according to the mouth of'"
+        },
+        {
+          "tokens": [
+            "2:34.182",
+            "2:34.183",
+            "2:34.184",
+            "2:34.185",
+            "2:34.186",
+            "2:34.187",
+            "2:34.188",
+            "2:34.189"
+          ],
+          "english": "the masters of the Mishnah and the Talmud and the decisors who come after them and follow in their footsteps",
+          "literal": "the-masters-of the-Mishnah and-the-Talmud and-the-decisors who-come after-them who-follow in-their-footsteps"
+        },
+        {
+          "tokens": [
+            "2:34.190",
+            "2:34.191",
+            "2:34.192",
+            "2:34.193",
+            "2:34.194",
+            "2:34.195",
+            "2:34.196"
+          ],
+          "english": "And even if from heaven a bat kol calls",
+          "literal": "and-even if from heaven calls daughter-of a-voice; וגם אם מן השמים תקרא בת קול: 'and even if from heaven a bat kol calls'"
+        },
+        {
+          "tokens": [
+            "2:34.197",
+            "2:34.198"
+          ],
+          "english": "hearken to him",
+          "literal": "hearken to-him; שמעו אליו: 'hear him'; the words of the call"
+        },
+        {
+          "tokens": [
+            "2:34.199",
+            "2:34.200"
+          ],
+          "english": "to depart from their tradition",
+          "literal": "to-depart from-their-tradition; לבור מקבלתם: 'to choose away from their tradition'"
+        },
+        {
+          "tokens": [
+            "2:34.201",
+            "2:34.202",
+            "2:34.203"
+          ],
+          "english": "we shall not heed it",
+          "literal": "we-do-not heed it; לא משגחינן בה: 'we do not heed it'"
+        },
+        {
+          "tokens": [
+            "2:34.204",
+            "2:34.205",
+            "2:34.206"
+          ],
+          "english": "as Rabbi Yehoshua said",
+          "literal": "as-said Rabbi Yehoshua; כמאמר introduces the quotation"
+        },
+        {
+          "tokens": [
+            "2:34.207",
+            "2:34.208",
+            "2:34.209",
+            "2:34.210"
+          ],
+          "english": "One does not heed a bat kol",
+          "literal": "one-does-not heed daughter-of a-voice; אין משגיחין בבת קול: 'one does not heed a bat kol'"
+        },
+        {
+          "tokens": [
+            "2:34.211",
+            "2:34.212",
+            "2:34.213",
+            "2:34.214"
+          ],
+          "english": "for it is not in heaven.",
+          "literal": "for it-is-not in-heaven it; כי לא בשמים היא: 'for not in heaven it'"
+        }
+      ],
+      "severity": "error",
+      "reason": "the opening phrase splits into the label and the verb; phrases at 144, 166, 178 follow the new English"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.1.gloss",
+      "value": "reply",
+      "severity": "error",
+      "reason": "label of the reply, not 'an answer'"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.2.note",
+      "value": "תשובה (2:34.1) is the label of the reply; the prayer begins with אשאלה, 'I will ask', whose object is the clause ינחני 'that He lead me'",
+      "severity": "error",
+      "reason": "the old note called the paragraph's first words an object"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.181.gloss",
+      "value": "our Rabbis of blessed memory",
+      "severity": "error",
+      "reason": "רז\"ל is 'our Rabbis of blessed memory' (fixed ruling); 'Sages' renders חז\"ל"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.181.note",
+      "value": "רז\"ל = רבותינו זכרונם לברכה",
+      "severity": "style",
+      "reason": "expansion of the abbreviation, as at 2:34.57"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.199.note",
+      "value": "לבור as printed does not mean 'depart'; it is probably a misprint for לעבור, 'to pass from' (ע dropped); the gloss 'to depart' follows the context, 'to depart from their tradition'. Printed word and likelier word are in apparatus.",
+      "severity": "error",
+      "reason": "the old note said 'to choose' and 'here to depart', which is not a sense of לבור; the decisions require the printed and the likelier word in the note and apparatus"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.100.note",
+      "value": "printed list marker א) (aleph = 1), kept as the author's own: 1)",
+      "severity": "style",
+      "reason": "the decisions rule that printed list markers are kept as '1)' with a token note; the old note called it a section numeral, which it is not"
+    },
+    {
+      "ref": "2:34",
+      "path": "grammar",
+      "value": [
+        "תשובה: the label of the reply, as at 2:3, 2:7 and 2:28 of the correspondence; אשאלה מאלהי ינחני: 'I will ask of my God that He lead me'; the paragraph is a prayer in the author's own voice, addressed to the LORD.",
+        "The Psalm verses are run into the author's sentences without a formula: הוריני (Ps 86:11), ושלח (Ps 43:3), גל (Ps 119:22) and גם כי ישבו (Ps 119:23), so they take no quotation marks.",
+        "אז לא אבוש כאשר לא אסור מן הדרך: the main clause is 'then I shall not be ashamed'; כאשר is a temporal clause, 'when I do not turn aside'.",
+        "אשר למדונו רז\"ל ... בעלי המשנה ... ההולכים בעקבותיהם is a relative clause on הדרך: the way that the Sages taught us, with the authorities in apposition; אשר כל בית ישראל נשענים עליהם is a second relative clause on the same authorities.",
+        "The Tanna's question, 'למה קדמה פרשת שמע לוהיה אם שמוע וכו'!', is quoted in the author's words and truncated with וכו'; the author then argues a fortiori (וכ\"ש) from matters of law to the unity of the Name, and from the unity to the rejection of an author who alters the tradition.",
+        "Aramaic idioms in the author's Hebrew: מידי דנפקא מינה לדינא ('what yields a practical difference in law') and לא משגחינן בה ('we do not heed it'); the Tanna's question about the Shema is Mishnaic Hebrew, and R. Yehoshua's saying is the Talmud's."
+      ],
+      "severity": "style",
+      "reason": "first note corrected for the label תשובה; a note added on the Aramaic idioms (language is named in grammar)"
+    },
+    {
+      "ref": "2:34",
+      "path": "apparatus",
+      "value": [
+        "Base text from Wikisource; the 1931 scan is not yet collated (Wikisource additions, Q2).",
+        "Ps 120:2 (embedded): משפת שקר, מלשון רמיה. The psalm has 'my soul' where the author writes ויצילנו (us).",
+        "Ps 23:3 (embedded allusion): ינחני במעגלי צדק; the author writes יושר.",
+        "Ps 86:11 (embedded): הוריני ה' דרכיך אהלך באמתך; יחד לבבי ליראה שמך.",
+        "Ps 43:3 (embedded): ושלח אורך ואמתך המה ינחוני.",
+        "Prov 25:11 (embedded): דבר דבור על אופניו. The author prints אפניו; the verse has אופניו.",
+        "Ps 119:22: גל מעלי חרפה ובוז כי עדותיך נצרתי.",
+        "Ps 119:23: גם כי ישבו שרים בי נדברו, עבדך ישיח בחוקיך.",
+        "Ps 119:6 (embedded): אז לא אבוש.",
+        "Deut 11:13: והיה אם שמוע תשמעו, the opening of the second paragraph of the Shema; the author writes לוהיה.",
+        "Deut 13:2-5 (embedded allusion): אות ומופת; לא תשמע אל דברי הנביא ההוא; אחרי ה' אלהיכם תלכו.",
+        "Deut 10:10 (embedded allusion; cf. Deut 9:9): עמדתי בהר ... ארבעים יום וארבעים לילה.",
+        "Deut 30:12: לא בשמים היא, the verse on which Rabbi Yehoshua's saying rests.",
+        "2:34.199 לבור (printed): probably לעבור, 'to pass from', with the ע dropped (cf. 'to depart from their tradition'); translated by the sense of the context. The Hebrew לבור does not mean 'depart'."
+      ],
+      "severity": "error",
+      "reason": "Mishnah Avot 1:1 is a reference the author does not give (decisions: no reference added, even in apparatus); verses missing: Ps 23:3, Deut 10:10 (cf. 9:9), Deut 30:12; Deut 13 allusion widened to v. 5; the לבור misprint recorded"
+    },
+    {
+      "ref": "2:34",
+      "path": "token:2:34.120.note",
+      "value": "וכ\"ש = וכל שכן, 'all the more so'. The Hebrew sentence has no main clause after a full stop (the Hebrew leaves one implicit); proposed ruling: keep the fragment as the author's syntax and add no verb, or join it to the previous sentence with a semicolon ('...unfit and fit; and all the more so in matters of the unity of the Name...'). The owner to decide.",
+      "severity": "question",
+      "reason": "the decisions rule on שכל / שהוא after a full stop but are silent on וכ\"ש; the checklist demands a main clause in every sentence"
+    }
+  ],
+  "verdicts": []
+}

@@ -1,0 +1,1979 @@
+{
+ "unit": "perek-2-07",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "2:13",
+   "english": "As for your questions that you wrote, that one should ask about what the Rambam of blessed memory wrote: \"Let him direct his heart toward the Shekhinah and pray,\" and in Moreh Nevukhim he wrote that the Shekhinah is a created light, etc. Behold, in your question you have revealed that you are wise in your own eyes and have not learned discipline. Is it, then, the way of one who is asked to question his questioner? In any case I will not withhold my quill from replying, even though you have not acted properly! And I say that it is plain and known to every learned man well versed in the books of Israel that the name Shekhinah is said of 3 things: either of the Name, may He be blessed, as our Master wrote in Laws of Repentance, chapter 7: \"Great is repentance, which brings a person near to the Shekhinah, as it is said: 'Return, O Israel, to the LORD your God,' etc., and it is said: 'Yet you did not return to Me, says the LORD,' and it is said: 'If you return, O Israel, to Me you shall return.' That is to say, if you turn in repentance, you will cleave to Me, etc.\" Again there, on the excellence of repentance: \"Yesterday this man was separated from the LORD, the God of Israel, etc., and today he is cleaving to the Shekhinah, as it is said: 'And you who cleave to the LORD your God,' he cries out and is answered at once, as it is said: 'And it shall be that before they call, I will answer.'\" And so is the sense of his words in Laws of Prayer, that if he was in a place where he cannot determine the directions, etc. And so our forebears rendered it: \"And if he is in a place and cannot tell the direction, let him direct his heart to his Creator and pray.\"",
+   "literal": "and-on questions-your that-you-wrote that-there-is to-ask on what that-wrote the-Rambam of-blessed-memory he-shall-direct his-heart toward the-Shekhinah and-he-shall-pray and-in-Moreh Nevukhim he-wrote that-the-Shekhinah light created etc. behold in-your-question you-revealed that-you wise in-your-eyes and-not you-learned discipline and-is the-way-of the-one-asked to-ask [object-marker] his-asker from-every place not I-will-withhold my-quill from-replying although that-you-did not properly and-I-say that plain it and-known to-every learned versed in-books-of Israel that-name Shekhinah is-said on 3 things either to the-Name-may-He-be-blessed as wrote our-Master in-Laws-of Repentance chapter-7 great repentance that-brings-near the-person to-the-Shekhinah as-it-is-said return Israel to the-LORD your-God etc. and-it-is-said and-not you-returned to-me declaration-of the-LORD and-it-is-said if you-return Israel to-me you-shall-return that-is-to-say if you-turn in-repentance in-me you-will-cleave etc. again there on excellence-of the-repentance yesterday was this-one separated from-the-LORD God-of Israel etc. and-today he cleaving to-the-Shekhinah as-it-is-said and-you the-cleaving to-the-LORD your-God crying-out and-answered at-once as-it-is-said and-it-shall-be before they-call and-I I-will-answer and-so sense-of his-words in-Laws-of Prayer that-if he-was in-a-place that-not able to-direct [object-marker] the-directions etc. and-so rendered our-forebears and-if he-is in a-place and-not he-is-able he-knows the-direction he-directs his-heart to his-Creator and-he-prays",
+   "tokens": [
+    {
+     "id": "2:13.1",
+     "gloss": "and on"
+    },
+    {
+     "id": "2:13.2",
+     "gloss": "your questions"
+    },
+    {
+     "id": "2:13.3",
+     "gloss": "that you wrote"
+    },
+    {
+     "id": "2:13.4",
+     "gloss": "that there is",
+     "note": "idiom: \"there is to ask\" means \"one should ask\""
+    },
+    {
+     "id": "2:13.5",
+     "gloss": "to ask"
+    },
+    {
+     "id": "2:13.6",
+     "gloss": "on"
+    },
+    {
+     "id": "2:13.7",
+     "gloss": "what"
+    },
+    {
+     "id": "2:13.8",
+     "gloss": "that wrote"
+    },
+    {
+     "id": "2:13.9",
+     "gloss": "the Rambam",
+     "note": "Rabbi Moshe ben Maimon; the Rambam is the form English uses for him"
+    },
+    {
+     "id": "2:13.10",
+     "gloss": "of blessed memory",
+     "note": "abbreviation of the honorific; expanded"
+    },
+    {
+     "id": "2:13.11",
+     "gloss": "let him direct",
+     "note": "yiqtol used as a rule: \"he shall direct\""
+    },
+    {
+     "id": "2:13.12",
+     "gloss": "his heart"
+    },
+    {
+     "id": "2:13.13",
+     "gloss": "toward"
+    },
+    {
+     "id": "2:13.14",
+     "gloss": "the Shekhinah"
+    },
+    {
+     "id": "2:13.15",
+     "gloss": "and pray"
+    },
+    {
+     "id": "2:13.16",
+     "gloss": "and in Moreh",
+     "note": "title of the Rambam's book, the Guide of the Perplexed (moreh = guide, nevukhim = the perplexed)"
+    },
+    {
+     "id": "2:13.17",
+     "gloss": "Nevukhim"
+    },
+    {
+     "id": "2:13.18",
+     "gloss": "he wrote"
+    },
+    {
+     "id": "2:13.19",
+     "gloss": "that the Shekhinah"
+    },
+    {
+     "id": "2:13.20",
+     "gloss": "light"
+    },
+    {
+     "id": "2:13.21",
+     "gloss": "created",
+     "note": "the author's central word: the Shekhinah is created (nivra) light"
+    },
+    {
+     "id": "2:13.22",
+     "gloss": "etc.",
+     "note": "the author truncates the citation; nothing is supplied"
+    },
+    {
+     "id": "2:13.23",
+     "gloss": "behold"
+    },
+    {
+     "id": "2:13.24",
+     "gloss": "in your question"
+    },
+    {
+     "id": "2:13.25",
+     "gloss": "you have revealed"
+    },
+    {
+     "id": "2:13.26",
+     "gloss": "that you"
+    },
+    {
+     "id": "2:13.27",
+     "gloss": "wise"
+    },
+    {
+     "id": "2:13.28",
+     "gloss": "in your own eyes",
+     "note": "cf. Prov 3:7"
+    },
+    {
+     "id": "2:13.29",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:13.30",
+     "gloss": "you have learned"
+    },
+    {
+     "id": "2:13.31",
+     "gloss": "discipline",
+     "note": "mussar: instruction, correction"
+    },
+    {
+     "id": "2:13.32",
+     "gloss": "and is it"
+    },
+    {
+     "id": "2:13.33",
+     "gloss": "the way of"
+    },
+    {
+     "id": "2:13.34",
+     "gloss": "the one asked"
+    },
+    {
+     "id": "2:13.35",
+     "gloss": "to ask"
+    },
+    {
+     "id": "2:13.36",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:13.37",
+     "gloss": "his questioner"
+    },
+    {
+     "id": "2:13.38",
+     "gloss": "from every",
+     "note": "with the next word, the idiom \"in any case\""
+    },
+    {
+     "id": "2:13.39",
+     "gloss": "place"
+    },
+    {
+     "id": "2:13.40",
+     "gloss": "not"
+    },
+    {
+     "id": "2:13.41",
+     "gloss": "I will withhold",
+     "note": "the verb is chasakh, to restrain"
+    },
+    {
+     "id": "2:13.42",
+     "gloss": "my quill",
+     "note": "kolmos, from Greek kalamos, a reed pen"
+    },
+    {
+     "id": "2:13.43",
+     "gloss": "from replying"
+    },
+    {
+     "id": "2:13.44",
+     "gloss": "although",
+     "note": "abbreviation for af al pi she-, expanded"
+    },
+    {
+     "id": "2:13.45",
+     "gloss": "that you did"
+    },
+    {
+     "id": "2:13.46",
+     "gloss": "not"
+    },
+    {
+     "id": "2:13.47",
+     "gloss": "properly",
+     "note": "ke-hogen, \"as is fitting\""
+    },
+    {
+     "id": "2:13.48",
+     "gloss": "and I say"
+    },
+    {
+     "id": "2:13.49",
+     "gloss": "that"
+    },
+    {
+     "id": "2:13.50",
+     "gloss": "plain"
+    },
+    {
+     "id": "2:13.51",
+     "gloss": "it"
+    },
+    {
+     "id": "2:13.52",
+     "gloss": "and known"
+    },
+    {
+     "id": "2:13.53",
+     "gloss": "to every"
+    },
+    {
+     "id": "2:13.54",
+     "gloss": "learned man"
+    },
+    {
+     "id": "2:13.55",
+     "gloss": "well versed"
+    },
+    {
+     "id": "2:13.56",
+     "gloss": "in the books of"
+    },
+    {
+     "id": "2:13.57",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:13.58",
+     "gloss": "that the name"
+    },
+    {
+     "id": "2:13.59",
+     "gloss": "Shekhinah"
+    },
+    {
+     "id": "2:13.60",
+     "gloss": "is said"
+    },
+    {
+     "id": "2:13.61",
+     "gloss": "of"
+    },
+    {
+     "id": "2:13.62",
+     "gloss": "3",
+     "note": "letter numeral gimel"
+    },
+    {
+     "id": "2:13.63",
+     "gloss": "things"
+    },
+    {
+     "id": "2:13.64",
+     "gloss": "either"
+    },
+    {
+     "id": "2:13.65",
+     "gloss": "of",
+     "note": "literally \"to\""
+    },
+    {
+     "id": "2:13.66",
+     "gloss": "the Name, may He be blessed",
+     "note": "abbreviation ha-Shem yitbarakh, expanded"
+    },
+    {
+     "id": "2:13.67",
+     "gloss": "as"
+    },
+    {
+     "id": "2:13.68",
+     "gloss": "wrote"
+    },
+    {
+     "id": "2:13.69",
+     "gloss": "our Master",
+     "note": "rabbenu: the Rambam"
+    },
+    {
+     "id": "2:13.70",
+     "gloss": "in Laws of",
+     "note": "abbreviation of hilkhot"
+    },
+    {
+     "id": "2:13.71",
+     "gloss": "Repentance"
+    },
+    {
+     "id": "2:13.72",
+     "gloss": "chapter 7",
+     "note": "abbreviation: perek zayin"
+    },
+    {
+     "id": "2:13.73",
+     "gloss": "great"
+    },
+    {
+     "id": "2:13.74",
+     "gloss": "repentance"
+    },
+    {
+     "id": "2:13.75",
+     "gloss": "which brings near",
+     "note": "participle"
+    },
+    {
+     "id": "2:13.76",
+     "gloss": "the person"
+    },
+    {
+     "id": "2:13.77",
+     "gloss": "to the Shekhinah"
+    },
+    {
+     "id": "2:13.78",
+     "gloss": "as it is said",
+     "note": "niphal; the formula that introduces a verse"
+    },
+    {
+     "id": "2:13.79",
+     "gloss": "return",
+     "note": "Hos 14:2"
+    },
+    {
+     "id": "2:13.80",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:13.81",
+     "gloss": "to"
+    },
+    {
+     "id": "2:13.82",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:13.83",
+     "gloss": "your God"
+    },
+    {
+     "id": "2:13.84",
+     "gloss": "etc."
+    },
+    {
+     "id": "2:13.85",
+     "gloss": "and it is said"
+    },
+    {
+     "id": "2:13.86",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:13.87",
+     "gloss": "you returned"
+    },
+    {
+     "id": "2:13.88",
+     "gloss": "to Me",
+     "note": "adey, \"to me\" (Amos 4:6)"
+    },
+    {
+     "id": "2:13.89",
+     "gloss": "says"
+    },
+    {
+     "id": "2:13.90",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:13.91",
+     "gloss": "and it is said"
+    },
+    {
+     "id": "2:13.92",
+     "gloss": "if"
+    },
+    {
+     "id": "2:13.93",
+     "gloss": "you return"
+    },
+    {
+     "id": "2:13.94",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:13.95",
+     "gloss": "to Me"
+    },
+    {
+     "id": "2:13.96",
+     "gloss": "you shall return"
+    },
+    {
+     "id": "2:13.97",
+     "gloss": "that is to say",
+     "note": "kelomar"
+    },
+    {
+     "id": "2:13.98",
+     "gloss": "if"
+    },
+    {
+     "id": "2:13.99",
+     "gloss": "you turn"
+    },
+    {
+     "id": "2:13.100",
+     "gloss": "in repentance"
+    },
+    {
+     "id": "2:13.101",
+     "gloss": "to Me",
+     "note": "literally \"in Me\""
+    },
+    {
+     "id": "2:13.102",
+     "gloss": "you will cleave"
+    },
+    {
+     "id": "2:13.103",
+     "gloss": "etc."
+    },
+    {
+     "id": "2:13.104",
+     "gloss": "again"
+    },
+    {
+     "id": "2:13.105",
+     "gloss": "there"
+    },
+    {
+     "id": "2:13.106",
+     "gloss": "on"
+    },
+    {
+     "id": "2:13.107",
+     "gloss": "the excellence of"
+    },
+    {
+     "id": "2:13.108",
+     "gloss": "repentance"
+    },
+    {
+     "id": "2:13.109",
+     "gloss": "yesterday"
+    },
+    {
+     "id": "2:13.110",
+     "gloss": "was"
+    },
+    {
+     "id": "2:13.111",
+     "gloss": "this man"
+    },
+    {
+     "id": "2:13.112",
+     "gloss": "separated"
+    },
+    {
+     "id": "2:13.113",
+     "gloss": "from the LORD"
+    },
+    {
+     "id": "2:13.114",
+     "gloss": "the God of"
+    },
+    {
+     "id": "2:13.115",
+     "gloss": "Israel"
+    },
+    {
+     "id": "2:13.116",
+     "gloss": "etc."
+    },
+    {
+     "id": "2:13.117",
+     "gloss": "and today"
+    },
+    {
+     "id": "2:13.118",
+     "gloss": "he"
+    },
+    {
+     "id": "2:13.119",
+     "gloss": "cleaving"
+    },
+    {
+     "id": "2:13.120",
+     "gloss": "to the Shekhinah"
+    },
+    {
+     "id": "2:13.121",
+     "gloss": "as it is said"
+    },
+    {
+     "id": "2:13.122",
+     "gloss": "and you"
+    },
+    {
+     "id": "2:13.123",
+     "gloss": "who cleave"
+    },
+    {
+     "id": "2:13.124",
+     "gloss": "to the LORD"
+    },
+    {
+     "id": "2:13.125",
+     "gloss": "your God"
+    },
+    {
+     "id": "2:13.126",
+     "gloss": "he cries out"
+    },
+    {
+     "id": "2:13.127",
+     "gloss": "and is answered",
+     "note": "niphal participle"
+    },
+    {
+     "id": "2:13.128",
+     "gloss": "at once"
+    },
+    {
+     "id": "2:13.129",
+     "gloss": "as it is said"
+    },
+    {
+     "id": "2:13.130",
+     "gloss": "and it shall be"
+    },
+    {
+     "id": "2:13.131",
+     "gloss": "before"
+    },
+    {
+     "id": "2:13.132",
+     "gloss": "they call"
+    },
+    {
+     "id": "2:13.133",
+     "gloss": "and I"
+    },
+    {
+     "id": "2:13.134",
+     "gloss": "I will answer"
+    },
+    {
+     "id": "2:13.135",
+     "gloss": "and so"
+    },
+    {
+     "id": "2:13.136",
+     "gloss": "the sense of"
+    },
+    {
+     "id": "2:13.137",
+     "gloss": "his words"
+    },
+    {
+     "id": "2:13.138",
+     "gloss": "in Laws of"
+    },
+    {
+     "id": "2:13.139",
+     "gloss": "Prayer"
+    },
+    {
+     "id": "2:13.140",
+     "gloss": "that if"
+    },
+    {
+     "id": "2:13.141",
+     "gloss": "he was"
+    },
+    {
+     "id": "2:13.142",
+     "gloss": "in a place"
+    },
+    {
+     "id": "2:13.143",
+     "gloss": "where he is not"
+    },
+    {
+     "id": "2:13.144",
+     "gloss": "able"
+    },
+    {
+     "id": "2:13.145",
+     "gloss": "to determine",
+     "note": "lekhavven, to align, fix"
+    },
+    {
+     "id": "2:13.146",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:13.147",
+     "gloss": "the directions",
+     "note": "literally \"the winds\", the points of the compass"
+    },
+    {
+     "id": "2:13.148",
+     "gloss": "etc.",
+     "note": "truncated; nothing supplied"
+    },
+    {
+     "id": "2:13.149",
+     "gloss": "and so"
+    },
+    {
+     "id": "2:13.150",
+     "gloss": "rendered",
+     "note": "he'etiku: translated, or copied over into Arabic; either sense suits a rendering of the Rambam's rule"
+    },
+    {
+     "id": "2:13.151",
+     "gloss": "our forebears",
+     "note": "qadmoneinu, the author's appeal to Yemenite tradition"
+    },
+    {
+     "id": "2:13.152",
+     "gloss": "and if",
+     "note": "Arabic wa-in"
+    },
+    {
+     "id": "2:13.153",
+     "gloss": "he is",
+     "note": "Arabic kana"
+    },
+    {
+     "id": "2:13.154",
+     "gloss": "in",
+     "note": "Arabic fi"
+    },
+    {
+     "id": "2:13.155",
+     "gloss": "a place",
+     "note": "Arabic; the spelling is probably buqca, \"spot, place\""
+    },
+    {
+     "id": "2:13.156",
+     "gloss": "and not",
+     "note": "Arabic wa-la"
+    },
+    {
+     "id": "2:13.157",
+     "gloss": "is able",
+     "note": "Arabic yuhsin, \"is able to, knows how to\""
+    },
+    {
+     "id": "2:13.158",
+     "gloss": "know",
+     "note": "Arabic yacrif"
+    },
+    {
+     "id": "2:13.159",
+     "gloss": "the direction",
+     "note": "Arabic al-jiha"
+    },
+    {
+     "id": "2:13.160",
+     "gloss": "let him direct",
+     "note": "Arabic, spelled with an abbreviation mark; read as yuhayyi', \"prepares, turns\""
+    },
+    {
+     "id": "2:13.161",
+     "gloss": "his heart",
+     "note": "Arabic qalbahu"
+    },
+    {
+     "id": "2:13.162",
+     "gloss": "to",
+     "note": "Arabic ila"
+    },
+    {
+     "id": "2:13.163",
+     "gloss": "his Creator",
+     "note": "Arabic khaliqihi"
+    },
+    {
+     "id": "2:13.164",
+     "gloss": "and pray",
+     "note": "Arabic wa-yusalli"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:13.1",
+      "2:13.2",
+      "2:13.3",
+      "2:13.4",
+      "2:13.5"
+     ],
+     "english": "As for your questions that you wrote, that one should ask",
+     "literal": "and-on questions-your that-you-wrote that-there-is to-ask"
+    },
+    {
+     "tokens": [
+      "2:13.6",
+      "2:13.7",
+      "2:13.8",
+      "2:13.9",
+      "2:13.10"
+     ],
+     "english": "about what the Rambam of blessed memory wrote:",
+     "literal": "on what that-wrote the-Rambam of-blessed-memory"
+    },
+    {
+     "tokens": [
+      "2:13.11",
+      "2:13.12",
+      "2:13.13",
+      "2:13.14",
+      "2:13.15"
+     ],
+     "english": "\"Let him direct his heart toward the Shekhinah and pray,\"",
+     "literal": "he-shall-direct his-heart toward the-Shekhinah and-he-shall-pray"
+    },
+    {
+     "tokens": [
+      "2:13.16",
+      "2:13.17",
+      "2:13.18",
+      "2:13.19",
+      "2:13.20",
+      "2:13.21",
+      "2:13.22"
+     ],
+     "english": "and in Moreh Nevukhim he wrote that the Shekhinah is a created light, etc.",
+     "literal": "and-in-Moreh Nevukhim he-wrote that-the-Shekhinah light created etc."
+    },
+    {
+     "tokens": [
+      "2:13.23",
+      "2:13.24",
+      "2:13.25",
+      "2:13.26",
+      "2:13.27",
+      "2:13.28",
+      "2:13.29",
+      "2:13.30",
+      "2:13.31"
+     ],
+     "english": "Behold, in your question you have revealed that you are wise in your own eyes and have not learned discipline.",
+     "literal": "behold in-your-question you-revealed that-you wise in-your-eyes and-not you-learned discipline"
+    },
+    {
+     "tokens": [
+      "2:13.32",
+      "2:13.33",
+      "2:13.34",
+      "2:13.35",
+      "2:13.36",
+      "2:13.37"
+     ],
+     "english": "Is it, then, the way of one who is asked to question his questioner?",
+     "literal": "and-is the-way-of the-one-asked to-ask [object-marker] his-asker"
+    },
+    {
+     "tokens": [
+      "2:13.38",
+      "2:13.39",
+      "2:13.40",
+      "2:13.41",
+      "2:13.42",
+      "2:13.43"
+     ],
+     "english": "In any case I will not withhold my quill from replying,",
+     "literal": "from-every place not I-will-withhold my-quill from-replying"
+    },
+    {
+     "tokens": [
+      "2:13.44",
+      "2:13.45",
+      "2:13.46",
+      "2:13.47"
+     ],
+     "english": "even though you have not acted properly!",
+     "literal": "although that-you-did not properly"
+    },
+    {
+     "tokens": [
+      "2:13.48",
+      "2:13.49",
+      "2:13.50",
+      "2:13.51",
+      "2:13.52",
+      "2:13.53",
+      "2:13.54",
+      "2:13.55",
+      "2:13.56",
+      "2:13.57"
+     ],
+     "english": "And I say that it is plain and known to every learned man well versed in the books of Israel",
+     "literal": "and-I-say that plain it and-known to-every learned versed in-books-of Israel"
+    },
+    {
+     "tokens": [
+      "2:13.58",
+      "2:13.59",
+      "2:13.60",
+      "2:13.61",
+      "2:13.62",
+      "2:13.63"
+     ],
+     "english": "that the name Shekhinah is said of 3 things:",
+     "literal": "that-name Shekhinah is-said on 3 things"
+    },
+    {
+     "tokens": [
+      "2:13.64",
+      "2:13.65",
+      "2:13.66"
+     ],
+     "english": "either of the Name, may He be blessed,",
+     "literal": "either to the-Name-may-He-be-blessed"
+    },
+    {
+     "tokens": [
+      "2:13.67",
+      "2:13.68",
+      "2:13.69",
+      "2:13.70",
+      "2:13.71",
+      "2:13.72"
+     ],
+     "english": "as our Master wrote in Laws of Repentance, chapter 7:",
+     "literal": "as wrote our-Master in-Laws-of Repentance chapter-7"
+    },
+    {
+     "tokens": [
+      "2:13.73",
+      "2:13.74",
+      "2:13.75",
+      "2:13.76",
+      "2:13.77",
+      "2:13.78"
+     ],
+     "english": "\"Great is repentance, which brings a person near to the Shekhinah, as it is said:",
+     "literal": "great repentance that-brings-near the-person to-the-Shekhinah as-it-is-said"
+    },
+    {
+     "tokens": [
+      "2:13.79",
+      "2:13.80",
+      "2:13.81",
+      "2:13.82",
+      "2:13.83",
+      "2:13.84"
+     ],
+     "english": "'Return, O Israel, to the LORD your God,' etc.,",
+     "literal": "return Israel to the-LORD your-God etc."
+    },
+    {
+     "tokens": [
+      "2:13.85",
+      "2:13.86",
+      "2:13.87",
+      "2:13.88",
+      "2:13.89",
+      "2:13.90"
+     ],
+     "english": "and it is said: 'Yet you did not return to Me, says the LORD,'",
+     "literal": "and-it-is-said and-not you-returned to-me declaration-of the-LORD"
+    },
+    {
+     "tokens": [
+      "2:13.91",
+      "2:13.92",
+      "2:13.93",
+      "2:13.94",
+      "2:13.95",
+      "2:13.96"
+     ],
+     "english": "and it is said: 'If you return, O Israel, to Me you shall return.'",
+     "literal": "and-it-is-said if you-return Israel to-me you-shall-return"
+    },
+    {
+     "tokens": [
+      "2:13.97",
+      "2:13.98",
+      "2:13.99",
+      "2:13.100",
+      "2:13.101",
+      "2:13.102",
+      "2:13.103"
+     ],
+     "english": "That is to say, if you turn in repentance, you will cleave to Me, etc.\"",
+     "literal": "that-is-to-say if you-turn in-repentance in-me you-will-cleave etc."
+    },
+    {
+     "tokens": [
+      "2:13.104",
+      "2:13.105",
+      "2:13.106",
+      "2:13.107",
+      "2:13.108"
+     ],
+     "english": "Again there, on the excellence of repentance:",
+     "literal": "again there on excellence-of the-repentance"
+    },
+    {
+     "tokens": [
+      "2:13.109",
+      "2:13.110",
+      "2:13.111",
+      "2:13.112",
+      "2:13.113",
+      "2:13.114",
+      "2:13.115",
+      "2:13.116"
+     ],
+     "english": "\"Yesterday this man was separated from the LORD, the God of Israel, etc.,",
+     "literal": "yesterday was this-one separated from-the-LORD God-of Israel etc."
+    },
+    {
+     "tokens": [
+      "2:13.117",
+      "2:13.118",
+      "2:13.119",
+      "2:13.120"
+     ],
+     "english": "and today he is cleaving to the Shekhinah,",
+     "literal": "and-today he cleaving to-the-Shekhinah"
+    },
+    {
+     "tokens": [
+      "2:13.121",
+      "2:13.122",
+      "2:13.123",
+      "2:13.124",
+      "2:13.125"
+     ],
+     "english": "as it is said: 'And you who cleave to the LORD your God,'",
+     "literal": "as-it-is-said and-you the-cleaving to-the-LORD your-God"
+    },
+    {
+     "tokens": [
+      "2:13.126",
+      "2:13.127",
+      "2:13.128"
+     ],
+     "english": "he cries out and is answered at once,",
+     "literal": "crying-out and-answered at-once"
+    },
+    {
+     "tokens": [
+      "2:13.129",
+      "2:13.130",
+      "2:13.131",
+      "2:13.132",
+      "2:13.133",
+      "2:13.134"
+     ],
+     "english": "as it is said: 'And it shall be that before they call, I will answer.'\"",
+     "literal": "as-it-is-said and-it-shall-be before they-call and-I I-will-answer"
+    },
+    {
+     "tokens": [
+      "2:13.135",
+      "2:13.136",
+      "2:13.137",
+      "2:13.138",
+      "2:13.139"
+     ],
+     "english": "And so is the sense of his words in Laws of Prayer,",
+     "literal": "and-so sense-of his-words in-Laws-of Prayer"
+    },
+    {
+     "tokens": [
+      "2:13.140",
+      "2:13.141",
+      "2:13.142",
+      "2:13.143",
+      "2:13.144",
+      "2:13.145",
+      "2:13.146",
+      "2:13.147",
+      "2:13.148"
+     ],
+     "english": "that if he was in a place where he cannot determine the directions, etc.",
+     "literal": "that-if he-was in-a-place that-not able to-direct [object-marker] the-directions etc."
+    },
+    {
+     "tokens": [
+      "2:13.149",
+      "2:13.150",
+      "2:13.151"
+     ],
+     "english": "And so our forebears rendered it:",
+     "literal": "and-so rendered our-forebears"
+    },
+    {
+     "tokens": [
+      "2:13.152",
+      "2:13.153",
+      "2:13.154",
+      "2:13.155",
+      "2:13.156",
+      "2:13.157",
+      "2:13.158",
+      "2:13.159",
+      "2:13.160",
+      "2:13.161",
+      "2:13.162",
+      "2:13.163",
+      "2:13.164"
+     ],
+     "english": "\"And if he is in a place and cannot tell the direction, let him direct his heart to his Creator and pray.\"",
+     "literal": "and-if he-is in a-place and-not he-is-able he-knows the-direction he-directs his-heart to his-Creator and-he-prays"
+    }
+   ],
+   "grammar": [
+    "Opening: the questioner has raised a contradiction between two statements of the Rambam; the reply first rebukes him (the rhetorical question and the exclamation) and only then answers.",
+    "The answer is built on a list: the name Shekhinah is said of 3 things, introduced by the particle for the first one (either ... ), and continued in 2:14 (the second) and 2:15 (the third).",
+    "Quotations inside quotations: the Rambam's Laws of Repentance is quoted with four verses, each introduced by the formula of the niphal, 'as it is said' or 'and it is said'; the author's own gloss on a verse (kelomar, 'that is to say') belongs to the Rambam's text.",
+    "The participle forms of the Rambam's sentences ('cries out and is answered', 'is cleaving') describe a state, not a past event.",
+    "The last sentence is Judeo-Arabic (Hebrew letters, Arabic words): a one-line proverb, introduced by 'so our forebears rendered it'. The first word, wa-in, 'and if', has the Arabic particle and the verb kana, 'is'."
+   ],
+   "note": "The reply claims that the Rambam uses the word Shekhinah in three senses, which resolves the apparent contradiction between the Laws of Prayer ('toward the Shekhinah') and the Guide ('a created light'). The Arabic proverb is translated from the Arabic as it stands. The word the text writes with the letters bet, vav, tzadi, ayin is read as buqca, 'a place', and the word written with an abbreviation mark as yuhayyi'; both readings are the translator's, since the pack offers no lexicon for Judeo-Arabic. The proverb is presented as the Arabic rendering of the Rambam's rule in the Laws of Prayer, and the sense of rendered (he'etiku) is given in the token note. The Rambam passages are translated from the Hebrew the author quotes.",
+   "commentary": [],
+   "apparatus": [
+    "Verse: Hos 14:2 ('Return, O Israel, to the LORD your God').",
+    "Verse: Amos 4:6 ('Yet you did not return to Me, says the LORD').",
+    "Verse: Jer 4:1; the author's text omits the words 'says the LORD' that stand after 'O Israel' in the verse, and the English follows his wording.",
+    "Verse: Deut 4:4 ('And you who cleave to the LORD your God', cut off at the comma).",
+    "Verse: Isa 65:24 ('And it shall be that before they call, I will answer').",
+    "Allusion: Prov 3:7 ('Do not be wise in your own eyes'); the English of 'wise in your own eyes' is embedded without quotation marks.",
+    "Judeo-Arabic proverb: wa-in kana fi buqca wa-la yuhsin yacrif al-jiha yuhayyi' qalbahu ila khaliqihi wa-yusalli; the spelling of two words (the word for place and the word before 'his heart') is not certain; both are translated as the evident word."
+   ],
+   "context": []
+  },
+  {
+   "ref": "2:14",
+   "english": "And the second is in a place where the term \"the revelation of the Shekhinah\" is mentioned, for example, regarding Abraham our father when he went to bind Isaac, of whom it is said: \"And he saw the place from afar.\" Our Rabbis of blessed memory said that he saw a light from afar on Mount Moriah, and as the liturgical poet said: \"And he saw a likeness of glory, splendor and honor, and further asked his young men, 'A light: did you see it shining on the top of Mount ha-Mor?' etc.\" This is the created light that our Master wrote of. And so at the bush: and he saw, and behold, the bush was burning with fire, and explicitly it is said there: \"And the angel of the LORD appeared to him in a flame of fire out of the bush,\" and this is the created light. And so in every place where the term \"the revelation of the Shekhinah\" is mentioned, it is a created light.",
+   "literal": "and-the-second in-a-place that-is-mentioned there/name revelation-of Shekhinah for-example regarding Abraham our-father when-he-went to-bind [object-marker] Isaac that-is-said of-him and-he-saw [object-marker] the-place from-afar and-said our-Rabbis-of-blessed-memory that-he-saw light from-afar on-mount the-Moriah and-as said the-poet and-he-saw likeness-of glory and-splendor and-honor and-asked further [object-marker] his-young-men light did-you-see shining on-top-of mount the-Mor etc. this-is light created that-wrote our-Master and-so at-the-bush and-he-saw and-behold the-bush burning with-fire and-explicitly it-is-said there and-appeared angel-of the-LORD to-him in-flame-of fire from-within the-bush and-this-is light created and-so every place that-is-mentioned there/name revelation-of Shekhinah it light created",
+   "tokens": [
+    {
+     "id": "2:14.1",
+     "gloss": "and the second"
+    },
+    {
+     "id": "2:14.2",
+     "gloss": "in a place"
+    },
+    {
+     "id": "2:14.3",
+     "gloss": "where is mentioned"
+    },
+    {
+     "id": "2:14.4",
+     "gloss": "the term",
+     "note": "shem: \"there\" or \"name\"; see the note"
+    },
+    {
+     "id": "2:14.5",
+     "gloss": "the revelation of",
+     "note": "gilui"
+    },
+    {
+     "id": "2:14.6",
+     "gloss": "the Shekhinah"
+    },
+    {
+     "id": "2:14.7",
+     "gloss": "for example"
+    },
+    {
+     "id": "2:14.8",
+     "gloss": "regarding"
+    },
+    {
+     "id": "2:14.9",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "2:14.10",
+     "gloss": "our father"
+    },
+    {
+     "id": "2:14.11",
+     "gloss": "when he went"
+    },
+    {
+     "id": "2:14.12",
+     "gloss": "to bind",
+     "note": "la'akod, the verb of the Akedah"
+    },
+    {
+     "id": "2:14.13",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:14.14",
+     "gloss": "Isaac"
+    },
+    {
+     "id": "2:14.15",
+     "gloss": "of whom it is said"
+    },
+    {
+     "id": "2:14.16",
+     "gloss": "of him"
+    },
+    {
+     "id": "2:14.17",
+     "gloss": "and he saw"
+    },
+    {
+     "id": "2:14.18",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:14.19",
+     "gloss": "the place"
+    },
+    {
+     "id": "2:14.20",
+     "gloss": "from afar"
+    },
+    {
+     "id": "2:14.21",
+     "gloss": "and said"
+    },
+    {
+     "id": "2:14.22",
+     "gloss": "our Rabbis of blessed memory",
+     "note": "abbreviation razal, expanded"
+    },
+    {
+     "id": "2:14.23",
+     "gloss": "that he saw"
+    },
+    {
+     "id": "2:14.24",
+     "gloss": "a light"
+    },
+    {
+     "id": "2:14.25",
+     "gloss": "from afar"
+    },
+    {
+     "id": "2:14.26",
+     "gloss": "on Mount"
+    },
+    {
+     "id": "2:14.27",
+     "gloss": "Moriah"
+    },
+    {
+     "id": "2:14.28",
+     "gloss": "and as"
+    },
+    {
+     "id": "2:14.29",
+     "gloss": "said"
+    },
+    {
+     "id": "2:14.30",
+     "gloss": "the liturgical poet",
+     "note": "ha-paytan; the poem is not named"
+    },
+    {
+     "id": "2:14.31",
+     "gloss": "and he saw"
+    },
+    {
+     "id": "2:14.32",
+     "gloss": "a likeness of"
+    },
+    {
+     "id": "2:14.33",
+     "gloss": "glory"
+    },
+    {
+     "id": "2:14.34",
+     "gloss": "and splendor"
+    },
+    {
+     "id": "2:14.35",
+     "gloss": "and honor"
+    },
+    {
+     "id": "2:14.36",
+     "gloss": "and asked"
+    },
+    {
+     "id": "2:14.37",
+     "gloss": "further"
+    },
+    {
+     "id": "2:14.38",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:14.39",
+     "gloss": "his young men",
+     "note": "ne'arav"
+    },
+    {
+     "id": "2:14.40",
+     "gloss": "a light"
+    },
+    {
+     "id": "2:14.41",
+     "gloss": "did you see",
+     "note": "the ha- is the interrogative"
+    },
+    {
+     "id": "2:14.42",
+     "gloss": "shining",
+     "note": "tzatz: flashes, gleams"
+    },
+    {
+     "id": "2:14.43",
+     "gloss": "on the top of"
+    },
+    {
+     "id": "2:14.44",
+     "gloss": "Mount"
+    },
+    {
+     "id": "2:14.45",
+     "gloss": "ha-Mor",
+     "note": "the poet's form for Moriah; in Song 4:6 the same words mean \"the mountain of myrrh\""
+    },
+    {
+     "id": "2:14.46",
+     "gloss": "etc."
+    },
+    {
+     "id": "2:14.47",
+     "gloss": "this is"
+    },
+    {
+     "id": "2:14.48",
+     "gloss": "light"
+    },
+    {
+     "id": "2:14.49",
+     "gloss": "created"
+    },
+    {
+     "id": "2:14.50",
+     "gloss": "that wrote"
+    },
+    {
+     "id": "2:14.51",
+     "gloss": "our Master",
+     "note": "the Rambam"
+    },
+    {
+     "id": "2:14.52",
+     "gloss": "and so"
+    },
+    {
+     "id": "2:14.53",
+     "gloss": "at the bush"
+    },
+    {
+     "id": "2:14.54",
+     "gloss": "and he saw"
+    },
+    {
+     "id": "2:14.55",
+     "gloss": "and behold"
+    },
+    {
+     "id": "2:14.56",
+     "gloss": "the bush"
+    },
+    {
+     "id": "2:14.57",
+     "gloss": "burning",
+     "note": "participle (bo'er); the verse has the perfect form"
+    },
+    {
+     "id": "2:14.58",
+     "gloss": "with fire"
+    },
+    {
+     "id": "2:14.59",
+     "gloss": "and explicitly",
+     "note": "Aramaic be-hadya, \"openly, expressly\""
+    },
+    {
+     "id": "2:14.60",
+     "gloss": "it is said"
+    },
+    {
+     "id": "2:14.61",
+     "gloss": "there"
+    },
+    {
+     "id": "2:14.62",
+     "gloss": "and appeared",
+     "note": "the same verb as \"he saw\" in the previous verse; here niphal \"appeared\""
+    },
+    {
+     "id": "2:14.63",
+     "gloss": "angel of"
+    },
+    {
+     "id": "2:14.64",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:14.65",
+     "gloss": "to him"
+    },
+    {
+     "id": "2:14.66",
+     "gloss": "in a flame of"
+    },
+    {
+     "id": "2:14.67",
+     "gloss": "fire"
+    },
+    {
+     "id": "2:14.68",
+     "gloss": "out of"
+    },
+    {
+     "id": "2:14.69",
+     "gloss": "the bush"
+    },
+    {
+     "id": "2:14.70",
+     "gloss": "and this is"
+    },
+    {
+     "id": "2:14.71",
+     "gloss": "light"
+    },
+    {
+     "id": "2:14.72",
+     "gloss": "created"
+    },
+    {
+     "id": "2:14.73",
+     "gloss": "and so"
+    },
+    {
+     "id": "2:14.74",
+     "gloss": "every"
+    },
+    {
+     "id": "2:14.75",
+     "gloss": "place"
+    },
+    {
+     "id": "2:14.76",
+     "gloss": "that is mentioned"
+    },
+    {
+     "id": "2:14.77",
+     "gloss": "the term"
+    },
+    {
+     "id": "2:14.78",
+     "gloss": "the revelation of"
+    },
+    {
+     "id": "2:14.79",
+     "gloss": "the Shekhinah"
+    },
+    {
+     "id": "2:14.80",
+     "gloss": "it is"
+    },
+    {
+     "id": "2:14.81",
+     "gloss": "light"
+    },
+    {
+     "id": "2:14.82",
+     "gloss": "created"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:14.1",
+      "2:14.2",
+      "2:14.3",
+      "2:14.4",
+      "2:14.5",
+      "2:14.6"
+     ],
+     "english": "And the second is in a place where the term \"the revelation of the Shekhinah\" is mentioned,",
+     "literal": "and-the-second in-a-place that-is-mentioned there/name revelation-of Shekhinah"
+    },
+    {
+     "tokens": [
+      "2:14.7",
+      "2:14.8",
+      "2:14.9",
+      "2:14.10",
+      "2:14.11",
+      "2:14.12",
+      "2:14.13",
+      "2:14.14"
+     ],
+     "english": "for example, regarding Abraham our father when he went to bind Isaac,",
+     "literal": "for-example regarding Abraham our-father when-he-went to-bind [object-marker] Isaac"
+    },
+    {
+     "tokens": [
+      "2:14.15",
+      "2:14.16",
+      "2:14.17",
+      "2:14.18",
+      "2:14.19",
+      "2:14.20"
+     ],
+     "english": "of whom it is said: \"And he saw the place from afar.\"",
+     "literal": "that-is-said of-him and-he-saw [object-marker] the-place from-afar"
+    },
+    {
+     "tokens": [
+      "2:14.21",
+      "2:14.22",
+      "2:14.23",
+      "2:14.24",
+      "2:14.25",
+      "2:14.26",
+      "2:14.27"
+     ],
+     "english": "Our Rabbis of blessed memory said that he saw a light from afar on Mount Moriah,",
+     "literal": "and-said our-Rabbis-of-blessed-memory that-he-saw light from-afar on-mount the-Moriah"
+    },
+    {
+     "tokens": [
+      "2:14.28",
+      "2:14.29",
+      "2:14.30",
+      "2:14.31",
+      "2:14.32",
+      "2:14.33",
+      "2:14.34",
+      "2:14.35"
+     ],
+     "english": "and as the liturgical poet said: \"And he saw a likeness of glory, splendor and honor,",
+     "literal": "and-as said the-poet and-he-saw likeness-of glory and-splendor and-honor"
+    },
+    {
+     "tokens": [
+      "2:14.36",
+      "2:14.37",
+      "2:14.38",
+      "2:14.39"
+     ],
+     "english": "and further asked his young men,",
+     "literal": "and-asked further [object-marker] his-young-men"
+    },
+    {
+     "tokens": [
+      "2:14.40",
+      "2:14.41",
+      "2:14.42",
+      "2:14.43",
+      "2:14.44",
+      "2:14.45",
+      "2:14.46"
+     ],
+     "english": "'A light: did you see it shining on the top of Mount ha-Mor?' etc.\"",
+     "literal": "light did-you-see shining on-top-of mount the-Mor etc."
+    },
+    {
+     "tokens": [
+      "2:14.47",
+      "2:14.48",
+      "2:14.49",
+      "2:14.50",
+      "2:14.51"
+     ],
+     "english": "This is the created light that our Master wrote of.",
+     "literal": "this-is light created that-wrote our-Master"
+    },
+    {
+     "tokens": [
+      "2:14.52",
+      "2:14.53",
+      "2:14.54",
+      "2:14.55",
+      "2:14.56",
+      "2:14.57",
+      "2:14.58"
+     ],
+     "english": "And so at the bush: and he saw, and behold, the bush was burning with fire,",
+     "literal": "and-so at-the-bush and-he-saw and-behold the-bush burning with-fire"
+    },
+    {
+     "tokens": [
+      "2:14.59",
+      "2:14.60",
+      "2:14.61"
+     ],
+     "english": "and explicitly it is said there:",
+     "literal": "and-explicitly it-is-said there"
+    },
+    {
+     "tokens": [
+      "2:14.62",
+      "2:14.63",
+      "2:14.64",
+      "2:14.65",
+      "2:14.66",
+      "2:14.67",
+      "2:14.68",
+      "2:14.69"
+     ],
+     "english": "\"And the angel of the LORD appeared to him in a flame of fire out of the bush,\"",
+     "literal": "and-appeared angel-of the-LORD to-him in-flame-of fire from-within the-bush"
+    },
+    {
+     "tokens": [
+      "2:14.70",
+      "2:14.71",
+      "2:14.72"
+     ],
+     "english": "and this is the created light.",
+     "literal": "and-this-is light created"
+    },
+    {
+     "tokens": [
+      "2:14.73",
+      "2:14.74",
+      "2:14.75",
+      "2:14.76",
+      "2:14.77",
+      "2:14.78",
+      "2:14.79"
+     ],
+     "english": "And so in every place where the term \"the revelation of the Shekhinah\" is mentioned,",
+     "literal": "and-so every place that-is-mentioned there/name revelation-of Shekhinah"
+    },
+    {
+     "tokens": [
+      "2:14.80",
+      "2:14.81",
+      "2:14.82"
+     ],
+     "english": "it is a created light.",
+     "literal": "it light created"
+    }
+   ],
+   "grammar": [
+    "The second sense is identified by a phrase that the text itself sets in quotation marks: the revelation of the Shekhinah. The word shem after the verb 'is mentioned' may be 'there' or 'term, name'; the English takes it as 'term' and keeps the quotation marks of the text.",
+    "Three witnesses for one light: the Rabbis on Mount Moriah, a liturgical poet, and the burning bush. Each is brought by a different formula: 'said', 'as the poet said', and a bare quotation of the verse at the bush.",
+    "The same verb is used in Hebrew for 'saw' and 'appeared' (vayar / vayera): Abraham 'saw' the place; the angel 'appeared' to Moses in the fire.",
+    "The poet's question begins with a ha- that makes it interrogative ('did you see'), and his phrase 'Mount ha-Mor' is a form of Moriah.",
+    "The conclusion is a rule: wherever the revelation of the Shekhinah is mentioned, it is a created light."
+   ],
+   "note": "The word shem in 'where the term ... is mentioned' is ambiguous (the first occurrence in this paragraph and the last are the same phrase). The Hebrew of the bush verse in the text has the participle 'burning'; the verse in Exod 3:2 has the perfect form. The English follows the author's word. The poet is not named and the quoted lines are not identified.",
+   "commentary": [],
+   "apparatus": [
+    "Verse: Gen 22:4 ('And he saw the place from afar').",
+    "Verse: Exod 3:2 ('And he saw, and behold, the bush was burning with fire'; the verse itself has the perfect form of 'burn'), and the second half of the same verse ('And the angel of the LORD appeared to him in a flame of fire out of the bush').",
+    "The poetic lines are quoted from an unnamed liturgical poem; no source is given and none is added."
+   ],
+   "context": []
+  },
+  {
+   "ref": "2:15",
+   "english": "And the third: the providence of the Name, may He be blessed, over us is also called Shekhinah, as our Rabbis of blessed memory said: \"They went into exile to Babylon; the Shekhinah was with them.\" That is to say, His providence, may He be blessed, clung to us, as He promised us in the Torah: \"And yet even so, when they are in the land of their enemies, I will not reject them and I will not abhor them so as to destroy them, to break My covenant with them, for I am the LORD their God.\" And so it is with everything of the kind. Every place is to be understood according to its subject in one of these three mentioned aspects.",
+   "literal": "and-the-third the-providence-of the-Name-may-He-be-blessed over-us is-called also Shekhinah as said our-Rabbis-of-blessed-memory they-went-into-exile to-Babylon Shekhinah with-them that-is-to-say his-providence may-He-be-blessed clung to-us as He-promised-us in-the-Torah and-even also this when-they-are in-land-of their-enemies not I-rejected-them and-not I-abhorred-them to-destroy-them to-break my-covenant with-them for I the-LORD their-God and-so every like-this every place is-understood according-to its-subject in-one from-three aspects these the-mentioned",
+   "tokens": [
+    {
+     "id": "2:15.1",
+     "gloss": "and the third"
+    },
+    {
+     "id": "2:15.2",
+     "gloss": "the providence of",
+     "note": "hashgachah"
+    },
+    {
+     "id": "2:15.3",
+     "gloss": "the Name, may He be blessed",
+     "note": "abbreviation, expanded"
+    },
+    {
+     "id": "2:15.4",
+     "gloss": "over us"
+    },
+    {
+     "id": "2:15.5",
+     "gloss": "is called"
+    },
+    {
+     "id": "2:15.6",
+     "gloss": "also",
+     "note": "abbreviation gam ken, expanded"
+    },
+    {
+     "id": "2:15.7",
+     "gloss": "Shekhinah"
+    },
+    {
+     "id": "2:15.8",
+     "gloss": "as"
+    },
+    {
+     "id": "2:15.9",
+     "gloss": "said"
+    },
+    {
+     "id": "2:15.10",
+     "gloss": "our Rabbis of blessed memory"
+    },
+    {
+     "id": "2:15.11",
+     "gloss": "they went into exile",
+     "note": "the sentence has no verb for the Shekhinah"
+    },
+    {
+     "id": "2:15.12",
+     "gloss": "to Babylon"
+    },
+    {
+     "id": "2:15.13",
+     "gloss": "the Shekhinah"
+    },
+    {
+     "id": "2:15.14",
+     "gloss": "with them"
+    },
+    {
+     "id": "2:15.15",
+     "gloss": "that is to say"
+    },
+    {
+     "id": "2:15.16",
+     "gloss": "His providence"
+    },
+    {
+     "id": "2:15.17",
+     "gloss": "may He be blessed",
+     "note": "abbreviation yit., expanded"
+    },
+    {
+     "id": "2:15.18",
+     "gloss": "clung",
+     "note": "davkah, feminine to agree with providence"
+    },
+    {
+     "id": "2:15.19",
+     "gloss": "to us"
+    },
+    {
+     "id": "2:15.20",
+     "gloss": "as"
+    },
+    {
+     "id": "2:15.21",
+     "gloss": "He promised us"
+    },
+    {
+     "id": "2:15.22",
+     "gloss": "in the Torah"
+    },
+    {
+     "id": "2:15.23",
+     "gloss": "and yet"
+    },
+    {
+     "id": "2:15.24",
+     "gloss": "even"
+    },
+    {
+     "id": "2:15.25",
+     "gloss": "so"
+    },
+    {
+     "id": "2:15.26",
+     "gloss": "when they are"
+    },
+    {
+     "id": "2:15.27",
+     "gloss": "in the land of"
+    },
+    {
+     "id": "2:15.28",
+     "gloss": "their enemies"
+    },
+    {
+     "id": "2:15.29",
+     "gloss": "not"
+    },
+    {
+     "id": "2:15.30",
+     "gloss": "I will reject them",
+     "note": "perfect tense, as in the verse, with the force of a promise"
+    },
+    {
+     "id": "2:15.31",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:15.32",
+     "gloss": "I will abhor them"
+    },
+    {
+     "id": "2:15.33",
+     "gloss": "so as to destroy them"
+    },
+    {
+     "id": "2:15.34",
+     "gloss": "to break"
+    },
+    {
+     "id": "2:15.35",
+     "gloss": "My covenant"
+    },
+    {
+     "id": "2:15.36",
+     "gloss": "with them"
+    },
+    {
+     "id": "2:15.37",
+     "gloss": "for"
+    },
+    {
+     "id": "2:15.38",
+     "gloss": "I"
+    },
+    {
+     "id": "2:15.39",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:15.40",
+     "gloss": "their God"
+    },
+    {
+     "id": "2:15.41",
+     "gloss": "and so"
+    },
+    {
+     "id": "2:15.42",
+     "gloss": "every"
+    },
+    {
+     "id": "2:15.43",
+     "gloss": "of the kind",
+     "note": "ke-yotze ba-zeh, \"like this\""
+    },
+    {
+     "id": "2:15.44",
+     "gloss": "of this"
+    },
+    {
+     "id": "2:15.45",
+     "gloss": "every"
+    },
+    {
+     "id": "2:15.46",
+     "gloss": "place",
+     "note": "here a place in the text, a passage"
+    },
+    {
+     "id": "2:15.47",
+     "gloss": "is understood"
+    },
+    {
+     "id": "2:15.48",
+     "gloss": "according to"
+    },
+    {
+     "id": "2:15.49",
+     "gloss": "its subject"
+    },
+    {
+     "id": "2:15.50",
+     "gloss": "in one"
+    },
+    {
+     "id": "2:15.51",
+     "gloss": "of three"
+    },
+    {
+     "id": "2:15.52",
+     "gloss": "aspects",
+     "note": "panim, literally \"faces\""
+    },
+    {
+     "id": "2:15.53",
+     "gloss": "these"
+    },
+    {
+     "id": "2:15.54",
+     "gloss": "mentioned",
+     "note": "abbreviation ha-nizkar, expanded"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:15.1"
+     ],
+     "english": "And the third:",
+     "literal": "and-the-third"
+    },
+    {
+     "tokens": [
+      "2:15.2",
+      "2:15.3",
+      "2:15.4",
+      "2:15.5",
+      "2:15.6",
+      "2:15.7"
+     ],
+     "english": "the providence of the Name, may He be blessed, over us is also called Shekhinah,",
+     "literal": "the-providence-of the-Name-may-He-be-blessed over-us is-called also Shekhinah"
+    },
+    {
+     "tokens": [
+      "2:15.8",
+      "2:15.9",
+      "2:15.10"
+     ],
+     "english": "as our Rabbis of blessed memory said:",
+     "literal": "as said our-Rabbis-of-blessed-memory"
+    },
+    {
+     "tokens": [
+      "2:15.11",
+      "2:15.12",
+      "2:15.13",
+      "2:15.14"
+     ],
+     "english": "\"They went into exile to Babylon; the Shekhinah was with them.\"",
+     "literal": "they-went-into-exile to-Babylon Shekhinah with-them"
+    },
+    {
+     "tokens": [
+      "2:15.15",
+      "2:15.16",
+      "2:15.17",
+      "2:15.18",
+      "2:15.19"
+     ],
+     "english": "That is to say, His providence, may He be blessed, clung to us,",
+     "literal": "that-is-to-say his-providence may-He-be-blessed clung to-us"
+    },
+    {
+     "tokens": [
+      "2:15.20",
+      "2:15.21",
+      "2:15.22"
+     ],
+     "english": "as He promised us in the Torah:",
+     "literal": "as He-promised-us in-the-Torah"
+    },
+    {
+     "tokens": [
+      "2:15.23",
+      "2:15.24",
+      "2:15.25",
+      "2:15.26",
+      "2:15.27",
+      "2:15.28"
+     ],
+     "english": "\"And yet even so, when they are in the land of their enemies,",
+     "literal": "and-even also this when-they-are in-land-of their-enemies"
+    },
+    {
+     "tokens": [
+      "2:15.29",
+      "2:15.30",
+      "2:15.31",
+      "2:15.32"
+     ],
+     "english": "I will not reject them and I will not abhor them",
+     "literal": "not I-rejected-them and-not I-abhorred-them"
+    },
+    {
+     "tokens": [
+      "2:15.33",
+      "2:15.34",
+      "2:15.35",
+      "2:15.36"
+     ],
+     "english": "so as to destroy them, to break My covenant with them,",
+     "literal": "to-destroy-them to-break my-covenant with-them"
+    },
+    {
+     "tokens": [
+      "2:15.37",
+      "2:15.38",
+      "2:15.39",
+      "2:15.40"
+     ],
+     "english": "for I am the LORD their God.\"",
+     "literal": "for I the-LORD their-God"
+    },
+    {
+     "tokens": [
+      "2:15.41",
+      "2:15.42",
+      "2:15.43",
+      "2:15.44"
+     ],
+     "english": "And so it is with everything of the kind.",
+     "literal": "and-so every like-this"
+    },
+    {
+     "tokens": [
+      "2:15.45",
+      "2:15.46",
+      "2:15.47"
+     ],
+     "english": "Every place is to be understood",
+     "literal": "every place is-understood"
+    },
+    {
+     "tokens": [
+      "2:15.48",
+      "2:15.49"
+     ],
+     "english": "according to its subject",
+     "literal": "according-to its-subject"
+    },
+    {
+     "tokens": [
+      "2:15.50",
+      "2:15.51",
+      "2:15.52",
+      "2:15.53",
+      "2:15.54"
+     ],
+     "english": "in one of these three mentioned aspects.",
+     "literal": "in-one from-three aspects these the-mentioned"
+    }
+   ],
+   "grammar": [
+    "The third sense is God's providence over His people. The proof is a rabbinic saying with no verb for the second clause (the Shekhinah with them) and a verse from the Torah.",
+    "The verb of the promise in the verse is a perfect, 'I have not rejected them', which in this context states a promise about the future, as the English renders it.",
+    "Dabekah in 'clung to us' is feminine to agree with 'providence'; the verb 'clung' reuses the stem of the word the Rambam used for repentance (2:13).",
+    "The paragraph closes with a rule: each occurrence of the word is to be understood according to its subject as one of the three senses."
+   ],
+   "note": "The rabbinic saying is quoted without a source; none is added. The verse is Lev 26:44 as the author gives it. His spelling of two words differs from the verse; the meaning is not affected.",
+   "commentary": [],
+   "apparatus": [
+    "Verse: Lev 26:44 ('And yet even so, when they are in the land of their enemies, I will not reject them ... for I am the LORD their God'); the author's text spells 'their enemies' and 'to destroy them' with an added vav.",
+    "Rabbinic saying: 'They went into exile to Babylon; the Shekhinah was with them'; no source is given."
+   ],
+   "context": []
+  }
+ ]
+}

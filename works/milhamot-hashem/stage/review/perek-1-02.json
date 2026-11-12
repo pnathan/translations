@@ -1,0 +1,592 @@
+{
+ "unit": "perek-1-02",
+ "model": "sonnet",
+ "summary": "The translation is complete and close to the Hebrew, with all exclamations, the Gen 49:11 allusion and the honorifics kept. Four faults are patched: capitals after commas that break the sentences, an ungrammatical rendering of the sentence on the hatred of enlightenment (the hatred is the subject), הכתובים rendered as 'the Writings' although the example is from the Torah, and the unexpanded abbreviation סתו״מ. Two decisions questions are raised: סתו״מ and Turkish names.",
+ "patches": [
+  {
+   "ref": "1:3",
+   "path": "english",
+   "value": "From the time the government opened the school, the children were studying Scripture and its translations, Onkelos and Rabbi Saadia Gaon, Mishnah and the Rambam, and grammar and the explanation of the words, all was done properly the study of the Torah, Prophets and Writings with clear explanation, a grammar book of the Holy Tongue! and the study of the Turkish language through the Turkish teacher, upright of heart, Chafetz Effendi. And after him Zia Bey with wonderful diligence! and we accustomed them to speak one with another in Hebrew and in Turkish, so that they would be well accustomed in their mouths, and at the turn of the year the examiners came from the government, may his majesty be exalted, and the children arranged their studies in Turkish and they showed them their writing, and the examiners saw their talents on display in their studies, and they praised them, that they are educated! Also the Hebrew examiners came on the day after and the children arranged their studies before them in Hebrew and in Arabic, and they found favour in their eyes for the ability of their studies, and praised them! And the following year the children did so, studying with diligence and alacrity, and at the end of the year the Turkish examiners came and examined them with uprightness of heart, and praised them, that they were making progress in their studies, and urged them with words and blessed them! But as for the Hebrew examiners who came after them, there had already begun to flare up among them the hatred of enlightenment and of the study of languages. And they began to provoke them and to ask them about what they had not yet studied, and whoever could not answer anything, in any place where they asked him as is due to a complete sage, was counted by them as nothing at all. In order to diminish their honour, to sadden them and to slacken their hands from the studies, and they sought faults and blemishes in each and every one, and out of malice they did not turn to the studies and the knowledge that the children had acquired. Only to trip them up over what they had not yet studied, and to question them on the order of Nezikin, while they were still at the order of Moed, and when they showed them the beauty of their writing, the splendid and orderly Ashuri script, they sought a fault in the joining, as fine as a hair's thread, in some of the letters, as if they were writing Torah scrolls, tefillin and mezuzot. And they did not look at the beauty of the script and its order. And in the interpretation of the verses they asked them to solve for them difficult verses, such as \"Binding his foal to the vine\", and the like, and they went out from before them in low spirits, good, grieved, sad and with limp hands.",
+   "severity": "error",
+   "reason": "Four faults against the Hebrew and the decisions. (1) The Hebrew has commas before ואחריו/ולתקופת/ובצאת, so the capitals after a comma (All, And, And) make false sentence breaks; checklist 5. (2) התחילה להתנוצץ ... שנאת ההשכלה: the hatred is the subject, so 'the Hebrew examiners ... had already begun to flare up among them the hatred' was ungrammatical. (3) ובפתרון הכתובים: the example אסרי לגפן עירה is Gen 49:11, in the Torah, so הכתובים is 'the verses', not the Writings (the Writings are named earlier as וכתובים). (4) סתו״מ is an abbreviation (ספרי תורה תפילין ומזוזות), and the decisions require every abbreviation to be expanded, not left as 'S-T-V-M'. Also: 'on display' for מתנוססת (not 'shining'), 'in any place where they asked him as is due to a complete sage' follows בכל מקום ששואלין אותו כדין חכם גמור in order, and 'for them' restores לפתור להם."
+  },
+  {
+   "ref": "1:3",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:3.1",
+      "1:3.2",
+      "1:3.3",
+      "1:3.4",
+      "1:3.5",
+      "1:3.6",
+      "1:3.7"
+     ],
+     "english": "From the time the government opened the school,",
+     "literal": "and-from-the-time when opened the-government (object-marker) house-of the-book"
+    },
+    {
+     "tokens": [
+      "1:3.8",
+      "1:3.9",
+      "1:3.10",
+      "1:3.11",
+      "1:3.12",
+      "1:3.13",
+      "1:3.14"
+     ],
+     "english": "the children were studying Scripture and its translations, Onkelos and Rabbi Saadia Gaon,",
+     "literal": "were the-children studying Scripture and-its-translations Onkelos and-Rabbi-Saadia-Gaon"
+    },
+    {
+     "tokens": [
+      "1:3.15",
+      "1:3.16"
+     ],
+     "english": "Mishnah and the Rambam,",
+     "literal": "Mishnah and-the-Rambam"
+    },
+    {
+     "tokens": [
+      "1:3.17",
+      "1:3.18",
+      "1:3.19"
+     ],
+     "english": "and grammar and the explanation of the words,",
+     "literal": "and-grammar and-the-explanation-of the-words"
+    },
+    {
+     "tokens": [
+      "1:3.20",
+      "1:3.21",
+      "1:3.22",
+      "1:3.23"
+     ],
+     "english": "all was done properly",
+     "literal": "all-of-it was-done on right"
+    },
+    {
+     "tokens": [
+      "1:3.24",
+      "1:3.25",
+      "1:3.26",
+      "1:3.27",
+      "1:3.28",
+      "1:3.29"
+     ],
+     "english": "the study of the Torah, Prophets and Writings with clear explanation,",
+     "literal": "study-of the-Torah Prophets and-Writings with clear-explanation"
+    },
+    {
+     "tokens": [
+      "1:3.30",
+      "1:3.31",
+      "1:3.32",
+      "1:3.33"
+     ],
+     "english": "a grammar book of the Holy Tongue!",
+     "literal": "a-book-of grammar language the-Holy"
+    },
+    {
+     "tokens": [
+      "1:3.34",
+      "1:3.35",
+      "1:3.36"
+     ],
+     "english": "and the study of the Turkish language",
+     "literal": "and-the-study-of the-language Turkish"
+    },
+    {
+     "tokens": [
+      "1:3.37",
+      "1:3.38",
+      "1:3.39",
+      "1:3.40",
+      "1:3.41",
+      "1:3.42",
+      "1:3.43",
+      "1:3.44"
+     ],
+     "english": "through the Turkish teacher, upright of heart, Chafetz Effendi.",
+     "literal": "through the-hand-of the-teacher the-Turkish upright of-heart Chafetz Effendi"
+    },
+    {
+     "tokens": [
+      "1:3.45",
+      "1:3.46",
+      "1:3.47",
+      "1:3.48",
+      "1:3.49"
+     ],
+     "english": "And after him Zia Bey with wonderful diligence!",
+     "literal": "and-after-him Zia Bey with-diligence wonderful"
+    },
+    {
+     "tokens": [
+      "1:3.50",
+      "1:3.51",
+      "1:3.52",
+      "1:3.53",
+      "1:3.54",
+      "1:3.55",
+      "1:3.56",
+      "1:3.57"
+     ],
+     "english": "and we accustomed them to speak one with another in Hebrew and in Turkish,",
+     "literal": "and-we-accustomed-them to-speak one with another in-the-language Hebrew and-Turkish"
+    },
+    {
+     "tokens": [
+      "1:3.58",
+      "1:3.59",
+      "1:3.60",
+      "1:3.61",
+      "1:3.62"
+     ],
+     "english": "so that they would be well accustomed in their mouths,",
+     "literal": "in-order-that they-would-be accustomed in-their-mouths well"
+    },
+    {
+     "tokens": [
+      "1:3.63",
+      "1:3.64",
+      "1:3.65",
+      "1:3.66"
+     ],
+     "english": "and at the turn of the year the examiners came",
+     "literal": "and-at-the-turn-of the-year came the-examiners"
+    },
+    {
+     "tokens": [
+      "1:3.67",
+      "1:3.68",
+      "1:3.69"
+     ],
+     "english": "from the government, may his majesty be exalted,",
+     "literal": "from the-government may-his-majesty-be-exalted"
+    },
+    {
+     "tokens": [
+      "1:3.70",
+      "1:3.71",
+      "1:3.72",
+      "1:3.73",
+      "1:3.74",
+      "1:3.75"
+     ],
+     "english": "and the children arranged their studies in Turkish",
+     "literal": "and-arranged the-children (object-marker) their-studies in-the-language Turkish"
+    },
+    {
+     "tokens": [
+      "1:3.76",
+      "1:3.77",
+      "1:3.78"
+     ],
+     "english": "and they showed them their writing,",
+     "literal": "and-showed to-them their-writing"
+    },
+    {
+     "tokens": [
+      "1:3.79",
+      "1:3.80",
+      "1:3.81",
+      "1:3.82",
+      "1:3.83",
+      "1:3.84"
+     ],
+     "english": "and the examiners saw their talents on display in their studies,",
+     "literal": "and-saw the-examiners (object-marker) their-talents shining in-their-studies"
+    },
+    {
+     "tokens": [
+      "1:3.85",
+      "1:3.86",
+      "1:3.87",
+      "1:3.88",
+      "1:3.89"
+     ],
+     "english": "and they praised them, that they are educated!",
+     "literal": "and-praised them that educated they"
+    },
+    {
+     "tokens": [
+      "1:3.90",
+      "1:3.91",
+      "1:3.92",
+      "1:3.93"
+     ],
+     "english": "Also the Hebrew examiners came",
+     "literal": "also the-examiners the-Hebrew came"
+    },
+    {
+     "tokens": [
+      "1:3.94",
+      "1:3.95",
+      "1:3.96"
+     ],
+     "english": "on the day after",
+     "literal": "on-the-day of the-next"
+    },
+    {
+     "tokens": [
+      "1:3.97",
+      "1:3.98",
+      "1:3.99",
+      "1:3.100",
+      "1:3.101",
+      "1:3.102",
+      "1:3.103"
+     ],
+     "english": "and the children arranged their studies before them in Hebrew and in Arabic,",
+     "literal": "and-arranged the-children before-them (object-marker) their-studies in-Hebrew and-in-Arabic"
+    },
+    {
+     "tokens": [
+      "1:3.104",
+      "1:3.105",
+      "1:3.106",
+      "1:3.107",
+      "1:3.108",
+      "1:3.109",
+      "1:3.110"
+     ],
+     "english": "and they found favour in their eyes for the ability of their studies, and praised them!",
+     "literal": "and-found favour in-their-eyes for-the-ability of-their-studies and-praised them"
+    },
+    {
+     "tokens": [
+      "1:3.111",
+      "1:3.112",
+      "1:3.113",
+      "1:3.114",
+      "1:3.115",
+      "1:3.116",
+      "1:3.117",
+      "1:3.118"
+     ],
+     "english": "And the following year the children did so, studying with diligence and alacrity,",
+     "literal": "and-in-the-year the-following so did the-children to-study with-diligence and-alacrity"
+    },
+    {
+     "tokens": [
+      "1:3.119",
+      "1:3.120",
+      "1:3.121",
+      "1:3.122",
+      "1:3.123",
+      "1:3.124",
+      "1:3.125",
+      "1:3.126",
+      "1:3.127"
+     ],
+     "english": "and at the end of the year the Turkish examiners came and examined them with uprightness of heart,",
+     "literal": "and-at-the-end-of the-year came the-examiners the-Turks and-examined them with-uprightness of-heart"
+    },
+    {
+     "tokens": [
+      "1:3.128",
+      "1:3.129",
+      "1:3.130",
+      "1:3.131",
+      "1:3.132",
+      "1:3.133"
+     ],
+     "english": "and praised them, that they were making progress in their studies,",
+     "literal": "and-praised them that-they are-making progress in-their-studies"
+    },
+    {
+     "tokens": [
+      "1:3.134",
+      "1:3.135",
+      "1:3.136",
+      "1:3.137",
+      "1:3.138"
+     ],
+     "english": "and urged them with words and blessed them!",
+     "literal": "and-urged them with-words and-blessed them"
+    },
+    {
+     "tokens": [
+      "1:3.139",
+      "1:3.140",
+      "1:3.141",
+      "1:3.142",
+      "1:3.143"
+     ],
+     "english": "But as for the Hebrew examiners who came after them,",
+     "literal": "but the-examiners the-Hebrew who-came after-them"
+    },
+    {
+     "tokens": [
+      "1:3.144",
+      "1:3.145",
+      "1:3.146",
+      "1:3.147",
+      "1:3.148",
+      "1:3.149",
+      "1:3.150",
+      "1:3.151"
+     ],
+     "english": "there had already begun to flare up among them the hatred of enlightenment and of the study of languages.",
+     "literal": "already had-begun to-flare-up among-them the-hatred-of enlightenment and-the-study-of languages"
+    },
+    {
+     "tokens": [
+      "1:3.152",
+      "1:3.153",
+      "1:3.154",
+      "1:3.155",
+      "1:3.156",
+      "1:3.157",
+      "1:3.158",
+      "1:3.159"
+     ],
+     "english": "And they began to provoke them and to ask them about what they had not yet studied,",
+     "literal": "and-they-began to-provoke and-to-ask them about-what still not they-had-studied"
+    },
+    {
+     "tokens": [
+      "1:3.160",
+      "1:3.161",
+      "1:3.162",
+      "1:3.163",
+      "1:3.164",
+      "1:3.165",
+      "1:3.166",
+      "1:3.167",
+      "1:3.168",
+      "1:3.169",
+      "1:3.170",
+      "1:3.171",
+      "1:3.172",
+      "1:3.173",
+      "1:3.174",
+      "1:3.175"
+     ],
+     "english": "and whoever could not answer anything, in any place where they asked him as is due to a complete sage, was counted by them as nothing at all.",
+     "literal": "and-whoever who-is-not able to-answer anything in-every place when-they-asked him by-the-standard-due-to a-sage complete not was-counted in-their-eyes for-nothing-at-all"
+    },
+    {
+     "tokens": [
+      "1:3.176",
+      "1:3.177",
+      "1:3.178",
+      "1:3.179",
+      "1:3.180",
+      "1:3.181",
+      "1:3.182",
+      "1:3.183"
+     ],
+     "english": "In order to diminish their honour, to sadden them and to slacken their hands from the studies,",
+     "literal": "in-order to-diminish their-honour and-to-sadden-them and-to-slacken their-hands from the-studies"
+    },
+    {
+     "tokens": [
+      "1:3.184",
+      "1:3.185",
+      "1:3.186",
+      "1:3.187",
+      "1:3.188",
+      "1:3.189"
+     ],
+     "english": "and they sought faults and blemishes in each and every one,",
+     "literal": "and-they-sought faults and-blemishes for-each one and-one"
+    },
+    {
+     "tokens": [
+      "1:3.190",
+      "1:3.191",
+      "1:3.192",
+      "1:3.193",
+      "1:3.194",
+      "1:3.195",
+      "1:3.196",
+      "1:3.197",
+      "1:3.198"
+     ],
+     "english": "and out of malice they did not turn to the studies and the knowledge that the children had acquired.",
+     "literal": "and-out-of-malice heart they-did-not turn to the-studies and-the-knowledge that-they-had-acquired the-children"
+    },
+    {
+     "tokens": [
+      "1:3.199",
+      "1:3.200",
+      "1:3.201",
+      "1:3.202",
+      "1:3.203",
+      "1:3.204",
+      "1:3.205",
+      "1:3.206",
+      "1:3.207",
+      "1:3.208",
+      "1:3.209",
+      "1:3.210",
+      "1:3.211",
+      "1:3.212"
+     ],
+     "english": "Only to trip them up over what they had not yet studied, and to question them on the order of Nezikin, while they were still at the order of Moed,",
+     "literal": "only to-trip-them-up over-what still not they-had-studied and-to-ask them on-the-order-of Nezikin and-still standing in-the-order-of Moed"
+    },
+    {
+     "tokens": [
+      "1:3.213",
+      "1:3.214",
+      "1:3.215",
+      "1:3.216",
+      "1:3.217",
+      "1:3.218",
+      "1:3.219",
+      "1:3.220",
+      "1:3.221"
+     ],
+     "english": "and when they showed them the beauty of their writing, the splendid and orderly Ashuri script,",
+     "literal": "and-when-they-showed them (object-marker) the-beauty of-their-writing the-script Ashuri splendid and-orderly"
+    },
+    {
+     "tokens": [
+      "1:3.222",
+      "1:3.223",
+      "1:3.224",
+      "1:3.225",
+      "1:3.226",
+      "1:3.227",
+      "1:3.228",
+      "1:3.229",
+      "1:3.230",
+      "1:3.231",
+      "1:3.232",
+      "1:3.233"
+     ],
+     "english": "they sought a fault in the joining, as fine as a hair's thread, in some of the letters, as if they were writing Torah scrolls, tefillin and mezuzot.",
+     "literal": "they-sought for-them a-fault in-the-joining as-fine-as-the-thread of-hair in-some letters as-if they were-writing S-T-V-M"
+    },
+    {
+     "tokens": [
+      "1:3.234",
+      "1:3.235",
+      "1:3.236",
+      "1:3.237",
+      "1:3.238"
+     ],
+     "english": "And they did not look at the beauty of the script and its order.",
+     "literal": "and-not they-looked at-the-beauty of-the-script and-its-order"
+    },
+    {
+     "tokens": [
+      "1:3.239",
+      "1:3.240",
+      "1:3.241",
+      "1:3.242",
+      "1:3.243",
+      "1:3.244",
+      "1:3.245",
+      "1:3.246",
+      "1:3.247",
+      "1:3.248",
+      "1:3.249",
+      "1:3.250"
+     ],
+     "english": "And in the interpretation of the verses they asked them to solve for them difficult verses, such as \"Binding his foal to the vine\",",
+     "literal": "and-in-the-interpretation-of the-Writings they-asked of-them to-solve for-them verses difficult such-as binding to-the-vine his-foal"
+    },
+    {
+     "tokens": [
+      "1:3.251",
+      "1:3.252",
+      "1:3.253",
+      "1:3.254",
+      "1:3.255",
+      "1:3.256",
+      "1:3.257",
+      "1:3.258",
+      "1:3.259",
+      "1:3.260"
+     ],
+     "english": "and the like, and they went out from before them in low spirits, good, grieved, sad and with limp hands.",
+     "literal": "and-the-like and-they-went-out from-before-them in-the-dejection-of soul good grieved and-sad and-limp hands"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the wording of these phrases (and case after commas)."
+  },
+  {
+   "ref": "1:3",
+   "path": "literal",
+   "value": "and-from-the-time when opened the-government (object-marker) house-of the-book were the-children studying Scripture and-its-translations Onkelos and-Rabbi-Saadia-Gaon Mishnah and-the-Rambam and-grammar and-the-explanation-of the-words all-of-it was-done on right study-of the-Torah Prophets and-Writings with clear-explanation a-book-of grammar language the-Holy and-the-study-of the-language Turkish through the-hand-of the-teacher the-Turkish upright of-heart Chafetz Effendi and-after-him Zia Bey with-diligence wonderful and-we-accustomed-them to-speak one with another in-the-language Hebrew and-Turkish in-order-that they-would-be accustomed in-their-mouths well and-at-the-turn-of the-year came the-examiners from the-government may-his-majesty-be-exalted and-arranged the-children (object-marker) their-studies in-the-language Turkish and-showed to-them their-writing and-saw the-examiners (object-marker) their-talents shining in-their-studies and-praised them that educated they also the-examiners the-Hebrew came on-the-day of the-next and-arranged the-children before-them (object-marker) their-studies in-Hebrew and-in-Arabic and-found favour in-their-eyes for-the-ability of-their-studies and-praised them and-in-the-year the-following so did the-children to-study with-diligence and-alacrity and-at-the-end-of the-year came the-examiners the-Turks and-examined them with-uprightness of-heart and-praised them that-they are-making progress in-their-studies and-urged them with-words and-blessed them but the-examiners the-Hebrew who-came after-them already had-begun to-flare-up among-them the-hatred-of enlightenment and-the-study-of languages and-they-began to-provoke and-to-ask them about-what still not they-had-studied and-whoever who-is-not able to-answer anything in-every place when-they-asked him by-the-standard-due-to a-sage complete not was-counted in-their-eyes for-nothing-at-all in-order to-diminish their-honour and-to-sadden-them and-to-slacken their-hands from the-studies and-they-sought faults and-blemishes for-each one and-one and-out-of-malice heart they-did-not turn to the-studies and-the-knowledge that-they-had-acquired the-children only to-trip-them-up over-what still not they-had-studied and-to-ask them on-the-order-of Nezikin and-still standing in-the-order-of Moed and-when-they-showed them (object-marker) the-beauty of-their-writing the-script Ashuri splendid and-orderly they-sought for-them a-fault in-the-joining as-fine-as-the-thread of-hair in-some letters as-if they were-writing Torah-scrolls-tefillin-and-mezuzot and-not they-looked at-the-beauty of-the-script and-its-order and-in-the-interpretation-of the-verses they-asked of-them to-solve for-them verses difficult such-as binding to-the-vine his-foal and-the-like and-they-went-out from-before-them in-the-dejection-of soul good grieved and-sad and-limp hands",
+   "severity": "error",
+   "reason": "'the-Writings' at 1:3.240 becomes 'the-verses'; סתו״מ expanded."
+  },
+  {
+   "ref": "1:3",
+   "path": "apparatus",
+   "value": [
+    "Witness spelling הלמודים (1:3.195) is read as the evident word הלימודים.",
+    "Bible verse: Gen 49:11, 'Binding his foal to the vine' (אסרי לגפן עירה), quoted as an example of a hard verse (1:3.248-1:3.250).",
+    "The abbreviation סתו״מ (1:3.233) is expanded as ספרי תורה תפילין ומזוזות, 'Torah scrolls, tefillin and mezuzot' (1:3.233).",
+    "Base text: the Wikisource witness, not yet collated against the 1931 scan (open question 2)."
+   ],
+   "severity": "error",
+   "reason": "The S-T-V-M line is replaced by the expansion of סתו״מ, as the decisions require for every abbreviation."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.233.gloss",
+   "value": "Torah scrolls, tefillin and mezuzot",
+   "severity": "error",
+   "reason": "סתו״מ = ספרי תורה תפילין ומזוזות; every abbreviation is expanded in the gloss."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.240.gloss",
+   "value": "the verses",
+   "severity": "error",
+   "reason": "הכתובים here means the verses of Scripture: the example that follows is Gen 49:11, a verse of the Torah."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.240.note",
+   "value": "הכתובים: not the Writings (as at 1:3.27) but 'the verses'; the example אסרי לגפן עירה is from Genesis.",
+   "severity": "error",
+   "reason": "Note needed so the change of sense from 1:3.27 is clear."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.83.gloss",
+   "value": "on display",
+   "severity": "style",
+   "reason": "מתנוססת is 'raised up like a banner, on display'; 'shining' is the sense of נצנוץ."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.169.gloss",
+   "value": "as is due to",
+   "severity": "style",
+   "reason": "כדין is 'according to the law of, as is due to', in the new English order."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.256.note",
+   "value": "טובים: literally 'good'; it stands in a run of adjectives after 'dejection of soul', and the English keeps it unexplained rather than add a noun.",
+   "severity": "style",
+   "reason": "A learner will find the bare 'good' odd; the note says it is kept as written."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.233.note",
+   "value": "סתו״מ = ספרי תורה, תפילין ומזוזות (the ו is the conjunction of ומזוזות): the scribal items whose letters must be perfect. The Hebrew writes it as one acronym.",
+   "severity": "question",
+   "reason": "Decisions have no entry for סתו״מ. Proposed ruling: always expand to 'Torah scrolls, tefillin and mezuzot', with this note."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.43.note",
+   "value": "חאפץ: the text's spelling of a Turkish name (cf. Hafiz); given in the project's scheme as Chafetz; אפנדי is the title Effendi.",
+   "severity": "question",
+   "reason": "Decisions are silent on Turkish personal names and titles (Chafetz Effendi, Zia Bey, 1:3). Proposed ruling: transliterate by the project scheme as the text spells them, keep the titles Effendi and Bey, identify no one, and do not use the conventional Turkish spellings."
+  }
+ ],
+ "verdicts": []
+}

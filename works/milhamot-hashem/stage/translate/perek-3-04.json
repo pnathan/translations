@@ -1,0 +1,1893 @@
+{
+  "unit": "perek-3-04",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "3:7",
+      "english": "§7. And these are his words: \"The Kabbalist, Master of the Palace of Blessing: a positive commandment on the court to inquire into and to examine the witnesses with seven inquiries, etc. There are also examinations, which are questions: what clothing he wore; the dust of the ground on which he stood, whether black, or sand, or clay; and if they contradict one another, the testimony is void. From the roots of this commandment: the included bride, the beautiful young maiden who has no eyes, the governance of this world, that there be free choice, whose eyes are like doves, a deception to the sons of man. Her eyes in the Palace of Merit: the eyes of the congregation, who judge with knowledge on the testimony of two witnesses, two crowns; and the Da'at is the secret of the eyes, as is known; and this light spreads in seven aspects.\" And he wrote, see there. And concerning the commandment \"You shall not go about as a talebearer,\" he wrote: \" that one should not tell his fellow that his adversary has spoken evil about him, as it is said, 'You shall not go about as a talebearer.' And the laws of the commandment: even one who speaks the truth, there is a great sin in this. And also within the scope of this prohibition: that one should not speak in disparagement of his fellow, even if true, and this is as if he denied the fundamental principle, etc.\" And he expanded further on the punishment of the one who tells slander and on the reward of the one who guards from it; see there.",
+      "literal": "section-7 and-these-are-his-words the-Kabbalist master-of the-palace of-blessing a-commandment positive incumbent-on the-court-(beit-din) to-inquire and-to-examine - the-witnesses with-seven inquiries etc. also there-are examinations which-are questions what was clothing the-dust of-the-ground that-was standing upon-it black or sand or clay and-if they-contradicted one the-other is-void the-testimony from-the-roots-of the-commandment this the-bride the-included the-young-maiden beautiful who-has-not in-her eyes the-governance-of the-world this that-there-be free-choice free its-eyes like-doves a-deception for-the-sons-of man and-her-eyes of-hers in-the-palace of-merit the-eyes-of the-congregation who-judge with-knowledge on the-testimony-of two witnesses two crowns and-the-Da'at is the-secret of-the-eyes as-is-known and-the-light this spreads in-seven aspects and-he-wrote see-there and-concerning not go-about as-a-talebearer he-wrote these-are-his-words that-one-should-not tell his-fellow his-adversary spoke about-him evil as-it-is-said not go-about as-a-talebearer and-the-laws-of the-commandment even one-who-speaks the-truth and-there-is a-sin great in-this and-also within-the-scope-of the-prohibition this that-one-should-not speak in-disparagement-of his-fellow even true and-this as-if he-denied the-fundamental-principle etc. and-he-expanded further on-the-punishment-of the-one-who-tells slander evil and-on-the-reward-of the-one-who-guards-himself from-it see-there",
+      "tokens": [
+        {
+          "id": "3:7.1",
+          "gloss": "section 7",
+          "note": "The printed paragraph number ז) is 7; rendered as the section number, as in the decisions."
+        },
+        {
+          "id": "3:7.2",
+          "gloss": "and these are his words",
+          "note": "Opening formula of the first quotation; it stands outside the opening quotation mark."
+        },
+        {
+          "id": "3:7.3",
+          "gloss": "the Kabbalist"
+        },
+        {
+          "id": "3:7.4",
+          "gloss": "master of"
+        },
+        {
+          "id": "3:7.5",
+          "gloss": "the palace"
+        },
+        {
+          "id": "3:7.6",
+          "gloss": "of blessing"
+        },
+        {
+          "id": "3:7.7",
+          "gloss": "a commandment"
+        },
+        {
+          "id": "3:7.8",
+          "gloss": "positive"
+        },
+        {
+          "id": "3:7.9",
+          "gloss": "incumbent on"
+        },
+        {
+          "id": "3:7.10",
+          "gloss": "the court (beit din)",
+          "note": "The abbreviation הב\"ד is expanded: בית דין, the court."
+        },
+        {
+          "id": "3:7.11",
+          "gloss": "to inquire"
+        },
+        {
+          "id": "3:7.12",
+          "gloss": "and to examine"
+        },
+        {
+          "id": "3:7.13",
+          "gloss": "-"
+        },
+        {
+          "id": "3:7.14",
+          "gloss": "the witnesses"
+        },
+        {
+          "id": "3:7.15",
+          "gloss": "with seven"
+        },
+        {
+          "id": "3:7.16",
+          "gloss": "inquiries"
+        },
+        {
+          "id": "3:7.17",
+          "gloss": "etc."
+        },
+        {
+          "id": "3:7.18",
+          "gloss": "also"
+        },
+        {
+          "id": "3:7.19",
+          "gloss": "there are"
+        },
+        {
+          "id": "3:7.20",
+          "gloss": "examinations"
+        },
+        {
+          "id": "3:7.21",
+          "gloss": "which are"
+        },
+        {
+          "id": "3:7.22",
+          "gloss": "questions"
+        },
+        {
+          "id": "3:7.23",
+          "gloss": "what"
+        },
+        {
+          "id": "3:7.24",
+          "gloss": "was"
+        },
+        {
+          "id": "3:7.25",
+          "gloss": "clothing"
+        },
+        {
+          "id": "3:7.26",
+          "gloss": "the dust"
+        },
+        {
+          "id": "3:7.27",
+          "gloss": "of the ground"
+        },
+        {
+          "id": "3:7.28",
+          "gloss": "that was"
+        },
+        {
+          "id": "3:7.29",
+          "gloss": "standing"
+        },
+        {
+          "id": "3:7.30",
+          "gloss": "upon it"
+        },
+        {
+          "id": "3:7.31",
+          "gloss": "black"
+        },
+        {
+          "id": "3:7.32",
+          "gloss": "or"
+        },
+        {
+          "id": "3:7.33",
+          "gloss": "sand"
+        },
+        {
+          "id": "3:7.34",
+          "gloss": "or"
+        },
+        {
+          "id": "3:7.35",
+          "gloss": "clay"
+        },
+        {
+          "id": "3:7.36",
+          "gloss": "and if"
+        },
+        {
+          "id": "3:7.37",
+          "gloss": "they contradicted"
+        },
+        {
+          "id": "3:7.38",
+          "gloss": "one"
+        },
+        {
+          "id": "3:7.39",
+          "gloss": "the other"
+        },
+        {
+          "id": "3:7.40",
+          "gloss": "is void",
+          "note": "בטל: is annulled, is void."
+        },
+        {
+          "id": "3:7.41",
+          "gloss": "the testimony"
+        },
+        {
+          "id": "3:7.42",
+          "gloss": "from the roots of"
+        },
+        {
+          "id": "3:7.43",
+          "gloss": "the commandment"
+        },
+        {
+          "id": "3:7.44",
+          "gloss": "this"
+        },
+        {
+          "id": "3:7.45",
+          "gloss": "the bride"
+        },
+        {
+          "id": "3:7.46",
+          "gloss": "the included"
+        },
+        {
+          "id": "3:7.47",
+          "gloss": "the young maiden",
+          "note": "Aramaic words; rendered by sense."
+        },
+        {
+          "id": "3:7.48",
+          "gloss": "beautiful",
+          "note": "Aramaic: 'beautiful'."
+        },
+        {
+          "id": "3:7.49",
+          "gloss": "who has not",
+          "note": "Aramaic: 'who has not' (דלית, 'there is not in her')."
+        },
+        {
+          "id": "3:7.50",
+          "gloss": "in her"
+        },
+        {
+          "id": "3:7.51",
+          "gloss": "eyes"
+        },
+        {
+          "id": "3:7.52",
+          "gloss": "the governance of"
+        },
+        {
+          "id": "3:7.53",
+          "gloss": "the world"
+        },
+        {
+          "id": "3:7.54",
+          "gloss": "this"
+        },
+        {
+          "id": "3:7.55",
+          "gloss": "that there be"
+        },
+        {
+          "id": "3:7.56",
+          "gloss": "free choice"
+        },
+        {
+          "id": "3:7.57",
+          "gloss": "free"
+        },
+        {
+          "id": "3:7.58",
+          "gloss": "its eyes"
+        },
+        {
+          "id": "3:7.59",
+          "gloss": "like doves"
+        },
+        {
+          "id": "3:7.60",
+          "gloss": "a deception"
+        },
+        {
+          "id": "3:7.61",
+          "gloss": "for the sons of"
+        },
+        {
+          "id": "3:7.62",
+          "gloss": "man"
+        },
+        {
+          "id": "3:7.63",
+          "gloss": "and her eyes"
+        },
+        {
+          "id": "3:7.64",
+          "gloss": "of hers"
+        },
+        {
+          "id": "3:7.65",
+          "gloss": "in the palace"
+        },
+        {
+          "id": "3:7.66",
+          "gloss": "of merit"
+        },
+        {
+          "id": "3:7.67",
+          "gloss": "the eyes of"
+        },
+        {
+          "id": "3:7.68",
+          "gloss": "the congregation"
+        },
+        {
+          "id": "3:7.69",
+          "gloss": "who judge"
+        },
+        {
+          "id": "3:7.70",
+          "gloss": "with knowledge"
+        },
+        {
+          "id": "3:7.71",
+          "gloss": "on"
+        },
+        {
+          "id": "3:7.72",
+          "gloss": "the testimony of"
+        },
+        {
+          "id": "3:7.73",
+          "gloss": "two"
+        },
+        {
+          "id": "3:7.74",
+          "gloss": "witnesses"
+        },
+        {
+          "id": "3:7.75",
+          "gloss": "two"
+        },
+        {
+          "id": "3:7.76",
+          "gloss": "crowns"
+        },
+        {
+          "id": "3:7.77",
+          "gloss": "and the Da'at",
+          "note": "Da'at: a Kabbalistic term, transliterated."
+        },
+        {
+          "id": "3:7.78",
+          "gloss": "is"
+        },
+        {
+          "id": "3:7.79",
+          "gloss": "the secret"
+        },
+        {
+          "id": "3:7.80",
+          "gloss": "of the eyes"
+        },
+        {
+          "id": "3:7.81",
+          "gloss": "as is known"
+        },
+        {
+          "id": "3:7.82",
+          "gloss": "and the light"
+        },
+        {
+          "id": "3:7.83",
+          "gloss": "this"
+        },
+        {
+          "id": "3:7.84",
+          "gloss": "spreads"
+        },
+        {
+          "id": "3:7.85",
+          "gloss": "in seven"
+        },
+        {
+          "id": "3:7.86",
+          "gloss": "aspects"
+        },
+        {
+          "id": "3:7.87",
+          "gloss": "and he wrote"
+        },
+        {
+          "id": "3:7.88",
+          "gloss": "see there",
+          "note": "עיין שם: 'see there' (the ע\"ש of the author)."
+        },
+        {
+          "id": "3:7.89",
+          "gloss": "and concerning"
+        },
+        {
+          "id": "3:7.90",
+          "gloss": "not"
+        },
+        {
+          "id": "3:7.91",
+          "gloss": "go about"
+        },
+        {
+          "id": "3:7.92",
+          "gloss": "as a talebearer"
+        },
+        {
+          "id": "3:7.93",
+          "gloss": "he wrote",
+          "note": "כתב: 'he wrote'; opens the second quotation."
+        },
+        {
+          "id": "3:7.94",
+          "gloss": "these are his words"
+        },
+        {
+          "id": "3:7.95",
+          "gloss": "that one should not"
+        },
+        {
+          "id": "3:7.96",
+          "gloss": "tell"
+        },
+        {
+          "id": "3:7.97",
+          "gloss": "his fellow"
+        },
+        {
+          "id": "3:7.98",
+          "gloss": "his adversary",
+          "note": "שכנגדו: 'his adversary', the one who speaks against him."
+        },
+        {
+          "id": "3:7.99",
+          "gloss": "spoke"
+        },
+        {
+          "id": "3:7.100",
+          "gloss": "about him"
+        },
+        {
+          "id": "3:7.101",
+          "gloss": "evil"
+        },
+        {
+          "id": "3:7.102",
+          "gloss": "as it is said",
+          "note": "שנאמר: formula introducing Lev 19:16."
+        },
+        {
+          "id": "3:7.103",
+          "gloss": "not"
+        },
+        {
+          "id": "3:7.104",
+          "gloss": "go about"
+        },
+        {
+          "id": "3:7.105",
+          "gloss": "as a talebearer"
+        },
+        {
+          "id": "3:7.106",
+          "gloss": "and the laws of"
+        },
+        {
+          "id": "3:7.107",
+          "gloss": "the commandment"
+        },
+        {
+          "id": "3:7.108",
+          "gloss": "even"
+        },
+        {
+          "id": "3:7.109",
+          "gloss": "one who speaks"
+        },
+        {
+          "id": "3:7.110",
+          "gloss": "the truth"
+        },
+        {
+          "id": "3:7.111",
+          "gloss": "and there is"
+        },
+        {
+          "id": "3:7.112",
+          "gloss": "a sin"
+        },
+        {
+          "id": "3:7.113",
+          "gloss": "great"
+        },
+        {
+          "id": "3:7.114",
+          "gloss": "in this"
+        },
+        {
+          "id": "3:7.115",
+          "gloss": "and also"
+        },
+        {
+          "id": "3:7.116",
+          "gloss": "within the scope of"
+        },
+        {
+          "id": "3:7.117",
+          "gloss": "the prohibition",
+          "note": "לאו: a prohibition (a negative commandment)."
+        },
+        {
+          "id": "3:7.118",
+          "gloss": "this"
+        },
+        {
+          "id": "3:7.119",
+          "gloss": "that one should not"
+        },
+        {
+          "id": "3:7.120",
+          "gloss": "speak"
+        },
+        {
+          "id": "3:7.121",
+          "gloss": "in disparagement of"
+        },
+        {
+          "id": "3:7.122",
+          "gloss": "his fellow"
+        },
+        {
+          "id": "3:7.123",
+          "gloss": "even"
+        },
+        {
+          "id": "3:7.124",
+          "gloss": "true"
+        },
+        {
+          "id": "3:7.125",
+          "gloss": "and this"
+        },
+        {
+          "id": "3:7.126",
+          "gloss": "as if"
+        },
+        {
+          "id": "3:7.127",
+          "gloss": "he denied"
+        },
+        {
+          "id": "3:7.128",
+          "gloss": "the fundamental principle"
+        },
+        {
+          "id": "3:7.129",
+          "gloss": "etc.",
+          "note": "וכו' marks a truncated quotation and is kept as 'etc.'."
+        },
+        {
+          "id": "3:7.130",
+          "gloss": "and he expanded"
+        },
+        {
+          "id": "3:7.131",
+          "gloss": "further"
+        },
+        {
+          "id": "3:7.132",
+          "gloss": "on the punishment of"
+        },
+        {
+          "id": "3:7.133",
+          "gloss": "the one who tells"
+        },
+        {
+          "id": "3:7.134",
+          "gloss": "slander"
+        },
+        {
+          "id": "3:7.135",
+          "gloss": "evil",
+          "note": "לשון הרע is a fixed term: slander."
+        },
+        {
+          "id": "3:7.136",
+          "gloss": "and on the reward of"
+        },
+        {
+          "id": "3:7.137",
+          "gloss": "the one who guards himself"
+        },
+        {
+          "id": "3:7.138",
+          "gloss": "from it"
+        },
+        {
+          "id": "3:7.139",
+          "gloss": "see there",
+          "note": "יעו\"ש = יעיין שם: 'see there'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:7.1"
+          ],
+          "english": "§7.",
+          "literal": "section-7"
+        },
+        {
+          "tokens": [
+            "3:7.2"
+          ],
+          "english": "And these are his words:",
+          "literal": "and-these-are-his-words"
+        },
+        {
+          "tokens": [
+            "3:7.3",
+            "3:7.4",
+            "3:7.5",
+            "3:7.6",
+            "3:7.7",
+            "3:7.8",
+            "3:7.9",
+            "3:7.10",
+            "3:7.11",
+            "3:7.12",
+            "3:7.13",
+            "3:7.14",
+            "3:7.15",
+            "3:7.16",
+            "3:7.17"
+          ],
+          "english": "\"The Kabbalist, Master of the Palace of Blessing: a positive commandment on the court to inquire into and to examine the witnesses with seven inquiries, etc.",
+          "literal": "the-Kabbalist master-of the-palace of-blessing a-commandment positive incumbent-on the-court-(beit-din) to-inquire and-to-examine - the-witnesses with-seven inquiries etc."
+        },
+        {
+          "tokens": [
+            "3:7.18",
+            "3:7.19",
+            "3:7.20",
+            "3:7.21",
+            "3:7.22",
+            "3:7.23",
+            "3:7.24",
+            "3:7.25"
+          ],
+          "english": "There are also examinations, which are questions: what clothing he wore;",
+          "literal": "also there-are examinations which-are questions what was clothing"
+        },
+        {
+          "tokens": [
+            "3:7.26",
+            "3:7.27",
+            "3:7.28",
+            "3:7.29",
+            "3:7.30",
+            "3:7.31",
+            "3:7.32",
+            "3:7.33",
+            "3:7.34",
+            "3:7.35"
+          ],
+          "english": "the dust of the ground on which he stood, whether black, or sand, or clay;",
+          "literal": "the-dust of-the-ground that-was standing upon-it black or sand or clay"
+        },
+        {
+          "tokens": [
+            "3:7.36",
+            "3:7.37",
+            "3:7.38",
+            "3:7.39",
+            "3:7.40",
+            "3:7.41"
+          ],
+          "english": "and if they contradict one another, the testimony is void.",
+          "literal": "and-if they-contradicted one the-other is-void the-testimony"
+        },
+        {
+          "tokens": [
+            "3:7.42",
+            "3:7.43",
+            "3:7.44",
+            "3:7.45",
+            "3:7.46",
+            "3:7.47",
+            "3:7.48",
+            "3:7.49",
+            "3:7.50",
+            "3:7.51"
+          ],
+          "english": "From the roots of this commandment: the included bride, the beautiful young maiden who has no eyes,",
+          "literal": "from-the-roots-of the-commandment this the-bride the-included the-young-maiden beautiful who-has-not in-her eyes"
+        },
+        {
+          "tokens": [
+            "3:7.52",
+            "3:7.53",
+            "3:7.54",
+            "3:7.55",
+            "3:7.56",
+            "3:7.57",
+            "3:7.58",
+            "3:7.59",
+            "3:7.60",
+            "3:7.61",
+            "3:7.62"
+          ],
+          "english": "the governance of this world, that there be free choice, whose eyes are like doves, a deception to the sons of man.",
+          "literal": "the-governance-of the-world this that-there-be free-choice free its-eyes like-doves a-deception for-the-sons-of man"
+        },
+        {
+          "tokens": [
+            "3:7.63",
+            "3:7.64",
+            "3:7.65",
+            "3:7.66",
+            "3:7.67",
+            "3:7.68"
+          ],
+          "english": "Her eyes in the Palace of Merit: the eyes of the congregation,",
+          "literal": "and-her-eyes of-hers in-the-palace of-merit the-eyes-of the-congregation"
+        },
+        {
+          "tokens": [
+            "3:7.69",
+            "3:7.70",
+            "3:7.71",
+            "3:7.72",
+            "3:7.73",
+            "3:7.74"
+          ],
+          "english": "who judge with knowledge on the testimony of two witnesses,",
+          "literal": "who-judge with-knowledge on the-testimony-of two witnesses"
+        },
+        {
+          "tokens": [
+            "3:7.75",
+            "3:7.76"
+          ],
+          "english": "two crowns;",
+          "literal": "two crowns"
+        },
+        {
+          "tokens": [
+            "3:7.77",
+            "3:7.78",
+            "3:7.79",
+            "3:7.80",
+            "3:7.81"
+          ],
+          "english": "and the Da'at is the secret of the eyes, as is known;",
+          "literal": "and-the-Da'at is the-secret of-the-eyes as-is-known"
+        },
+        {
+          "tokens": [
+            "3:7.82",
+            "3:7.83",
+            "3:7.84",
+            "3:7.85",
+            "3:7.86"
+          ],
+          "english": "and this light spreads in seven aspects.\"",
+          "literal": "and-the-light this spreads in-seven aspects"
+        },
+        {
+          "tokens": [
+            "3:7.87",
+            "3:7.88"
+          ],
+          "english": "And he wrote, see there.",
+          "literal": "and-he-wrote see-there"
+        },
+        {
+          "tokens": [
+            "3:7.89",
+            "3:7.90",
+            "3:7.91",
+            "3:7.92",
+            "3:7.93",
+            "3:7.94"
+          ],
+          "english": "And concerning the commandment \"You shall not go about as a talebearer,\" he wrote: \"",
+          "literal": "and-concerning not go-about as-a-talebearer he-wrote these-are-his-words"
+        },
+        {
+          "tokens": [
+            "3:7.95",
+            "3:7.96",
+            "3:7.97",
+            "3:7.98",
+            "3:7.99",
+            "3:7.100",
+            "3:7.101"
+          ],
+          "english": "that one should not tell his fellow that his adversary has spoken evil about him,",
+          "literal": "that-one-should-not tell his-fellow his-adversary spoke about-him evil"
+        },
+        {
+          "tokens": [
+            "3:7.102",
+            "3:7.103",
+            "3:7.104",
+            "3:7.105"
+          ],
+          "english": "as it is said, 'You shall not go about as a talebearer.'",
+          "literal": "as-it-is-said not go-about as-a-talebearer"
+        },
+        {
+          "tokens": [
+            "3:7.106",
+            "3:7.107",
+            "3:7.108",
+            "3:7.109",
+            "3:7.110"
+          ],
+          "english": "And the laws of the commandment: even one who speaks the truth,",
+          "literal": "and-the-laws-of the-commandment even one-who-speaks the-truth"
+        },
+        {
+          "tokens": [
+            "3:7.111",
+            "3:7.112",
+            "3:7.113",
+            "3:7.114"
+          ],
+          "english": "there is a great sin in this.",
+          "literal": "and-there-is a-sin great in-this"
+        },
+        {
+          "tokens": [
+            "3:7.115",
+            "3:7.116",
+            "3:7.117",
+            "3:7.118"
+          ],
+          "english": "And also within the scope of this prohibition:",
+          "literal": "and-also within-the-scope-of the-prohibition this"
+        },
+        {
+          "tokens": [
+            "3:7.119",
+            "3:7.120",
+            "3:7.121",
+            "3:7.122",
+            "3:7.123",
+            "3:7.124"
+          ],
+          "english": "that one should not speak in disparagement of his fellow, even if true,",
+          "literal": "that-one-should-not speak in-disparagement-of his-fellow even true"
+        },
+        {
+          "tokens": [
+            "3:7.125",
+            "3:7.126",
+            "3:7.127",
+            "3:7.128",
+            "3:7.129"
+          ],
+          "english": "and this is as if he denied the fundamental principle, etc.\"",
+          "literal": "and-this as-if he-denied the-fundamental-principle etc."
+        },
+        {
+          "tokens": [
+            "3:7.130",
+            "3:7.131",
+            "3:7.132",
+            "3:7.133",
+            "3:7.134",
+            "3:7.135",
+            "3:7.136",
+            "3:7.137",
+            "3:7.138"
+          ],
+          "english": "And he expanded further on the punishment of the one who tells slander and on the reward of the one who guards from it;",
+          "literal": "and-he-expanded further on-the-punishment-of the-one-who-tells slander evil and-on-the-reward-of the-one-who-guards-himself from-it"
+        },
+        {
+          "tokens": [
+            "3:7.139"
+          ],
+          "english": "see there.",
+          "literal": "see-there"
+        }
+      ],
+      "grammar": [
+        "The paragraph is two quotations. The first runs from וז\"ל (3:7.2) to the author's own formula וכ' ע\"ש; the words עולימתא שפירתא דלית בה עינין are Aramaic and are rendered by sense. The source is not named in the text.",
+        "מצות עשה על הב\"ד לדרוש ולחקור: 'a positive commandment on the court to inquire and examine'. על with a noun reads 'incumbent upon'; the infinitives give the content of the commandment.",
+        "ואם כחשו זה לזה בטל העדות: a conditional with a perfect verb; the result clause is בטל, 'is void'. The two witnesses are the subject of the conflict (כחשו).",
+        "The second quotation begins at כתב וז\"ל (3:7.93-3:7.94) and ends at וכ' (וכו'); the closing words והאריך עוד are the author's own report and take no quotation marks."
+      ],
+      "note": "The first quotation closes after 'seven aspects'; the author's ע\"ש stands outside it. The second quotation has a Bible verse inside it, in single marks.",
+      "commentary": [],
+      "apparatus": [
+        "Wikisource transcription. The 1931 scan is not yet collated; Wikisource additions are translated as base text (decisions, Q2).",
+        "Lev 19:16: 'לא תלך רכיל' (3:7.90-3:7.92 and 3:7.102-3:7.105). The quotation stops before בעמיך, so only the words on the page are translated."
+      ],
+      "context": [],
+      "readings": []
+    },
+    {
+      "ref": "3:8",
+      "english": "§8. And in the warning, \"You shall not stand idly by the blood of your fellow,\" he wrote: \"even standing by, to any degree. You shall not see your fellow's distress, that one puts him to shame, and you are silent; he stood and did not answer again. But you shall protest with all your power against him who disgraces your fellow, or speaks about him with talebearing and evil talk, You shall not be a listener and silent, but you shall say to him: 'Wicked one, troubler of Israel, why do you speak defiance against the likeness of our Maker, and against the Shekhinah, our strength, which is the yod in \"among your people,\" and departs through this sin.' Therefore this was juxtaposed to that, 'You shall not go about as a talebearer,' and one might say: since I do not speak, I will listen and be silent, and take pleasure in what his fellow, the wicked one, speaks. This listener too is an utterly wicked person. and transgresses 'You shall not stand idly by the blood of your fellow.' He has no portion in the God of Israel when he hears a wicked one speak defiance against a righteous person, or whispers a whisper of lies about his fellow; rather, you shall immediately push him away and say to him: 'Wicked one, go away from me, I do not listen to you.' But if he hears and is silent, and all the more so if he takes pleasure, his end is to be judged in unblown fire, and he will not merit to stand in the company of the righteous, as listener, as answerer, as speaker. All of them shall perish from the world in this one, and in the world to come.\" Thus far his words.",
+      "literal": "section-8 and-in-the-warning not stand-idly by the-blood-of your-fellow he-wrote even standing-by any degree not you-see his-distress of your-fellow that-one puts-to-shame his-face and-you are-silent he-stood and-not answer again but you-shall-be protesting with-all your-power against who-disgraces your-fellow or speaks about-him talebearing and-slander evil you not be a-listener and-silent but you-shall-say to-him wicked-one troubler of-Israel why do-you-speak defiance against the-likeness-of our-Maker and-against the-Shekhinah our-strength which-is the-yod in-'among-your-people' and-departs through this-sin therefore was-juxtaposed this to-that not go-about as-a-talebearer and-one-might-say since I-am-not speaking I-will-hear and-be-silent and-take-pleasure in-what his-fellow wicked-one speaks also this listener wicked utterly and-transgresses against not stand by blood-of your-fellow and-he-has-no for-him portion in-the-God-of Israel when-he-hears a-wicked-one speaks defiance against a-righteous-person or whispers a-whisper of-lies about his-fellow but immediately you-push him and-say to-him wicked-one go away-from-me I-do-not listen to-you but if he hears and-is-silent and-all the-more-so if he-takes-pleasure his-end is-judged in-fire not blown and-not he-will-merit to-stand in-the-enclosure of-the-righteous as-listener as-answerer as-speaker all-of-them shall-perish from the-world in-this and-in-the-world-to-come Thus-far-his-words",
+      "tokens": [
+        {
+          "id": "3:8.1",
+          "gloss": "section 8",
+          "note": "The printed paragraph number ח) is 8; rendered as the section number."
+        },
+        {
+          "id": "3:8.2",
+          "gloss": "and in the warning"
+        },
+        {
+          "id": "3:8.3",
+          "gloss": "not"
+        },
+        {
+          "id": "3:8.4",
+          "gloss": "stand idly"
+        },
+        {
+          "id": "3:8.5",
+          "gloss": "by"
+        },
+        {
+          "id": "3:8.6",
+          "gloss": "the blood of"
+        },
+        {
+          "id": "3:8.7",
+          "gloss": "your fellow"
+        },
+        {
+          "id": "3:8.8",
+          "gloss": "he wrote",
+          "note": "כ' = כתב, 'he wrote'; it opens the quotation that runs to עכ\"ל."
+        },
+        {
+          "id": "3:8.9",
+          "gloss": "even"
+        },
+        {
+          "id": "3:8.10",
+          "gloss": "standing by"
+        },
+        {
+          "id": "3:8.11",
+          "gloss": "any"
+        },
+        {
+          "id": "3:8.12",
+          "gloss": "degree"
+        },
+        {
+          "id": "3:8.13",
+          "gloss": "not"
+        },
+        {
+          "id": "3:8.14",
+          "gloss": "you see"
+        },
+        {
+          "id": "3:8.15",
+          "gloss": "his distress"
+        },
+        {
+          "id": "3:8.16",
+          "gloss": "of"
+        },
+        {
+          "id": "3:8.17",
+          "gloss": "your fellow"
+        },
+        {
+          "id": "3:8.18",
+          "gloss": "that one"
+        },
+        {
+          "id": "3:8.19",
+          "gloss": "puts to shame",
+          "note": "Idiom: להלבין פנים, 'to whiten the face', means to shame."
+        },
+        {
+          "id": "3:8.20",
+          "gloss": "his face"
+        },
+        {
+          "id": "3:8.21",
+          "gloss": "and you"
+        },
+        {
+          "id": "3:8.22",
+          "gloss": "are silent"
+        },
+        {
+          "id": "3:8.23",
+          "gloss": "he stood",
+          "note": "עמדו is read as 'he stood'; it may also be a noun, 'his standing'."
+        },
+        {
+          "id": "3:8.24",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:8.25",
+          "gloss": "answer"
+        },
+        {
+          "id": "3:8.26",
+          "gloss": "again"
+        },
+        {
+          "id": "3:8.27",
+          "gloss": "but"
+        },
+        {
+          "id": "3:8.28",
+          "gloss": "you shall be"
+        },
+        {
+          "id": "3:8.29",
+          "gloss": "protesting"
+        },
+        {
+          "id": "3:8.30",
+          "gloss": "with all"
+        },
+        {
+          "id": "3:8.31",
+          "gloss": "your power"
+        },
+        {
+          "id": "3:8.32",
+          "gloss": "against"
+        },
+        {
+          "id": "3:8.33",
+          "gloss": "who disgraces"
+        },
+        {
+          "id": "3:8.34",
+          "gloss": "your fellow"
+        },
+        {
+          "id": "3:8.35",
+          "gloss": "or"
+        },
+        {
+          "id": "3:8.36",
+          "gloss": "speaks"
+        },
+        {
+          "id": "3:8.37",
+          "gloss": "about him"
+        },
+        {
+          "id": "3:8.38",
+          "gloss": "talebearing"
+        },
+        {
+          "id": "3:8.39",
+          "gloss": "and slander"
+        },
+        {
+          "id": "3:8.40",
+          "gloss": "evil"
+        },
+        {
+          "id": "3:8.41",
+          "gloss": "you"
+        },
+        {
+          "id": "3:8.42",
+          "gloss": "not"
+        },
+        {
+          "id": "3:8.43",
+          "gloss": "be"
+        },
+        {
+          "id": "3:8.44",
+          "gloss": "a listener"
+        },
+        {
+          "id": "3:8.45",
+          "gloss": "and silent"
+        },
+        {
+          "id": "3:8.46",
+          "gloss": "but"
+        },
+        {
+          "id": "3:8.47",
+          "gloss": "you shall say"
+        },
+        {
+          "id": "3:8.48",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:8.49",
+          "gloss": "wicked one"
+        },
+        {
+          "id": "3:8.50",
+          "gloss": "troubler"
+        },
+        {
+          "id": "3:8.51",
+          "gloss": "of Israel"
+        },
+        {
+          "id": "3:8.52",
+          "gloss": "why"
+        },
+        {
+          "id": "3:8.53",
+          "gloss": "do you speak"
+        },
+        {
+          "id": "3:8.54",
+          "gloss": "defiance"
+        },
+        {
+          "id": "3:8.55",
+          "gloss": "against"
+        },
+        {
+          "id": "3:8.56",
+          "gloss": "the likeness of"
+        },
+        {
+          "id": "3:8.57",
+          "gloss": "our Maker"
+        },
+        {
+          "id": "3:8.58",
+          "gloss": "and against"
+        },
+        {
+          "id": "3:8.59",
+          "gloss": "the Shekhinah"
+        },
+        {
+          "id": "3:8.60",
+          "gloss": "our strength"
+        },
+        {
+          "id": "3:8.61",
+          "gloss": "which is"
+        },
+        {
+          "id": "3:8.62",
+          "gloss": "the yod",
+          "note": "היו\"ד: the letter yod, which the author takes as the Shekhinah."
+        },
+        {
+          "id": "3:8.63",
+          "gloss": "in 'among your people'",
+          "note": "The yod is the one in בעמיך of Lev 19:16, which the author cites."
+        },
+        {
+          "id": "3:8.64",
+          "gloss": "and departs"
+        },
+        {
+          "id": "3:8.65",
+          "gloss": "through"
+        },
+        {
+          "id": "3:8.66",
+          "gloss": "this sin"
+        },
+        {
+          "id": "3:8.67",
+          "gloss": "therefore"
+        },
+        {
+          "id": "3:8.68",
+          "gloss": "was juxtaposed"
+        },
+        {
+          "id": "3:8.69",
+          "gloss": "this"
+        },
+        {
+          "id": "3:8.70",
+          "gloss": "to that"
+        },
+        {
+          "id": "3:8.71",
+          "gloss": "not"
+        },
+        {
+          "id": "3:8.72",
+          "gloss": "go about"
+        },
+        {
+          "id": "3:8.73",
+          "gloss": "as a talebearer"
+        },
+        {
+          "id": "3:8.74",
+          "gloss": "and one might say",
+          "note": "ותאמר opens the hypothetical objection, read as a generic 'one might say'."
+        },
+        {
+          "id": "3:8.75",
+          "gloss": "since"
+        },
+        {
+          "id": "3:8.76",
+          "gloss": "I am not"
+        },
+        {
+          "id": "3:8.77",
+          "gloss": "speaking"
+        },
+        {
+          "id": "3:8.78",
+          "gloss": "I will hear"
+        },
+        {
+          "id": "3:8.79",
+          "gloss": "and be silent"
+        },
+        {
+          "id": "3:8.80",
+          "gloss": "and take pleasure"
+        },
+        {
+          "id": "3:8.81",
+          "gloss": "in what"
+        },
+        {
+          "id": "3:8.82",
+          "gloss": "his fellow"
+        },
+        {
+          "id": "3:8.83",
+          "gloss": "wicked one"
+        },
+        {
+          "id": "3:8.84",
+          "gloss": "speaks"
+        },
+        {
+          "id": "3:8.85",
+          "gloss": "also"
+        },
+        {
+          "id": "3:8.86",
+          "gloss": "this"
+        },
+        {
+          "id": "3:8.87",
+          "gloss": "listener"
+        },
+        {
+          "id": "3:8.88",
+          "gloss": "wicked"
+        },
+        {
+          "id": "3:8.89",
+          "gloss": "utterly"
+        },
+        {
+          "id": "3:8.90",
+          "gloss": "and transgresses"
+        },
+        {
+          "id": "3:8.91",
+          "gloss": "against"
+        },
+        {
+          "id": "3:8.92",
+          "gloss": "not"
+        },
+        {
+          "id": "3:8.93",
+          "gloss": "stand"
+        },
+        {
+          "id": "3:8.94",
+          "gloss": "by"
+        },
+        {
+          "id": "3:8.95",
+          "gloss": "blood of"
+        },
+        {
+          "id": "3:8.96",
+          "gloss": "your fellow"
+        },
+        {
+          "id": "3:8.97",
+          "gloss": "and he has no"
+        },
+        {
+          "id": "3:8.98",
+          "gloss": "for him"
+        },
+        {
+          "id": "3:8.99",
+          "gloss": "portion"
+        },
+        {
+          "id": "3:8.100",
+          "gloss": "in the God of",
+          "note": "באלהי ישראל: 'in the God of Israel'."
+        },
+        {
+          "id": "3:8.101",
+          "gloss": "Israel"
+        },
+        {
+          "id": "3:8.102",
+          "gloss": "when he hears"
+        },
+        {
+          "id": "3:8.103",
+          "gloss": "a wicked one"
+        },
+        {
+          "id": "3:8.104",
+          "gloss": "speaks"
+        },
+        {
+          "id": "3:8.105",
+          "gloss": "defiance"
+        },
+        {
+          "id": "3:8.106",
+          "gloss": "against"
+        },
+        {
+          "id": "3:8.107",
+          "gloss": "a righteous person"
+        },
+        {
+          "id": "3:8.108",
+          "gloss": "or"
+        },
+        {
+          "id": "3:8.109",
+          "gloss": "whispers"
+        },
+        {
+          "id": "3:8.110",
+          "gloss": "a whisper"
+        },
+        {
+          "id": "3:8.111",
+          "gloss": "of lies"
+        },
+        {
+          "id": "3:8.112",
+          "gloss": "about"
+        },
+        {
+          "id": "3:8.113",
+          "gloss": "his fellow"
+        },
+        {
+          "id": "3:8.114",
+          "gloss": "but"
+        },
+        {
+          "id": "3:8.115",
+          "gloss": "immediately"
+        },
+        {
+          "id": "3:8.116",
+          "gloss": "you push"
+        },
+        {
+          "id": "3:8.117",
+          "gloss": "him"
+        },
+        {
+          "id": "3:8.118",
+          "gloss": "and say"
+        },
+        {
+          "id": "3:8.119",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:8.120",
+          "gloss": "wicked one"
+        },
+        {
+          "id": "3:8.121",
+          "gloss": "go"
+        },
+        {
+          "id": "3:8.122",
+          "gloss": "away from me"
+        },
+        {
+          "id": "3:8.123",
+          "gloss": "I do not"
+        },
+        {
+          "id": "3:8.124",
+          "gloss": "listen"
+        },
+        {
+          "id": "3:8.125",
+          "gloss": "to you"
+        },
+        {
+          "id": "3:8.126",
+          "gloss": "but"
+        },
+        {
+          "id": "3:8.127",
+          "gloss": "if"
+        },
+        {
+          "id": "3:8.128",
+          "gloss": "he"
+        },
+        {
+          "id": "3:8.129",
+          "gloss": "hears"
+        },
+        {
+          "id": "3:8.130",
+          "gloss": "and is silent"
+        },
+        {
+          "id": "3:8.131",
+          "gloss": "and all",
+          "note": "וכל שכן: 'and all the more so', a kal va-chomer."
+        },
+        {
+          "id": "3:8.132",
+          "gloss": "the more so"
+        },
+        {
+          "id": "3:8.133",
+          "gloss": "if"
+        },
+        {
+          "id": "3:8.134",
+          "gloss": "he takes pleasure"
+        },
+        {
+          "id": "3:8.135",
+          "gloss": "his end"
+        },
+        {
+          "id": "3:8.136",
+          "gloss": "is judged"
+        },
+        {
+          "id": "3:8.137",
+          "gloss": "in fire"
+        },
+        {
+          "id": "3:8.138",
+          "gloss": "not"
+        },
+        {
+          "id": "3:8.139",
+          "gloss": "blown",
+          "note": "לא נופח: fire that is not fanned."
+        },
+        {
+          "id": "3:8.140",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:8.141",
+          "gloss": "he will merit"
+        },
+        {
+          "id": "3:8.142",
+          "gloss": "to stand"
+        },
+        {
+          "id": "3:8.143",
+          "gloss": "in the enclosure",
+          "note": "מחיצת: the enclosure, the company of the righteous."
+        },
+        {
+          "id": "3:8.144",
+          "gloss": "of the righteous"
+        },
+        {
+          "id": "3:8.145",
+          "gloss": "as listener"
+        },
+        {
+          "id": "3:8.146",
+          "gloss": "as answerer"
+        },
+        {
+          "id": "3:8.147",
+          "gloss": "as speaker"
+        },
+        {
+          "id": "3:8.148",
+          "gloss": "all of them"
+        },
+        {
+          "id": "3:8.149",
+          "gloss": "shall perish"
+        },
+        {
+          "id": "3:8.150",
+          "gloss": "from"
+        },
+        {
+          "id": "3:8.151",
+          "gloss": "the world"
+        },
+        {
+          "id": "3:8.152",
+          "gloss": "in this"
+        },
+        {
+          "id": "3:8.153",
+          "gloss": "and in the world to come",
+          "note": "ובבא: 'and in the coming (world)', the world to come."
+        },
+        {
+          "id": "3:8.154",
+          "gloss": "Thus far his words",
+          "note": "עכ\"ל: closing formula, 'thus far his words', outside the closing quotation mark."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:8.1"
+          ],
+          "english": "§8.",
+          "literal": "section-8"
+        },
+        {
+          "tokens": [
+            "3:8.2",
+            "3:8.3",
+            "3:8.4",
+            "3:8.5",
+            "3:8.6",
+            "3:8.7"
+          ],
+          "english": "And in the warning, \"You shall not stand idly by the blood of your fellow,\"",
+          "literal": "and-in-the-warning not stand-idly by the-blood-of your-fellow"
+        },
+        {
+          "tokens": [
+            "3:8.8",
+            "3:8.9",
+            "3:8.10",
+            "3:8.11",
+            "3:8.12"
+          ],
+          "english": "he wrote: \"even standing by, to any degree.",
+          "literal": "he-wrote even standing-by any degree"
+        },
+        {
+          "tokens": [
+            "3:8.13",
+            "3:8.14",
+            "3:8.15",
+            "3:8.16",
+            "3:8.17",
+            "3:8.18",
+            "3:8.19",
+            "3:8.20"
+          ],
+          "english": "You shall not see your fellow's distress, that one puts him to shame,",
+          "literal": "not you-see his-distress of your-fellow that-one puts-to-shame his-face"
+        },
+        {
+          "tokens": [
+            "3:8.21",
+            "3:8.22"
+          ],
+          "english": "and you are silent;",
+          "literal": "and-you are-silent"
+        },
+        {
+          "tokens": [
+            "3:8.23",
+            "3:8.24",
+            "3:8.25",
+            "3:8.26"
+          ],
+          "english": "he stood and did not answer again.",
+          "literal": "he-stood and-not answer again"
+        },
+        {
+          "tokens": [
+            "3:8.27",
+            "3:8.28",
+            "3:8.29",
+            "3:8.30",
+            "3:8.31"
+          ],
+          "english": "But you shall protest with all your power",
+          "literal": "but you-shall-be protesting with-all your-power"
+        },
+        {
+          "tokens": [
+            "3:8.32",
+            "3:8.33",
+            "3:8.34"
+          ],
+          "english": "against him who disgraces your fellow,",
+          "literal": "against who-disgraces your-fellow"
+        },
+        {
+          "tokens": [
+            "3:8.35",
+            "3:8.36",
+            "3:8.37",
+            "3:8.38",
+            "3:8.39",
+            "3:8.40"
+          ],
+          "english": "or speaks about him with talebearing and evil talk,",
+          "literal": "or speaks about-him talebearing and-slander evil"
+        },
+        {
+          "tokens": [
+            "3:8.41",
+            "3:8.42",
+            "3:8.43",
+            "3:8.44",
+            "3:8.45"
+          ],
+          "english": "You shall not be a listener and silent,",
+          "literal": "you not be a-listener and-silent"
+        },
+        {
+          "tokens": [
+            "3:8.46",
+            "3:8.47",
+            "3:8.48",
+            "3:8.49",
+            "3:8.50",
+            "3:8.51"
+          ],
+          "english": "but you shall say to him: 'Wicked one, troubler of Israel,",
+          "literal": "but you-shall-say to-him wicked-one troubler of-Israel"
+        },
+        {
+          "tokens": [
+            "3:8.52",
+            "3:8.53",
+            "3:8.54",
+            "3:8.55",
+            "3:8.56",
+            "3:8.57"
+          ],
+          "english": "why do you speak defiance against the likeness of our Maker,",
+          "literal": "why do-you-speak defiance against the-likeness-of our-Maker"
+        },
+        {
+          "tokens": [
+            "3:8.58",
+            "3:8.59",
+            "3:8.60",
+            "3:8.61",
+            "3:8.62",
+            "3:8.63"
+          ],
+          "english": "and against the Shekhinah, our strength, which is the yod in \"among your people,\"",
+          "literal": "and-against the-Shekhinah our-strength which-is the-yod in-'among-your-people'"
+        },
+        {
+          "tokens": [
+            "3:8.64",
+            "3:8.65",
+            "3:8.66"
+          ],
+          "english": "and departs through this sin.'",
+          "literal": "and-departs through this-sin"
+        },
+        {
+          "tokens": [
+            "3:8.67",
+            "3:8.68",
+            "3:8.69",
+            "3:8.70"
+          ],
+          "english": "Therefore this was juxtaposed to that,",
+          "literal": "therefore was-juxtaposed this to-that"
+        },
+        {
+          "tokens": [
+            "3:8.71",
+            "3:8.72",
+            "3:8.73"
+          ],
+          "english": "'You shall not go about as a talebearer,'",
+          "literal": "not go-about as-a-talebearer"
+        },
+        {
+          "tokens": [
+            "3:8.74",
+            "3:8.75",
+            "3:8.76",
+            "3:8.77"
+          ],
+          "english": "and one might say: since I do not speak,",
+          "literal": "and-one-might-say since I-am-not speaking"
+        },
+        {
+          "tokens": [
+            "3:8.78",
+            "3:8.79",
+            "3:8.80",
+            "3:8.81",
+            "3:8.82",
+            "3:8.83",
+            "3:8.84"
+          ],
+          "english": "I will listen and be silent, and take pleasure in what his fellow, the wicked one, speaks.",
+          "literal": "I-will-hear and-be-silent and-take-pleasure in-what his-fellow wicked-one speaks"
+        },
+        {
+          "tokens": [
+            "3:8.85",
+            "3:8.86",
+            "3:8.87",
+            "3:8.88",
+            "3:8.89"
+          ],
+          "english": "This listener too is an utterly wicked person.",
+          "literal": "also this listener wicked utterly"
+        },
+        {
+          "tokens": [
+            "3:8.90",
+            "3:8.91",
+            "3:8.92",
+            "3:8.93",
+            "3:8.94",
+            "3:8.95",
+            "3:8.96"
+          ],
+          "english": "and transgresses 'You shall not stand idly by the blood of your fellow.'",
+          "literal": "and-transgresses against not stand by blood-of your-fellow"
+        },
+        {
+          "tokens": [
+            "3:8.97",
+            "3:8.98",
+            "3:8.99",
+            "3:8.100",
+            "3:8.101"
+          ],
+          "english": "He has no portion in the God of Israel",
+          "literal": "and-he-has-no for-him portion in-the-God-of Israel"
+        },
+        {
+          "tokens": [
+            "3:8.102",
+            "3:8.103",
+            "3:8.104",
+            "3:8.105",
+            "3:8.106",
+            "3:8.107"
+          ],
+          "english": "when he hears a wicked one speak defiance against a righteous person,",
+          "literal": "when-he-hears a-wicked-one speaks defiance against a-righteous-person"
+        },
+        {
+          "tokens": [
+            "3:8.108",
+            "3:8.109",
+            "3:8.110",
+            "3:8.111",
+            "3:8.112",
+            "3:8.113"
+          ],
+          "english": "or whispers a whisper of lies about his fellow;",
+          "literal": "or whispers a-whisper of-lies about his-fellow"
+        },
+        {
+          "tokens": [
+            "3:8.114",
+            "3:8.115",
+            "3:8.116",
+            "3:8.117"
+          ],
+          "english": "rather, you shall immediately push him away",
+          "literal": "but immediately you-push him"
+        },
+        {
+          "tokens": [
+            "3:8.118",
+            "3:8.119",
+            "3:8.120",
+            "3:8.121",
+            "3:8.122"
+          ],
+          "english": "and say to him: 'Wicked one, go away from me,",
+          "literal": "and-say to-him wicked-one go away-from-me"
+        },
+        {
+          "tokens": [
+            "3:8.123",
+            "3:8.124",
+            "3:8.125"
+          ],
+          "english": "I do not listen to you.'",
+          "literal": "I-do-not listen to-you"
+        },
+        {
+          "tokens": [
+            "3:8.126",
+            "3:8.127",
+            "3:8.128",
+            "3:8.129",
+            "3:8.130"
+          ],
+          "english": "But if he hears and is silent,",
+          "literal": "but if he hears and-is-silent"
+        },
+        {
+          "tokens": [
+            "3:8.131",
+            "3:8.132",
+            "3:8.133",
+            "3:8.134"
+          ],
+          "english": "and all the more so if he takes pleasure,",
+          "literal": "and-all the-more-so if he-takes-pleasure"
+        },
+        {
+          "tokens": [
+            "3:8.135",
+            "3:8.136",
+            "3:8.137",
+            "3:8.138",
+            "3:8.139"
+          ],
+          "english": "his end is to be judged in unblown fire,",
+          "literal": "his-end is-judged in-fire not blown"
+        },
+        {
+          "tokens": [
+            "3:8.140",
+            "3:8.141",
+            "3:8.142",
+            "3:8.143",
+            "3:8.144"
+          ],
+          "english": "and he will not merit to stand in the company of the righteous,",
+          "literal": "and-not he-will-merit to-stand in-the-enclosure of-the-righteous"
+        },
+        {
+          "tokens": [
+            "3:8.145",
+            "3:8.146",
+            "3:8.147"
+          ],
+          "english": "as listener, as answerer, as speaker.",
+          "literal": "as-listener as-answerer as-speaker"
+        },
+        {
+          "tokens": [
+            "3:8.148",
+            "3:8.149",
+            "3:8.150",
+            "3:8.151",
+            "3:8.152"
+          ],
+          "english": "All of them shall perish from the world in this one,",
+          "literal": "all-of-them shall-perish from the-world in-this"
+        },
+        {
+          "tokens": [
+            "3:8.153"
+          ],
+          "english": "and in the world to come.\"",
+          "literal": "and-in-the-world-to-come"
+        },
+        {
+          "tokens": [
+            "3:8.154"
+          ],
+          "english": "Thus far his words.",
+          "literal": "Thus-far-his-words"
+        }
+      ],
+      "grammar": [
+        "The quotation opens with כ' (he wrote) after the verse לא תעמוד על דם רעך, and closes at עכ\"ל. Within it, direct address is in single marks, and the verse לא תלך רכיל is a single-marked quotation inside the outer quotation.",
+        "ולכך נסמכה זה לזה: 'for this reason this was placed next to that'. The verse לא תלך רכיל is the second member of the pair; ותאמר begins the objection that the author answers.",
+        "וכל שכן ('all the more so') introduces the consequence. The three participles כשומע, כעונה, כמדבר ('as listener, as answerer, as speaker') are the ways of taking part, and כולם יספו ('all of them shall perish') refers back to them."
+      ],
+      "note": "The opening verse is in double marks because it stands outside the quotation; the verse quoted inside the quotation (3:8.90-3:8.96) is in single marks.",
+      "commentary": [],
+      "apparatus": [
+        "Lev 19:16: 'לא תעמוד על דם רעך' (3:8.2-3:8.7 and 3:8.90-3:8.96), quoted as the author gives it.",
+        "Lev 19:16, 'בעמיך', is the source of the yod of the Shekhinah (3:8.62-3:8.63); the author's reading, not a translation of the verse's sense."
+      ],
+      "context": [],
+      "readings": []
+    }
+  ]
+}

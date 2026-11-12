@@ -1,0 +1,797 @@
+# Translation pack: milhamot-hashem perek-8-10 (Milchamot ha-Shem 8:12–8:12)
+
+Brief: `briefs/translate.md`. Write: `works/milhamot-hashem/stage/translate/perek-8-10.json`. Check: `go run ./cmd/tr check milhamot-hashem perek-8-10`.
+
+## Rulings for this unit
+
+Extracted from `works/milhamot-hashem/decisions.md` for the words of this unit; the rulings below are the whole of what you need. Read the full file only if a question is not answered here.
+
+# Milchamot ha-Shem: decisions for every unit
+
+> Owner answered Q4 and Q7 on 2026-11-10; Q1-3, Q5-6 stand at the defaults (see "Owner's answers and defaults" at the end).
+
+Editorial decisions set before translation. A reviewer may question one in a
+`question` patch; the project owner decides. Where a ruling was amended, only
+the final rule is given. "(note)" means a token `note`; "first in a unit"
+means at the first occurrence in the unit.
+
+General rule for technical terms: the English names the thing the words name
+and goes no further. Kabbalistic technical names are transliterated, because
+every English equivalent takes a side: the Kabbalists' defence
+("configuration", "the Infinite", "Divine Presence") or Kafich's charge
+("god", "idol"). He makes his charge in his own words ("אליל", "אלוהות", "אל
+זר"), and the English translates those where he uses them.
+
+Transliteration: the project's plain scheme, as in Avot and Genesis (Shetach,
+Chayei Sarah, Lekh Lekha): no diacritics; ח = ch, כ = kh, צ = tz, ק = k
+("Machzor Vitry"). The author: Yichya Kafich (owner, 2026-11-10; "Yihya
+Kafich" is named once in the front matter). Book titles with a conventional
+English spelling keep it (Kisse Eliyahu, Sefer ha-Kavanot, Machberet
+ha-Kodesh); the scheme applies where the project has no fixed form.
+
+## Output format for this work (prose)
+
+Read this whole file before translating. A segment is a paragraph of prose.
+The pack has no morphemes, lemmas, lexicon or commentary, so:
+
+- `tokens`: one entry per word: `id`, `gloss`, and a `note` where a learner
+  needs one. No `sense`, no `lex`.
+- `commentary`: `[]`. `context`: only for a realia a reader needs (a Yemenite
+  custom, a book, a person); say what is established; cite no modern work.
+  It may carry a short note on a story the author cites (the Pardes story),
+  without a reference unless the author gives one.
+- `grammar`: 2 to 6 notes per paragraph (in a long one, on the hardest
+  sentences). `literal`: word for word; on a long paragraph the glosses in
+  Hebrew order, hyphens joining the parts of one word; no reasoning (that goes
+  in `note`).
+- `phrases` divide every token of the paragraph, in order; in a long
+  paragraph a phrase is a clause, not a word; each phrase's `english` must
+  occur in the paragraph's `english`.
+- Quotations follow the Quotations section; a Bible verse is translated from
+  the Hebrew as the author quotes it, the reference in `apparatus`.
+- Every Hebrew abbreviation is expanded in `gloss` (the reading line carries
+  the full word).
+
+## Names and titles
+
+- **Authorities**: acronyms and book-names used as names stay, transliterated;
+  first in a unit a note gives the expansion where certain (else says so) and
+  who is meant; identify no one further. ר' + name → "Rabbi". An initial a
+  surname fixes is expanded, else kept (a lone כ' → "K."), noted. Surnames as
+  printed, one spelling across the work.
+- **Honorifics**: translate every one, opponents' included; add none.
+- **Book titles**: transliterated, the meaning in a note first in a unit;
+  abbreviations written out; every word kept. Bible books in English;
+  tractates transliterated. A misspelt title as printed, the likelier in the
+  note and `apparatus`.
+- ה׳: the Tetragrammaton → "the LORD"; cited as a name ("זעיר אנפין דאיקרי
+  ה'") → "who is called 'the LORD'"; before a personal name → "Mr." ("מאת ה'
+  אליעזר בן יהודה" → "from Mr. Eliezer Ben-Yehuda"); a numeral or page letter
+  → the number. The pack splits it into ה plus ': read it in context.
+- **מחבר הזהר / מחבר הספר הזהר**: "the author of the Zohar", never named (no
+  "Moses de León"); מחבר הספר הזהר → "the author of the book the Zohar".
+- **השי"ת** → "the Name, may He be blessed" (Q3).
+- **ית׳ / ית' / יתברך** → "may He be blessed", where the Hebrew places it.
+- **ב"ה** → "blessed be He".
+- שם **שמים** → "the name of Heaven".
+- **אלהים / אלהי / אלוה / קבלו באלוה**: no editorialising by case. "God" for the
+  God of Israel, also in the Kabbalists' quoted words and for a plural אלהים
+  with a singular verb; singular אלוה → "God" (Job, Deut 32:15), not "the
+  first God". "god(s)" only where the Hebrew marks foreignness or plurality
+  (אלהים אחרים, אל זר, אלילים), where the author in his own voice calls the
+  Kabbalists' object of worship a god, and for אלוה as what a human being
+  worships or makes himself (קבלו באלוה; Haman) → "a god". In doubt: "God",
+  the alternative in a note.
+- **האלהי** before a name → "the divine" (note); never dropped.
+- **ע"ה** → "peace be upon him" (honorific).
+- **יר"ה** (the Imam) → "may his majesty be exalted".
+- **רש"י** → "Rashi" (authority, transliterated; note).
+- **פתחי תשובה** → "Pitchei Teshuvah" (authority, transliterated; note).
+- **רבי'** before the lawgiver's name → "Moses our teacher".
+- **ר"א** → "Rabbi Eleazar" only where the paragraph names him, else "R. A."
+  (note).
+- **ר"י** חיים → "Rabbi Y. Chayyim" (initial kept, with a note).
+- **כסא אליהו / כס"א** → *Kisse Eliyahu* (book title; the meaning in a note
+  first in a unit; כס"א written out).
+- **תיקוני / תקוני** זהר (הזהר) → *Tikkunei Zohar* (book title; meaning in a note).
+- **זהר חדש** → *Zohar Chadash* (book title; meaning in a note).
+- **הר' / הרב** + book title → "the Rav [title]" ("the Rav Lechem Mishneh",
+  "the Rav Mikdash Melekh"; הר' כסא אליהו, הר' עץ יוסף), never dropping הרב,
+  note on who is meant; a title is never a personal name; "the author of
+  [title]" only for בעל / מחבר.
+- **בעל / מחבר / היכל** + book title → "the author of [title]" (only for בעל /
+  מחבר; "המקובל בעל היכל הברכה" → "the Kabbalist, the author of Heikhal
+  ha-Berakhah", title translated in a note); name no author the text does not
+  name.
+- **תימן** → "Yemen".
+## Terms
+
+- **מדה / מדות / מידות / מדת**: by context, never "sefirot". Hermeneutical
+  rules → "rules" (note: literally "measures"). Of God or the sefirot:
+  "attribute" ("מדת הדין" → "the attribute of judgment"). Also "measure", and
+  "quality / trait / virtue" of character. מסכת מדות → "tractate Middot".
+- **זעיר אנפין / ז"א / זעיר** → "Ze'ir Anpin" (partzuf; note first in a unit:
+  "Small Face"); ז"א → "Ze'ir Anpin"; זעיר alone → "Ze'ir". An argument from
+  the name's meaning goes in the note; the name stays.
+- **אריך** אנפין → "Arikh Anpin" (partzuf; note first in a unit: "Long Face").
+- **אבא / אמא** (the partzufim) → "Abba" / "Imma" (note first in a unit).
+- **עתיק / עתיקא / יומין**: עתיק → "Atik"; עתיקא קדישא → "Atika Kadisha"; עתיקא
+  סתימא → "Atika Setima"; עתיק יומין → "Atik Yomin" (Dan 7:9: "the Ancient of
+  Days"); the literal sense in a note first in a unit.
+- עלת **העלות** → "the Cause of causes".
+- כתר **עליון** → "Keter Elyon (the Supreme Crown)".
+- קצר **אפים** (his calque of זעיר אנפין) → "quick to anger", and ארך אפים →
+  "slow to anger" everywhere, so the pair shows; a note each time (Aramaic
+  "small face"; Prov 14:17). "קצא אפים" as קצר, the spelling in `apparatus`.
+- **יחוד / ייחוד / ייחדו / אחדות**: the doctrine → "unity", fixed, not
+  "monotheism" or "oneness" (אחדות → "oneness"). The Kabbalistic act →
+  "unification" (יחודים → "unifications"). The verb, God as object → "to
+  declare one" ("ליחדו" → "to declare Him one"); Kabbalistic entities as
+  object → "to unify"; of dedicating a thing to one → "dedicate ... solely to"
+  (note: "unify"). Where he plays on the senses: "unity" for the noun, "unify"
+  for the verb, the play in a note.
+- **כלא חד / כולא חד / באגרונו** (also ולא אמרינן כלא חד): one English at every
+  occurrence; the sense awaits the owner. The English stands; the reviewer's
+  alternative in `readings` / `apparatus`.
+- **שיתוף / שתוף / לשתף / משותף / המשתף**: associating another with God →
+  fixed, "associate / association" ("כל המשתף שם שמים ודבר אחר" → "whoever
+  associates the name of Heaven with something else"). The Maimonidean term
+  for a word said of God and creatures → "equivocation / equivocal" ("בשתוף
+  השם בלבד" → "by equivocation of the term only"), never "association", Guide
+  I in the note; "shared" only for a thing held in common.
+- **צירוף**: "conjunction" of God; "permutation" in letter mysticism.
+- עבודה **אחרת** → "other worship" (note first in a unit).
+- **אליל / האלילה / זר**: אליל → "idol"; האלילה → "the she-idol"; אל זר → "a
+  strange god".
+- אל **אחר** → "another god".
+- אלהים **אחרים** → "other gods".
+- **קבלה / הקבלה / המקובלים**: the lore → "Kabbalah"; הקבלה החדשה → "the new
+  Kabbalah" (never "later" or "Lurianic"). המקובלים → "the Kabbalists"; חכמי
+  הקבלה → "sages of Kabbalah"; "רבותינו בעלי הקבלה החדשה" → "our rabbis, the
+  masters of the new Kabbalah" (courtesy kept).
+- **מין / מינות** → "heretic / heresy".
+- בת **קול** → "bat kol" (note: "daughter of a voice").
+- **Abbreviations**: ambiguous: by context, the expansion in the note.
+  Unruled (ורבי'): by his usage, noted; of two expansions the shorter, the
+  other in `apparatus`. Unclear (לי"ח): the conjecture in a note, the letters
+  in `apparatus`, in the English only if the sole sense that fits.
+- **ב"ו** → "blessed be He" before הוא, else "flesh and blood".
+- **מ"ו** → "our teacher" in יודיענו מורנו.
+- **וכו' / וכ'** → "etc." (always kept; וכ' closing a quotation is וכו').
+- **ב"ד** → "court" (ב"ד הגדול → "the Great Court"); "Beit Din" only as a
+  title he gives in transliteration.
+- **אבות** → "fathers", lower case (note: "patriarchs"); never a title.
+- **שם** → "there" or "the name" by context, the other in `apparatus`.
+- **והוא שלא** → "provided that".
+- **דרך ארץ** → "worldly occupation".
+## Quotations
+
+- **Scope.** All quoted text (Zohar, Bavli, Yerushalmi, Targum, Biblical
+  Aramaic, Midrash, medieval, Judeo-Arabic) from the author's words; no Hebrew,
+  Aramaic or Arabic in `english`.
+- **Marking.** A source's words introduced by a formula (וז"ל, כתב, אמרו,
+  גרסינן, שנאמר, כדכתיב, שנינו, הכי קאמר, אמר ר' X) or closed by עכ"ל / ע"כ:
+  double quotation marks; a paraphrase or report ("כתב ש…"): none; no
+  formula: marks if the source is certain, else none and a note. Nesting:
+  double, single, double. A reply by ויאמר inside a quotation: double marks;
+  his report of a sage's question: unmarked. Over several paragraphs
+  (2:18-2:25): each opens with a mark, only the last closes. Plain text (no
+  italics, no labels); the language in `grammar` ("Zohar Aramaic",
+  "Judeo-Arabic"). Formulas are translated, outside the marks; glosses inside
+  a quotation stay in parentheses where they stand, translated.
+- **Exegesis on a Hebrew word** (את; אם אין → "Ayin"): the word stays
+  transliterated ("not 'to the LORD your God' but 'et the LORD your God'"),
+  explained in `grammar`.
+- **Cut or changed quotation.** Only what is on the page: supply nothing וכו'
+  omits, complete no verse (no "before Me"), restore no source; a verse's
+  fixed wording covers only the words quoted. His comma joining two verses
+  stays; an ellipsis only where he marks one (וכו', וגו'). His wording against
+  the source: follow him, the source in `apparatus`.
+- **Bible verses**, quoted or alluded to (*melitzah*, unmarked): from the
+  Hebrew as it stands, plain modern English, not King James; each in
+  `apparatus`. An echoed verse (אל דבר ה', בטרם תחיל) governs the sense of its
+  words; a poetic phrase
+  translated, a note naming the referent; a plural stays plural, no subject
+  added; ketiv translated, the qere noted.
+- **Idioms**: by sense, the literal in `literal`; a saying he glosses
+  himself: both translated, unmerged.
+- **References** as he gives them, English form, Arabic numerals; add,
+  complete, convert or correct nothing; never the 2015 PDF's; none for
+  unreferenced Zohar, Mishnah or Talmud, even in `apparatus` (Bible verses
+  only). פ' + numeral → "chapter" for a book without parashot or a numeral
+  beyond them, else "parashah" (noted). ד' + number after a book: the
+  numerals ("4, 12"), noted when he writes דף nearby.
+- **Section numbers.** His sections (ב) at 3:1 to קמד) at 10:6): the label →
+  "§2."; irregular ones as written ("קיה)" → "§115", letters noted; the gap
+  קכט)–קלא) noted, not repaired). List markers (א), ב)) → "1)", "2)" (note).
+- **עכ"ל** → "Thus far his words." (outside the marks).
+- **פי'** inside a quotation: "(פי' …)" → "(explanation: …)".
+- **שמע** ישראל (Deut 6:4) → "Hear, O Israel: the LORD our God, the LORD is
+  one." (Four units in order, which the Zohar reading in 6:1 needs.)
+- **שער / ענף / מאמר** → "Gate / Branch / Treatise".
+## Style
+
+- Plain, exact, modern English, the words at their own strength (אליל
+  "idol"). No sarcasm of your own: no scare quotes, "so-called", "sic", or
+  added "!". Keep his every "!", rhetorical question and disclaimer, and the
+  second person.
+- Long periods may be divided: no clause dropped, no connective that changes
+  the logic, the order kept. Hebrew full stops: שכל / שהוא opening a sentence:
+  the stop kept, a main clause by his syntax (note on the ש); a fragment
+  (ושהם, והפטרה, ולדעת, ורבינו): a main clause when it continues the verb
+  before, a comma when it continues a list (note); a main clause after a stop
+  (ואם ראיתי. הם מגלים): joined with a comma (note); אם ... או after a stop:
+  as punctuated if the English has a main clause, else a colon to the
+  sentence before or a direct alternative question; a period completed in the
+  next segment: the stops kept, the continuation in the segment `note`,
+  semicolons only where unreadable.
+- ל before a person's name is possessive (לרשב"י → "Rabbi Shimon's"), never
+  the subject.
+- Numbers: letter numerals → Arabic, as written whatever the tradition counts
+  (the usual count in a note). A year without thousands → full ("תר"ע" →
+  "5670"); the civil year in `apparatus`. Where gematria is the point, the
+  number in English, the letters in a note.
+- Witnesses: square brackets ("[מתחלת באלוהיות]") are the transcriber's
+  corrections: translate the corrected reading, record both. A word that does
+  not fit but is close to a likelier one (יכינו for יבינו): by the context; a
+  printed word echoing a verse's likelier word (נבוש for נמוש): the printed
+  word; both words in a note and `apparatus`. Rule 3 covers every
+  Wikisource/PDF difference that bears on the English.
+
+## Translator's checklist (the pilot reviews found these faults most often)
+
+Before running the check, read your English once against the Hebrew:
+1. Every Hebrew word has its English; none is added (no "who received it", no
+   parenthetical explanation). A Hebrew full stop is an English full stop, and
+   every sentence has a main clause.
+2. Recognise Bible verses, even in pieces (Isa 62:6, Job 37:18, Gen 43:14,
+   Lev 26:44); translate from the Hebrew, check each verb's form, list the
+   verse in `apparatus`.
+3. Use the fixed renderings of this file for every term, name and abbreviation.
+4. A passive participle is passive; a participle is not a perfect.
+5. Capitalise only what the file capitalises. Begin each sentence with a
+   capital.
+
+## Owner's answers and defaults
+
+Answered by the owner (2026-11-10):
+
+- Q4: Judeo-Arabic and Aramaic are Sonnet's, not Haiku's: `models.json` lists
+  the four Judeo-Arabic units (5:3, 7:24, 9:10, 2:13) and the 15 units with at
+  least six Aramaic marker words (a heuristic; the Sonnet review covers every
+  unit). The `lang` tags stay "heb".
+- Q7: the project's transliteration scheme (above).
+
+Not yet answered; the default stands and can be changed before the review
+stage (a change to 1, 3 or 5 is a find-and-patch):
+
+- Q1 title: "The Wars of the LORD" (Num 21:14).
+- Q2 Wikisource additions: translated as base text, unmarked per word; one
+  general line in `apparatus` on the unit's first segment until the 1931 scan
+  is collated.
+- Q3 השי"ת: "the Name, may He be blessed".
+- Q5 קבלה האמתית: "the true tradition", with a note.
+- Q6 author's name: patronymic kept as written, "Sali'".
+
+
+## Milchamot ha-Shem 8:12
+
+Hebrew (Wikisource): קז) ולא זו בלבד, אלא גם אל ירושת"ו הרבה לעשות מכתבי און ומרמה ושקרים, עד להעלות אף וחמת החכמים בעיניהם, ויחרימו על פי מלשינותו את לומדי התורה ומלמדיה, ובמקהלות עם רב השמיע ופרסם את מכתב החרם של טיפשי ירושת"ו על ידי אחרים, שהלומדים משנה ותלמוד ופוסקים ואינם עוסקים בספר הזהר והתקונים לאקמא שכינתא מעפרא, הרי הם מוחרמים ומובדלים מחכמי ורבני ירושת"ו ואסור לאכול משחיטתם, גם אסף את כל הקצבים אל ביתו, ויזהירם וישביעם בה' אלהי ישראל לבל יזיד איש מהם לנקר להם בשר! ולילות עמל מנו לו, לחשוב על משכבו, ובבקר השכם יתיצב על פתחי בתי שופטי האימאם יר"ה להלשין את הלומדים, ולמנוע אותם לבל יתחברו עוד ללמוד. כי משחיתים הם את הדת ואת האמונה. ובחזרתו אל ביתו נקיט נפשיה בקצירי, ועל משענתו ילך הנה והנה, כאל אין בו כח לעמוד. כל זאת באתנו ולא שכחנו שם אלהינו האל הגדול הגבור והנורא, לפרוש כפינו לאל זר קצר אפים וזוגתו! אשר לא שערום אבותינו ואבות אבותינו, מיום גלותם אל ארץ התימן עד היום הזה, זולתם קצת חכמים בעיניהם שנמשכו אחר דעות מחבר הזהר כידוע. אך כיון שלא מחינו בכבוד שמו יתברך בהיות דברינו נשמעים עליה נתפשנו, כדגרסינן בפ"ק דע"ז ת"ר כשנתפס רבי אליעזר למינות העלוהו לגרדום לידון, אמר לו אותו הגמון זקן שכמותך יתעסק בדברים בטלים הללו, אמר לו נאמן עלי הדיין. כסבור אותו הגמון עליו הוא אומר. והוא לא אמר אלא כנגד אביו שבשמים. אמר לו האמנתי. דימוס פטור אתה. וכשבא אל ביתו נכנסו תלמידיו לנחמו, ולא קבל מהם תנחומין. אמר לו רבי עקיבה רבי הרשיני לומר לפניך דבר אחד ממה שלמדתני. אמר לו אמור. אמר לו שמא דבר מינות בא לידך והנאך הדבר ועליו נתפסת למינות. אמר לו עקיבה הזכרתני, פעם אחת הייתי מהלך בשוק העליון של ציפורי ומצאני אחד ויעקב איש כפר סכניא שמו. אמר לי כתוב בתורתכם לא תביא אתנן זוגה ומחיר כלב בית ה' אלהיך לכל נדר. מהו לעשות ממנו בית הכסא לכהן גדול, ולא אמרתי לו כלום. אמר לי כך לימדי (ישוע) כי מאתנן זוגה קבצה עד אתנן זוגה ישובו, והנאני הדבר, ועל ידי זה נתפסתי למינות ועברתי על מה שכתוב בתורה הרחק מעליה דרכך זו מינות, ואל תקרב אל פתח ביתה זו זנות ועד כמה אמר רב חסדא עד ארבע אמות וכו'. וכ' הרש"א הזהיר הכתוב להרחיק כדי שלא יהנה וימשך אחריה כדקאמר והנאני הדבר ועי"ז נתפסתי למינות ועברתי. דכששאל ממנו ולא השיב לו כלום היה לו להרחיק ולא היה לו לשמוע ממנו תשובתו עכ"ל. כדברים האלה שאירעו לר"א ע"ה אירעו לוי גם אנחנו על אשר לא גילינו את אמונת תורתינו הקדושה ביחוד השי"ת ועבודתו בלי שתוף וצירוף דבר אחר כאשר צונו, והיינו שומעים דברי מינות מאנשים שהם הולכים בעקבות הזהר והמקובלים החדשים העובדים את האלהים החדשים קצר האפים וזוגתו והוריו אבא ואימא וזקיניו אריך אנפין ועתיקא קדישא, ולא דברנו להם מאומה, ועל ידי זה נתפשנו למינות! ואלו לא בטחנו על ה' אלהינו האל הגדול הגבור והנורא בין יעשה גם בין לא יעשה, כי אז היו מוציאין אותנו בקולרין מבית הכלא להגלותינו אל ארץ אחרת, ארץ אוכלת יושביה על ידי מלשינות שקר. אמנם אלף אלפים תודות לאלהינו מלכינו שהוציא אותנו מבית הכלא לשלום פעם ראשונה ושנייה, והצילנו מן השלישית ולא מעדו רגלינו תלי"ת.
+
+| id | word | punctuation after |
+|---|---|---|
+| 8:12.1 | קז | ) |
+| 8:12.2 | ולא |  |
+| 8:12.3 | זו |  |
+| 8:12.4 | בלבד | , |
+| 8:12.5 | אלא |  |
+| 8:12.6 | גם |  |
+| 8:12.7 | אל |  |
+| 8:12.8 | ירושת"ו |  |
+| 8:12.9 | הרבה |  |
+| 8:12.10 | לעשות |  |
+| 8:12.11 | מכתבי |  |
+| 8:12.12 | און |  |
+| 8:12.13 | ומרמה |  |
+| 8:12.14 | ושקרים | , |
+| 8:12.15 | עד |  |
+| 8:12.16 | להעלות |  |
+| 8:12.17 | אף |  |
+| 8:12.18 | וחמת |  |
+| 8:12.19 | החכמים |  |
+| 8:12.20 | בעיניהם | , |
+| 8:12.21 | ויחרימו |  |
+| 8:12.22 | על |  |
+| 8:12.23 | פי |  |
+| 8:12.24 | מלשינותו |  |
+| 8:12.25 | את |  |
+| 8:12.26 | לומדי |  |
+| 8:12.27 | התורה |  |
+| 8:12.28 | ומלמדיה | , |
+| 8:12.29 | ובמקהלות |  |
+| 8:12.30 | עם |  |
+| 8:12.31 | רב |  |
+| 8:12.32 | השמיע |  |
+| 8:12.33 | ופרסם |  |
+| 8:12.34 | את |  |
+| 8:12.35 | מכתב |  |
+| 8:12.36 | החרם |  |
+| 8:12.37 | של |  |
+| 8:12.38 | טיפשי |  |
+| 8:12.39 | ירושת"ו |  |
+| 8:12.40 | על |  |
+| 8:12.41 | ידי |  |
+| 8:12.42 | אחרים | , |
+| 8:12.43 | שהלומדים |  |
+| 8:12.44 | משנה |  |
+| 8:12.45 | ותלמוד |  |
+| 8:12.46 | ופוסקים |  |
+| 8:12.47 | ואינם |  |
+| 8:12.48 | עוסקים |  |
+| 8:12.49 | בספר |  |
+| 8:12.50 | הזהר |  |
+| 8:12.51 | והתקונים |  |
+| 8:12.52 | לאקמא |  |
+| 8:12.53 | שכינתא |  |
+| 8:12.54 | מעפרא | , |
+| 8:12.55 | הרי |  |
+| 8:12.56 | הם |  |
+| 8:12.57 | מוחרמים |  |
+| 8:12.58 | ומובדלים |  |
+| 8:12.59 | מחכמי |  |
+| 8:12.60 | ורבני |  |
+| 8:12.61 | ירושת"ו |  |
+| 8:12.62 | ואסור |  |
+| 8:12.63 | לאכול |  |
+| 8:12.64 | משחיטתם | , |
+| 8:12.65 | גם |  |
+| 8:12.66 | אסף |  |
+| 8:12.67 | את |  |
+| 8:12.68 | כל |  |
+| 8:12.69 | הקצבים |  |
+| 8:12.70 | אל |  |
+| 8:12.71 | ביתו | , |
+| 8:12.72 | ויזהירם |  |
+| 8:12.73 | וישביעם |  |
+| 8:12.74 | בה | ' |
+| 8:12.75 | אלהי |  |
+| 8:12.76 | ישראל |  |
+| 8:12.77 | לבל |  |
+| 8:12.78 | יזיד |  |
+| 8:12.79 | איש |  |
+| 8:12.80 | מהם |  |
+| 8:12.81 | לנקר |  |
+| 8:12.82 | להם |  |
+| 8:12.83 | בשר | ! |
+| 8:12.84 | ולילות |  |
+| 8:12.85 | עמל |  |
+| 8:12.86 | מנו |  |
+| 8:12.87 | לו | , |
+| 8:12.88 | לחשוב |  |
+| 8:12.89 | על |  |
+| 8:12.90 | משכבו | , |
+| 8:12.91 | ובבקר |  |
+| 8:12.92 | השכם |  |
+| 8:12.93 | יתיצב |  |
+| 8:12.94 | על |  |
+| 8:12.95 | פתחי |  |
+| 8:12.96 | בתי |  |
+| 8:12.97 | שופטי |  |
+| 8:12.98 | האימאם |  |
+| 8:12.99 | יר"ה |  |
+| 8:12.100 | להלשין |  |
+| 8:12.101 | את |  |
+| 8:12.102 | הלומדים | , |
+| 8:12.103 | ולמנוע |  |
+| 8:12.104 | אותם |  |
+| 8:12.105 | לבל |  |
+| 8:12.106 | יתחברו |  |
+| 8:12.107 | עוד |  |
+| 8:12.108 | ללמוד | . |
+| 8:12.109 | כי |  |
+| 8:12.110 | משחיתים |  |
+| 8:12.111 | הם |  |
+| 8:12.112 | את |  |
+| 8:12.113 | הדת |  |
+| 8:12.114 | ואת |  |
+| 8:12.115 | האמונה | . |
+| 8:12.116 | ובחזרתו |  |
+| 8:12.117 | אל |  |
+| 8:12.118 | ביתו |  |
+| 8:12.119 | נקיט |  |
+| 8:12.120 | נפשיה |  |
+| 8:12.121 | בקצירי | , |
+| 8:12.122 | ועל |  |
+| 8:12.123 | משענתו |  |
+| 8:12.124 | ילך |  |
+| 8:12.125 | הנה |  |
+| 8:12.126 | והנה | , |
+| 8:12.127 | כאל |  |
+| 8:12.128 | אין |  |
+| 8:12.129 | בו |  |
+| 8:12.130 | כח |  |
+| 8:12.131 | לעמוד | . |
+| 8:12.132 | כל |  |
+| 8:12.133 | זאת |  |
+| 8:12.134 | באתנו |  |
+| 8:12.135 | ולא |  |
+| 8:12.136 | שכחנו |  |
+| 8:12.137 | שם |  |
+| 8:12.138 | אלהינו |  |
+| 8:12.139 | האל |  |
+| 8:12.140 | הגדול |  |
+| 8:12.141 | הגבור |  |
+| 8:12.142 | והנורא | , |
+| 8:12.143 | לפרוש |  |
+| 8:12.144 | כפינו |  |
+| 8:12.145 | לאל |  |
+| 8:12.146 | זר |  |
+| 8:12.147 | קצר |  |
+| 8:12.148 | אפים |  |
+| 8:12.149 | וזוגתו | ! |
+| 8:12.150 | אשר |  |
+| 8:12.151 | לא |  |
+| 8:12.152 | שערום |  |
+| 8:12.153 | אבותינו |  |
+| 8:12.154 | ואבות |  |
+| 8:12.155 | אבותינו | , |
+| 8:12.156 | מיום |  |
+| 8:12.157 | גלותם |  |
+| 8:12.158 | אל |  |
+| 8:12.159 | ארץ |  |
+| 8:12.160 | התימן |  |
+| 8:12.161 | עד |  |
+| 8:12.162 | היום |  |
+| 8:12.163 | הזה | , |
+| 8:12.164 | זולתם |  |
+| 8:12.165 | קצת |  |
+| 8:12.166 | חכמים |  |
+| 8:12.167 | בעיניהם |  |
+| 8:12.168 | שנמשכו |  |
+| 8:12.169 | אחר |  |
+| 8:12.170 | דעות |  |
+| 8:12.171 | מחבר |  |
+| 8:12.172 | הזהר |  |
+| 8:12.173 | כידוע | . |
+| 8:12.174 | אך |  |
+| 8:12.175 | כיון |  |
+| 8:12.176 | שלא |  |
+| 8:12.177 | מחינו |  |
+| 8:12.178 | בכבוד |  |
+| 8:12.179 | שמו |  |
+| 8:12.180 | יתברך |  |
+| 8:12.181 | בהיות |  |
+| 8:12.182 | דברינו |  |
+| 8:12.183 | נשמעים |  |
+| 8:12.184 | עליה |  |
+| 8:12.185 | נתפשנו | , |
+| 8:12.186 | כדגרסינן |  |
+| 8:12.187 | בפ"ק |  |
+| 8:12.188 | דע"ז |  |
+| 8:12.189 | ת"ר |  |
+| 8:12.190 | כשנתפס |  |
+| 8:12.191 | רבי |  |
+| 8:12.192 | אליעזר |  |
+| 8:12.193 | למינות |  |
+| 8:12.194 | העלוהו |  |
+| 8:12.195 | לגרדום |  |
+| 8:12.196 | לידון | , |
+| 8:12.197 | אמר |  |
+| 8:12.198 | לו |  |
+| 8:12.199 | אותו |  |
+| 8:12.200 | הגמון |  |
+| 8:12.201 | זקן |  |
+| 8:12.202 | שכמותך |  |
+| 8:12.203 | יתעסק |  |
+| 8:12.204 | בדברים |  |
+| 8:12.205 | בטלים |  |
+| 8:12.206 | הללו | , |
+| 8:12.207 | אמר |  |
+| 8:12.208 | לו |  |
+| 8:12.209 | נאמן |  |
+| 8:12.210 | עלי |  |
+| 8:12.211 | הדיין | . |
+| 8:12.212 | כסבור |  |
+| 8:12.213 | אותו |  |
+| 8:12.214 | הגמון |  |
+| 8:12.215 | עליו |  |
+| 8:12.216 | הוא |  |
+| 8:12.217 | אומר | . |
+| 8:12.218 | והוא |  |
+| 8:12.219 | לא |  |
+| 8:12.220 | אמר |  |
+| 8:12.221 | אלא |  |
+| 8:12.222 | כנגד |  |
+| 8:12.223 | אביו |  |
+| 8:12.224 | שבשמים | . |
+| 8:12.225 | אמר |  |
+| 8:12.226 | לו |  |
+| 8:12.227 | האמנתי | . |
+| 8:12.228 | דימוס |  |
+| 8:12.229 | פטור |  |
+| 8:12.230 | אתה | . |
+| 8:12.231 | וכשבא |  |
+| 8:12.232 | אל |  |
+| 8:12.233 | ביתו |  |
+| 8:12.234 | נכנסו |  |
+| 8:12.235 | תלמידיו |  |
+| 8:12.236 | לנחמו | , |
+| 8:12.237 | ולא |  |
+| 8:12.238 | קבל |  |
+| 8:12.239 | מהם |  |
+| 8:12.240 | תנחומין | . |
+| 8:12.241 | אמר |  |
+| 8:12.242 | לו |  |
+| 8:12.243 | רבי |  |
+| 8:12.244 | עקיבה |  |
+| 8:12.245 | רבי |  |
+| 8:12.246 | הרשיני |  |
+| 8:12.247 | לומר |  |
+| 8:12.248 | לפניך |  |
+| 8:12.249 | דבר |  |
+| 8:12.250 | אחד |  |
+| 8:12.251 | ממה |  |
+| 8:12.252 | שלמדתני | . |
+| 8:12.253 | אמר |  |
+| 8:12.254 | לו |  |
+| 8:12.255 | אמור | . |
+| 8:12.256 | אמר |  |
+| 8:12.257 | לו |  |
+| 8:12.258 | שמא |  |
+| 8:12.259 | דבר |  |
+| 8:12.260 | מינות |  |
+| 8:12.261 | בא |  |
+| 8:12.262 | לידך |  |
+| 8:12.263 | והנאך |  |
+| 8:12.264 | הדבר |  |
+| 8:12.265 | ועליו |  |
+| 8:12.266 | נתפסת |  |
+| 8:12.267 | למינות | . |
+| 8:12.268 | אמר |  |
+| 8:12.269 | לו |  |
+| 8:12.270 | עקיבה |  |
+| 8:12.271 | הזכרתני | , |
+| 8:12.272 | פעם |  |
+| 8:12.273 | אחת |  |
+| 8:12.274 | הייתי |  |
+| 8:12.275 | מהלך |  |
+| 8:12.276 | בשוק |  |
+| 8:12.277 | העליון |  |
+| 8:12.278 | של |  |
+| 8:12.279 | ציפורי |  |
+| 8:12.280 | ומצאני |  |
+| 8:12.281 | אחד |  |
+| 8:12.282 | ויעקב |  |
+| 8:12.283 | איש |  |
+| 8:12.284 | כפר |  |
+| 8:12.285 | סכניא |  |
+| 8:12.286 | שמו | . |
+| 8:12.287 | אמר |  |
+| 8:12.288 | לי |  |
+| 8:12.289 | כתוב |  |
+| 8:12.290 | בתורתכם |  |
+| 8:12.291 | לא |  |
+| 8:12.292 | תביא |  |
+| 8:12.293 | אתנן |  |
+| 8:12.294 | זוגה |  |
+| 8:12.295 | ומחיר |  |
+| 8:12.296 | כלב |  |
+| 8:12.297 | בית |  |
+| 8:12.298 | ה | ' |
+| 8:12.299 | אלהיך |  |
+| 8:12.300 | לכל |  |
+| 8:12.301 | נדר | . |
+| 8:12.302 | מהו |  |
+| 8:12.303 | לעשות |  |
+| 8:12.304 | ממנו |  |
+| 8:12.305 | בית |  |
+| 8:12.306 | הכסא |  |
+| 8:12.307 | לכהן |  |
+| 8:12.308 | גדול | , |
+| 8:12.309 | ולא |  |
+| 8:12.310 | אמרתי |  |
+| 8:12.311 | לו |  |
+| 8:12.312 | כלום | . |
+| 8:12.313 | אמר |  |
+| 8:12.314 | לי |  |
+| 8:12.315 | כך |  |
+| 8:12.316 | לימדי |  |
+| 8:12.317 | ישוע | ) |
+| 8:12.318 | כי |  |
+| 8:12.319 | מאתנן |  |
+| 8:12.320 | זוגה |  |
+| 8:12.321 | קבצה |  |
+| 8:12.322 | עד |  |
+| 8:12.323 | אתנן |  |
+| 8:12.324 | זוגה |  |
+| 8:12.325 | ישובו | , |
+| 8:12.326 | והנאני |  |
+| 8:12.327 | הדבר | , |
+| 8:12.328 | ועל |  |
+| 8:12.329 | ידי |  |
+| 8:12.330 | זה |  |
+| 8:12.331 | נתפסתי |  |
+| 8:12.332 | למינות |  |
+| 8:12.333 | ועברתי |  |
+| 8:12.334 | על |  |
+| 8:12.335 | מה |  |
+| 8:12.336 | שכתוב |  |
+| 8:12.337 | בתורה |  |
+| 8:12.338 | הרחק |  |
+| 8:12.339 | מעליה |  |
+| 8:12.340 | דרכך |  |
+| 8:12.341 | זו |  |
+| 8:12.342 | מינות | , |
+| 8:12.343 | ואל |  |
+| 8:12.344 | תקרב |  |
+| 8:12.345 | אל |  |
+| 8:12.346 | פתח |  |
+| 8:12.347 | ביתה |  |
+| 8:12.348 | זו |  |
+| 8:12.349 | זנות |  |
+| 8:12.350 | ועד |  |
+| 8:12.351 | כמה |  |
+| 8:12.352 | אמר |  |
+| 8:12.353 | רב |  |
+| 8:12.354 | חסדא |  |
+| 8:12.355 | עד |  |
+| 8:12.356 | ארבע |  |
+| 8:12.357 | אמות |  |
+| 8:12.358 | וכו | '. |
+| 8:12.359 | וכ | ' |
+| 8:12.360 | הרש"א |  |
+| 8:12.361 | הזהיר |  |
+| 8:12.362 | הכתוב |  |
+| 8:12.363 | להרחיק |  |
+| 8:12.364 | כדי |  |
+| 8:12.365 | שלא |  |
+| 8:12.366 | יהנה |  |
+| 8:12.367 | וימשך |  |
+| 8:12.368 | אחריה |  |
+| 8:12.369 | כדקאמר |  |
+| 8:12.370 | והנאני |  |
+| 8:12.371 | הדבר |  |
+| 8:12.372 | ועי"ז |  |
+| 8:12.373 | נתפסתי |  |
+| 8:12.374 | למינות |  |
+| 8:12.375 | ועברתי | . |
+| 8:12.376 | דכששאל |  |
+| 8:12.377 | ממנו |  |
+| 8:12.378 | ולא |  |
+| 8:12.379 | השיב |  |
+| 8:12.380 | לו |  |
+| 8:12.381 | כלום |  |
+| 8:12.382 | היה |  |
+| 8:12.383 | לו |  |
+| 8:12.384 | להרחיק |  |
+| 8:12.385 | ולא |  |
+| 8:12.386 | היה |  |
+| 8:12.387 | לו |  |
+| 8:12.388 | לשמוע |  |
+| 8:12.389 | ממנו |  |
+| 8:12.390 | תשובתו |  |
+| 8:12.391 | עכ"ל | . |
+| 8:12.392 | כדברים |  |
+| 8:12.393 | האלה |  |
+| 8:12.394 | שאירעו |  |
+| 8:12.395 | לר"א |  |
+| 8:12.396 | ע"ה |  |
+| 8:12.397 | אירעו |  |
+| 8:12.398 | לוי |  |
+| 8:12.399 | גם |  |
+| 8:12.400 | אנחנו |  |
+| 8:12.401 | על |  |
+| 8:12.402 | אשר |  |
+| 8:12.403 | לא |  |
+| 8:12.404 | גילינו |  |
+| 8:12.405 | את |  |
+| 8:12.406 | אמונת |  |
+| 8:12.407 | תורתינו |  |
+| 8:12.408 | הקדושה |  |
+| 8:12.409 | ביחוד |  |
+| 8:12.410 | השי"ת |  |
+| 8:12.411 | ועבודתו |  |
+| 8:12.412 | בלי |  |
+| 8:12.413 | שתוף |  |
+| 8:12.414 | וצירוף |  |
+| 8:12.415 | דבר |  |
+| 8:12.416 | אחר |  |
+| 8:12.417 | כאשר |  |
+| 8:12.418 | צונו | , |
+| 8:12.419 | והיינו |  |
+| 8:12.420 | שומעים |  |
+| 8:12.421 | דברי |  |
+| 8:12.422 | מינות |  |
+| 8:12.423 | מאנשים |  |
+| 8:12.424 | שהם |  |
+| 8:12.425 | הולכים |  |
+| 8:12.426 | בעקבות |  |
+| 8:12.427 | הזהר |  |
+| 8:12.428 | והמקובלים |  |
+| 8:12.429 | החדשים |  |
+| 8:12.430 | העובדים |  |
+| 8:12.431 | את |  |
+| 8:12.432 | האלהים |  |
+| 8:12.433 | החדשים |  |
+| 8:12.434 | קצר |  |
+| 8:12.435 | האפים |  |
+| 8:12.436 | וזוגתו |  |
+| 8:12.437 | והוריו |  |
+| 8:12.438 | אבא |  |
+| 8:12.439 | ואימא |  |
+| 8:12.440 | וזקיניו |  |
+| 8:12.441 | אריך |  |
+| 8:12.442 | אנפין |  |
+| 8:12.443 | ועתיקא |  |
+| 8:12.444 | קדישא | , |
+| 8:12.445 | ולא |  |
+| 8:12.446 | דברנו |  |
+| 8:12.447 | להם |  |
+| 8:12.448 | מאומה | , |
+| 8:12.449 | ועל |  |
+| 8:12.450 | ידי |  |
+| 8:12.451 | זה |  |
+| 8:12.452 | נתפשנו |  |
+| 8:12.453 | למינות | ! |
+| 8:12.454 | ואלו |  |
+| 8:12.455 | לא |  |
+| 8:12.456 | בטחנו |  |
+| 8:12.457 | על |  |
+| 8:12.458 | ה | ' |
+| 8:12.459 | אלהינו |  |
+| 8:12.460 | האל |  |
+| 8:12.461 | הגדול |  |
+| 8:12.462 | הגבור |  |
+| 8:12.463 | והנורא |  |
+| 8:12.464 | בין |  |
+| 8:12.465 | יעשה |  |
+| 8:12.466 | גם |  |
+| 8:12.467 | בין |  |
+| 8:12.468 | לא |  |
+| 8:12.469 | יעשה | , |
+| 8:12.470 | כי |  |
+| 8:12.471 | אז |  |
+| 8:12.472 | היו |  |
+| 8:12.473 | מוציאין |  |
+| 8:12.474 | אותנו |  |
+| 8:12.475 | בקולרין |  |
+| 8:12.476 | מבית |  |
+| 8:12.477 | הכלא |  |
+| 8:12.478 | להגלותינו |  |
+| 8:12.479 | אל |  |
+| 8:12.480 | ארץ |  |
+| 8:12.481 | אחרת | , |
+| 8:12.482 | ארץ |  |
+| 8:12.483 | אוכלת |  |
+| 8:12.484 | יושביה |  |
+| 8:12.485 | על |  |
+| 8:12.486 | ידי |  |
+| 8:12.487 | מלשינות |  |
+| 8:12.488 | שקר | . |
+| 8:12.489 | אמנם |  |
+| 8:12.490 | אלף |  |
+| 8:12.491 | אלפים |  |
+| 8:12.492 | תודות |  |
+| 8:12.493 | לאלהינו |  |
+| 8:12.494 | מלכינו |  |
+| 8:12.495 | שהוציא |  |
+| 8:12.496 | אותנו |  |
+| 8:12.497 | מבית |  |
+| 8:12.498 | הכלא |  |
+| 8:12.499 | לשלום |  |
+| 8:12.500 | פעם |  |
+| 8:12.501 | ראשונה |  |
+| 8:12.502 | ושנייה | , |
+| 8:12.503 | והצילנו |  |
+| 8:12.504 | מן |  |
+| 8:12.505 | השלישית |  |
+| 8:12.506 | ולא |  |
+| 8:12.507 | מעדו |  |
+| 8:12.508 | רגלינו |  |
+| 8:12.509 | תלי"ת | . |
+
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+

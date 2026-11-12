@@ -1,0 +1,86 @@
+[
+  {
+    "name": "text/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.1?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "a96ab5944a8a64b2ef1cdc6732d4382f9dd0a1a11d2991870eb7da65a00d0f0b",
+    "bytes": 28667
+  },
+  {
+    "name": "text/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.2?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "dd7ea486dd5704968e4ed5643995865b321303e1e9249c417af417c33c427b95",
+    "bytes": 77914
+  },
+  {
+    "name": "text/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.3?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "e3a55a13b32b14e2d5467f33a71ff6d3d4e6b3aeeab3356188da5aea653e164d",
+    "bytes": 43126
+  },
+  {
+    "name": "text/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.4?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "62261e7b39ee1ad2e6cb1684d0915422936786cdf341cbb935fa307649c0f681",
+    "bytes": 90180
+  },
+  {
+    "name": "text/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.5?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "ba0d3d51d4aebe1258d9216eb69b90910c1f704a4b7ea677e1661d7556d6a173",
+    "bytes": 118464
+  },
+  {
+    "name": "text/06.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.6?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "4d9ae194911ba791fe2a5cc2abc5ee75e853a4eb34b8565ba37e5793a0c0bcbb",
+    "bytes": 126934
+  },
+  {
+    "name": "text/07.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.7?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "d3722c7a54b9a466d3779e26aa6dbb9be057620f7701de57349e0a01cf9db5b9",
+    "bytes": 117955
+  },
+  {
+    "name": "text/08.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.8?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "9e5c5de1370b5ccdaa24e68e176008ca274998338f3d0101d888a6199bd59724",
+    "bytes": 97775
+  },
+  {
+    "name": "text/09.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.9?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "3fe6af943d149387651085984771a3c8b55a25e6bbacac7c4566bf7e904b4bf6",
+    "bytes": 83144
+  },
+  {
+    "name": "text/10.json",
+    "url": "https://www.sefaria.org/api/v3/texts/The_Wars_of_God.10?version=hebrew%7C%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98\u0026return_format=default",
+    "fetched": "2026-11-09",
+    "sha256": "97a686b0bbcab5f2e247211f1fe35a3528d2711f8e0ef4d7989722b9b05244d6",
+    "bytes": 35741
+  },
+  {
+    "name": "witness/yahadut-2014.pdf",
+    "url": "https://www.yahadut.org.il/ZOHAR/MILHAMOT-HASHEM.PDF",
+    "fetched": "2026-11-09",
+    "sha256": "9a8f0599e527df71eaaf4f04a03676ae2580c3b0ea6c89647dc353c576ecca7f",
+    "bytes": 1150775
+  },
+  {
+    "name": "witness/yahadut-2014.txt",
+    "url": "derived: pdftotext -raw witness/yahadut-2014.pdf",
+    "fetched": "2026-11-09",
+    "sha256": "19aa27d7625c43a1fb013449ddf358d7c62dc057b9772e09227a3e608ac15ea7",
+    "bytes": 1350292
+  }
+]
